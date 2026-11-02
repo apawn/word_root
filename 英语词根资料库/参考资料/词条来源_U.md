@@ -2,61 +2,55 @@
 
 [返回来源目录](README.md)
 
-## ubiquitin
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ubiquitin#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
-
 ## ubiquitous
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ubiquitous#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> In Christianity, Hinduism, and Judaism, God is ubiquitous.
+> Wireless headphones have become ubiquitous on the train.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
-## uglies
+## ubiquity
 
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/uglies#English)
-- 中文释义资料：ECDICT
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ubiquity#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The ubiquity of smartphones has changed how people navigate cities.
+
+例句来源：逐词编写的学习例句
+
+## ugh
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ugh#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Ugh, this bin smells awful.
+
+例句来源：逐词编写的学习例句
 
 ## ugliness
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ugliness#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> There was some ugliness at the council meeting.
+> The renovation softened the ugliness of the old concrete block.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## ugly
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ugly#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> With all this competition, expect things to get ugly.
+> The meeting turned ugly after the accusation.
 
-例句来源：Wiktionary 用例
-
-## ulceration
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ulceration#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
-
-## ulcerative
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ulcerative#English)
-- 中文释义资料：ECDICT
-
-> Inflammatory bowel diseases, such as Crohn’s disease and ulcerative colitis, are extremely painful and can lead to colorectal cancer.
-
-例句来源：[Tatoeba；作者：Cangarejo；句子 #11411274；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/11411274)
+例句来源：逐词编写的学习例句
 
 ## uliginous
 
@@ -72,6 +66,16 @@
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/Ulotrichi#English)
 
+## ulterior
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ulterior#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She offered to help without any ulterior motive.
+
+例句来源：逐词编写的学习例句
+
 ## ultimate
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ultimate#English)
@@ -85,12 +89,8 @@
 ## ultimately
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ultimately#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Cognate to Gottscheerish boßər, bàsser. Ultimately cognate to standard High German Wasser.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The small design flaw ultimately caused the system to fail.
 
@@ -106,15 +106,11 @@
 
 例句来源：逐词编写的学习例句
 
-## ultrabook
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ultrabook#English)
-
 ## ultrafast
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ultrafast#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The team used an ultrafast camera to study the splash.
 
@@ -123,16 +119,12 @@
 ## ultralight
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ultralight#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > She packed an ultralight tent for the hike.
 
 例句来源：逐词编写的学习例句
-
-> Tom was severely injured in an ultralight flying accident.
-
-例句来源：[Tatoeba；作者：Eccles17；句子 #6890286；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/6890286)
 
 ## ultramarine
 
@@ -177,12 +169,8 @@
 ## ultrasonic
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ultrasonic#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Scientists at the Oak Ridge National Laboratory have invented an ultrasonic dryer that can dry clothes without heating them.
-
-例句来源：[Tatoeba；作者：Hybrid；句子 #6028328；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/6028328)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The sensor uses ultrasonic waves to measure distance.
 
@@ -201,18 +189,12 @@
 ## ultrathin
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ultrathin#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The sensor is covered with an ultrathin layer of metal.
 
 例句来源：逐词编写的学习例句
-
-## ultraviolence
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ultraviolence#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
 
 ## ultraviolet
 
@@ -247,12 +229,8 @@
 ## umbilical
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/umbilical#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> A developing embryo connects to the placenta via the umbilical cord.
-
-例句来源：[Tatoeba；作者：Vanilla；句子 #3660559；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/3660559)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The model shows the umbilical cord connecting the fetus to the placenta.
 
@@ -301,32 +279,22 @@
 ## umpteen
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/umpteen#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> She's taking umpteen friends with her to the party.
+> I have told you umpteen times.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## umpteenth
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/umpteenth#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> That's the umpteenth time I've had to tell him not to swear in front of the children.
+> For the umpteenth time, I cannot find my keys.
 
-例句来源：Wiktionary 用例
-
-## unabashedly
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unabashedly#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
-
-> Unabashedly, he asked for more.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adv:00005453](https://wordnet.princeton.edu/)
+例句来源：逐词编写的学习例句
 
 ## unable
 
@@ -351,21 +319,12 @@
 ## unacceptable
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unacceptable#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The following use of `access' was judged unacceptable by a panel of linguists; `You can access your cash at any of 300 automatic tellers'.
+> The delay was unacceptable to the customers.
 
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adj:02298766](https://wordnet.princeton.edu/)
-
-## unacceptably
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unacceptably#English)
-- 中文释义资料：ECDICT
-
-> The levels of lead in marine hull paints are still unacceptably high.
-
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## unaccompanied
 
@@ -380,16 +339,12 @@
 ## unaccountable
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unaccountable#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > An unaccountable error changed the order of the pages.
 
 例句来源：逐词编写的学习例句
-
-> Perceptible only as unaccountable influences that hinder progress.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adj:00940108](https://wordnet.princeton.edu/)
 
 ## unaccountably
 
@@ -424,8 +379,8 @@
 ## unaffiliated
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unaffiliated#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > She stood as a candidate unaffiliated with any party.
 
@@ -434,12 +389,12 @@
 ## unaffordable
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unaffordable#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Several retailers left the mall due to increasingly unaffordable rent.
+> The larger apartment was unaffordable for them.
 
-例句来源：[Tatoeba；作者：verdulo；句子 #2764395；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/2764395)
+例句来源：逐词编写的学习例句
 
 ## unaided
 
@@ -461,31 +416,21 @@
 
 例句来源：逐词编写的学习例句
 
-## unambiguously
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unambiguously#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
-
-> She told him unambiguously to leave, yet he failed to leave.
-
-例句来源：Wiktionary 用例
-
 ## unambitious
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unambitious#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> I wonder if Tom is still unambitious.
+> The committee criticised the target as unambitious.
 
-例句来源：[Tatoeba；作者：CK；句子 #6343336；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/6343336)
+例句来源：逐词编写的学习例句
 
 ## unanimity
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unanimity#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The committee failed to reach unanimity.
 
@@ -505,11 +450,7 @@
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unanimously#English)
 - 发音资料：核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> The jury decided unanimously to convict the defendant.
-
-例句来源：Wiktionary 用例
+- 中文释义资料：逐词编写的中文释义
 
 > The members voted unanimously to extend the exhibition.
 
@@ -568,12 +509,8 @@
 ## unarmed
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unarmed#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> An unarmed jellyfish would never capture prey.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The guards were unarmed and wore ordinary uniforms.
 
@@ -588,16 +525,6 @@
 > The minus sign acts as a unary operator in this expression.
 
 例句来源：逐词编写的学习例句
-
-## unashamedly
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unashamedly#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
-
-> While I'm unashamedly a conservative, I'm also unashamed to admit that science has proven these things.
-
-例句来源：[Tatoeba；作者：Cangarejo；句子 #11820287；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/11820287)
 
 ## unassailable
 
@@ -642,12 +569,8 @@
 ## unattainable
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unattainable#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> I discovered a sense of peace that I had previously thought unattainable.
-
-例句来源：[Tatoeba；作者：Nuel；句子 #13558820；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/13558820)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Perfect accuracy is unattainable in this measurement.
 
@@ -666,12 +589,12 @@
 ## unattractive
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unattractive#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Being unemployed is a most unattractive prospect.
+> The extra fees made the offer unattractive.
 
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adj:00171447](https://wordnet.princeton.edu/)
+例句来源：逐词编写的学习例句
 
 ## unauthenticated
 
@@ -686,22 +609,22 @@
 ## unavailability
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unavailability#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The meeting was postponed because of the speaker’s unavailability.
+
+例句来源：逐词编写的学习例句
 
 ## unavailable
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unavailable#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The booking system is temporarily unavailable.
 
 例句来源：逐词编写的学习例句
-
-> This product is unavailable at the moment, but we hope to order more by next week.
-
-例句来源：Wiktionary 用例
 
 ## unavailing
 
@@ -713,184 +636,195 @@
 
 例句来源：逐词编写的学习例句
 
-## unavoidably
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unavoidably#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
-
-> Tom has been unavoidably detained in Boston.
-
-例句来源：[Tatoeba；作者：CK；句子 #3148328；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/3148328)
-
 ## unaware
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unaware#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Luckily, she was unaware that I'd spent the last five years in prison.
+> He was unaware of the change until Monday.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## unawares
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unawares#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Your question catches/takes me unawares, I don't know the answer right now...
+> The sudden question caught me unawares.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## unbalance
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unbalance#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> If you put that weight on the edge of the tray, it will unbalance it and dump all of the dishes on the floor.
+> Putting all the boxes on one side unbalanced the cart.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## unbalanced
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unbalanced#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> An unbalanced load made the machine shake.
+
+例句来源：逐词编写的学习例句
+
+## unbearable
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unbearable#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The heat in the attic became unbearable by noon.
+
+例句来源：逐词编写的学习例句
 
 ## unbearably
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unbearably#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> It was unbearably hot in the room.
+> The bus was unbearably crowded.
 
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adv:00483963](https://wordnet.princeton.edu/)
+例句来源：逐词编写的学习例句
 
 ## unbeatable
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unbeatable#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> At the moment you are unbeatable. Even the others notice.
+> At their best, the team seemed unbeatable.
 
-例句来源：[Tatoeba；作者：alvations；句子 #5786035；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/5786035)
+例句来源：逐词编写的学习例句
 
-## unbecoming
+## unbeaten
 
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unbecoming#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unbeaten#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> He was accused of conduct unbecoming an officer and a gentleman.
+> The team remained unbeaten throughout the season.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## unbelief
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unbelief#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> And Jesus wondered because of their unbelief, and he went through the villages round about teaching.
+> The essay explores the boundary between faith and unbelief.
 
-例句来源：[Tatoeba；作者：Reonaato；句子 #6640301；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/6640301)
+例句来源：逐词编写的学习例句
+
+## unbelievable
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unbelievable#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Her performance was unbelievable.
+
+例句来源：逐词编写的学习例句
 
 ## unbelievably
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unbelievably#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Unbelievably, Rudy saved the man's life but got sued for breaking two of his ribs.
+> The train was unbelievably fast.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## unbeliever
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unbeliever#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Are you a total unbeliever or do you believe in Chance?
+> The book addresses believers and unbelievers alike.
 
-例句来源：[Tatoeba；作者：carlosalberto；句子 #10984461；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/10984461)
-
-## unbending
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unbending#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
+例句来源：逐词编写的学习例句
 
 ## unblock
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unblock#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> We need a plumber to unblock the sink.
+> They used a tool to unblock the drain.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## unborn
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unborn#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Inheritance law allows property to be left to the unborn.
+> They had already chosen a name for their unborn child.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## unbothered
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unbothered#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She seemed unbothered by the criticism.
+
+例句来源：逐词编写的学习例句
 
 ## unbox
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unbox#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-## unboxing
+> She filmed herself unboxing the new camera.
 
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unboxing#English)
-
-> Tom posted an unboxing video, but it's extremely boring.
-
-例句来源：[Tatoeba；作者：Spamster；句子 #1702453；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/1702453)
+例句来源：逐词编写的学习例句
 
 ## unbreakable
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unbreakable#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> the unbreakable spirit of the rebels
+> They formed an unbreakable bond during the expedition.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## unbroken
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unbroken#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> After the vase had fallen down the flight of stairs we were amazed to find it still unbroken.
+> The vase survived the journey unbroken.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## unbutton
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unbutton#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Do you want me to unbutton your shirt?
+> He unbuttoned his coat as he entered the warm room.
 
-例句来源：[Tatoeba；作者：Nylez；句子 #10049093；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/10049093)
-
-## uncannily
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/uncannily#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
-
-> Later, while a diplomat, he published an uncannily accurate map of the Gulf Stream, which resulted in far more efficient international shipping and trade.
-
-例句来源：[Tatoeba；作者：Cangarejo；句子 #11354854；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/11354854)
+例句来源：逐词编写的学习例句
 
 ## uncanny
 
@@ -905,8 +839,12 @@
 ## uncapped
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/uncapped#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The pen had been left uncapped on the desk.
+
+例句来源：逐词编写的学习例句
 
 ## uncensored
 
@@ -917,16 +855,6 @@
 > The museum screened an uncensored version of the documentary.
 
 例句来源：逐词编写的学习例句
-
-## unceremoniously
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unceremoniously#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
-
-> Encountering difficulties with the parcels’ unhelpful recipient, the deliveryman unceremoniously dumped the packages in the street outside the door.
-
-例句来源：Wiktionary 用例
 
 ## uncertain
 
@@ -941,12 +869,8 @@
 ## uncertainty
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/uncertainty#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Some uncertainties remain; an especially salient uncertainty is the timing of their return trip.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The announcement ended weeks of uncertainty.
 
@@ -962,30 +886,65 @@
 
 例句来源：逐词编写的学习例句
 
+## unchangeable
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unchangeable#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The past is unchangeable, but our next decision is not.
+
+例句来源：逐词编写的学习例句
+
+## unchanged
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unchanged#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The opening hours remain unchanged.
+
+例句来源：逐词编写的学习例句
+
 ## uncharacteristic
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/uncharacteristic#English)
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> A book uncharacteristic of its author.
+> The careless error was uncharacteristic of her.
 
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adj:00357983](https://wordnet.princeton.edu/)
+例句来源：逐词编写的学习例句
 
 ## uncharitable
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/uncharitable#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> It was an uncharitable remark about someone he barely knew.
+
+例句来源：逐词编写的学习例句
+
+## uncharted
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/uncharted#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The project took us into uncharted territory.
+
+例句来源：逐词编写的学习例句
 
 ## uncheck
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/uncheck#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Uncheck the “save my password” box.
+> Uncheck the box if you do not want email updates.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## unciform
 
@@ -1052,22 +1011,22 @@
 ## uncle
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/uncle#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> This is the TV station where my uncle works as an announcer.
+> My uncle is my mother’s younger brother.
 
-例句来源：[Tatoeba；作者：CK；句子 #61641；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/61641)
+例句来源：逐词编写的学习例句
 
 ## unclean
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unclean#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> And the swine...is unclean to you.
+> The inspection found unclean conditions in the storeroom.
 
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adj:00427786](https://wordnet.princeton.edu/)
+例句来源：逐词编写的学习例句
 
 ## unclear
 
@@ -1076,6 +1035,16 @@
 - 中文释义资料：逐词编写的中文释义
 
 > It is still unclear why the meeting was cancelled.
+
+例句来源：逐词编写的学习例句
+
+## uncles
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/uncles#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Two of my uncles came to help us move.
 
 例句来源：逐词编写的学习例句
 
@@ -1092,26 +1061,12 @@
 ## uncomfortable
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/uncomfortable#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> It was clear that the film's apparent celebration of psychopathy made many audience members uncomfortable.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The narrow bench became uncomfortable after a few minutes.
 
 例句来源：逐词编写的学习例句
-
-## uncomfortably
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/uncomfortably#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
-
-> While not experiencing high fevers, she said, her body gets uncomfortably warm.
-
-例句来源：[Tatoeba；作者：Hybrid；句子 #8642132；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/8642132)
 
 ## uncommitted
 
@@ -1126,22 +1081,12 @@
 ## uncommon
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/uncommon#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Bald eagles are an uncommon sighting in this state.
+> It is uncommon to see snow here in April.
 
-例句来源：Wiktionary 用例
-
-## uncommonly
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/uncommonly#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
-
-> Not uncommonly, I find that I have arrived too late to catch my train.
-
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## uncompensated
 
@@ -1156,8 +1101,12 @@
 ## uncompetitive
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/uncompetitive#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> High costs made their products uncompetitive.
+
+例句来源：逐词编写的学习例句
 
 ## unconcealed
 
@@ -1182,12 +1131,8 @@
 ## unconcerned
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unconcerned#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> She is completely unconcerned about the upcoming exams.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > She seemed unconcerned about the short delay.
 
@@ -1196,36 +1141,32 @@
 ## unconditional
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unconditional#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > She offered him unconditional support.
 
 例句来源：逐词编写的学习例句
 
-> We demand your unconditional surrender.
-
-例句来源：Wiktionary 用例
-
 ## unconditionally
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unconditionally#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> He accepted the offer unconditionally.
+> Her parents supported her unconditionally.
 
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adv:00292805](https://wordnet.princeton.edu/)
+例句来源：逐词编写的学习例句
 
 ## unconnected
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unconnected#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The light wouldn't work because the cable was unconnected.
+> The two complaints were unconnected.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## unconquered
 
@@ -1240,12 +1181,8 @@
 ## unconscious
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unconscious#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> After the anesthetist administered the general anesthetic the patient was unconscious.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The passenger was unconscious when help arrived.
 
@@ -1254,12 +1191,8 @@
 ## unconsciously
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unconsciously#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> I end up unconsciously trying to get fit as summer draws near.
-
-例句来源：[Tatoeba；作者：CK；句子 #256456；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/256456)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > She unconsciously copied his posture.
 
@@ -1268,12 +1201,8 @@
 ## unconsciousness
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unconsciousness#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> I was roused from unconsciousness by the alarm clock.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The report records a brief period of unconsciousness.
 
@@ -1282,21 +1211,12 @@
 ## unconstitutional
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unconstitutional#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> That recently passed political bill has been declared unconstitutional.
+> The court ruled that the restriction was unconstitutional.
 
-例句来源：Wiktionary 用例
-
-## unconstitutionally
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unconstitutionally#English)
-- 中文释义资料：ECDICT
-
-> The president acted unconstitutionally.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adv:00122273](https://wordnet.princeton.edu/)
+例句来源：逐词编写的学习例句
 
 ## unconstrained
 
@@ -1331,16 +1251,12 @@
 ## uncontrollably
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/uncontrollably#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > He began laughing uncontrollably at the mistake.
 
 例句来源：逐词编写的学习例句
-
-> When Yanni was informed about Skura's death, he started yelling uncontrollably.
-
-例句来源：[Tatoeba；作者：Amastan；句子 #9821938；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/9821938)
 
 ## uncontrolled
 
@@ -1355,21 +1271,18 @@
 ## uncontroversial
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/uncontroversial#English)
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Throwing food at people is a very old, harmless, and uncontroversial form of protest.
+> The first part of the proposal was relatively uncontroversial.
 
-例句来源：[Tatoeba；作者：shekitten；句子 #11669512；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/11669512)
+例句来源：逐词编写的学习例句
 
 ## unconventional
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unconventional#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Her unconventional dress and hair style.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adj:00606602](https://wordnet.princeton.edu/)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > She found an unconventional way to teach fractions.
 
@@ -1398,26 +1311,22 @@
 ## uncooked
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/uncooked#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Carefully fold in the grated Gruyère, the uncooked ham and the broccoli.
+> The bag contains two kilograms of uncooked rice.
 
-例句来源：[Tatoeba；作者：sundown；句子 #12124934；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/12124934)
+例句来源：逐词编写的学习例句
 
 ## uncooperative
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/uncooperative#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The tenant remained uncooperative about arranging access for repairs.
 
 例句来源：逐词编写的学习例句
-
-> When Yanni was questioned, he was very uncooperative.
-
-例句来源：[Tatoeba；作者：Amastan；句子 #9787587；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/9787587)
 
 ## uncoordinated
 
@@ -1452,16 +1361,22 @@
 ## uncover
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/uncover#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > She uncovered the painting for the visitors.
 
 例句来源：逐词编写的学习例句
 
-> The murderer has finally been uncovered.
+## uncovered
 
-例句来源：Wiktionary 用例
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/uncovered#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The research uncovered several letters that had been forgotten.
+
+例句来源：逐词编写的学习例句
 
 ## uncritical
 
@@ -1476,16 +1391,12 @@
 ## uncritically
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/uncritically#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Do not repeat the claim uncritically just because it appears in a chart.
 
 例句来源：逐词编写的学习例句
-
-> He accepted her decisions uncritically.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adv:00184909](https://wordnet.princeton.edu/)
 
 ## uncrowned
 
@@ -1500,12 +1411,12 @@
 ## uncut
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/uncut#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> A book with its leaves still uncut.
+> The path disappeared into the uncut grass.
 
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adj:00663104](https://wordnet.princeton.edu/)
+例句来源：逐词编写的学习例句
 
 ## undamaged
 
@@ -1530,12 +1441,12 @@
 ## undead
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/undead#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> In the zombie movie, an army of the undead accosted some unsuspecting teenagers.
+> The castle is guarded by an army of the undead.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## undecimal
 
@@ -1580,30 +1491,32 @@
 ## undeniable
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/undeniable#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Her contribution to the project is undeniable.
 
 例句来源：逐词编写的学习例句
 
-> Some believe that there is undeniable evidence of UFOs.
-
-例句来源：Wiktionary 用例
-
 ## undeniably
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/undeniably#English)
 - 发音资料：核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 中文释义资料：逐词编写的中文释义
 
 > The design is undeniably elegant, but it is difficult to build.
 
 例句来源：逐词编写的学习例句
 
-> The third movie was undeniably the best.
+## under
 
-例句来源：Wiktionary 用例
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/under#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The cat was sleeping under the table.
+
+例句来源：逐词编写的学习例句
 
 ## underachieve
 
@@ -1629,25 +1542,17 @@
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/underachiever#English)
 - 发音资料：核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 中文释义资料：逐词编写的中文释义
 
 > The report described him as an underachiever in mathematics.
 
 例句来源：逐词编写的学习例句
 
-> Tom has been an underachiever all his life.
-
-例句来源：[Tatoeba；作者：soliloquist；句子 #6896108；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/6896108)
-
 ## underage
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/underage#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> The bar was fined for serving alcohol to an underage customer.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The club checked identification to keep underage applicants out of the adult competition.
 
@@ -1656,56 +1561,88 @@
 ## underarm
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/underarm#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> underarm deodorant
+> The shirt has extra fabric in the underarm area.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## underbelly
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/underbelly#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The area by the canal is the underbelly of town – not something you’d see in the guidebooks.
+> The fish had a pale underbelly.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## underbid
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/underbid#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The smaller firm managed to underbid its larger rival.
+
+例句来源：逐词编写的学习例句
+
+## underbidding
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/underbidding#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The two firms kept underbidding each other.
+
+例句来源：逐词编写的学习例句
+
+## underbids
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/underbids#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> That contractor regularly underbids the competition.
+
+例句来源：逐词编写的学习例句
 
 ## underbrush
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/underbrush#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Fyodor heard the hyena moving through the underbrush.
+> The hikers pushed through dense underbrush.
 
-例句来源：[Tatoeba；作者：Amastan；句子 #11819059；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/11819059)
+例句来源：逐词编写的学习例句
 
 ## undercard
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/undercard#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The eight on the turn was another undercard to her pair of nines
+> The young boxer fought on the undercard.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## undercarriage
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/undercarriage#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The aircraft lowered its undercarriage before landing.
+
+例句来源：逐词编写的学习例句
 
 ## underclass
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/underclass#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Capitalism does not allow everyone to succeed; it requires an underclass.
-
-例句来源：[Tatoeba；作者：shekitten；句子 #12099284；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/12099284)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The historian examines how the term underclass was used in public debate.
 
@@ -1714,36 +1651,28 @@
 ## undercoat
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/undercoat#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Whether you first paint this wood with primer or undercoat, when you add this topcoat, you'll end up with the same result.
+> The dog has a dense undercoat beneath its longer fur.
 
-例句来源：[Tatoeba；作者：sundown；句子 #11555315；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/11555315)
+例句来源：逐词编写的学习例句
 
 ## undercover
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/undercover#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The film is about an undercover officer.
 
 例句来源：逐词编写的学习例句
 
-> Tom spent three years in the Boston working as an undercover policeman.
-
-例句来源：[Tatoeba；作者：CK；句子 #3023357；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/3023357)
-
 ## undercurrent
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/undercurrent#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> The meeting was pervaded with an undercurrent of dread, as the managers tried not to admit that firings were looming.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > There was an undercurrent of tension in the room.
 
@@ -1752,122 +1681,138 @@
 ## undercut
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/undercut#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> These challenges could undercut efforts by many African countries to increase agricultural production.
+> The new shop undercut its competitors on price.
 
-例句来源：[Tatoeba；作者：Cangarejo；句子 #11264237；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/11264237)
+例句来源：逐词编写的学习例句
+
+## underdeveloped
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/underdeveloped#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The story has an interesting plot but underdeveloped characters.
+
+例句来源：逐词编写的学习例句
 
 ## underdevelopment
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/underdevelopment#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> How is Algeria fighting its way out of underdevelopment?
+> The report examines the underdevelopment of rural transport networks.
 
-例句来源：[Tatoeba；作者：Amastan；句子 #9725373；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/9725373)
+例句来源：逐词编写的学习例句
 
 ## underdog
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/underdog#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> They were the underdogs in the basketball competition.
+> The team entered the final as the underdog.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## underemployed
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/underemployed#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> I found myself underemployed when the company downgraded me from full-time to part-time.
+> Many qualified workers felt underemployed.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## underemployment
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/underemployment#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The survey examined underemployment among graduates.
+
+例句来源：逐词编写的学习例句
 
 ## underestimate
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/underestimate#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Don't underestimate the danger of such a raft trip on this river.
+> We underestimated how long the work would take.
 
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset verb:00671335](https://wordnet.princeton.edu/)
+例句来源：逐词编写的学习例句
 
 ## underestimation
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/underestimation#English)
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The delay resulted from an underestimation of the work involved.
+
+例句来源：逐词编写的学习例句
 
 ## underfloor
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/underfloor#English)
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> This photo shows underfloor heating during its installation.
+> The apartment has underfloor heating.
 
-例句来源：[Tatoeba；作者：sundown；句子 #11066185；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/11066185)
+例句来源：逐词编写的学习例句
 
 ## underfoot
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/underfoot#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> I'll kill you! Knock your block off and grind you underfoot! You shithead! Die!
+> Dry leaves crunched underfoot.
 
-例句来源：[Tatoeba；作者：fcbond；句子 #329537；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/329537)
+例句来源：逐词编写的学习例句
 
 ## underfunded
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/underfunded#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The museum had been underfunded for years.
+
+例句来源：逐词编写的学习例句
 
 ## undergarment
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/undergarment#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Santiago wanted to sleep with no undergarment.
+> The drawer contained neatly folded undergarments.
 
-例句来源：[Tatoeba；作者：Amastan；句子 #11793629；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/11793629)
+例句来源：逐词编写的学习例句
 
 ## undergo
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/undergo#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > All new employees undergo safety training.
 
 例句来源：逐词编写的学习例句
 
-> She had to undergo surgery because of her broken leg.
-
-例句来源：Wiktionary 用例
-
 ## undergraduate
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/undergraduate#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> After completing my undergraduate studies, I embarked on a career in publishing.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > She is an undergraduate studying chemistry.
 
@@ -1876,136 +1821,138 @@
 ## underground
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/underground#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> There is an underground tunnel that takes you across the river.
+> The cables run underground beneath the road.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## undergrowth
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/undergrowth#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The forest floor was covered with dense undergrowth.
+> The path disappeared into dense undergrowth.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## underhand
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/underhand#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Your underhand should be entirely under the quilt.
+> She tossed the ball underhand.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## underhanded
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/underhanded#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> His underhanded trick backfired and he was disqualified.
+> The team rejected underhanded tactics.
 
-例句来源：Wiktionary 用例
-
-## underhill
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/underhill#English)
-
-> There's an underhill lane you can walk along there.
-
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## underinsured
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/underinsured#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The report examines the problems faced by underinsured households.
+
+例句来源：逐词编写的学习例句
 
 ## underlay
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/underlay#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Underlay the boards with joists.
+> We replaced the worn carpet underlay.
 
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset verb:01183424](https://wordnet.princeton.edu/)
+例句来源：逐词编写的学习例句
 
 ## underlie
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/underlie#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> A stratum of clay underlies the surface gravel.
+> Several assumptions underlie the model.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## underline
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/underline#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> underline the important words in the text
+> Underline the words you do not understand.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## underling
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/underling#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> You're just an underling. Know your place!
+> The manager treated everyone else as underlings.
 
-例句来源：[Tatoeba；作者：FeuDRenais2；句子 #863627；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/863627)
+例句来源：逐词编写的学习例句
 
 ## underlining
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/underlining#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> My sister has the habit of underlining words she doesn't know while reading.
+> The teacher used underlining to highlight key words.
 
-例句来源：[Tatoeba；作者：XenoKat；句子 #4401965；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/4401965)
+例句来源：逐词编写的学习例句
+
+## underlying
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/underlying#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> We need to identify the underlying cause of the delay.
+
+例句来源：逐词编写的学习例句
 
 ## undermine
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/undermine#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Billy's cruel comments undermine the efforts of non-native speakers to communicate effectively.
+> Repeated delays undermined public confidence in the project.
 
-例句来源：[Tatoeba；作者：Amastan；句子 #11768648；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/11768648)
+例句来源：逐词编写的学习例句
 
 ## underneath
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/underneath#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The underneath part is harder to reach.
+> The key was hidden underneath a flowerpot.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## undernourished
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/undernourished#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> I found him undernourished and emaciated.
-
-例句来源：[Tatoeba；作者：Miktsoanit；句子 #12227289；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/12227289)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The shelter took in an undernourished kitten.
 
@@ -2014,43 +1961,48 @@
 ## underpaid
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/underpaid#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> I am underpaid and overworked.
+> Many staff felt overworked and underpaid.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## underpants
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/underpants#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Rabinovich, you either put on some underpants or take off the cross!
+> He packed two pairs of underpants for the trip.
 
-例句来源：[Tatoeba；作者：Ivanovb；句子 #8313523；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/8313523)
+例句来源：逐词编写的学习例句
 
 ## underpass
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/underpass#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Tom was lying on a cardboard in an underpass, looking shabby.
+> The underpass connects the two sides of the busy road.
 
-例句来源：[Tatoeba；作者：maaster；句子 #10322595；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/10322595)
+例句来源：逐词编写的学习例句
 
 ## underpayment
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/underpayment#English)
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The error resulted in an underpayment of wages.
+
+例句来源：逐词编写的学习例句
 
 ## underperform
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/underperform#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The device underperformed in cold conditions.
 
@@ -2059,262 +2011,278 @@
 ## underperformance
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/underperformance#English)
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> While celebrating girls' achievements is important, it's equally important to address the root causes of boys' underperformance.
+> The review investigated the reasons for the team’s underperformance.
 
-例句来源：[Tatoeba；作者：robingaspi；句子 #12536880；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/12536880)
+例句来源：逐词编写的学习例句
 
 ## underpin
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/underpin#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> You should underpin the mine roof to prevent further collapse.
+> Several studies underpin the theory.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## underpowered
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/underpowered#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Wizards are underpowered even though they start off with two magic spells.
+> The car felt underpowered on steep hills.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## underprivileged
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/underprivileged#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The project provides books to underprivileged children.
 
 例句来源：逐词编写的学习例句
 
-> The underprivileged beggar was not eligible for financial aid.
-
-例句来源：[Tatoeba；作者：megamanenm；句子 #9762869；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/9762869)
-
 ## underrate
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/underrate#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> There is no duty we so much underrate as the duty of being happy.
+> Do not underrate the importance of a clear plan.
 
-例句来源：[Tatoeba；作者：Scott；句子 #906653；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/906653)
+例句来源：逐词编写的学习例句
 
 ## underrated
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/underrated#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Gotta say, a water pitcher is an underrated and underused option these days.
+> She is an underrated writer with a distinctive voice.
 
-例句来源：[Tatoeba；作者：kiryopi；句子 #12993262；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/12993262)
+例句来源：逐词编写的学习例句
 
 ## underrepresented
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/underrepresented#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Black women and women of color have long been underrepresented in elected office.
+> Rural communities were underrepresented in the survey.
 
-例句来源：[Tatoeba；作者：rul；句子 #12818061；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/12818061)
+例句来源：逐词编写的学习例句
 
 ## underscore
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/underscore#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> I wish to underscore the importance of proper formatting.
+> The mistake underscores the need for clearer instructions.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## undersea
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/undersea#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> A tsunami is a series of waves caused by earthquakes or undersea volcanic eruptions.
+> An undersea cable connects the two islands.
 
-例句来源：[Tatoeba；作者：Hybrid；句子 #6709401；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/6709401)
-
-## undersecretary
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/undersecretary#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+例句来源：逐词编写的学习例句
 
 ## underserved
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/underserved#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Many families who live paycheck-to-paycheck are currently underserved by the financial services industry.
+> The mobile library visits underserved villages.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## undershirt
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/undershirt#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> He put on his undershirt inside out.
+> He wore a cotton undershirt beneath his uniform.
 
-例句来源：[Tatoeba；作者：CK；句子 #302444；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/302444)
+例句来源：逐词编写的学习例句
 
 ## underside
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/underside#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> A spider can produce a silky substance from tiny openings on its underside.
+> The label is on the underside of the box.
 
-例句来源：[Tatoeba；作者：CM；句子 #62964；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/62964)
-
-## undersigned
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/undersigned#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
-
-> we the undersigned
-
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## undersized
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/undersized#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The undersized container could not hold all the tools.
+
+例句来源：逐词编写的学习例句
 
 ## understaffed
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/understaffed#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Overcrowded and understaffed hospitals.
+> The restaurant was understaffed on Saturday night.
 
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adj:00052431](https://wordnet.princeton.edu/)
+例句来源：逐词编写的学习例句
 
 ## understand
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/understand#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> I understand that company policy says I can't get a refund, but can you make an exception?
+> I understand the words, but not the joke.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## understandable
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/understandable#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> I think that it's completely understandable if she turns down his offer.
+> The instructions are clear and understandable.
 
-例句来源：[Tatoeba；作者：FeuDRenais；句子 #497996；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/497996)
+例句来源：逐词编写的学习例句
 
 ## understandably
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/understandably#English)
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> When presenting in front of the class, take care to speak clearly and understandably.
+> She was understandably upset when the trip was cancelled.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## understanding
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/understanding#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> According to my understanding, the situation is quite perilous. I wonder if you see it this way, too.
+> The course gave me a better understanding of the subject.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## understands
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/understands#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She understands the problem clearly.
+
+例句来源：逐词编写的学习例句
 
 ## understate
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/understate#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Calling the repair difficult would understate the problem.
 
 例句来源：逐词编写的学习例句
 
-> To call this decision a calculated bet understates the risk; it is a Hail Mary pass.
-
-例句来源：Wiktionary 用例
-
 ## understated
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/understated#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The room is pleasant and understated.
+> The room has an understated elegance.
 
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adj:02393220](https://wordnet.princeton.edu/)
+例句来源：逐词编写的学习例句
 
 ## understatement
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/understatement#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Now that's an understatement.
+> Calling the journey difficult would be an understatement.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## understeer
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/understeer#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> FWD vehicles have the tendency to understeer.
+> The test driver reported understeer on the bend.
 
-例句来源：[Tatoeba；作者：MethodGT；句子 #2530100；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/2530100)
+例句来源：逐词编写的学习例句
+
+## understood
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/understood#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> I understood the explanation after seeing the example.
+
+例句来源：逐词编写的学习例句
+
+## understorey
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/understorey#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The woodland has a dense understorey of shrubs.
+
+例句来源：逐词编写的学习例句
 
 ## understory
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/understory#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Young trees grew in the forest understory.
+
+例句来源：逐词编写的学习例句
 
 ## understudied
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/understudied#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The long-term effects remain understudied.
+
+例句来源：逐词编写的学习例句
 
 ## understudy
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/understudy#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> She was such a big star that she wouldn't allow an understudy.
-
-例句来源：[Tatoeba；作者：XY；句子 #8273204；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/8273204)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The understudy took over when the lead actor fell ill.
 
@@ -2333,26 +2301,32 @@
 ## undertake
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/undertake#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> It requires a very unusual mind to undertake the analysis of the obvious.
-
-例句来源：[Tatoeba；作者：tijlan；句子 #2347496；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/2347496)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The team will undertake a detailed study of the site.
+
+例句来源：逐词编写的学习例句
+
+## undertaken
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/undertaken#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The team has undertaken a detailed study.
 
 例句来源：逐词编写的学习例句
 
 ## undertaker
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/undertaker#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> I would hate to work as an undertaker and be around dead bodies all day.
+> The family contacted a local undertaker to arrange the funeral.
 
-例句来源：[Tatoeba；作者：Missy\_Hissy；句子 #9123944；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/9123944)
+例句来源：逐词编写的学习例句
 
 ## undertaking
 
@@ -2367,12 +2341,8 @@
 ## undertone
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/undertone#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> His warm undertone means that he can pull of gold jewlery.
-
-例句来源：[Tatoeba；作者：letsgolanguages；句子 #11535808；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/11535808)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > They spoke in undertones while the lecture continued.
 
@@ -2381,32 +2351,28 @@
 ## undertow
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/undertow#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> A strong undertow may sweep a returning swimmer off their feet but it does not carry them far from the shore.
+> The textbook explains the undertow beneath breaking waves.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## underutilized
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/underutilized#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Software-defined radios like cognitive radio use artificial intelligence to employ underutilized portions of the electromagnetic spectrum without human intervention.
+> The report identified several underutilized buildings.
 
-例句来源：[Tatoeba；作者：Hybrid；句子 #6551447；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/6551447)
+例句来源：逐词编写的学习例句
 
 ## undervalue
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/undervalue#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Does Algeria need to undervalue its exchange rate?
-
-例句来源：[Tatoeba；作者：Amastan；句子 #10118576；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/10118576)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The team should not undervalue the work of its support staff.
 
@@ -2415,100 +2381,92 @@
 ## underwater
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/underwater#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Care must be taken not to underwater houseplants in the summer.
+> The camera can take pictures underwater.
 
-例句来源：Wiktionary 用例
-
-> When the ship was brought into dry dock, it was found that she had underwater damage.
-
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## underway
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/underway#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> As discussions were underway, hundreds of anti-globalisation protesters clashed with riot police.
+> Preparations for the festival are already underway.
 
-例句来源：[Tatoeba；作者：Cangarejo；句子 #11605927；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/11605927)
+例句来源：逐词编写的学习例句
 
 ## underwear
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/underwear#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The only evidence was the traces of semen stuck to the underwear.
+> She packed a change of underwear for the trip.
 
-例句来源：[Tatoeba；作者：blay\_paul；句子 #393913；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/393913)
+例句来源：逐词编写的学习例句
 
 ## underweight
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/underweight#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The suitcase is just slightly underweight; I'll let it on the plane.
+> The inspection found several underweight packages.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## underwent
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/underwent#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The old theatre underwent major repairs.
+
+例句来源：逐词编写的学习例句
 
 ## underwire
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/underwire#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-## underwood
+> The underwire had come loose from the fabric.
 
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/underwood#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
-
-> This is Carrie Underwood's latest album.
-
-例句来源：[Tatoeba；作者：Source\_VOA；句子 #680148；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/680148)
+例句来源：逐词编写的学习例句
 
 ## underworld
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/underworld#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> In Hindu scriptures, the four-eyed dogs Śārvara and Śyāma guard the underworld's entrance.
+> The myth describes a journey to the underworld.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## underwrite
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/underwrite#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Not every company can afford to underwrite such an expensive event.
+> A local foundation underwrote the exhibition.
 
-例句来源：[Tatoeba；作者：AlanF\_US；句子 #5723281；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/5723281)
-
-## underwriter
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/underwriter#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
-
-> They were the underwriters of the company's shares, but only on a "best efforts" basis.
-
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## undesirable
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/undesirable#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Undesirable impurities in steel.
+> The change had several undesirable effects.
 
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adj:00733905](https://wordnet.princeton.edu/)
+例句来源：逐词编写的学习例句
 
 ## undetectable
 
@@ -2530,11 +2488,25 @@
 
 例句来源：逐词编写的学习例句
 
+## undeveloped
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/undeveloped#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The path led across undeveloped land.
+
+例句来源：逐词编写的学习例句
+
 ## undies
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/undies#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> I packed some clean undies for the trip.
+
+例句来源：逐词编写的学习例句
 
 ## undifferentiated
 
@@ -2589,12 +2561,8 @@
 ## undo
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/undo#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Fortunately, we can undo most of the damage to the system by the war.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Press this button to undo the last change.
 
@@ -2610,33 +2578,35 @@
 
 例句来源：逐词编写的学习例句
 
+## undoes
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/undoes#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> This button undoes the last change.
+
+例句来源：逐词编写的学习例句
+
 ## undoing
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/undoing#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> In the end, his jealousy was his undoing.
+> His refusal to listen proved to be his undoing.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## undone
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/undone#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Several important tasks were left undone.
 
 例句来源：逐词编写的学习例句
-
-> The work could be done or undone and nobody cared.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adj:01004818](https://wordnet.princeton.edu/)
-
-> Woe is me, for I am utterly undone!
-
-例句来源：Wiktionary 用例
 
 ## undoubted
 
@@ -2651,12 +2621,8 @@
 ## undoubtedly
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/undoubtedly#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> It's undoubtedly very beautiful.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adv:00079107](https://wordnet.princeton.edu/)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The extra time undoubtedly improved the final design.
 
@@ -2665,16 +2631,12 @@
 ## undress
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/undress#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > He undressed and put on his pyjamas.
 
 例句来源：逐词编写的学习例句
-
-> The young men slowly and sensually undressed each other before making passionate love.
-
-例句来源：Wiktionary 用例
 
 ## undue
 
@@ -2696,6 +2658,36 @@
 
 例句来源：逐词编写的学习例句
 
+## undulated
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/undulated#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The wheat undulated in the wind.
+
+例句来源：逐词编写的学习例句
+
+## undulates
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/undulates#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The road undulates through low hills.
+
+例句来源：逐词编写的学习例句
+
+## undulating
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/undulating#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> We cycled through undulating countryside.
+
+例句来源：逐词编写的学习例句
+
 ## undulation
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/undulation#English)
@@ -2706,35 +2698,35 @@
 
 例句来源：逐词编写的学习例句
 
-## unduly
+## undulations
 
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unduly#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/undulations#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The speaker unduly criticized his opponent and later apologized for this.
+> The map shows the gentle undulations of the landscape.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## undying
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/undying#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> From that moment on, he felt undying hatred for his oppressors.
+> She expressed her undying gratitude for their help.
 
-例句来源：[Tatoeba；作者：CS；句子 #47000；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/47000)
+例句来源：逐词编写的学习例句
 
 ## unearth
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unearth#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> to unearth a fox or a badger
+> The builders unearthed pieces of old pottery.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## unease
 
@@ -2746,21 +2738,15 @@
 
 例句来源：逐词编写的学习例句
 
-## uneasily
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/uneasily#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
-
-> Tom and Mary looked at each other uneasily.
-
-例句来源：[Tatoeba；作者：CK；句子 #2414043；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/2414043)
-
 ## uneasiness
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/uneasiness#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> I felt a growing uneasiness about the plan.
+
+例句来源：逐词编写的学习例句
 
 ## uneasy
 
@@ -2776,11 +2762,7 @@
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/uneconomic#English)
 - 发音资料：核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> A privatized rail company could close the most uneconomic routes.
-
-例句来源：[Tatoeba；作者：LK；句子 #8293183；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/8293183)
+- 中文释义资料：逐词编写的中文释义
 
 > At that scale, transporting the material by air would be uneconomic.
 
@@ -2789,22 +2771,32 @@
 ## uneconomical
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/uneconomical#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The old heater was uneconomical to run through the winter.
+
+例句来源：逐词编写的学习例句
+
+## unedited
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unedited#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She sent me the unedited draft.
 
 例句来源：逐词编写的学习例句
 
 ## uneducated
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/uneducated#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> An uneducated king ruins his people; prudent rulers make the city prosper.
+> The memoir describes an uneducated farmer who taught himself to read.
 
-例句来源：[Tatoeba；作者：carlosalberto；句子 #11086098；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/11086098)
+例句来源：逐词编写的学习例句
 
 ## unelectable
 
@@ -2839,26 +2831,22 @@
 ## unemployment
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unemployment#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Unemployment fell as new businesses opened.
 
 例句来源：逐词编写的学习例句
 
-> Until then his life had consisted of low-paying jobs, numerous unemployments, and drug use.
-
-例句来源：Wiktionary 用例
-
 ## unending
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unending#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> I have been in a continuous, unending, hopeless pursuit to prove myself.
+> The children asked an unending stream of questions.
 
-例句来源：[Tatoeba；作者：supermarinete；句子 #13740654；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/13740654)
+例句来源：逐词编写的学习例句
 
 ## unendurable
 
@@ -2873,12 +2861,12 @@
 ## unenthusiastic
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unenthusiastic#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Tom said that Mary was likely to be unenthusiastic about that.
+> The suggestion received an unenthusiastic response.
 
-例句来源：[Tatoeba；作者：CK；句子 #7177525；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/7177525)
+例句来源：逐词编写的学习例句
 
 ## unenviable
 
@@ -2903,8 +2891,8 @@
 ## unequally
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unequally#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Rainfall is distributed unequally across the island.
 
@@ -2923,26 +2911,18 @@
 ## unequivocally
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unequivocally#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > He stated unequivocally that the offer had been withdrawn.
 
 例句来源：逐词编写的学习例句
 
-> They strove to make their product unequivocally the best in the industry.
-
-例句来源：Wiktionary 用例
-
 ## unethical
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unethical#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> He was sacked for unethical conduct.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > It would be unethical to hide the study’s negative results.
 
@@ -2961,66 +2941,72 @@
 ## uneven
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/uneven#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Wood with an uneven grain.
+> Be careful on the uneven path.
 
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adj:00911327](https://wordnet.princeton.edu/)
+例句来源：逐词编写的学习例句
 
 ## unevenly
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unevenly#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Profits were distributed unevenly.
+> The paint had been applied unevenly.
 
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adv:00332365](https://wordnet.princeton.edu/)
+例句来源：逐词编写的学习例句
 
 ## unevenness
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unevenness#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The unevenness of his voice betrayed his nervousness.
+> The unevenness of the floor made the table wobble.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## unexceptional
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unexceptional#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> A unexceptional an incident as can be found in a lawyer's career.
+> The hotel was pleasant but unexceptional.
 
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adj:01674926](https://wordnet.princeton.edu/)
+例句来源：逐词编写的学习例句
+
+## unexpected
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unexpected#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> An unexpected visitor arrived before lunch.
+
+例句来源：逐词编写的学习例句
 
 ## unexpectedly
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unexpectedly#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> I unexpectedly met an old friend of mine on the bus yesterday.
+> The guests arrived unexpectedly.
 
-例句来源：[Tatoeba；作者：Eldad；句子 #257743；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/257743)
+例句来源：逐词编写的学习例句
 
 ## unexplainable
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unexplainable#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > She felt an unexplainable sense of unease.
 
 例句来源：逐词编写的学习例句
-
-> They were full of an unexplainable longing to be humiliated and insulted.
-
-例句来源：[Tatoeba；作者：AlanF\_US；句子 #5376935；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/5376935)
 
 ## unexplored
 
@@ -3032,54 +3018,45 @@
 
 例句来源：逐词编写的学习例句
 
-## unfailingly
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unfailingly#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
-
 ## unfair
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unfair#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> It was unfair for the boss to give larger bonuses to his friends.
+> It is unfair to blame one person for the whole problem.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## unfairly
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unfairly#English)
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The carnival games were unfairly difficult, and hardly anybody won a prize.
+> She was unfairly blamed for a mistake she had not made.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## unfairness
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unfairness#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> We're confronted with unfairness on a daily basis.
+> The children quickly noticed the unfairness of the rule.
 
-例句来源：[Tatoeba；作者：Nuel；句子 #9707321；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/9707321)
+例句来源：逐词编写的学习例句
 
 ## unfaithful
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unfaithful#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > She discovered that her partner had been unfaithful.
 
 例句来源：逐词编写的学习例句
-
-> The painting was an unfaithful rendering of its subject.
-
-例句来源：Wiktionary 用例
 
 ## unfalsifiable
 
@@ -3091,15 +3068,31 @@
 
 例句来源：逐词编写的学习例句
 
+## unfaltering
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unfaltering#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Her unfaltering support helped us through the hardest weeks.
+
+例句来源：逐词编写的学习例句
+
+## unfalteringly
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unfalteringly#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She supported the project unfalteringly through every setback.
+
+例句来源：逐词编写的学习例句
+
 ## unfamiliar
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unfamiliar#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> A name unfamiliar to most.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adj:00966477](https://wordnet.princeton.edu/)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The map helped us find our way through an unfamiliar city.
 
@@ -3118,51 +3111,42 @@
 ## unfashionable
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unfashionable#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Melodrama of a now unfashionable kind.
+> The jacket may be unfashionable, but it is warm and comfortable.
 
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adj:00973844](https://wordnet.princeton.edu/)
+例句来源：逐词编写的学习例句
 
 ## unfathomable
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unfathomable#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The sheer number of warriors the enemy attacked with was unfathomable.
+> For some unfathomable reason, the file had been renamed.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
-## unfavorably
+## unfavorable
 
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unfavorably#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unfavorable#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> He compares himself unfavorably to others.
+> The race was postponed because of unfavorable weather.
 
-例句来源：[Tatoeba；作者：Nuel；句子 #13037028；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/13037028)
+例句来源：逐词编写的学习例句
 
 ## unfavourable
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unfavourable#English)
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> I made it plain that the situation was unfavourable to us.
+> The team continued despite unfavourable conditions.
 
-例句来源：[Tatoeba；作者：Zifre；句子 #258738；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/258738)
-
-## unfavourably
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unfavourably#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
-
-> He deposed unfavourably towards the defendant.
-
-例句来源：[Tatoeba；作者：filipe\_s；句子 #12259255；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/12259255)
+例句来源：逐词编写的学习例句
 
 ## unfeasible
 
@@ -3177,52 +3161,82 @@
 ## unfeeling
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unfeeling#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> He accused me of being an unfeeling father and husband.
+> His unfeeling reply made her even more upset.
 
-例句来源：[Tatoeba；作者：felidad；句子 #10572854；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/10572854)
+例句来源：逐词编写的学习例句
 
 ## unfit
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unfit#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Jack cannot run, making him unfit for the track team.
+> The damaged building was declared unfit for use.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## unflappable
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unflappable#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Unflappable in a crisis.
+> The unflappable nurse calmly reorganized the crowded waiting room.
 
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adj:00530047](https://wordnet.princeton.edu/)
+例句来源：逐词编写的学习例句
+
+## unflinching
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unflinching#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She showed unflinching courage under pressure.
+
+例句来源：逐词编写的学习例句
 
 ## unflinchingly
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unflinchingly#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She faced the truth unflinchingly.
+
+例句来源：逐词编写的学习例句
+
+## unflustered
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unflustered#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She remained unflustered when the microphone stopped working.
+
+例句来源：逐词编写的学习例句
 
 ## unfold
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unfold#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> to unfold a map; to unfold a tablecloth; She unpacks the new dress and unfolds it carefully.
+> He unfolded the map on the table.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## unfollow
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unfollow#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> I unfollowed the account because it posted too often.
+
+例句来源：逐词编写的学习例句
 
 ## unforeseen
 
@@ -3237,16 +3251,22 @@
 ## unforgettable
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unforgettable#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The concert was an unforgettable experience.
 
 例句来源：逐词编写的学习例句
 
-> The things he subjected me to were horrible and unforgettable.
+## unforgiven
 
-例句来源：Wiktionary 用例
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unforgiven#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> He apologized, but still felt unforgiven.
+
+例句来源：逐词编写的学习例句
 
 ## unforgiving
 
@@ -3261,68 +3281,102 @@
 ## unfortunate
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unfortunate#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> An unfortunate turn of events.
+> It was an unfortunate choice of words.
 
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adj:01049462](https://wordnet.princeton.edu/)
+例句来源：逐词编写的学习例句
 
 ## unfortunately
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unfortunately#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The houses which burned down could have been saved. Unfortunately, the fire truck had broken down on the way.
+> Unfortunately, the tickets are sold out.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## unfreeze
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unfreeze#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The account was unfrozen after the error was corrected.
+
+例句来源：逐词编写的学习例句
 
 ## unfriend
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unfriend#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She unfriended an account she no longer recognized.
+
+例句来源：逐词编写的学习例句
 
 ## unfriendly
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unfriendly#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> An unfriendly act of aggression.
+> The receptionist was polite but unfriendly.
 
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adj:01246388](https://wordnet.princeton.edu/)
+例句来源：逐词编写的学习例句
 
 ## unfunny
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unfunny#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Edward told an unfunny knock-knock joke that made his brother groan.
+> The joke was unfunny and went on too long.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## unfurnished
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unfurnished#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The flat was unfurnished, so we brought our own bed.
+
+例句来源：逐词编写的学习例句
+
+## unfussy
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unfussy#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The café serves simple, unfussy food.
+
+例句来源：逐词编写的学习例句
+
+## ungodly
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ungodly#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> We had to leave at an ungodly hour.
+
+例句来源：逐词编写的学习例句
 
 ## ungrateful
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ungrateful#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > I do not want to sound ungrateful, but the coat is too small.
 
 例句来源：逐词编写的学习例句
-
-> I will not perform the ungrateful task of comparing cases of failure.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adj:01804906](https://wordnet.princeton.edu/)
 
 ## ungratefully
 
@@ -3379,51 +3433,62 @@
 ## unhappily
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unhappily#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Due to differing opinions between the two, they argued angrily, before leaving unhappily.
+> He stared unhappily at the broken model.
 
-例句来源：[Tatoeba；作者：BobbyLee；句子 #9400851；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/9400851)
+例句来源：逐词编写的学习例句
 
 ## unhappiness
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unhappiness#English)
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> My unhappiness probably is because I very much like to be alone.
+> She expressed unhappiness about the sudden change.
 
-例句来源：[Tatoeba；作者：lohnesinpr；句子 #4038364；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/4038364)
+例句来源：逐词编写的学习例句
 
 ## unhappy
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unhappy#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The doomed lovers must have been born under an unhappy star.
+> She was unhappy with the proposed schedule.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## unhealthy
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unhealthy#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The villagers lived in unhealthy surroundings.
+> The article examines unhealthy working habits.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## unheard
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unheard#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Her warning went unheard in the noisy room.
+
+例句来源：逐词编写的学习例句
 
 ## unhelpful
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unhelpful#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Even if you are genuinely a victim, having a victim mentality is unhelpful because it is disempowering. ― Ned Kelly, "NFL Players Are Setting A Bad Example By Teaching Black People To Encourage Victimhood", 8th of October 2017
+> Telling us to hurry was unhelpful because the system had frozen.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## unheralded
 
@@ -3445,45 +3510,75 @@
 
 例句来源：逐词编写的学习例句
 
+## unhinge
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unhinge#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> They had to unhinge the door to move the cabinet.
+
+例句来源：逐词编写的学习例句
+
 ## unhinged
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unhinged#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Apropos of nothing, Tom went on an unhinged xenophobic rant.
+> The character delivers an unhinged rant in the final scene.
 
-例句来源：[Tatoeba；作者：shekitten；句子 #10088871；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/10088871)
+例句来源：逐词编写的学习例句
 
 ## unholy
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unholy#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> I've been spending an unholy amount of time trying to write a novel!
+> The article described an unholy alliance between rival groups.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## unhook
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unhook#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> to unhook a bra
+> She unhooked the chain from the gate.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## unhurried
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unhurried#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> We enjoyed an unhurried lunch by the river.
+
+例句来源：逐词编写的学习例句
+
+## unhurriedly
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unhurriedly#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> He unhurriedly checked each item on the list.
+
+例句来源：逐词编写的学习例句
 
 ## unhurt
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unhurt#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Despite the dramatic accident, the passengers were unhurt and walked out unharmed.
+> All the passengers escaped unhurt.
 
-例句来源：[Tatoeba；作者：arh；句子 #6634961；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/6634961)
+例句来源：逐词编写的学习例句
 
 ## unhygienic
 
@@ -3498,42 +3593,38 @@
 ## unibody
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unibody#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The article compares unibody construction with a separate frame design.
+
+例句来源：逐词编写的学习例句
 
 ## unibrow
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unibrow#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> He's self-conscious because of his unibrow.
+> The portrait shows a distinctive unibrow.
 
-例句来源：[Tatoeba；作者：Lepotdeterre；句子 #4327634；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/4327634)
+例句来源：逐词编写的学习例句
 
 ## unicameral
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unicameral#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The country has a unicameral parliament.
 
 例句来源：逐词编写的学习例句
 
-> The new constitution proposed replacing the old unicameral parliament with a bicameral one.
-
-例句来源：[Tatoeba；作者：rul；句子 #13570517；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/13570517)
-
 ## unicellular
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unicellular#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> The amoeba is a unicellular organism.
-
-例句来源：[Tatoeba；作者：Adelpa；句子 #4251259；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/4251259)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The diagram shows a unicellular organism.
 
@@ -3546,6 +3637,16 @@
 - 中文释义资料：逐词编写的中文释义
 
 > The child drew a silver unicorn with a golden horn.
+
+例句来源：逐词编写的学习例句
+
+## unicorns
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unicorns#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The notebook cover is decorated with unicorns.
 
 例句来源：逐词编写的学习例句
 
@@ -3562,26 +3663,18 @@
 ## unicycle
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unicycle#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > She practises riding a unicycle in the empty courtyard.
 
 例句来源：逐词编写的学习例句
 
-> unicycle graph (unicyclic graph)
-
-例句来源：Wiktionary 用例
-
 ## unidirectional
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unidirectional#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> A unidirectional approach to a problem.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adj:00234106](https://wordnet.princeton.edu/)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The diagram shows a unidirectional flow of information.
 
@@ -3630,14 +3723,20 @@
 ## unification
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unification#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> He looked forward to the unification of his family for the holidays.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset noun:00381680](https://wordnet.princeton.edu/)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The unification of the ticketing systems took a year.
+
+例句来源：逐词编写的学习例句
+
+## unified
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unified#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The school introduced a unified timetable.
 
 例句来源：逐词编写的学习例句
 
@@ -3654,12 +3753,8 @@
 ## uniformed
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/uniformed#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> A uniformed chauffeur collected us for the party.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > A uniformed employee checked our tickets at the entrance.
 
@@ -3678,14 +3773,20 @@
 ## uniformly
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/uniformly#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> A uniformly bright surface.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adv:00250153](https://wordnet.princeton.edu/)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Spread the seeds uniformly across the tray.
+
+例句来源：逐词编写的学习例句
+
+## uniforms
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/uniforms#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The students wore clean uniforms for the concert.
 
 例句来源：逐词编写的学习例句
 
@@ -3702,16 +3803,12 @@
 ## unilateral
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unilateral#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The manager made a unilateral decision to change the schedule.
 
 例句来源：逐词编写的学习例句
-
-> Tom's boss made a unilateral decision to close several small branches of the company.
-
-例句来源：[Tatoeba；作者：patgfisher；句子 #3305994；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/3305994)
 
 ## unilateralism
 
@@ -3727,15 +3824,11 @@
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unilaterally#English)
 - 发音资料：核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 中文释义资料：逐词编写的中文释义
 
 > The company changed the terms unilaterally.
 
 例句来源：逐词编写的学习例句
-
-> They worked out an agreement unilaterally.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adv:00253117](https://wordnet.princeton.edu/)
 
 ## unilinear
 
@@ -3770,12 +3863,8 @@
 ## unimaginable
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unimaginable#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Lukas only needs a short amount of time to commit the unimaginable.
-
-例句来源：[Tatoeba；作者：Amastan；句子 #11650456；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/11650456)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The project gave students opportunities that had once seemed unimaginable.
 
@@ -3784,16 +3873,12 @@
 ## unimaginably
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unimaginably#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The stars are unimaginably far away.
 
 例句来源：逐词编写的学习例句
-
-> Under Bouteflika, many corrupt officials became unimaginably rich.
-
-例句来源：[Tatoeba；作者：Amastan；句子 #8578789；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/8578789)
 
 ## unimaginative
 
@@ -3868,12 +3953,12 @@
 ## unimportant
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unimportant#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> A relatively unimportant feature of the system.
+> We spent too long arguing about an unimportant detail.
 
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adj:01279978](https://wordnet.princeton.edu/)
+例句来源：逐词编写的学习例句
 
 ## unimpressed
 
@@ -3938,11 +4023,12 @@
 ## uninstall
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/uninstall#English)
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Go into the Device Manager and uninstall all the Universal Serial Bus controllers.
+> She uninstalled the game to free some space.
 
-例句来源：[Tatoeba；作者：illiterate；句子 #8308506；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/8308506)
+例句来源：逐词编写的学习例句
 
 ## unintegrated
 
@@ -3977,12 +4063,8 @@
 ## unintentional
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unintentional#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> His omission of her name from the acknowledgments section was unintentional; it was fixed for the second print run.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The omission was unintentional.
 
@@ -3991,26 +4073,32 @@
 ## unintentionally
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unintentionally#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > I unintentionally interrupted her explanation.
 
 例句来源：逐词编写的学习例句
 
-> She hit him unintentionally.
+## uninterested
 
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adv:00062650](https://wordnet.princeton.edu/)
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/uninterested#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> He seemed uninterested in the new proposal.
+
+例句来源：逐词编写的学习例句
 
 ## uninteresting
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/uninteresting#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> A very uninteresting account of her trip.
+> The topic was important, but the presentation was uninteresting.
 
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adj:01344963](https://wordnet.princeton.edu/)
+例句来源：逐词编写的学习例句
 
 ## uninterrupted
 
@@ -4055,12 +4143,12 @@
 ## uninvolved
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/uninvolved#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Being uninvolved he remained objective.
+> Several uninvolved people were delayed by the investigation.
 
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adj:01516832](https://wordnet.princeton.edu/)
+例句来源：逐词编写的学习例句
 
 ## union
 
@@ -4075,8 +4163,8 @@
 ## unionism
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unionism#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The chapter traces the growth of trade unionism in the city.
 
@@ -4085,40 +4173,28 @@
 ## unionist
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unionist#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Several trade unionists attended the meeting.
 
 例句来源：逐词编写的学习例句
 
-> When they came for the trade unionists, I said nothing, because I was not a trade unionist.
-
-例句来源：[Tatoeba；作者：shekitten；句子 #8808259；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/8808259)
-
 ## unionization
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unionization#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Employees discussed unionization at an open meeting.
 
 例句来源：逐词编写的学习例句
 
-> The issue underlying the strike was unionization.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset noun:00242583](https://wordnet.princeton.edu/)
-
 ## unionize
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unionize#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> My uncle got roughed up by some corporate thugs after they caught him trying to unionize their workers.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The staff voted to unionize.
 
@@ -4127,30 +4203,32 @@
 ## unionized
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unionized#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Most of the workers are unionized.
-
-例句来源：[Tatoeba；作者：DJ\_Saidez；句子 #9189193；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/9189193)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The study compared unionized and nonunionized workplaces.
+
+例句来源：逐词编写的学习例句
+
+## unions
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unions#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Several unions took part in the discussion.
 
 例句来源：逐词编写的学习例句
 
 ## unipolar
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unipolar#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The diagram compares unipolar and bipolar signals.
 
 例句来源：逐词编写的学习例句
-
-> The neocons were building the US unipolar world.
-
-例句来源：[Tatoeba；作者：Amastan；句子 #11398851；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/11398851)
 
 ## unique
 
@@ -4165,26 +4243,18 @@
 ## uniquely
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/uniquely#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The number uniquely identifies each parcel.
 
 例句来源：逐词编写的学习例句
 
-> components that are uniquely numbered for identification
-
-例句来源：Wiktionary 用例
-
 ## uniqueness
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/uniqueness#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> He was an iconoclast who wore his uniqueness as a badge of honor.
-
-例句来源：[Tatoeba；作者：Hybrid；句子 #8110427；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/8110427)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The renovation preserved the building’s uniqueness.
 
@@ -4213,12 +4283,8 @@
 ## unisex
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unisex#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Kim is a unisex name.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The shop sells a range of unisex jackets.
 
@@ -4247,39 +4313,22 @@
 ## unit
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unit#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Always write the unit next to the measurement.
 
 例句来源：逐词编写的学习例句
 
-> We shipped nearly twice as many units this month as last month.
-
-例句来源：Wiktionary 用例
-
-## unitarian
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unitarian#English)
-- 发音资料：Wiktionary
-
-> the unitarian position on executive power
-
-例句来源：Wiktionary 用例
-
 ## unitary
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unitary#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The book compares unitary and federal systems.
 
 例句来源：逐词编写的学习例句
-
-> a unitary authority
-
-例句来源：Wiktionary 用例
 
 ## unite
 
@@ -4294,16 +4343,22 @@
 ## united
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/united#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The neighbours remained united in their campaign to save the park.
 
 例句来源：逐词编写的学习例句
 
-> The two parties stood united against the proposal.
+## units
 
-例句来源：Wiktionary 用例
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/units#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The textbook is divided into twelve units.
+
+例句来源：逐词编写的学习例句
 
 ## unity
 
@@ -4318,8 +4373,8 @@
 ## univariate
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/univariate#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > We began with a univariate analysis of age.
 
@@ -4328,12 +4383,8 @@
 ## universal
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/universal#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> She achieved universal fame.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The proposal did not receive universal support.
 
@@ -4342,26 +4393,18 @@
 ## universalism
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/universalism#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The seminar compared moral universalism with cultural relativism.
 
 例句来源：逐词编写的学习例句
 
-> Unitarian Universalism is neither theistic nor avowedly atheistic.
-
-例句来源：[Tatoeba；作者：rul；句子 #13438591；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/13438591)
-
 ## universalist
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/universalist#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Christianity and Islam are universalist religions, while Judaism is an ethnic religion.
-
-例句来源：[Tatoeba；作者：shekitten；句子 #11372229；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/11372229)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The essay takes a universalist approach to human dignity.
 
@@ -4390,12 +4433,8 @@
 ## universally
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/universally#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> The movie was universally praised by its audience.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The rule is not universally applicable.
 
@@ -4404,14 +4443,20 @@
 ## universe
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/universe#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> In all this universe of possibilities, there is only one feasible option.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The book explores how scientists study the universe.
+
+例句来源：逐词编写的学习例句
+
+## universities
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/universities#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Several universities offer courses in this subject.
 
 例句来源：逐词编写的学习例句
 
@@ -4445,39 +4490,25 @@
 
 例句来源：逐词编写的学习例句
 
-## unjustifiably
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unjustifiably#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
-
-> Government policies should encourage scientific innovation without creating unnecessary barriers or unjustifiably stigmatizing new technologies.
-
-例句来源：[Tatoeba；作者：Cangarejo；句子 #12002458；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/12002458)
-
 ## unjustly
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unjustly#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > He felt that he had been unjustly blamed for the delay.
 
 例句来源：逐词编写的学习例句
 
-> unjustly punished
-
-例句来源：Wiktionary 用例
-
 ## unkind
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unkind#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> A thoughtless and unkind remark.
+> That was an unkind thing to say.
 
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adj:01373728](https://wordnet.princeton.edu/)
+例句来源：逐词编写的学习例句
 
 ## unknowable
 
@@ -4492,18 +4523,18 @@
 ## unknowing
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unknowing#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The courier was an unknowing participant in the scheme.
+
+例句来源：逐词编写的学习例句
 
 ## unknowingly
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unknowingly#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> By asking this question he unknowingly opened Pandora's box.
-
-例句来源：[Tatoeba；作者：kkupus；句子 #6082598；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/6082598)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > I unknowingly sent them an outdated version of the report.
 
@@ -4512,56 +4543,52 @@
 ## unknown
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unknown#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The cause of the delay is still unknown.
 
 例句来源：逐词编写的学习例句
 
-> The concept has existed since times unknown.
-
-例句来源：Wiktionary 用例
-
 ## unlawful
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unlawful#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> He was charged with unlawful use of a car.
+> The article describes the company’s conduct as unlawful.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
-## unlawfully
+## unleaded
 
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unlawfully#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unleaded#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The deceased was unlawfully killed during a riot.
+> The fuel cap is labelled “unleaded only.”
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## unlearn
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unlearn#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Playing the keyboard is like riding a bike, you cannot unlearn it.
+> She had to unlearn a habit that slowed her typing.
 
-例句来源：[Tatoeba；作者：joshodude\_1308；句子 #5353094；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/5353094)
+例句来源：逐词编写的学习例句
 
 ## unlearned
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unlearned#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> An unlearned group incapable of understanding complex issues.
+> The experiment examined an unlearned response to the sound.
 
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adj:00831225](https://wordnet.princeton.edu/)
+例句来源：逐词编写的学习例句
 
 ## unleavened
 
@@ -4572,16 +4599,6 @@
 > The meal included a thin unleavened bread.
 
 例句来源：逐词编写的学习例句
-
-## unless
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unless#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
-
-> Unless part of the staff, you are not allowed beyond this point.
-
-例句来源：Wiktionary 用例
 
 ## unlettered
 
@@ -4623,65 +4640,85 @@
 
 例句来源：逐词编写的学习例句
 
+## unlimited
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unlimited#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Members have unlimited access to the archive.
+
+例句来源：逐词编写的学习例句
+
 ## unlit
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unlit#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Held an unlit cigarette.
+> Several unlit candles stood beside the cake.
 
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adj:00475749](https://wordnet.princeton.edu/)
+例句来源：逐词编写的学习例句
 
 ## unload
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unload#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> He unloaded his revolver and put the cartridges away to be reloaded later.
+> They unloaded the boxes outside the warehouse.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## unlock
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unlock#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> This computer game is shareware, but you can pay for a code to unlock the full version.
+> She unlocked the door but did not open it yet.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## unlockable
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unlockable#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The game includes several unlockable characters.
+
+例句来源：逐词编写的学习例句
+
+## unlocked
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unlocked#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She unlocked the box and lifted the lid.
+
+例句来源：逐词编写的学习例句
 
 ## unloving
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unloving#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> My mother was unloving towards me.
+> The novel portrays a cold, unloving household.
 
-例句来源：[Tatoeba；作者：felidad；句子 #10586250；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/10586250)
-
-## unluckily
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unluckily#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+例句来源：逐词编写的学习例句
 
 ## unlucky
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unlucky#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The unlucky prisoner was again put in irons.
+> We were unlucky to arrive just after the shop closed.
 
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adj:01051410](https://wordnet.princeton.edu/)
+例句来源：逐词编写的学习例句
 
 ## unmanageable
 
@@ -4706,22 +4743,32 @@
 ## unmarked
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unmarked#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The use of that word in that context was unmarked.
+> The papers arrived in an unmarked envelope.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## unmarried
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unmarried#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The survey includes both married and unmarried adults.
+
+例句来源：逐词编写的学习例句
 
 ## unmask
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unmask#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Despite all her efforts, Rebecca wasn't able to unmask the impostors.
+> The detective finally unmasked the impostor.
 
-例句来源：[Tatoeba；作者：LimeGreenTeknii；句子 #10248570；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/10248570)
+例句来源：逐词编写的学习例句
 
 ## unmentioned
 
@@ -4733,25 +4780,25 @@
 
 例句来源：逐词编写的学习例句
 
+## unmet
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unmet#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The survey revealed unmet needs among local families.
+
+例句来源：逐词编写的学习例句
+
 ## unmistakable
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unmistakable#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> He bore an unmistakable reference to his father. It made his mother cry.
-
-例句来源：[Tatoeba；作者：papabear；句子 #718031；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/718031)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > I heard the unmistakable sound of her laugh in the next room.
 
 例句来源：逐词编写的学习例句
-
-## unmistakably
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unmistakably#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
 
 ## unmotivated
 
@@ -4783,6 +4830,46 @@
 
 例句来源：逐词编写的学习例句
 
+## unmute
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unmute#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She remembered to unmute before answering.
+
+例句来源：逐词编写的学习例句
+
+## unmuted
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unmuted#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She unmuted the microphone before speaking.
+
+例句来源：逐词编写的学习例句
+
+## unmutes
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unmutes#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> This button unmutes the microphone.
+
+例句来源：逐词编写的学习例句
+
+## unmuting
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unmuting#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She was unmuting the microphone as the discussion began.
+
+例句来源：逐词编写的学习例句
+
 ## unnatural
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unnatural#English)
@@ -4793,45 +4880,35 @@
 
 例句来源：逐词编写的学习例句
 
-## unnaturally
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unnaturally#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
-
-> The early Church not unnaturally adopted the position that failure to see the messianic character of his work was really caused by the people's own blindness.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adv:00038767](https://wordnet.princeton.edu/)
-
 ## unnecessarily
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unnecessarily#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The food provided was unnecessarily generous, especially for an event meant to raise money for the hungry.
+> The instructions were unnecessarily complicated.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## unnecessary
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unnecessary#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The automatic child-frightener made clowns unnecessary.
+> The new process removes several unnecessary steps.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## unneeded
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unneeded#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Consider donating unneeded or non-perishable items to those in need.
+> We removed the unneeded steps from the instructions.
 
-例句来源：[Tatoeba；作者：Amastan；句子 #12116102；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/12116102)
+例句来源：逐词编写的学习例句
 
 ## unnerve
 
@@ -4906,12 +4983,8 @@
 ## unobtrusively
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unobtrusively#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Messengers were moving unobtrusively over the jet-black mountain ranges, bearing confidential tidings from sheikhdom to sheikhdom.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adv:00412987](https://wordnet.princeton.edu/)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The photographer moved unobtrusively around the room during the ceremony.
 
@@ -4926,15 +4999,6 @@
 > We heard the unofficial results that evening.
 
 例句来源：逐词编写的学习例句
-
-## unofficially
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unofficially#English)
-- 中文释义资料：ECDICT
-
-> Unofficially, he serves as the treasurer.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adv:00114461](https://wordnet.princeton.edu/)
 
 ## unordered
 
@@ -4969,31 +5033,22 @@
 ## unpack
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unpack#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> They didn't have time to unpack their bags before going out to dinner.
+> I unpacked my suitcase as soon as I got home.
 
-例句来源：Wiktionary 用例
-
-## unpacked
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unpacked#English)
-- 中文释义资料：ECDICT
-
-> I worked all day and managed to get all the boxes unpacked.
-
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## unpaid
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unpaid#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> an unpaid position
+> There are two unpaid bills on the desk.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## unpainted
 
@@ -5031,6 +5086,46 @@
 
 例句来源：逐词编写的学习例句
 
+## unpause
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unpause#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Please unpause the video when everyone is ready.
+
+例句来源：逐词编写的学习例句
+
+## unpaused
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unpaused#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> I unpaused the video after taking notes.
+
+例句来源：逐词编写的学习例句
+
+## unpauses
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unpauses#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> This button unpauses the recording.
+
+例句来源：逐词编写的学习例句
+
+## unpausing
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unpausing#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Check the volume before unpausing the video.
+
+例句来源：逐词编写的学习例句
+
 ## unpaved
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unpaved#English)
@@ -5054,26 +5149,18 @@
 ## unpleasant
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unpleasant#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > An unpleasant smell came from the drain.
 
 例句来源：逐词编写的学习例句
 
-> Wet blankets are not always unpleasant after you get to know them.
-
-例句来源：[Tatoeba；作者：chanchan；句子 #18942；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/18942)
-
 ## unpleasantly
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unpleasantly#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> He had been unpleasantly surprised.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adv:00219503](https://wordnet.princeton.edu/)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The water was unpleasantly cold.
 
@@ -5082,8 +5169,42 @@
 ## unpleasantness
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unpleasantness#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> I apologised quickly to avoid further unpleasantness.
+
+例句来源：逐词编写的学习例句
+
+## unplug
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unplug#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She reached down to unplug the lamp.
+
+例句来源：逐词编写的学习例句
+
+## unplugged
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unplugged#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The lamp was unplugged.
+
+例句来源：逐词编写的学习例句
+
+## unplugging
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unplugging#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She was unplugging the cable when he entered.
+
+例句来源：逐词编写的学习例句
 
 ## unpolluted
 
@@ -5108,18 +5229,18 @@
 ## unpopularity
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unpopularity#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The policy’s unpopularity surprised the minister.
+
+例句来源：逐词编写的学习例句
 
 ## unprecedented
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unprecedented#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> An unprecedented expansion in population and industry.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adj:00128572](https://wordnet.princeton.edu/)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The exhibition attracted an unprecedented number of visitors.
 
@@ -5128,26 +5249,12 @@
 ## unpredictable
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unpredictable#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> It's a combination of life being unpredictable, and you being super dumb.
-
-例句来源：[Tatoeba；作者：Adelpa；句子 #6126167；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/6126167)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Mountain weather can be unpredictable.
 
 例句来源：逐词编写的学习例句
-
-## unpredictably
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unpredictably#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
-
-> The ball dipped and swerved unpredictably.
-
-例句来源：[Tatoeba；作者：Amastan；句子 #11880893；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/11880893)
 
 ## unprejudiced
 
@@ -5162,16 +5269,12 @@
 ## unprepared
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unprepared#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > I was unprepared for the sudden change in the weather.
 
 例句来源：逐词编写的学习例句
-
-> The castle was unprepared for the assault.
-
-例句来源：Wiktionary 用例
 
 ## unprintable
 
@@ -5196,32 +5299,32 @@
 ## unprocessed
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unprocessed#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> I've cured all my maladies with a diet of unprocessed food and by forgoing gluten, wheat, and grains.
+> The folder contains the unprocessed images from the camera.
 
-例句来源：[Tatoeba；作者：Eccles17；句子 #6629198；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/6629198)
+例句来源：逐词编写的学习例句
 
 ## unproductive
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unproductive#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Juggling is an amusing pastime, but generally unproductive.
+> The meeting was long and unproductive.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## unprofessional
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unprofessional#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> unprofessional behavior
+> Sharing a client’s private information was unprofessional.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## unprofitable
 
@@ -5323,29 +5426,31 @@
 
 例句来源：逐词编写的学习例句
 
+## unqualified
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unqualified#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The event was an unqualified success.
+
+例句来源：逐词编写的学习例句
+
 ## unquestionable
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unquestionable#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Her contribution to the project is unquestionable.
 
 例句来源：逐词编写的学习例句
 
-> Paper, a Chinese invention created around two thousand years ago, left an unquestionable mark on every culture.
-
-例句来源：[Tatoeba；作者：lucasmg123；句子 #8169478；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/8169478)
-
 ## unquestionably
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unquestionably#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Fred Winter is unquestionably the jockey to follow.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adv:00437576](https://wordnet.princeton.edu/)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The new design is unquestionably easier to use.
 
@@ -5364,30 +5469,22 @@
 ## unquestioning
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unquestioning#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The manager expected unquestioning obedience from the staff.
 
 例句来源：逐词编写的学习例句
 
-> unquestioning faith
-
-例句来源：Wiktionary 用例
-
 ## unquestioningly
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unquestioningly#English)
 - 发音资料：核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 中文释义资料：逐词编写的中文释义
 
 > He accepted the explanation unquestioningly.
 
 例句来源：逐词编写的学习例句
-
-> She accepted unquestioningly the dictum that a woman's place is in the home.
-
-例句来源：Wiktionary 用例
 
 ## unquiet
 
@@ -5402,98 +5499,82 @@
 ## unquote
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unquote#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-## unraveled
+> She said, quote, I will be there, unquote.
 
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unraveled#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
-
-> She took the distaff and the wool she had just unraveled in order to begin spinning.
-
-例句来源：[Tatoeba；作者：Igider15；句子 #13343216；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/13343216)
+例句来源：逐词编写的学习例句
 
 ## unreachable
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unreachable#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> There's not a single goal that is unreachable by my own terms.
+> The cabin was unreachable after the road washed away.
 
-例句来源：[Tatoeba；作者：LoverofEnglish；句子 #12734252；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/12734252)
+例句来源：逐词编写的学习例句
 
 ## unread
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unread#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The book I got for my 18th birthday remained unread until my retirement.
+> There are twelve unread messages in my inbox.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## unready
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unready#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The junior varsity team is unready for a serious competition; a lot of training remains to be done.
+> He felt unready for the responsibility.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## unreal
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unreal#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The video includes unreal footage of an eight-metre wave.
+> After so many years, seeing him again felt unreal.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## unrealistic
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unrealistic#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Prices at unrealistic high levels.
+> It is unrealistic to finish all this work in one afternoon.
 
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adj:01941999](https://wordnet.princeton.edu/)
+例句来源：逐词编写的学习例句
 
 ## unreasonable
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unreasonable#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> I don't think that this is an unreasonable request to make.
+> Asking everyone to work all night was unreasonable.
 
-例句来源：[Tatoeba；作者：CK；句子 #7231946；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/7231946)
-
-## unreasonably
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unreasonably#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
-
-> The team was given an unreasonably short amount of time to put together a presentation.
-
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## unrecognizable
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unrecognizable#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Yanni's once pristine residence has become unrecognizable.
+> The street was almost unrecognizable after the rebuilding.
 
-例句来源：[Tatoeba；作者：Amastan；句子 #9838968；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/9838968)
+例句来源：逐词编写的学习例句
 
 ## unreflective
 
@@ -5502,6 +5583,16 @@
 - 中文释义资料：逐词编写的中文释义
 
 > The essay challenges our unreflective acceptance of the rule.
+
+例句来源：逐词编写的学习例句
+
+## unrelated
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unrelated#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Her question was unrelated to the topic.
 
 例句来源：逐词编写的学习例句
 
@@ -5518,12 +5609,8 @@
 ## unreliable
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unreliable#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> In the early 1950s computers were large and expensive and unreliable.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adj:00724861](https://wordnet.princeton.edu/)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The internet connection is too unreliable for video calls.
 
@@ -5532,12 +5619,12 @@
 ## unremarkable
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unremarkable#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> I love the setting of this game, but the story is unremarkable.
+> The office was in an unremarkable building near the station.
 
-例句来源：[Tatoeba；作者：sabretou；句子 #6168026；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/6168026)
+例句来源：逐词编写的学习例句
 
 ## unrepentant
 
@@ -5548,12 +5635,6 @@
 > He remained unrepentant even after admitting that he had lied.
 
 例句来源：逐词编写的学习例句
-
-## unreservedly
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unreservedly#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
 
 ## unresponsive
 
@@ -5568,12 +5649,12 @@
 ## unrest
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unrest#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Social unrest may come about as a result of this long recession.
+> The novel is set during a period of social unrest.
 
-例句来源：[Tatoeba；作者：CM；句子 #60755；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/60755)
+例句来源：逐词编写的学习例句
 
 ## unrestrained
 
@@ -5598,24 +5679,22 @@
 ## unrighteous
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unrighteous#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-## unrighteousness
+> The sermon condemned unrighteous conduct.
 
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unrighteousness#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+例句来源：逐词编写的学习例句
 
 ## unripe
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unripe#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> unripe fruit
+> The unripe bananas were still green and firm.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## unroll
 
@@ -5630,18 +5709,28 @@
 ## unromantic
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unromantic#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Washing the dishes is an unromantic but necessary task.
+
+例句来源：逐词编写的学习例句
+
+## unruffled
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unruffled#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She remained unruffled by the hostile questions.
+
+例句来源：逐词编写的学习例句
 
 ## unruly
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unruly#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> The police gathered to contain the unruly mob.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The teacher struggled to quiet the unruly class.
 
@@ -5650,12 +5739,8 @@
 ## unsafe
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unsafe#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Do you really think it would be unsafe to do that?
-
-例句来源：[Tatoeba；作者：CK；句子 #6233387；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/6233387)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The old bridge was declared unsafe.
 
@@ -5664,16 +5749,12 @@
 ## unsaid
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unsaid#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Much remained unsaid when the meeting ended.
 
 例句来源：逐词编写的学习例句
-
-> We discussed the terms, but the methods were left unsaid.
-
-例句来源：Wiktionary 用例
 
 ## unsalted
 
@@ -5718,12 +5799,8 @@
 ## unsatisfactory
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unsatisfactory#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Shops should take back unsatisfactory goods.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adj:02082218](https://wordnet.princeton.edu/)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The inspection found the cleaning standards unsatisfactory.
 
@@ -5732,12 +5809,8 @@
 ## unsatisfied
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unsatisfied#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Hunger, when unsatisfied, becomes a burden that the mind cannot ignore.
-
-例句来源：[Tatoeba；作者：samir\_t；句子 #12979693；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/12979693)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The short reply left her curiosity unsatisfied.
 
@@ -5746,11 +5819,12 @@
 ## unsatisfying
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unsatisfying#English)
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> My life is comfortable, but unsatisfying.
+> The film had an unsatisfying ending.
 
-例句来源：[Tatoeba；作者：mailohilohi；句子 #6018452；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/6018452)
+例句来源：逐词编写的学习例句
 
 ## unsaturated
 
@@ -5759,6 +5833,16 @@
 - 中文释义资料：逐词编写的中文释义
 
 > The solution is still unsaturated at this temperature.
+
+例句来源：逐词编写的学习例句
+
+## unsaved
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unsaved#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The document still had unsaved changes.
 
 例句来源：逐词编写的学习例句
 
@@ -5775,12 +5859,32 @@
 ## unscrew
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unscrew#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> I'm having some trouble unscrewing the lid of this jar.
+> She unscrewed the cap and checked the label.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## unscrewed
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unscrewed#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She unscrewed the lid and opened the jar.
+
+例句来源：逐词编写的学习例句
+
+## unscrewing
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unscrewing#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> He was unscrewing the cap when she arrived.
+
+例句来源：逐词编写的学习例句
 
 ## unscrupulous
 
@@ -5805,46 +5909,32 @@
 ## unseal
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unseal#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Gustavo managed to unseal the sword.
-
-例句来源：[Tatoeba；作者：Amastan；句子 #11769293；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/11769293)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > She carefully unsealed the envelope.
 
 例句来源：逐词编写的学习例句
 
-## unseasonably
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unseasonably#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
-
-> It was unseasonably cold.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adv:00274022](https://wordnet.princeton.edu/)
-
 ## unseat
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unseat#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The Matrix (1999) utterly unseated audiences around the world with its mind-blowing plot twist.
+> The horse’s sudden movement unseated the rider.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## unseated
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unseated#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The courts have already unseated a handful of governors who had been sworn in to the powerful positions.
+> The rider was unseated but landed on soft ground.
 
-例句来源：[Tatoeba；作者：Cangarejo；句子 #11107233；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/11107233)
+例句来源：逐词编写的学习例句
 
 ## unsecure
 
@@ -5879,18 +5969,18 @@
 ## unselfish
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unselfish#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The man was in an unselfish mood that day, so decided to give a £20 note to the next charity he came across.
+> It was an unselfish act to share the limited supplies.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## unsentimental
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unsentimental#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > She gives an unsentimental account of her childhood.
 
@@ -5899,12 +5989,8 @@
 ## unsettle
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unsettle#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Don't unsettle the horses or they'll bolt.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The unexplained noise unsettled the passengers.
 
@@ -5917,6 +6003,36 @@
 - 中文释义资料：逐词编写的中文释义
 
 > The sudden change left everyone feeling unsettled.
+
+例句来源：逐词编写的学习例句
+
+## unshakable
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unshakable#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She had unshakable confidence in the team.
+
+例句来源：逐词编写的学习例句
+
+## unshakably
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unshakably#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She remained unshakably convinced that the plan could work.
+
+例句来源：逐词编写的学习例句
+
+## unshakeable
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unshakeable#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Her faith in their friendship was unshakeable.
 
 例句来源：逐词编写的学习例句
 
@@ -5933,22 +6049,22 @@
 ## unsinkable
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unsinkable#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> unsinkable optimism
+> Her unsinkable optimism kept the group going.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## unskilled
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unskilled#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Unskilled in the art of rhetoric.
+> The factory offered training to unskilled workers.
 
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adj:02228335](https://wordnet.princeton.edu/)
+例句来源：逐词编写的学习例句
 
 ## unsociable
 
@@ -5973,18 +6089,22 @@
 ## unsophisticated
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unsophisticated#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Either too unsophisticated or too honest to promise more than he could deliver.
+> The device is unsophisticated but easy to repair.
 
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adj:02273088](https://wordnet.princeton.edu/)
+例句来源：逐词编写的学习例句
 
-## unspeakably
+## unspecified
 
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unspeakably#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unspecified#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The event was postponed to an unspecified date.
+
+例句来源：逐词编写的学习例句
 
 ## unspectacular
 
@@ -5999,12 +6119,12 @@
 ## unspoken
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unspoken#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The unspoken rule is to start a new pot of coffee when it is empty.
+> They had an unspoken agreement not to discuss the past.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## unstable
 
@@ -6019,12 +6139,12 @@
 ## unsteady
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unsteady#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> A slightly unsteady item of furniture.
+> The table was unsteady on the uneven floor.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## unstructured
 
@@ -6049,12 +6169,8 @@
 ## unsuccessful
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unsuccessful#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> His unsuccessful attempt earned him sympathy, condolences, and an occasional good-natured ribbing.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Our first attempt was unsuccessful.
 
@@ -6063,32 +6179,32 @@
 ## unsuccessfully
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unsuccessfully#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> She tried unsuccessfully to persuade him to buy a new car.
+> She tried unsuccessfully to open the old window.
 
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adv:00168075](https://wordnet.princeton.edu/)
+例句来源：逐词编写的学习例句
 
 ## unsuitable
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unsuitable#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> A solvent unsuitable for use on wood surfaces.
+> These shoes are unsuitable for walking on rough ground.
 
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adj:01021607](https://wordnet.princeton.edu/)
+例句来源：逐词编写的学习例句
 
 ## unsuited
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unsuited#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> an unsuited astronaut
+> The material is unsuited to outdoor use.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## unsupervised
 
@@ -6113,35 +6229,22 @@
 ## unsurprising
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unsurprising#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> It's unsurprising that Yoko would have said something like that.
+> The result was unsurprising given the team’s record.
 
-例句来源：[Tatoeba；作者：witbrock；句子 #430185；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/430185)
-
-## unsurprisingly
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unsurprisingly#English)
-- 中文释义资料：ECDICT
-
-> Unsurprisingly, he had a lot to say on the matter.
-
-例句来源：[Tatoeba；作者：AlanF\_US；句子 #4688707；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/4688707)
+例句来源：逐词编写的学习例句
 
 ## unsustainable
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unsustainable#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The team’s workload had become unsustainable.
 
 例句来源：逐词编写的学习例句
-
-> This political crisis could lead Algeria to unsustainable situation.
-
-例句来源：[Tatoeba；作者：Amastan；句子 #7856543；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/7856543)
 
 ## unsympathetic
 
@@ -6163,16 +6266,6 @@
 
 例句来源：逐词编写的学习例句
 
-## untamed
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/untamed#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
-
-> The mustang is an untamed horse that roams where it wants, with little interest in humans.
-
-例句来源：Wiktionary 用例
-
 ## untenable
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/untenable#English)
@@ -6186,115 +6279,172 @@
 ## unthinkable
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unthinkable#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Working together seemed unthinkable only a year ago.
 
 例句来源：逐词编写的学习例句
 
-> did the unthinkable
+## untidiness
 
-例句来源：Wiktionary 用例
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/untidiness#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The untidiness of the desk made the letter hard to find.
+
+例句来源：逐词编写的学习例句
+
+## untidy
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/untidy#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> His desk was untidy but clean.
+
+例句来源：逐词编写的学习例句
 
 ## untie
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/untie#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> to untie a knot
+> She untied the ribbon around the box.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## untimely
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/untimely#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > An untimely phone call interrupted the final rehearsal.
 
 例句来源：逐词编写的学习例句
 
-> an untimely death
+## untold
 
-例句来源：Wiktionary 用例
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/untold#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The storm caused untold damage to the old town.
+
+例句来源：逐词编写的学习例句
+
+## untouched
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/untouched#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She left most of her lunch untouched.
+
+例句来源：逐词编写的学习例句
 
 ## untoward
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/untoward#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Moved to curb their untoward ribaldry.
+> Nothing untoward happened during the journey.
 
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adj:01880918](https://wordnet.princeton.edu/)
+例句来源：逐词编写的学习例句
+
+## untraceable
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/untraceable#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The quotation was copied so often that its original source became untraceable.
+
+例句来源：逐词编写的学习例句
+
+## untracked
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/untracked#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> We found a stretch of untracked snow beyond the trees.
+
+例句来源：逐词编写的学习例句
 
 ## untrained
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/untrained#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Young minds untrained in the habit of concentration.
+> The untrained dog ignored the command.
 
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adj:01912613](https://wordnet.princeton.edu/)
+例句来源：逐词编写的学习例句
 
 ## untried
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/untried#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The new guy was inexperienced and untried.
+> We decided to test an untried approach.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## untrue
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/untrue#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> She says that I stole her necklace, but that's completely untrue.
+> The claim is completely untrue.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## untrustworthy
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/untrustworthy#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> He is one of the most untrustworthy people I have ever met.
+> The article relied on an untrustworthy source.
 
-例句来源：[Tatoeba；作者：mailohilohi；句子 #5519166；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/5519166)
+例句来源：逐词编写的学习例句
 
 ## untruth
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/untruth#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The article repeated several untruths about the event.
+
+例句来源：逐词编写的学习例句
 
 ## unusable
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unusable#English)
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The toilet was unusable because it was blocked.
+> The damaged file was unusable.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## unused
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unused#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> I am unused to the dark nights of the countryside.
+> The unused tickets can be returned before Friday.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## unusual
 
@@ -6309,12 +6459,8 @@
 ## unusually
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unusually#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> She's unusually happy for someone who's just broken her leg.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The streets were unusually quiet that morning.
 
@@ -6333,12 +6479,8 @@
 ## unveil
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unveil#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> The car company are going to unveil the new sports car model next month.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The mayor unveiled a statue in the town square.
 
@@ -6347,12 +6489,12 @@
 ## unveiled
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unveiled#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> A new generation of unveiled women in Iran.
+> The newly unveiled design attracted a crowd.
 
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adj:02508277](https://wordnet.princeton.edu/)
+例句来源：逐词编写的学习例句
 
 ## unveiling
 
@@ -6397,32 +6539,58 @@
 ## unwary
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unwary#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The shrieks of unwary animals taken by surprise.
+> The steep steps can catch unwary visitors by surprise.
 
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adj:00162990](https://wordnet.princeton.edu/)
+例句来源：逐词编写的学习例句
+
+## unwashed
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unwashed#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Unwashed dishes filled the sink.
+
+例句来源：逐词编写的学习例句
+
+## unwavering
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unwavering#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Her unwavering support helped him continue.
+
+例句来源：逐词编写的学习例句
+
+## unwaveringly
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unwaveringly#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She supported her friend unwaveringly through the difficult year.
+
+例句来源：逐词编写的学习例句
 
 ## unwed
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unwed#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Should unweds living together receive the same social benefits as married couples?
+> The article discusses the experiences of unwed parents.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## unwelcome
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unwelcome#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> The English teacher ridiculed the foreign students' cultural differences, making them feel unwelcome.
-
-例句来源：[Tatoeba；作者：Amastan；句子 #11768382；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/11768382)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The extra charge came as an unwelcome surprise.
 
@@ -6431,46 +6599,38 @@
 ## unwell
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unwell#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> feel unwell
+> She went home early because she felt unwell.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## unwholesome
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unwholesome#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> unwholesome air, or food
+> An unwholesome smell came from the damp cellar.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## unwilling
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unwilling#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > They were unwilling to share the unfinished report.
 
 例句来源：逐词编写的学习例句
 
-> We are unwilling to restore his previous privileges after his betrayal of our trust.
-
-例句来源：Wiktionary 用例
-
 ## unwillingly
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unwillingly#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> He had sinned against her unwillingly.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adv:00305431](https://wordnet.princeton.edu/)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > She agreed unwillingly to postpone the trip.
 
@@ -6480,11 +6640,7 @@
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unwillingness#English)
 - 发音资料：核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> His unwillingness to cooperate vetoed every proposal I made.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset noun:04645599](https://wordnet.princeton.edu/)
+- 中文释义资料：逐词编写的中文释义
 
 > Their unwillingness to compromise slowed the talks.
 
@@ -6493,143 +6649,218 @@
 ## unwind
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unwind#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> After work, I like to unwind by smoking a pipe while reading the paper.
+> She unwound the cable and plugged in the lamp.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## unwinding
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unwinding#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She sat by the window, unwinding after a busy day.
+
+例句来源：逐词编写的学习例句
+
+## unwinds
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unwinds#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She unwinds the cable before setting up the equipment.
+
+例句来源：逐词编写的学习例句
 
 ## unwise
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unwise#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> unwise measures
+> It would be unwise to ignore the warning.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
-## unwittingly
+## unworried
 
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unwittingly#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unworried#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> She realized to her horror that she had unwittingly helped those people she most despised.
+> She seemed unworried about the delay.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## unworthy
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unworthy#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Dispel a student whose conduct is deemed unworthy.
+> The claim was unworthy of serious attention.
 
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adj:02588099](https://wordnet.princeton.edu/)
+例句来源：逐词编写的学习例句
+
+## unwound
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unwound#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She unwound the scarf from her neck.
+
+例句来源：逐词编写的学习例句
 
 ## unwrap
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unwrap#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Let's unwrap the gifts!
+> The child carefully unwrapped the present.
 
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset verb:01284271](https://wordnet.princeton.edu/)
+例句来源：逐词编写的学习例句
 
 ## unwritten
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unwritten#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> It's an unwritten rule that you lock the gate when you leave the swimming pool.
+> There is an unwritten rule that everyone helps clean up.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## unyielding
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unyielding#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She remained unyielding in her opposition to the plan.
+
+例句来源：逐词编写的学习例句
+
+## unyieldingly
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unyieldingly#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She stood unyieldingly by her decision.
+
+例句来源：逐词编写的学习例句
 
 ## unzip
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unzip#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Unzip the outfit carefully if the baby is squirming.
+> She unzipped her jacket when she came inside.
 
-例句来源：[Tatoeba；作者：mccarras；句子 #8985306；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/8985306)
+例句来源：逐词编写的学习例句
 
 ## unzipped
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unzipped#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Tom put his duffel bag down on the ground, and then unzipped it.
+> He noticed that his backpack was unzipped.
 
-例句来源：[Tatoeba；作者：CK；句子 #2957771；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/2957771)
+例句来源：逐词编写的学习例句
+
+## unzipping
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/unzipping#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> He was unzipping his bag when the phone rang.
+
+例句来源：逐词编写的学习例句
 
 ## up
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/up#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Is your new video up yet? I looked on the website, but I couldn't find it.
+> She looked up when I entered.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## upbeat
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/upbeat#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The notes are easy, but it's an upbeat tune and should be played fairly quickly.
+> She remained upbeat despite the delay.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## upbringing
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/upbringing#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Through her upbringing, Mildred's father had carefully programmed her to expect very little from life.
+> He had a happy upbringing in a small town.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## upcoming
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/upcoming#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The Federal budget lays out government spending for the upcoming budget year.
+> We are preparing for the upcoming conference.
 
-例句来源：Wiktionary 用例
-
-## upcycled
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/upcycled#English)
-- 发音资料：Wiktionary
+例句来源：逐词编写的学习例句
 
 ## update
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/update#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> I just made an update to the Wikipedia article on guerrillas.
+> Please update the contact list before Friday.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## updated
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/updated#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She updated the address in the file.
+
+例句来源：逐词编写的学习例句
+
+## updates
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/updates#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The team sends weekly updates on the project.
+
+例句来源：逐词编写的学习例句
 
 ## updo
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/updo#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > She chose a simple updo for the wedding.
 
@@ -6638,153 +6869,248 @@
 ## updraft
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/updraft#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The bird circled in an updraft.
+
+例句来源：逐词编写的学习例句
 
 ## upend
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/upend#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> By the middle of March 2020, the COVID-19 pandemic upended normal life for virtually all Americans.
+> The sudden move upended all our plans.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## upfield
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/upfield#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The defender sent the ball upfield.
+
+例句来源：逐词编写的学习例句
 
 ## upgrade
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/upgrade#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > We upgraded the computer’s memory.
 
 例句来源：逐词编写的学习例句
 
-> With my phone company, I get a free upgrade every twelve months if I keep topping up 10 pounds a month.
+## upgraded
 
-例句来源：Wiktionary 用例
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/upgraded#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The library upgraded its computer equipment.
+
+例句来源：逐词编写的学习例句
+
+## upgrades
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/upgrades#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The plan includes several equipment upgrades.
+
+例句来源：逐词编写的学习例句
+
+## upgrading
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/upgrading#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The school is upgrading its science equipment.
+
+例句来源：逐词编写的学习例句
 
 ## upheaval
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/upheaval#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The Industrial Revolution caused a great upheaval in society.
+> Moving countries caused a major upheaval in their lives.
 
-例句来源：[Tatoeba；作者：AlanF\_US；句子 #6993516；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/6993516)
+例句来源：逐词编写的学习例句
 
 ## uphill
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/uphill#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> My efforts felt like a constant uphill battle that I couldn't win.
+> The path goes uphill for about a kilometre.
 
-例句来源：[Tatoeba；作者：Nuel；句子 #13470151；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/13470151)
+例句来源：逐词编写的学习例句
 
 ## uphold
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/uphold#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> During the war, these guys sacrificed their life to uphold our freedom.
+> The organization aims to uphold high standards.
 
-例句来源：[Tatoeba；作者：Nuel；句子 #11419248；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/11419248)
+例句来源：逐词编写的学习例句
+
+## upholster
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/upholster#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> They upholstered the old chairs in blue fabric.
+
+例句来源：逐词编写的学习例句
+
+## upholsterer
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/upholsterer#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The upholsterer replaced the worn fabric on the chair.
+
+例句来源：逐词编写的学习例句
 
 ## upholstery
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/upholstery#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Upholstery fabric is thicker and better suited for regular wear.
+> The car’s upholstery is still in excellent condition.
 
-例句来源：[Tatoeba；作者：nana2capriccio；句子 #12457387；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/12457387)
+例句来源：逐词编写的学习例句
 
 ## upkeep
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/upkeep#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> I would enjoy having a swimming pool, but I don't want to deal with the upkeep.
+> The garden requires a lot of upkeep.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## upland
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/upland#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> They had a load of coals behind them—a fuel that could only be got into the upland by this particular route.
+> She grew up in an upland village.
 
-例句来源：[Tatoeba；作者：books；句子 #11473228；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/11473228)
+例句来源：逐词编写的学习例句
 
 ## uplift
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/uplift#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Tebboune is trying to uplift the living conditions of the people.
+> The concert gave the audience a sense of uplift.
 
-例句来源：[Tatoeba；作者：Amastan；句子 #11865678；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/11865678)
+例句来源：逐词编写的学习例句
 
 ## uplifting
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/uplifting#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Listening to whalesong can be very uplifting.
+> The film tells an uplifting story about friendship.
 
-例句来源：Wiktionary 用例
-
-## upliftment
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/upliftment#English)
+例句来源：逐词编写的学习例句
 
 ## uplink
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/uplink#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The station established a satellite uplink.
+
+例句来源：逐词编写的学习例句
 
 ## upload
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/upload#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> You will have to convert your photograph to a jpg format if you wish to upload it.
+> Please upload the signed form to the portal.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## uploaded
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/uploaded#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She uploaded the photograph to the shared album.
+
+例句来源：逐词编写的学习例句
 
 ## uploader
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/uploader#English)
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The original uploader corrected the file description.
+
+例句来源：逐词编写的学习例句
+
+## uploaders
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/uploaders#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The uploaders added descriptions to their videos.
+
+例句来源：逐词编写的学习例句
+
+## uploading
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/uploading#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She is uploading the photos to a private folder.
+
+例句来源：逐词编写的学习例句
+
+## uploads
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/uploads#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Recent uploads appear at the top of the page.
+
+例句来源：逐词编写的学习例句
 
 ## upmarket
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/upmarket#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> He turned up in well-cut clothes...and upmarket felt hats.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adj:02488118](https://wordnet.princeton.edu/)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The street is now lined with upmarket restaurants.
 
@@ -6793,68 +7119,62 @@
 ## upmost
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/upmost#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The bird landed on the upmost branch of the tree.
+
+例句来源：逐词编写的学习例句
 
 ## upon
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/upon#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Let us stop to think how much we depend upon atomic energy.
+> Upon arrival, please report to reception.
 
-例句来源：[Tatoeba；作者：CK；句子 #23518；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/23518)
+例句来源：逐词编写的学习例句
 
 ## upper
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/upper#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> genuine leather upper / balance manmade \[label on a shoe\]
+> The bedrooms are on the upper floor.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## uppercase
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/uppercase#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Uppercase letters; X and Y and Z etc.
+> Write your surname in uppercase letters.
 
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adj:01467700](https://wordnet.princeton.edu/)
+例句来源：逐词编写的学习例句
 
 ## uppercut
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/uppercut#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The bowler was bowling a bouncer so he uppercut the ball for six.
+> The commentator described the boxer’s uppercut.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## uppermost
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/uppermost#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> She couldn't reach the bowls on the uppermost shelf, so she made do with a mug.
+> Put the smooth side uppermost.
 
-例句来源：Wiktionary 用例
-
-## uppity
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/uppity#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
-
-> Getting a little uppity and needed to be slapped down.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adj:01540102](https://wordnet.princeton.edu/)
+例句来源：逐词编写的学习例句
 
 ## upregulation
 
@@ -6869,52 +7189,58 @@
 ## upright
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/upright#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> My brother didn't get angry when his son knocked over the lamp; he simply called the boy over and helped him set it upright again.
+> Keep the bottle upright during transport.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## uprising
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/uprising#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The novel is set during a popular uprising.
+
+例句来源：逐词编写的学习例句
 
 ## upriver
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/upriver#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> According to the map, there should be a bridge about three miles upriver.
+> We travelled upriver to a small village.
 
-例句来源：[Tatoeba；作者：CK；句子 #12120069；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/12120069)
+例句来源：逐词编写的学习例句
 
 ## uproar
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/uproar#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The archbishop caused an uproar with his dismissive comments about the nuns' concerns.
+> The announcement caused an uproar.
 
-例句来源：[Tatoeba；作者：AlanF\_US；句子 #2514682；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/2514682)
+例句来源：逐词编写的学习例句
 
 ## uproot
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/uproot#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Uproot the vine that has spread all over the garden.
+> The storm uprooted several trees.
 
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset verb:01566916](https://wordnet.princeton.edu/)
+例句来源：逐词编写的学习例句
 
 ## upscale
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/upscale#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Shall we go to a little more upscale restaurant?
-
-例句来源：[Tatoeba；作者：ismaximum；句子 #2171642；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/2171642)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > They opened an upscale restaurant near the station.
 
@@ -6923,41 +7249,62 @@
 ## upsell
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/upsell#English)
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> I gave up on subscribing to their SaaS because they wouldn't quit the constant attempts to upsell.
+> The agent tried to upsell us to a larger room.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## upset
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/upset#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> My children often get upset with their classmates.
+> She was upset about the cancelled trip.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## upsets
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/upsets#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> It upsets her when people cancel at the last minute.
+
+例句来源：逐词编写的学习例句
+
+## upsetting
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/upsetting#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The news was deeply upsetting.
+
+例句来源：逐词编写的学习例句
 
 ## upshot
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/upshot#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> One of the major upshots of prefab building is its decreased environmental impact.
+> The upshot is that we need another week.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## upside
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/upside#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> What was the idea of leaving the cup upside down last time?
+> The upside of the delay was that we had more time to prepare.
 
-例句来源：[Tatoeba；作者：CM；句子 #58076；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/58076)
+例句来源：逐词编写的学习例句
 
 ## upsilon
 
@@ -6969,88 +7316,71 @@
 
 例句来源：逐词编写的学习例句
 
-## upskirt
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/upskirt#English)
-- 发音资料：Wiktionary
-
-> Her upskirt is very frilly.
-
-例句来源：Wiktionary 用例
-
 ## upstage
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/upstage#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The minimalist play used no upstage scenery.
+> The actor moved upstage during the scene.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## upstairs
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/upstairs#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> We rent out the upstairs bedroom to a student.
+> The children are playing upstairs.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## upstanding
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/upstanding#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> An upstanding merchant will exchange a faulty product.
+> She was known as an upstanding member of the community.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## upstart
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/upstart#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The upstart tried to pass for a man of culture.
+> The established firms dismissed the small competitor as an upstart.
 
-例句来源：[Tatoeba；作者：AlanF\_US；句子 #271275；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/271275)
+例句来源：逐词编写的学习例句
 
 ## upstate
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/upstate#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > They moved to a small town in upstate New York.
 
 例句来源：逐词编写的学习例句
 
-> They went hunting in upstate New York.
-
-例句来源：Wiktionary 用例
-
 ## upstream
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/upstream#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Input entry is upstream of input validation in the runtime process.
+> The village is several kilometres upstream.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## upsurge
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/upsurge#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> An upsurge of emotion.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset noun:00364787](https://wordnet.princeton.edu/)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The exhibition brought an upsurge of interest in local history.
 
@@ -7059,22 +7389,18 @@
 ## upswing
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/upswing#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Newspapers reported an upswing in the company's sales last month.
+> The shop saw an upswing in sales after the redesign.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## uptake
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/uptake#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> They developed paper napkins with a greater uptake of liquids.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset noun:13571580](https://wordnet.princeton.edu/)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Uptake of the new training programme was lower than expected.
 
@@ -7083,118 +7409,108 @@
 ## uptick
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/uptick#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Many fear an uptick in the violence.
+> There was a slight uptick in attendance.
 
-例句来源：[Tatoeba；作者：sacredceltic；句子 #1282023；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/1282023)
+例句来源：逐词编写的学习例句
 
 ## uptime
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/uptime#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The dashboard displays the server’s uptime.
 
 例句来源：逐词编写的学习例句
 
-> The regular upkeep of our servers is paramount to ensuring high uptime.
-
-例句来源：[Tatoeba；作者：wireman；句子 #8010222；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/8010222)
-
 ## uptrend
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/uptrend#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> At Wall Street, some insiders made a killing by going short, when everyone had been sucked into an unsustainable uptrend.
+> The survey shows an uptrend in public transport use.
 
-例句来源：[Tatoeba；作者：pengpau；句子 #3284332；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/3284332)
+例句来源：逐词编写的学习例句
 
 ## upturn
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/upturn#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> You'll often see a sales upturn after returning to the full price.
+> The shop reported an upturn in sales.
 
-例句来源：[Tatoeba；作者：LK；句子 #8275973；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/8275973)
+例句来源：逐词编写的学习例句
 
 ## upturned
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/upturned#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> A small upturned nose.
+> She held out her upturned palms.
 
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adj:02140144](https://wordnet.princeton.edu/)
+例句来源：逐词编写的学习例句
 
 ## upvote
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/upvote#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
+- 发音资料：核对后整理；见逐词精讲核对资料
 - 中文释义资料：逐词编写的中文释义
 
 > I upvoted the answer because it explained the problem clearly.
 
 例句来源：逐词编写的学习例句
 
-> Tom uses sock puppet accounts to upvote his posts.
-
-例句来源：[Tatoeba；作者：deniko；句子 #9047760；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/9047760)
-
 ## upward
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/upward#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> with upward eye; with upward course
+> The chart shows an upward trend in demand.
 
-例句来源：Wiktionary 用例
-
-## upwardly
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/upwardly#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+例句来源：逐词编写的学习例句
 
 ## upwards
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/upwards#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The balloon drifted upwards into the sky.
+> The arrow points upwards.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## upwelling
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/upwelling#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Coastal upwelling brings deeper water towards the surface.
+
+例句来源：逐词编写的学习例句
 
 ## upwind
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/upwind#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The boat sailed slowly upwind.
+
+例句来源：逐词编写的学习例句
 
 ## uranium
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/uranium#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Nuclear power plants rely upon the fission of uranium to generate heat.
-
-例句来源：[Tatoeba；作者：Hybrid；句子 #2337196；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/2337196)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The museum label identifies uranium by the symbol U.
 
@@ -7213,22 +7529,18 @@
 ## urbane
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/urbane#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The host remained urbane even when the questions became awkward.
 
 例句来源：逐词编写的学习例句
 
-> The tall, dark and classically handsome actor was the epitome of urbane sophistication.
-
-例句来源：[Tatoeba；作者：Cangarejo；句子 #12087143；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/12087143)
-
 ## urbanism
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/urbanism#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The course explores urbanism through streets, housing and public space.
 
@@ -7247,16 +7559,12 @@
 ## urbanization
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/urbanization#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Rapid urbanization increased demand for housing and public transport.
 
 例句来源：逐词编写的学习例句
-
-> The city experienced a rapid urbanization after being declared as the capital.
-
-例句来源：[Tatoeba；作者：soliloquist；句子 #10303145；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/10303145)
 
 ## urbanize
 
@@ -7311,8 +7619,8 @@
 ## urethral
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/urethral#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The textbook labels the urethral opening on the diagram.
 
@@ -7328,29 +7636,31 @@
 
 例句来源：逐词编写的学习例句
 
+## urged
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/urged#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She urged us to leave before dark.
+
+例句来源：逐词编写的学习例句
+
 ## urgency
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/urgency#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Her voice conveyed the urgency of the situation.
 
 例句来源：逐词编写的学习例句
 
-> I have this sudden urgency to use the toilet.
-
-例句来源：Wiktionary 用例
-
 ## urgent
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/urgent#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> An urgent appeal was sent out for assistance.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The building needs urgent repairs.
 
@@ -7360,20 +7670,41 @@
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/urgently#English)
 - 发音资料：核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 中文释义资料：逐词编写的中文释义
 
 > Clean water was urgently needed after the flood.
 
 例句来源：逐词编写的学习例句
 
-> He pleaded urgently for release from what he considered to be an unjust imprisonment.
+## urges
 
-例句来源：Wiktionary 用例
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/urges#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The character struggles with competing urges to stay and leave.
+
+例句来源：逐词编写的学习例句
+
+## urging
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/urging#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She is urging the organisers to allow more time for questions.
+
+例句来源：逐词编写的学习例句
 
 ## urinal
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/urinal#English)
-- 发音资料：Wiktionary
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The restroom has three urinals.
+
+例句来源：逐词编写的学习例句
 
 ## urinary
 
@@ -7388,12 +7719,8 @@
 ## urinate
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/urinate#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Our new puppy still urinates on the carpet, but we're housebreaking her.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The doctor asked whether she needed to urinate more often than usual.
 
@@ -7402,12 +7729,8 @@
 ## urination
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/urination#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> One of the early noticeable symptoms is trouble with urination, but often there are no clear symptoms.
-
-例句来源：[Tatoeba；作者：fcbond；句子 #329625；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/329625)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The patient described pain during urination.
 
@@ -7416,16 +7739,12 @@
 ## urine
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/urine#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The clinic sent the urine sample to the laboratory.
 
 例句来源：逐词编写的学习例句
-
-> There was blood in his urine.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset noun:14855724](https://wordnet.princeton.edu/)
 
 ## urochord
 
@@ -7437,17 +7756,11 @@
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/uroid#English)
 
-## urologic
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/urologic#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
-
 ## urological
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/urological#English)
 - 发音资料：核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 中文释义资料：逐词编写的中文释义
 
 > The clinic provides urological care for adults and children.
 
@@ -7456,26 +7769,18 @@
 ## urologist
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/urologist#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Her doctor referred her to a urologist for further assessment.
 
 例句来源：逐词编写的学习例句
 
-> John Jackson is a urologist, his wife Tao is an ear-nose-throat specialist.
-
-例句来源：[Tatoeba；作者：maaster；句子 #10488040；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/10488040)
-
 ## urology
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/urology#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> I have a urology appointment on the 20th.
-
-例句来源：[Tatoeba；作者：shekitten；句子 #11091149；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/11091149)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The hospital’s urology department treats patients of different ages.
 
@@ -7502,26 +7807,18 @@
 ## usability
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/usability#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The team tested the usability of the booking form.
 
 例句来源：逐词编写的学习例句
 
-> Usability testing should include feedback from users with disabilities.
-
-例句来源：[Tatoeba；作者：bekindtoall；句子 #10250735；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/10250735)
-
 ## usable
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/usable#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> 2000 square feet of usable office space.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adj:00777650](https://wordnet.princeton.edu/)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The screen is cracked, but the phone is still usable.
 
@@ -7550,22 +7847,18 @@
 ## used
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/used#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The ground was littered with used syringes left behind by drug abusers.
+> I used to cycle to work, but now I take the bus.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## useful
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/useful#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> She found the information extremely useful.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > This map is useful for finding the smaller streets.
 
@@ -7574,21 +7867,18 @@
 ## usefully
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/usefully#English)
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> I would rather have it said, "He lived usefully," than, "He died rich."
+> The waiting time was usefully spent reviewing notes.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## usefulness
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/usefulness#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> The usefulness of his latest reorganisation has been disputed.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The usefulness of the guide depends on how often it is updated.
 
@@ -7597,12 +7887,8 @@
 ## useless
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/useless#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> I think it's useless to keep this discussion going. It's like talking to a brick wall.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Without the password, the file was useless to us.
 
@@ -7611,22 +7897,18 @@
 ## uselessly
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/uselessly#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The furniture was sitting around uselessly.
+> The key turned uselessly in the broken lock.
 
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adv:00491438](https://wordnet.princeton.edu/)
+例句来源：逐词编写的学习例句
 
 ## uselessness
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/uselessness#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> The best doctor is the one who knows about the uselessness of the majority of medicines.
-
-例句来源：[Tatoeba；作者：lucasmg123；句子 #8543518；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/8543518)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The experiment showed the uselessness of that shortcut.
 
@@ -7635,12 +7917,8 @@
 ## user
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/user#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> My friend is designing a user interface for the new operating system.
-
-例句来源：[Tatoeba；作者：sacredceltic；句子 #930450；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/930450)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > New users can try the service for a week.
 
@@ -7649,11 +7927,92 @@
 ## username
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/username#English)
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> His username and password on his Apple PC is VolvestarcXXX.
+> Choose a username that you can remember.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## usernames
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/usernames#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The students chose different usernames.
+
+例句来源：逐词编写的学习例句
+
+## users
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/users#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The guide is written for users with no previous experience.
+
+例句来源：逐词编写的学习例句
+
+## uses
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/uses#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> This simple tool has several uses in the kitchen.
+
+例句来源：逐词编写的学习例句
+
+## usher
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/usher#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The usher showed us to our seats.
+
+例句来源：逐词编写的学习例句
+
+## ushered
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ushered#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> We were ushered into a small waiting room.
+
+例句来源：逐词编写的学习例句
+
+## ushering
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ushering#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She spent the evening ushering at the theatre.
+
+例句来源：逐词编写的学习例句
+
+## ushers
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ushers#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The ushers helped everyone find a seat.
+
+例句来源：逐词编写的学习例句
+
+## using
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/using#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She opened the box using a small key.
+
+例句来源：逐词编写的学习例句
 
 ## usual
 
@@ -7668,64 +8027,60 @@
 ## usually
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/usually#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Except for one or two days a year, he usually walks to work.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > I usually walk to work, but today I took the bus.
 
 例句来源：逐词编写的学习例句
 
-## usurpation
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/usurpation#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
-
-> A succession of generals who ruled by usurpation.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset noun:00085432](https://wordnet.princeton.edu/)
-
-## usurper
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/usurper#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
-
 ## utilisation
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/utilisation#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Education is the acquisition of the art of the utilisation of knowledge.
+> The report examines resource utilisation.
 
-例句来源：[Tatoeba；作者：tijlan；句子 #2347498；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/2347498)
+例句来源：逐词编写的学习例句
+
+## utilise
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/utilise#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The design utilises the available space efficiently.
+
+例句来源：逐词编写的学习例句
 
 ## utilitarian
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/utilitarian#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The room had plain, utilitarian furniture.
 
 例句来源：逐词编写的学习例句
 
-> The study of history offers to individuals major utilitarian learning outcomes.
-
-例句来源：[Tatoeba；作者：illiterate；句子 #8314228；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/8314228)
-
 ## utilitarianism
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/utilitarianism#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The class discussed whether utilitarianism gives enough weight to individual rights.
+
+例句来源：逐词编写的学习例句
+
+## utilities
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/utilities#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The brochure lists the utilities available at the campsite.
 
 例句来源：逐词编写的学习例句
 
@@ -7742,16 +8097,12 @@
 ## utilization
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/utilization#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The dashboard shows server utilization throughout the day.
 
 例句来源：逐词编写的学习例句
-
-> To improve profits, we need to increase the utilization of our factory.
-
-例句来源：[Tatoeba；作者：Tangobango；句子 #7123778；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/7123778)
 
 ## utilize
 
@@ -7763,19 +8114,35 @@
 
 例句来源：逐词编写的学习例句
 
+## utilized
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/utilized#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The design utilized space under the stairs.
+
+例句来源：逐词编写的学习例句
+
+## utilizing
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/utilizing#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The design saves money by utilizing materials already on site.
+
+例句来源：逐词编写的学习例句
+
 ## utmost
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/utmost#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The documents must be handled with the utmost care.
 
 例句来源：逐词编写的学习例句
-
-> the utmost misery or happiness
-
-例句来源：Wiktionary 用例
 
 ## utopia
 
@@ -7790,72 +8157,62 @@
 ## utopian
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/utopian#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
+- 发音资料：核对后整理；见逐词精讲核对资料
 - 中文释义资料：逐词编写的中文释义
 
 > The architect’s utopian vision placed every home close to a public garden.
 
 例句来源：逐词编写的学习例句
 
-> utopian happiness
-
-例句来源：Wiktionary 用例
-
 ## utter
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/utter#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Sally’s car uttered a hideous shriek when she applied the brakes.
+> The room fell into utter silence.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## utterance
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/utterance#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> He has a good utterance.
+> Every utterance was recorded for the study.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## utterly
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/utterly#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Well, now we are utterly lost.
+> The two versions are utterly different.
 
-例句来源：Wiktionary 用例
-
-## utters
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/utters#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
-
-> A utters locution B, meaning illocution C, and resulting in perlocution D.
-
-例句来源：[Tatoeba；作者：AlanF\_US；句子 #5275488；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/5275488)
+例句来源：逐词编写的学习例句
 
 ## uvea
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/uvea#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The diagram shows the three main parts of the uvea.
+
+例句来源：逐词编写的学习例句
 
 ## uveitis
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/uveitis#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Intermediate uveitis is often characterized by the sudden presence of floaters.
+> The glossary explains the difference between uveitis and conjunctivitis.
 
-例句来源：[Tatoeba；作者：Cangarejo；句子 #10724601；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/10724601)
+例句来源：逐词编写的学习例句
 
 ## uxoricide
 

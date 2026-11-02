@@ -5,23 +5,23 @@
     "03_词缀与组合形式": 813,
     "01_古典词根": 1598
   },
-  "unique_words": 28732,
-  "word_occurrences": 43527,
+  "unique_words": 34532,
+  "word_occurrences": 48314,
   "field_occurrences": {
-    "ipa": 41769,
-    "zh": 42320,
-    "etym": 43352,
-    "example": 37369,
-    "split": 40473
+    "ipa": 48097,
+    "zh": 48117,
+    "etym": 48210,
+    "example": 47302,
+    "split": 47769
   },
   "field_unique": {
-    "ipa": 27713,
-    "zh": 28018,
-    "etym": 28601,
-    "example": 25123,
-    "split": 26359
+    "ipa": 34321,
+    "zh": 34344,
+    "etym": 34433,
+    "example": 33588,
+    "split": 34003
   },
-  "empty_entries": 59,
+  "empty_entries": 47,
   "source_rows": 1680,
   "manual_root_notes": 83,
   "wordfreq_version": "3.1.1",

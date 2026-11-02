@@ -2,15 +2,25 @@
 
 [返回来源目录](README.md)
 
+## quack
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/quack#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The ducks began to quack as we approached the pond.
+
+例句来源：逐词编写的学习例句
+
 ## quackery
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/quackery#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> A new online database is fighting medical quackery by helping people easily find out if their doctor has a license.
+> The exhibition explores the history of medical quackery.
 
-例句来源：[Tatoeba；作者：Cangarejo；句子 #12009152；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/12009152)
+例句来源：逐词编写的学习例句
 
 ## quad
 
@@ -25,7 +35,12 @@
 ## quadcopter
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/quadcopter#English)
-- 发音资料：Wiktionary
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The quadcopter hovered above the field.
+
+例句来源：逐词编写的学习例句
 
 ## quadragenarian
 
@@ -113,16 +128,12 @@
 ## quadrilateral
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/quadrilateral#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Draw a quadrilateral with no parallel sides.
 
 例句来源：逐词编写的学习例句
-
-> The Venetian quadrilateral comprised Mantua, Peschiera, Verona, and Legnano.
-
-例句来源：Wiktionary 用例
 
 ## quadriliteral
 
@@ -137,12 +148,8 @@
 ## quadrillion
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/quadrillion#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> In England they call a septillion a quadrillion.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset noun:13753067](https://wordnet.princeton.edu/)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The simulation involved more than a quadrillion calculations.
 
@@ -158,12 +165,6 @@
 
 例句来源：逐词编写的学习例句
 
-## quadriplegic
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/quadriplegic#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
-
 ## quadrumanous
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/quadrumanous#English)
@@ -177,8 +178,8 @@
 ## quadruped
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/quadruped#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The horse is a familiar example of a quadruped.
 
@@ -197,12 +198,8 @@
 ## quadruple
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/quadruple#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> He's quite an athlete and can do quadruple jumps with ease.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The expansion will quadruple the warehouse’s storage capacity.
 
@@ -258,14 +255,45 @@
 
 例句来源：逐词编写的学习例句
 
+## quake
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/quake#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The ground began to quake beneath our feet.
+
+例句来源：逐词编写的学习例句
+
+## quaked
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/quaked#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The windows quaked as the heavy trucks passed.
+
+例句来源：逐词编写的学习例句
+
+## quakes
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/quakes#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Several small quakes were recorded overnight.
+
+例句来源：逐词编写的学习例句
+
 ## quaking
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/quaking#English)
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Many hypotheses have been put forward to explain how leaf quaking benefits Populus.
+> The children were quaking with fear during the storm.
 
-例句来源：[Tatoeba；作者：atlilobya；句子 #8809464；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/8809464)
+例句来源：逐词编写的学习例句
 
 ## qualification
 
@@ -277,98 +305,175 @@
 
 例句来源：逐词编写的学习例句
 
+## qualifications
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/qualifications#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The notice lists the qualifications needed for the role.
+
+例句来源：逐词编写的学习例句
+
+## qualified
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/qualified#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> A qualified electrician checked the wiring.
+
+例句来源：逐词编写的学习例句
+
 ## qualifier
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/qualifier#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The tournament was won by a late qualifier.
+> The team won its first qualifier.
 
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset noun:10498196](https://wordnet.princeton.edu/)
+例句来源：逐词编写的学习例句
 
 ## qualify
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/qualify#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> to qualify seven balls you need at least fourteen catches
+> The team qualified for the final.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## qualifying
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/qualifying#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She is close to qualifying for the final.
+
+例句来源：逐词编写的学习例句
 
 ## qualitative
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/qualitative#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Qualitative analysis determines the chemical constituents of a substance or mixture.
+> The study uses qualitative interviews to explore people’s experiences.
 
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adj:01914521](https://wordnet.princeton.edu/)
+例句来源：逐词编写的学习例句
 
-## qualitatively
+## qualities
 
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/qualitatively#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/qualities#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> This discoloration qualitatively suggests that the substance is low in inorganic iron.
+> Patience is one of her best qualities.
 
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adv:00436676](https://wordnet.princeton.edu/)
+例句来源：逐词编写的学习例句
 
 ## quality
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/quality#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> For this building project we need to use quality materials that will last for many decades.
+> The company focuses on quality rather than quantity.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## quanta
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/quanta#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> In this model, energy is exchanged in discrete quanta.
+
+例句来源：逐词编写的学习例句
 
 ## quantifiable
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/quantifiable#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-## quantifier
+> The project produced quantifiable improvements in speed.
 
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/quantifier#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+例句来源：逐词编写的学习例句
 
-## quantitatively
+## quantify
 
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/quantitatively#English)
-- 中文释义资料：ECDICT
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/quantify#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> This can be expressed quantitatively.
+> The team tried to quantify the time saved by the new tool.
 
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adv:00246547](https://wordnet.princeton.edu/)
+例句来源：逐词编写的学习例句
 
-## quantization
+## quantitative
 
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/quantization#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/quantitative#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-## quantized
+> The report includes a quantitative comparison of the two designs.
 
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/quantized#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+例句来源：逐词编写的学习例句
+
+## quantities
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/quantities#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The recipe needs only small quantities of each spice.
+
+例句来源：逐词编写的学习例句
+
+## quantity
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/quantity#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Only a small quantity of water is needed.
+
+例句来源：逐词编写的学习例句
+
+## quantum
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/quantum#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The lecture introduced the idea of a quantum of energy.
+
+例句来源：逐词编写的学习例句
+
+## quarrel
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/quarrel#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> They quarrelled over a small misunderstanding.
+
+例句来源：逐词编写的学习例句
 
 ## quarrelsome
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/quarrelsome#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> She's too quarrelsome to participate in a civil conversation.
+> The character becomes quarrelsome whenever he is tired.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## quart
 
@@ -393,12 +498,8 @@
 ## quarterback
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/quarterback#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Quarterback is the most important position on the team.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset noun:00726567](https://wordnet.princeton.edu/)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The quarterback changed the play after looking at the defence.
 
@@ -407,8 +508,12 @@
 ## quarterdeck
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/quarterdeck#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The captain stood on the quarterdeck.
+
+例句来源：逐词编写的学习例句
 
 ## quarterfinal
 
@@ -423,12 +528,8 @@
 ## quarterly
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/quarterly#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> The arms of Hohenzollern is quarterly argent and sable.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The committee meets quarterly to review progress.
 
@@ -437,16 +538,12 @@
 ## quartermaster
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/quartermaster#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The quartermaster checked the supplies before the unit moved.
 
 例句来源：逐词编写的学习例句
-
-> The second-class quartermaster is an experienced sailor responsible for technical or logistical duties.
-
-例句来源：[Tatoeba；作者：Igider；句子 #13362949；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/13362949)
 
 ## quarters
 
@@ -468,6 +565,16 @@
 
 例句来源：逐词编写的学习例句
 
+## quartets
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/quartets#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She wrote three string quartets.
+
+例句来源：逐词编写的学习例句
+
 ## quartile
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/quartile#English)
@@ -478,21 +585,15 @@
 
 例句来源：逐词编写的学习例句
 
-## quartzite
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/quartzite#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
-
-> Quartzite is a white or pinkish rock, in which the dominant mineral is quartz.
-
-例句来源：[Tatoeba；作者：CM；句子 #11121897；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/11121897)
-
 ## quasar
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/quasar#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The telescope detected light from a distant quasar.
+
+例句来源：逐词编写的学习例句
 
 ## quash
 
@@ -557,8 +658,12 @@
 ## quasiparticle
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/quasiparticle#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The model describes the excitation as a quasiparticle.
+
+例句来源：逐词编写的学习例句
 
 ## quasiperfect
 
@@ -630,60 +735,95 @@
 
 例句来源：逐词编写的学习例句
 
+## quaver
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/quaver#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Her voice began to quaver as she spoke.
+
+例句来源：逐词编写的学习例句
+
+## quavered
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/quavered#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> “Are you sure?” she quavered.
+
+例句来源：逐词编写的学习例句
+
+## quavering
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/quavering#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> He answered in a quavering voice.
+
+例句来源：逐词编写的学习例句
+
+## quavers
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/quavers#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> His voice quavers when he talks about home.
+
+例句来源：逐词编写的学习例句
+
 ## quayside
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/quayside#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> I noticed that all day long men were working on the quayside.
+> People waited on the quayside as the boat arrived.
 
-例句来源：[Tatoeba；作者：jeedrek；句子 #2977167；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/2977167)
+例句来源：逐词编写的学习例句
 
 ## queen
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/queen#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> My mother was queen of the St. Patrick's Day parade when she was 19.
+> The queen greeted the crowd from the balcony.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
-## queenie
+## queens
 
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/queenie#English)
-- 发音资料：Wiktionary
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/queens#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The exhibition includes portraits of three queens.
+
+例句来源：逐词编写的学习例句
 
 ## queer
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/queer#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> I felt queer after eating those shrimp.
+> The library has a collection of queer literature.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## queerness
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/queerness#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> If you have to tolerate my queerness, you're missing the point entirely.
+> The essay explores queerness in contemporary poetry.
 
-例句来源：[Tatoeba；作者：shekitten；句子 #8690743；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/8690743)
-
-## quenching
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/quenching#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
-
-> The giraffes were quenching their thirst in the stagnant pool.
-
-例句来源：[Tatoeba；作者：Amastan；句子 #8557141；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/8557141)
+例句来源：逐词编写的学习例句
 
 ## query
 
@@ -718,12 +858,8 @@
 ## questionable
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/questionable#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> It is questionable if the universe is open or closed.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The report relies on figures of questionable accuracy.
 
@@ -732,16 +868,12 @@
 ## questionably
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/questionably#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The article used questionably obtained personal records.
 
 例句来源：逐词编写的学习例句
-
-> These were estates his father questionably acquired.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adv:00437796](https://wordnet.princeton.edu/)
 
 ## questionary
 
@@ -753,11 +885,21 @@
 
 例句来源：逐词编写的学习例句
 
+## questioned
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/questioned#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The editor questioned the accuracy of the figures.
+
+例句来源：逐词编写的学习例句
+
 ## questioner
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/questioner#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The next questioner wanted to know how much the project would cost.
 
@@ -766,16 +908,12 @@
 ## questioning
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/questioning#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > He gave me a questioning look when I arrived with three suitcases.
 
 例句来源：逐词编写的学习例句
-
-> Why do you have a questioning look? Are you puzzled about something?
-
-例句来源：Wiktionary 用例
 
 ## questioningly
 
@@ -794,6 +932,16 @@
 - 中文释义资料：逐词编写的中文释义
 
 > Please complete the questionnaire before leaving the workshop.
+
+例句来源：逐词编写的学习例句
+
+## questions
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/questions#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Please write down any questions you want to ask.
 
 例句来源：逐词编写的学习例句
 
@@ -817,87 +965,135 @@
 
 例句来源：逐词编写的学习例句
 
-## quibble
+## queued
 
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/quibble#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/queued#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> He harped on his quibble about how the dark red paint should be described as carmine rather than burgundy.
+> We queued outside for half an hour.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## queueing
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/queueing#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> People were queueing outside the theatre.
+
+例句来源：逐词编写的学习例句
+
+## queues
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/queues#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Long queues formed outside the entrance.
+
+例句来源：逐词编写的学习例句
+
+## queuing
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/queuing#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> We spent an hour queuing for tickets.
+
+例句来源：逐词编写的学习例句
 
 ## quick
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/quick#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> You have to be very quick to be able to compete in ad-lib theatrics.
+> Thanks for your quick reply.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## quicken
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/quicken#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> My heartbeat quickened when I heard him approach.
+> They quickened their pace as the rain began.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
-## quickens
+## quicker
 
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/quickens#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/quicker#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> There is a quicker route through the park.
+
+例句来源：逐词编写的学习例句
 
 ## quickie
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/quickie#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> We only have time for a quick quickie.
+> The meeting was a quickie, over in ten minutes.
 
-例句来源：[Tatoeba；作者：Amastan；句子 #11746856；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/11746856)
+例句来源：逐词编写的学习例句
+
+## quickly
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/quickly#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The weather changed quickly in the mountains.
+
+例句来源：逐词编写的学习例句
 
 ## quickness
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/quickness#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The quickness of the hand deceives the eye.
+> Her quickness of thought helped solve the puzzle.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## quicksand
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/quicksand#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> My feet were firmly lodged in the quicksand, and the more I struggled the more I sank into it.
+> The guide pointed out a patch of quicksand near the river.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## quicksilver
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/quicksilver#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The alchemist tried unsuccessfully to convert quicksilver into gold.
+> The old text refers to mercury as quicksilver.
 
-例句来源：[Tatoeba；作者：shekitten；句子 #11592849；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/11592849)
+例句来源：逐词编写的学习例句
 
 ## quickstep
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/quickstep#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> They danced the quickstep in the final round.
+
+例句来源：逐词编写的学习例句
 
 ## quiescence
 
@@ -932,54 +1128,48 @@
 ## quieten
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/quieten#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The class quietened down when the teacher began to speak.
 
 例句来源：逐词编写的学习例句
 
-> quieten down please, the speaker is going to start.
-
-例句来源：Wiktionary 用例
-
 ## quieter
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/quieter#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Can we move to a quieter table?
 
 例句来源：逐词编写的学习例句
 
-> The quieter you become, the more you are able to hear.
+## quietest
 
-例句来源：[Tatoeba；作者：naikodemus；句子 #1638176；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/1638176)
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/quietest#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The back room is the quietest place to read.
+
+例句来源：逐词编写的学习例句
 
 ## quietly
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/quietly#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > She closed the door quietly so as not to wake the baby.
 
 例句来源：逐词编写的学习例句
 
-> The class was listening quietly and intently.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adv:00229399](https://wordnet.princeton.edu/)
-
 ## quietness
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/quietness#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Fadil used darkness and quietness to slowly sneak into Layla's garden.
-
-例句来源：[Tatoeba；作者：OsoHombre；句子 #5839469；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/5839469)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > I enjoyed the quietness of the house in the early morning.
 
@@ -1005,16 +1195,25 @@
 
 例句来源：逐词编写的学习例句
 
-## quilter
+## quilt
 
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/quilter#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/quilt#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-## quilty
+> A patchwork quilt covered the bed.
 
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/quilty#English)
-- 中文释义资料：ECDICT
+例句来源：逐词编写的学习例句
+
+## quilts
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/quilts#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The exhibition displayed handmade quilts.
+
+例句来源：逐词编写的学习例句
 
 ## quinarius
 
@@ -1046,12 +1245,8 @@
 ## quinquennial
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/quinquennial#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> The Athenians, after the purification, celebrated, for the first time, the quinquennial festival of the Delian games.
-
-例句来源：[Tatoeba；作者：Cangarejo；句子 #11805873；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/11805873)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The institute publishes a quinquennial review of its research.
 
@@ -1060,12 +1255,8 @@
 ## quinquennium
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/quinquennium#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> During the quinquennium from 1991 to 1995, infant mortality increased.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The museum expanded considerably during its first quinquennium.
 
@@ -1074,8 +1265,12 @@
 ## quinquepartite
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/quinquepartite#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The chart shows a quinquepartite division of the material.
+
+例句来源：逐词编写的学习例句
 
 ## quintessence
 
@@ -1090,12 +1285,8 @@
 ## quintessential
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/quintessential#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Summer festivals and firework shows are a quintessential part of summer in that town.
-
-例句来源：[Tatoeba；作者：Lumi；句子 #13224380；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/13224380)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The locked room and hidden clues make this a quintessential detective story.
 
@@ -1104,12 +1295,8 @@
 ## quintessentially
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/quintessentially#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Carmela's captivating charm and warm personality are quintessentially Maltese.
-
-例句来源：[Tatoeba；作者：Amastan；句子 #11847195；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/11847195)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The building is quintessentially modern, with open spaces and clean lines.
 
@@ -1125,11 +1312,21 @@
 
 例句来源：逐词编写的学习例句
 
+## quintets
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/quintets#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The programme includes two piano quintets.
+
+例句来源：逐词编写的学习例句
+
 ## quintile
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/quintile#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The chart compares household spending across five income quintiles.
 
@@ -1145,24 +1342,25 @@
 
 例句来源：逐词编写的学习例句
 
-## quirkiness
+## quirk
 
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/quirkiness#English)
-- 中文释义资料：ECDICT
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/quirk#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Your quirkiness is so endearing.
+> One of her quirks is arranging books by colour.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## quirky
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/quirky#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> She has a quirky laugh.
+> The hotel has a quirky collection of old clocks.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## quit
 
@@ -1184,49 +1382,95 @@
 
 例句来源：逐词编写的学习例句
 
-## quitter
+## quitting
 
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/quitter#English)
-- 发音资料：Wiktionary
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/quitting#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Quitters are winners! If you can't quit on the first try, hang in there and try to quit again!
+> She is quitting her job at the end of the month.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## quiver
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/quiver#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Her lips began to quiver as she tried to speak.
+
+例句来源：逐词编写的学习例句
+
+## quivered
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/quivered#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Her lower lip quivered, but she said nothing.
+
+例句来源：逐词编写的学习例句
+
+## quivering
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/quivering#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> He answered in a quivering voice.
+
+例句来源：逐词编写的学习例句
+
+## quivers
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/quivers#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Her voice quivers whenever she mentions that day.
+
+例句来源：逐词编写的学习例句
+
+## quivery
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/quivery#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> There was a quivery note in her voice.
+
+例句来源：逐词编写的学习例句
 
 ## quixotic
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/quixotic#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> As quixotic as a restoration of medieval knighthood.
+> They called his plan to save every old building quixotic.
 
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adj:01837182](https://wordnet.princeton.edu/)
+例句来源：逐词编写的学习例句
 
 ## quiz
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/quiz#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> We came second in the pub quiz.
+> We had a short vocabulary quiz at the end of class.
 
-例句来源：Wiktionary 用例
-
-## quizlet
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/quizlet#English)
-- 发音资料：Wiktionary
+例句来源：逐词编写的学习例句
 
 ## quizzical
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/quizzical#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> His expression was half derisory, half quizzical.
+> She gave me a quizzical look when I asked for a spoon at the bakery.
 
-例句来源：[Tatoeba；作者：remline；句子 #10649860；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/10649860)
+例句来源：逐词编写的学习例句
 
 ## quota
 
@@ -1241,22 +1485,28 @@
 ## quotable
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/quotable#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> a quotable sentence
+> The speech contained several quotable lines.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## quotas
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/quotas#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Each team has different sales quotas.
+
+例句来源：逐词编写的学习例句
 
 ## quotation
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/quotation#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Let's get a quotation for repairing the roof before we decide whether it's worth doing.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The essay begins with a short quotation from a novel.
 
@@ -1265,14 +1515,30 @@
 ## quote
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/quote#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> After going over the hefty quotes, the board decided it was cheaper to have the project executed by its own staff.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The article quotes a sentence from her speech.
+
+例句来源：逐词编写的学习例句
+
+## quoted
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/quoted#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The article quoted several lines from the speech.
+
+例句来源：逐词编写的学习例句
+
+## quotes
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/quotes#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The article includes two quotes from the interview.
 
 例句来源：逐词编写的学习例句
 
@@ -1283,5 +1549,15 @@
 - 中文释义资料：逐词编写的中文释义
 
 > The quotient of twelve divided by three is four.
+
+例句来源：逐词编写的学习例句
+
+## quoting
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/quoting#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The essay begins by quoting a line from the poem.
 
 例句来源：逐词编写的学习例句

@@ -2,6 +2,16 @@
 
 [返回来源目录](README.md)
 
+## nachos
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nachos#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> We shared a plate of nachos.
+
+例句来源：逐词编写的学习例句
+
 ## nada
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nada#English)
@@ -12,15 +22,105 @@
 
 例句来源：逐词编写的学习例句
 
+## nag
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nag#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> I don’t want to nag, but the bins still need emptying.
+
+例句来源：逐词编写的学习例句
+
+## nagged
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nagged#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She nagged him to finish the repair before winter.
+
+例句来源：逐词编写的学习例句
+
+## nagging
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nagging#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> I had a nagging doubt about the figures.
+
+例句来源：逐词编写的学习例句
+
+## naggingly
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/naggingly#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> His face looked naggingly familiar.
+
+例句来源：逐词编写的学习例句
+
+## nags
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nags#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> A small doubt nags at me whenever I read the report.
+
+例句来源：逐词编写的学习例句
+
+## nah
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nah#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> “Would you like another cup?” “Nah, thanks.”
+
+例句来源：逐词编写的学习例句
+
 ## nail
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nail#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Yesterday my shirt got torn after I caught it on a nail.
+> He hammered a nail into the board.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## nailed
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nailed#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> He nailed the loose board back into place.
+
+例句来源：逐词编写的学习例句
+
+## nailing
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nailing#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> He was nailing the boards together.
+
+例句来源：逐词编写的学习例句
+
+## nails
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nails#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The carpenter put the nails in a small tin.
+
+例句来源：逐词编写的学习例句
 
 ## naissant
 
@@ -35,12 +135,8 @@
 ## naive
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/naive#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> He took part in the experiment as a naive subject.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adj:00937341](https://wordnet.princeton.edu/)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > I was naive to think the problem would solve itself.
 
@@ -49,22 +145,18 @@
 ## naively
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/naively#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> He believed, naively, that she would leave him her money.
+> I naively assumed that everyone had read the instructions.
 
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adv:00406157](https://wordnet.princeton.edu/)
+例句来源：逐词编写的学习例句
 
 ## naivety
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/naivety#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> I'm getting tired of your ignorant naivety.
-
-例句来源：[Tatoeba；作者：maaster；句子 #12008841；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/12008841)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Looking back, I am surprised by my own naivety.
 
@@ -73,97 +165,122 @@
 ## naked
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/naked#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> We naked apes must be ever watchful for thorns and poison ivy as we hike the trail.
+> The planet is visible to the naked eye.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## nakedly
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nakedly#English)
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> They were attacked as they huddled nakedly on the bare hill.
+> The proposal was nakedly self-interested.
 
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adv:00406470](https://wordnet.princeton.edu/)
+例句来源：逐词编写的学习例句
 
 ## nakedness
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nakedness#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The nakedness of woman is the work of God.
+> The sculpture explores nakedness without idealizing the body.
 
-例句来源：[Tatoeba；作者：Scott；句子 #413845；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/413845)
+例句来源：逐词编写的学习例句
 
 ## naloxone
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/naloxone#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
+- 中文释义资料：ECDICT；逐词编写的中文释义
 
 > Naloxone is a life-saving drug that can reverse the effects of an opioid overdose.
 
 例句来源：[Tatoeba；作者：Hybrid；句子 #4979595；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/4979595)
 
+> The article discusses naloxone distribution in the community.
+
+例句来源：逐词编写的学习例句
+
 ## name
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/name#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> I've never liked the name my parents gave me so I changed it at the age of twenty.
+> What name would you like us to use?
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## named
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/named#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The boat was named after the owner’s daughter.
+
+例句来源：逐词编写的学习例句
 
 ## nameless
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nameless#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The culprits shall remain nameless here, as some names have been changed to protect the guilty; just don't let it happen again.
+> One colleague, who shall remain nameless, forgot the keys.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## namely
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/namely#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Some of the students — namely Paul, Alice and Jake — seem to have trouble with geometry.
+> We need one thing, namely more time.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## nameplate
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nameplate#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> the brass nameplate on the doctor's front door
+> A brass nameplate was fixed beside the door.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## names
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/names#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> I am better at remembering faces than names.
+
+例句来源：逐词编写的学习例句
 
 ## namesake
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/namesake#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The statesman Winston Churchill has a namesake, the American novelist Winston Churchill.
+> She shares her name with her grandmother, her namesake.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## namespace
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/namespace#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The two libraries use different namespaces to avoid naming conflicts.
 
@@ -172,36 +289,68 @@
 ## nametag
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nametag#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> We'd better put nametags in the children's school uniforms, in case they get mixed up.
+> Everyone wore a nametag at the workshop.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
-## nanite
+## naming
 
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nanite#English)
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/naming#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She enjoyed naming the characters in her story.
+
+例句来源：逐词编写的学习例句
 
 ## nanny
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nanny#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The nanny was keeping a close watch on her little charges.
+> The family hired a nanny to look after their two children.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## nanometer
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nanometer#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The layer is ten nanometers thick.
+
+例句来源：逐词编写的学习例句
+
+## nanometers
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nanometers#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The coating is only a few nanometers thick.
+
+例句来源：逐词编写的学习例句
+
+## nanometre
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nanometre#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The coating is only a few nanometres thick.
+
+例句来源：逐词编写的学习例句
 
 ## nanoparticle
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nanoparticle#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> The ingredients in this thermoelectric recipe include carbon nanotubes, polymers and a carbon material called graphene, which is a nanoparticle.
-
-例句来源：[Tatoeba；作者：Cangarejo；句子 #11142592；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/11142592)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The researchers measured the size of each nanoparticle.
 
@@ -210,13 +359,18 @@
 ## nanoscale
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nanoscale#English)
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The microscope reveals structures at the nanoscale.
+
+例句来源：逐词编写的学习例句
 
 ## nanoscience
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nanoscience#English)
 - 发音资料：核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 中文释义资料：逐词编写的中文释义
 
 > The nanoscience team studies how particle size affects colour.
 
@@ -225,22 +379,28 @@
 ## nanosecond
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nanosecond#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> I just know that the nanosecond I take my eyes off my phone, somebody's going to steal it.
+> The pulse lasted only a few nanoseconds.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## nanoseconds
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nanoseconds#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The instrument measures delays in nanoseconds.
+
+例句来源：逐词编写的学习例句
 
 ## nanotechnology
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nanotechnology#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Benedito's work has implications for the future of nanotechnology.
-
-例句来源：[Tatoeba；作者：Amastan；句子 #11738041；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/11738041)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The project uses nanotechnology to alter the properties of the coating.
 
@@ -249,28 +409,22 @@
 ## nanotube
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nanotube#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Further research is needed before a carbon nanotube biosensor for salmonella is available commercially.
+> The diagram shows a carbon nanotube.
 
-例句来源：[Tatoeba；作者：Cangarejo；句子 #12392881；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/12392881)
+例句来源：逐词编写的学习例句
 
 ## nap
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nap#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Feeling tired after his walk in the country, he took a nap.
+> She took a short nap after lunch.
 
-例句来源：[Tatoeba；作者：CM；句子 #279102；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/279102)
-
-## naphthalene
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/naphthalene#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+例句来源：逐词编写的学习例句
 
 ## napiform
 
@@ -281,23 +435,32 @@
 ## napkin
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/napkin#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Tom wrote his number on a napkin and handed it to Mary.
+> She placed a napkin beside each plate.
 
-例句来源：[Tatoeba；作者：CK；句子 #7539246；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/7539246)
+例句来源：逐词编写的学习例句
 
-## napper
+## napkins
 
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/napper#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/napkins#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Could you put some napkins on the table?
+
+例句来源：逐词编写的学习例句
 
 ## nappy
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nappy#English)
-- 发音资料：Wiktionary
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> He changed the baby’s nappy.
+
+例句来源：逐词编写的学习例句
 
 ## naptime
 
@@ -312,32 +475,32 @@
 ## narcissism
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/narcissism#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Narcissism, paranoia and a tendency to bullying have characterized Tom since his unhappy childhood.
+> The review criticized the memoir’s narcissism.
 
-例句来源：[Tatoeba；作者：Objectivesea；句子 #9408149；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/9408149)
+例句来源：逐词编写的学习例句
 
 ## narcissist
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/narcissist#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The CEO of this large company is a narcissist and a sociopath.
+> The critic described the narrator as a narcissist.
 
-例句来源：[Tatoeba；作者：Hybrid；句子 #5287196；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/5287196)
+例句来源：逐词编写的学习例句
 
 ## narcissistic
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/narcissistic#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Narcissistic individuals tend to exploit and manipulate others to achieve their goals.
+> The essay criticizes the speaker’s narcissistic tone.
 
-例句来源：[Tatoeba；作者：Amastan；句子 #11766936；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/11766936)
+例句来源：逐词编写的学习例句
 
 ## narcolepsy
 
@@ -372,11 +535,12 @@
 ## narcotics
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/narcotics#English)
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Sami turned to alcohol and narcotics to stop the pain.
+> The novel follows a detective in the narcotics division.
 
-例句来源：[Tatoeba；作者：OsoHombre；句子 #5921260；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/5921260)
+例句来源：逐词编写的学习例句
 
 ## narial
 
@@ -423,74 +587,102 @@
 ## narratively
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/narratively#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> The film was technically superb but narratively muddled.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The quiet scene is narratively important because it explains her decision.
+
+例句来源：逐词编写的学习例句
+
+## narratives
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/narratives#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The collection brings together personal narratives from several generations.
 
 例句来源：逐词编写的学习例句
 
 ## narrator
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/narrator#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Morgan Freeman was the narrator of March of the Penguins.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The narrator remembers the village very differently from the other characters.
+
+例句来源：逐词编写的学习例句
+
+## narrators
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/narrators#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The novel uses two different narrators.
 
 例句来源：逐词编写的学习例句
 
 ## narrow
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/narrow#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The Republicans won by a narrow majority.
+> The road narrows just beyond the bridge.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## narrowband
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/narrowband#English)
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The receiver is designed for narrowband signals.
+
+例句来源：逐词编写的学习例句
 
 ## narrower
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/narrower#English)
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> This sidewalk is a lot narrower than the one across the road.
+> The path becomes narrower near the river.
 
-例句来源：[Tatoeba；作者：raggione；句子 #2601932；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/2601932)
+例句来源：逐词编写的学习例句
+
+## narrowest
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/narrowest#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The river is easiest to cross at its narrowest point.
+
+例句来源：逐词编写的学习例句
 
 ## narrowly
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/narrowly#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> They regarded the new idea rather narrowly.
+> The car narrowly missed the tree.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## narrowness
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/narrowness#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The narrowness of the road.
+> The narrowness of the lane made deliveries difficult.
 
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset noun:05136788](https://wordnet.princeton.edu/)
+例句来源：逐词编写的学习例句
 
 ## nasal
 
@@ -515,20 +707,12 @@
 ## nasally
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nasally#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > He spoke nasally as part of his imitation of the character.
 
 例句来源：逐词编写的学习例句
-
-> The loud, nasally voice from behind the door attracted my attention.
-
-例句来源：Wiktionary 用例
-
-> speak nasally
-
-例句来源：Wiktionary 用例
 
 ## nascency
 
@@ -553,23 +737,27 @@
 ## nastiness
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nastiness#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The nastiness of the comment shocked her.
+
+例句来源：逐词编写的学习例句
 
 ## nasty
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nasty#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> He caught a nasty cold because he stayed up late last night.
+> There was a nasty smell in the cupboard.
 
-例句来源：[Tatoeba；作者：CK；句子 #244813；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/244813)
+例句来源：逐词编写的学习例句
 
 ## natal
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/natal#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
+- 发音资料：核对后整理；见逐词精讲核对资料
 - 中文释义资料：逐词编写的中文释义
 
 > The birds returned to their natal island.
@@ -599,12 +787,8 @@
 ## national
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/national#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Import tariffs were raised for the national interest.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The story became national news.
 
@@ -613,12 +797,8 @@
 ## nationalism
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nationalism#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Communists, socialists, and Islamists are against nationalism.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The lecture traced the development of nationalism in Europe.
 
@@ -627,36 +807,28 @@
 ## nationalist
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nationalist#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The historian studied the rise of nationalist movements.
 
 例句来源：逐词编写的学习例句
 
-> You are either a globalist or a nationalist; one cannot be both.
-
-例句来源：Wiktionary 用例
-
 ## nationalistic
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nationalistic#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Algeria is nationalistic about the way it leads its economy.
+> The speech used strongly nationalistic language.
 
-例句来源：[Tatoeba；作者：Amastan；句子 #8560889；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/8560889)
+例句来源：逐词编写的学习例句
 
 ## nationality
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nationality#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> By living in the country for five years, you are entitled to get nationality.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The form asks for your nationality and place of birth.
 
@@ -665,8 +837,8 @@
 ## nationalization
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nationalization#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The book examines the nationalization of the railways.
 
@@ -685,32 +857,52 @@
 ## nationally
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nationally#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The programme is broadcast nationally.
 
 例句来源：逐词编写的学习例句
 
-> The speech was televised nationally.
+## nationals
 
-例句来源：Wiktionary 用例
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nationals#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The novel follows several foreign nationals living in the same city.
+
+例句来源：逐词编写的学习例句
 
 ## nationhood
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nationhood#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The book explores the symbols that shaped a sense of nationhood.
+
+例句来源：逐词编写的学习例句
+
+## nations
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nations#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The exhibition brings together artists from several nations.
+
+例句来源：逐词编写的学习例句
 
 ## nationwide
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nationwide#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> There was a nationwide search on for the bankrobbers.
+> The researchers carried out a nationwide survey.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## native
 
@@ -725,22 +917,28 @@
 ## natively
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/natively#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > She speaks both languages natively.
 
 例句来源：逐词编写的学习例句
 
-> This is a Microsoft Windows application, so you can't run it natively on an Apple Mac.
+## natives
 
-例句来源：Wiktionary 用例
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/natives#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The two writers are natives of the same town.
+
+例句来源：逐词编写的学习例句
 
 ## nativism
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nativism#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The seminar discussed nativism in theories of language.
 
@@ -749,8 +947,8 @@
 ## nativist
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nativist#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The paper compares nativist and learning-based theories of language.
 
@@ -766,38 +964,21 @@
 
 例句来源：逐词编写的学习例句
 
-## natty
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/natty#English)
-- 发音资料：Wiktionary
-
-> natty gains
-
-例句来源：Wiktionary 用例
-
 ## natural
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/natural#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > She gave a warm, natural smile.
 
 例句来源：逐词编写的学习例句
 
-> The species will be under threat if its natural habitat is destroyed.
-
-例句来源：Wiktionary 用例
-
 ## naturalism
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/naturalism#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Mannerism is an art style characterized by deviation from earlier Renaissance works, no longer striving for naturalism but for a certain unnatural beauty.
-
-例句来源：[Tatoeba；作者：rul；句子 #13126828；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/13126828)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The course compares realism and naturalism in literature.
 
@@ -806,30 +987,22 @@
 ## naturalist
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/naturalist#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > A naturalist helped us identify the birds.
 
 例句来源：逐词编写的学习例句
 
-> John Muir was a famous naturalist who founded the Sierra Club.
-
-例句来源：[Tatoeba；作者：orcrist；句子 #2332767；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/2332767)
-
 ## naturalistic
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/naturalistic#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The actors used quiet, naturalistic dialogue.
 
 例句来源：逐词编写的学习例句
-
-> The school of naturalistic writers.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adj:01979985](https://wordnet.princeton.edu/)
 
 ## naturality
 
@@ -864,12 +1037,8 @@
 ## naturally
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/naturally#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Although he was unused to the situation, he tried to act naturally.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > These colours occur naturally in the stone.
 
@@ -878,12 +1047,8 @@
 ## naturalness
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/naturalness#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> He accepted the naturalness of death.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset noun:04785908](https://wordnet.princeton.edu/)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The actor’s naturalness made the scene believable.
 
@@ -903,11 +1068,7 @@
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/natured#English)
 - 发音资料：核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Is there a single good natured person in this world?
-
-例句来源：[Tatoeba；作者：tsp\_2；句子 #10066202；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/10066202)
+- 中文释义资料：逐词编写的中文释义
 
 > She described him as good-natured.
 
@@ -916,12 +1077,8 @@
 ## naturist
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/naturist#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> I am a naturist and I love it.
-
-例句来源：[Tatoeba；作者：thevikas；句子 #11110418；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/11110418)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The guide marks the naturist beach on the map.
 
@@ -930,8 +1087,8 @@
 ## naturopathic
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/naturopathic#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The article describes the history of naturopathic practice.
 
@@ -940,28 +1097,32 @@
 ## naught
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/naught#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Naught can come of this, you mark my words.
+> Months of planning came to naught when the event was cancelled.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## naughtiness
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/naughtiness#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The children’s naughtiness caused a little chaos.
+
+例句来源：逐词编写的学习例句
 
 ## naughty
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/naughty#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> If I see you send another naughty email to your friends, you will be forbidden from using the computer!
+> The naughty puppy ran off with a sock.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## nausea
 
@@ -1006,26 +1167,18 @@
 ## nauseous
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nauseous#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > I felt nauseous after looking at my phone throughout the car journey.
 
 例句来源：逐词编写的学习例句
 
-> The more Ziri avoided thinking about vomiting, the more nauseous he got.
-
-例句来源：[Tatoeba；作者：Amastan；句子 #10862014；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/10862014)
-
 ## nautical
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nautical#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> I was mostly unfamiliar with the nautical terms used in the sailing documentary.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The museum explains several nautical terms used by sailors.
 
@@ -1044,16 +1197,12 @@
 ## naval
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/naval#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The ship returned to its naval base.
 
 例句来源：逐词编写的学习例句
-
-> naval architect
-
-例句来源：Wiktionary 用例
 
 ## nave
 
@@ -1088,12 +1237,8 @@
 ## navigate
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/navigate#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> It was difficult to navigate back to the home page.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > We used a paper map to navigate the old town.
 
@@ -1102,12 +1247,8 @@
 ## navigation
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/navigation#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> An ocean-going yachtsman must be competent at night navigation
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The boat carried basic navigation equipment.
 
@@ -1117,15 +1258,11 @@
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/navigational#English)
 - 发音资料：核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 中文释义资料：逐词编写的中文释义
 
 > The vessel carries modern navigational equipment.
 
 例句来源：逐词编写的学习例句
-
-> Where did you put my navigational instruments?
-
-例句来源：[Tatoeba；作者：verdulo；句子 #2798524；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/2798524)
 
 ## navigator
 
@@ -1134,6 +1271,16 @@
 - 中文释义资料：逐词编写的中文释义
 
 > The navigator checked our position before we changed course.
+
+例句来源：逐词编写的学习例句
+
+## navigators
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/navigators#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The navigators checked the charts before departure.
 
 例句来源：逐词编写的学习例句
 
@@ -1147,6 +1294,16 @@
 
 例句来源：逐词编写的学习例句
 
+## nay
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nay#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Three members voted nay on the proposal.
+
+例句来源：逐词编写的学习例句
+
 ## naysayer
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/naysayer#English)
@@ -1157,95 +1314,115 @@
 
 例句来源：逐词编写的学习例句
 
-## ne
+## naïve
 
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ne#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/na%C3%AFve#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> In the presence of another negative word, the word "ne" is omitted.
+> It was naïve to expect everyone to agree immediately.
 
-例句来源：[Tatoeba；作者：Dejo；句子 #2758931；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/2758931)
+例句来源：逐词编写的学习例句
 
 ## near
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/near#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> I can't see near objects very clearly without my glasses.
+> The hotel is near the station.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## nearby
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nearby#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> He stopped at a nearby store for some groceries.
+> We found a nearby cafe.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## nearer
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nearer#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> We moved nearer to the window.
+
+例句来源：逐词编写的学习例句
+
+## nearest
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nearest#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Where is the nearest bus stop?
+
+例句来源：逐词编写的学习例句
 
 ## nearly
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nearly#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> He was (so/very) nearly over the worst part of his college degree.
+> We have nearly finished the work.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## nearness
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nearness#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> When approaching the hot springs, we became aware of their nearness by the sulphurous smell that came wafting towards us.
+> The nearness of the sea keeps the air mild.
 
-例句来源：[Tatoeba；作者：Cangarejo；句子 #11710534；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/11710534)
+例句来源：逐词编写的学习例句
 
 ## neat
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/neat#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Having the two protagonists meet in the last act was a particularly neat touch.
+> Her notes were written in neat handwriting.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## neatly
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/neatly#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Mary neatly folded her clothes and placed them in her dresser drawers.
+> The towels were neatly folded on the shelf.
 
-例句来源：[Tatoeba；作者：Hybrid；句子 #5393865；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/5393865)
+例句来源：逐词编写的学习例句
 
 ## neatness
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/neatness#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The neatness of his attire was almost incredible.
+> The teacher praised the neatness of her work.
 
-例句来源：[Tatoeba；作者：Hybrid；句子 #8828623；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/8828623)
+例句来源：逐词编写的学习例句
 
 ## neato
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/neato#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Oh, neato! My car is fixed.
+> “Neato!” she said when the model lit up.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## nebula
 
@@ -1270,8 +1447,8 @@
 ## nebulizer
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nebulizer#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The case contains a portable nebulizer and its accessories.
 
@@ -1290,42 +1467,52 @@
 ## necessarily
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/necessarily#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> It is not necessarily true that children get their morals from their parents.
+> A higher price does not necessarily mean better quality.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## necessary
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/necessary#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> It is absolutely necessary that you call and confirm your appointment.
+> Bring the necessary documents to the appointment.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## necessities
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/necessities#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The boxes contained food, blankets and other necessities.
+
+例句来源：逐词编写的学习例句
+
+## necessity
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/necessity#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The experience taught us the necessity of careful planning.
+
+例句来源：逐词编写的学习例句
 
 ## neck
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/neck#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Giraffes have long necks.
+> He turned his head and stretched his neck.
 
-例句来源：Wiktionary 用例
-
-## necked
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/necked#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
-
-## necker
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/necker#English)
+例句来源：逐词编写的学习例句
 
 ## neckerchief
 
@@ -1340,42 +1527,58 @@
 ## necklace
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/necklace#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> a necklace of coral islands
+> She wore a simple silver necklace.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## necklaces
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/necklaces#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The box contained two silver necklaces.
+
+例句来源：逐词编写的学习例句
 
 ## neckline
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/neckline#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> I didn't think Mary's neckline was too revealing.
+> The dress has a simple round neckline.
 
-例句来源：[Tatoeba；作者：ddnktr；句子 #13148372；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/13148372)
+例句来源：逐词编写的学习例句
+
+## necks
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/necks#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The birds stretched their necks towards the food.
+
+例句来源：逐词编写的学习例句
 
 ## necktie
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/necktie#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> He stood in front of the mirror tightening his necktie.
+> He loosened his necktie after the meeting.
 
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset noun:03815615](https://wordnet.princeton.edu/)
+例句来源：逐词编写的学习例句
 
 ## necromancer
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/necromancer#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> The necromancer had four corpse servants.
-
-例句来源：[Tatoeba；作者：shekitten；句子 #9290396；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/9290396)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The player chose a necromancer who could summon skeletal guards.
 
@@ -1404,36 +1607,22 @@
 ## necropolis
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/necropolis#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Archaeologists mapped the tombs in the ancient necropolis.
 
 例句来源：逐词编写的学习例句
 
-> Thirteen completely sealed wooden coffins have been discovered in the necropolis of Saqqara in Egypt.
-
-例句来源：[Tatoeba；作者：Hybrid；句子 #9025945；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/9025945)
-
-## necropsy
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/necropsy#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
-
 ## necrosis
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/necrosis#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The report describes a small area of tissue necrosis.
 
 例句来源：逐词编写的学习例句
-
-> Usually gangrene will follow necrosis unless the dead tissue is resected.
-
-例句来源：Wiktionary 用例
 
 ## necrotic
 
@@ -1448,8 +1637,12 @@
 ## nectarine
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nectarine#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She sliced a ripe nectarine into the bowl.
+
+例句来源：逐词编写的学习例句
 
 ## nectopod
 
@@ -1470,103 +1663,142 @@
 ## need
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/need#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> I've always tried to have few needs beyond food, clothing and shelter.
+> You need to save the file before closing it.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## needed
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/needed#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Just-in-time as-needed support for in-house training
+> No special equipment is needed.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## needful
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/needful#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Provided them with all things needful.
+> She supplied all that was needful for the journey.
 
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adj:01580775](https://wordnet.princeton.edu/)
+例句来源：逐词编写的学习例句
 
 ## neediness
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/neediness#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> He tried to hide his neediness.
+
+例句来源：逐词编写的学习例句
+
+## needing
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/needing#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Anyone needing help can ask at the desk.
+
+例句来源：逐词编写的学习例句
 
 ## needle
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/needle#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Ziggy bought some diamond needles for his hi-fi phonograph.
+> She threaded the needle.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## needled
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/needled#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> They needled him about losing the match.
+
+例句来源：逐词编写的学习例句
 
 ## needlepoint
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/needlepoint#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She is making a needlepoint cushion.
+
+例句来源：逐词编写的学习例句
+
+## needles
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/needles#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She kept the needles in a small box.
+
+例句来源：逐词编写的学习例句
 
 ## needless
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/needless#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> This new project of yours will only be a needless expense.
+> A clear checklist can prevent needless delays.
 
-例句来源：Wiktionary 用例
-
-## needlessly
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/needlessly#English)
-- 中文释义资料：ECDICT
-
-> He was always needlessly anxious about his dog.
-
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## needlework
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/needlework#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Victorian ladies were expected to excel at needlework, and everybody read a lot.
+> Her grandmother taught her needlework.
 
-例句来源：[Tatoeba；作者：Cangarejo；句子 #11827168；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/11827168)
+例句来源：逐词编写的学习例句
 
 ## needling
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/needling#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> His older brother keeps needling him.
+> He ignored their constant needling.
 
-例句来源：[Tatoeba；作者：Nuel；句子 #13854447；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/13854447)
+例句来源：逐词编写的学习例句
+
+## needs
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/needs#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The room needs cleaning before the guests arrive.
+
+例句来源：逐词编写的学习例句
 
 ## needy
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/needy#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Needy people want to give too, but have few material goods to offer.
+> The programme provides meals for needy families.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## neep
 
@@ -1597,12 +1829,8 @@
 ## negation
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/negation#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> How does Esperanto, with its word-order freedom, deal with scope of negation?
-
-例句来源：[Tatoeba；作者：halfb1t；句子 #2082725；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/2082725)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The lesson explains how English expresses negation.
 
@@ -1621,12 +1849,8 @@
 ## negatively
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/negatively#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> He was negatively inclined.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adv:00004184](https://wordnet.princeton.edu/)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The delay affected customer satisfaction negatively.
 
@@ -1635,12 +1859,8 @@
 ## negativity
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/negativity#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> The English teacher's negativity fosters an atmosphere of discrimination and exclusion.
-
-例句来源：[Tatoeba；作者：Amastan；句子 #11768489；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/11768489)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The team was tired of his constant negativity.
 
@@ -1656,19 +1876,25 @@
 
 例句来源：逐词编写的学习例句
 
+## neglected
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/neglected#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The neglected garden was full of weeds.
+
+例句来源：逐词编写的学习例句
+
 ## neglectful
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/neglectful#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > He had become neglectful of his old friends.
 
 例句来源：逐词编写的学习例句
-
-> Neglectful of his duties.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adj:00755220](https://wordnet.princeton.edu/)
 
 ## negligence
 
@@ -1693,12 +1919,8 @@
 ## negligently
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/negligently#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> He did his work negligently.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adv:00409090](https://wordnet.princeton.edu/)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The equipment had been negligently maintained.
 
@@ -1707,96 +1929,202 @@
 ## negligible
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/negligible#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The extra weight is negligible.
 
 例句来源：逐词编写的学习例句
 
-> We found errors, but their effects were negligible.
-
-例句来源：Wiktionary 用例
-
 ## negotiable
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/negotiable#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Salary is negotiable, according to education and experience.
+> The price is negotiable if you buy the whole set.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## negotiate
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/negotiate#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The client and server computers must first negotiate a network protocol to be used.
+> They negotiated for hours before reaching an agreement.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## negotiated
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/negotiated#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> They negotiated a lower price for the equipment.
+
+例句来源：逐词编写的学习例句
+
+## negotiates
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/negotiates#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She negotiates prices with suppliers every month.
+
+例句来源：逐词编写的学习例句
+
+## negotiating
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/negotiating#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> We are still negotiating the terms of the contract.
+
+例句来源：逐词编写的学习例句
+
+## negotiation
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/negotiation#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The details are still under negotiation.
+
+例句来源：逐词编写的学习例句
+
+## negotiations
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/negotiations#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The two sides began negotiations over the new schedule.
+
+例句来源：逐词编写的学习例句
 
 ## negotiator
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/negotiator#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Carlos is a skilled negotiator and my go-to colleague for contract discussions.
+> The negotiators met again the next morning.
 
-例句来源：[Tatoeba；作者：Amastan；句子 #11744016；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/11744016)
+例句来源：逐词编写的学习例句
+
+## negotiators
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/negotiators#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Negotiators from both sides met again on Monday.
+
+例句来源：逐词编写的学习例句
+
+## neighbor
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/neighbor#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Our neighbor helped us carry the boxes upstairs.
+
+例句来源：逐词编写的学习例句
 
 ## neighborhood
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/neighborhood#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> He must be making in the neighborhood of $200,000 per year.
+> We moved to a quieter neighborhood last year.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## neighborhoods
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/neighborhoods#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> We walked through several old neighborhoods.
+
+例句来源：逐词编写的学习例句
+
+## neighboring
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/neighboring#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> People from neighboring towns joined the festival.
+
+例句来源：逐词编写的学习例句
+
+## neighbors
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/neighbors#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Our neighbors helped us carry the boxes upstairs.
+
+例句来源：逐词编写的学习例句
 
 ## neighbour
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/neighbour#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The flood fill algorithm fills an area with colour by starting at one pixel and recursively visiting its neighbours.
+> Our neighbour offered to water the plants.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## neighbourhood
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/neighbourhood#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> A large solar park was built in close neighbourhood to the village.
+> There is a small park in our neighbourhood.
 
-例句来源：[Tatoeba；作者：maaster；句子 #9683803；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/9683803)
+例句来源：逐词编写的学习例句
+
+## neighbouring
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/neighbouring#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The path connects two neighbouring villages.
+
+例句来源：逐词编写的学习例句
 
 ## neighbourly
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/neighbourly#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> She's so neighbourly that she always holds a welcoming party for new residents.
+> Bringing over some soup was a neighbourly gesture.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
-## neither
+## neighbours
 
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/neither#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/neighbours#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> with the help of neither you nor either of our sons.
+> Our neighbours helped us carry the table upstairs.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## nekton
 
@@ -1869,12 +2197,8 @@
 ## neoclassical
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/neoclassical#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> The English word "psychopathy" is a neoclassical compound from Ancient Greek roots.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The museum occupies a neoclassical building with tall columns.
 
@@ -1903,8 +2227,8 @@
 ## neoconservative
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/neoconservative#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The essay traces the influence of neoconservative thinkers on foreign policy.
 
@@ -1963,12 +2287,8 @@
 ## neologism
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/neologism#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> The ghastly neologism of the year 2011 is "Kebab murders".
-
-例句来源：[Tatoeba；作者：Eldad；句子 #1394641；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/1394641)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The novel introduced a neologism for its imaginary transport system.
 
@@ -2033,8 +2353,12 @@
 ## neotropical
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/neotropical#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The book describes neotropical birds and their habitats.
+
+例句来源：逐词编写的学习例句
 
 ## neotype
 
@@ -2049,12 +2373,12 @@
 ## nephew
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nephew#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Since my nephew was still young, he was let off the hook.
+> My nephew is my sister’s son.
 
-例句来源：[Tatoeba；作者：CK；句子 #1174297；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/1174297)
+例句来源：逐词编写的学习例句
 
 ## nephrite
 
@@ -2089,8 +2413,8 @@
 ## nephrology
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nephrology#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The nephrology team reviewed changes in kidney function over several months.
 
@@ -2109,28 +2433,32 @@
 ## nephropathy
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nephropathy#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> No history of nephropathy was recorded.
+
+例句来源：逐词编写的学习例句
 
 ## nerd
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nerd#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The bullies used to call him a nerd at school.
+> She calls herself a history nerd.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## nerdy
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nerdy#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> I got a pair of nerdy glasses and clothes for Halloween.
+> They had a delightfully nerdy discussion about old keyboards.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## nerve
 
@@ -2142,15 +2470,21 @@
 
 例句来源：逐词编写的学习例句
 
+## nerves
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nerves#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She felt a rush of nerves before the performance.
+
+例句来源：逐词编写的学习例句
+
 ## nervous
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nervous#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Being in a crowd of strangers makes me nervous.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > I was nervous about giving my first presentation.
 
@@ -2160,11 +2494,7 @@
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nervously#English)
 - 发音资料：核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> He paced nervously as he waited for the important phone call.
-
-例句来源：Wiktionary 用例
+- 中文释义资料：逐词编写的中文释义
 
 > She laughed nervously when everyone turned towards her.
 
@@ -2174,11 +2504,7 @@
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nervousness#English)
 - 发音资料：核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> He looked relaxed, but a twitch of the finger betrayed his nervousness.
-
-例句来源：[Tatoeba；作者：megamanenm；句子 #10788782；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/10788782)
+- 中文释义资料：逐词编写的中文释义
 
 > Her initial nervousness disappeared after the first question.
 
@@ -2187,12 +2513,8 @@
 ## nervy
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nervy#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> A nervy thing to say.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adj:00204779](https://wordnet.princeton.edu/)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The team made a nervy start but soon settled down.
 
@@ -2201,124 +2523,192 @@
 ## nest
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nest#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> I was forced to change trumps when I found the ace, jack, and nine of diamonds in the nest.
+> A bird built a nest above the window.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## nester
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nester#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> This bird is a cavity nester and uses holes in trees.
+
+例句来源：逐词编写的学习例句
 
 ## nestle
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nestle#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Pauline's baby Selina would just nestle in her arms as if they were the most comfortable place on earth.
+> The child nestled against her shoulder.
 
-例句来源：[Tatoeba；作者：cromwellt；句子 #8415822；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/8415822)
+例句来源：逐词编写的学习例句
 
 ## nestling
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nestling#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The parents brought insects to the nestlings.
+
+例句来源：逐词编写的学习例句
 
 ## net
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/net#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The striker headed the ball into the net to make it 1-0.
+> The ball landed in the net.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## netball
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/netball#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> In netball, unlike basketball, you are not permitted to run with the ball.
+> She joined the school netball team last term.
 
-例句来源：[Tatoeba；作者：becky82；句子 #12229102；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/12229102)
-
-## netherland
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/netherland#English)
-
-## netherlands
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/netherlands#English)
-
-> The first immigrants in American history came from England and the Netherlands.
-
-例句来源：[Tatoeba；作者：CN；句子 #67494；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/67494)
+例句来源：逐词编写的学习例句
 
 ## netherworld
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/netherworld#English)
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> While I was astrally projecting, I felt my soul pass through many insubstantial netherworlds.
+> The poem imagines a cold and silent netherworld.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
-## nettie
+## nets
 
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nettie#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nets#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The fishing nets were drying beside the boat.
+
+例句来源：逐词编写的学习例句
 
 ## netting
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/netting#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Ziri noticed a deer stand with a camouflage netting around it.
+> Fine netting covered the young plants.
 
-例句来源：[Tatoeba；作者：Amastan；句子 #11216519；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/11216519)
+例句来源：逐词编写的学习例句
+
+## nettle
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nettle#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> A nettle brushed against my ankle.
+
+例句来源：逐词编写的学习例句
+
+## nettled
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nettled#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> He looked nettled by the suggestion that he needed help.
+
+例句来源：逐词编写的学习例句
+
+## nettles
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nettles#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Nettles grew thickly beside the path.
+
+例句来源：逐词编写的学习例句
+
+## nettlesome
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nettlesome#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The team finally solved a nettlesome scheduling problem.
+
+例句来源：逐词编写的学习例句
+
+## nettling
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nettling#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She kept nettling him with remarks about his lateness.
+
+例句来源：逐词编写的学习例句
 
 ## network
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/network#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The copy machine is connected to the network so it can now serve as a printer.
+> The storm damaged the railway network.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## networked
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/networked#English)
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> I have a networked personal computer.
+> The office uses networked printers.
 
-例句来源：[Tatoeba；作者：corvard；句子 #4305636；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/4305636)
+例句来源：逐词编写的学习例句
+
+## networking
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/networking#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The event offers opportunities for networking.
+
+例句来源：逐词编写的学习例句
+
+## networks
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/networks#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The map shows the region’s transport networks.
+
+例句来源：逐词编写的学习例句
 
 ## neural
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/neural#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The researchers recorded neural activity while volunteers listened to music.
 
 例句来源：逐词编写的学习例句
-
-> neural connections
-
-例句来源：Wiktionary 用例
 
 ## neuralgia
 
@@ -2334,23 +2724,21 @@
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/neuroacanthocytosis#English)
 
-## neuroanatomy
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/neuroanatomy#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
-
 ## neurobiological
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/neurobiological#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The course introduces neurobiological research methods.
+
+例句来源：逐词编写的学习例句
 
 ## neurobiology
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/neurobiology#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The course in neurobiology explains how neurons communicate.
 
@@ -2359,8 +2747,8 @@
 ## neuroblastoma
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/neuroblastoma#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The charity funds research into neuroblastoma in children.
 
@@ -2379,54 +2767,62 @@
 ## neurodegeneration
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/neurodegeneration#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The team studies the mechanisms of neurodegeneration.
+
+例句来源：逐词编写的学习例句
 
 ## neurodegenerative
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/neurodegenerative#English)
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> neurodegenerative disease
+> The article compares several neurodegenerative diseases.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## neurodevelopmental
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/neurodevelopmental#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The laboratory studies neurodevelopmental processes.
+
+例句来源：逐词编写的学习例句
 
 ## neuroendocrine
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/neuroendocrine#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The researchers studied the neuroendocrine response to stress.
 
 例句来源：逐词编写的学习例句
 
-> a neuroendocrine cancer
-
-例句来源：Wiktionary 用例
-
-## neurofibromatosis
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/neurofibromatosis#English)
-- 中文释义资料：ECDICT
-
 ## neurogenesis
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/neurogenesis#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The study tracked neurogenesis in developing tissue.
+
+例句来源：逐词编写的学习例句
 
 ## neurogenic
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/neurogenic#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The textbook distinguishes neurogenic causes from other mechanisms.
+
+例句来源：逐词编写的学习例句
 
 ## neuroglia
 
@@ -2441,18 +2837,18 @@
 ## neuroimaging
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/neuroimaging#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The researchers compared neuroimaging data from two groups.
+
+例句来源：逐词编写的学习例句
 
 ## neurological
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/neurological#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Soon, neuroscientific research will rid us of serious neurological diseases such as Parkinson's and Alzheimer's.
-
-例句来源：[Tatoeba；作者：carlosalberto；句子 #10490754；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/10490754)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The clinician carried out a neurological examination.
 
@@ -2461,12 +2857,8 @@
 ## neurologically
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/neurologically#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Sociopaths are neurologically different from normal people.
-
-例句来源：[Tatoeba；作者：Amastan；句子 #9774901；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/9774901)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The report described the patient as neurologically stable.
 
@@ -2475,16 +2867,12 @@
 ## neurologist
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/neurologist#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Her doctor referred her to a neurologist for further assessment.
 
 例句来源：逐词编写的学习例句
-
-> Tom thought that he might want to become a pediatric neurologist.
-
-例句来源：[Tatoeba；作者：CK；句子 #7174859；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/7174859)
 
 ## neurology
 
@@ -2499,12 +2887,12 @@
 ## neuromuscular
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/neuromuscular#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Multiple sclerosis is a neuromuscular disease.
+> The diagram shows a neuromuscular junction.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## neuron
 
@@ -2520,7 +2908,7 @@
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/neuronal#English)
 - 发音资料：核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 中文释义资料：逐词编写的中文释义
 
 > The experiment measured changes in neuronal activity.
 
@@ -2529,12 +2917,8 @@
 ## neuropathic
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/neuropathic#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Less recognized is a common side effect called neuropathic pain, which creates feelings of electric shocks and stabs.
-
-例句来源：[Tatoeba；作者：Cangarejo；句子 #11068265；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/11068265)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The research team is studying the mechanisms of neuropathic pain.
 
@@ -2543,39 +2927,28 @@
 ## neuropathy
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/neuropathy#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Long-standing diabetes often causes neuropathy in the retinas, fingertips, and toes.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The report describes peripheral neuropathy affecting both feet.
 
 例句来源：逐词编写的学习例句
 
-## neuropeptide
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/neuropeptide#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
-
-## neurophysiological
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/neurophysiological#English)
-- 中文释义资料：ECDICT
-
 ## neurophysiology
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/neurophysiology#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The neurophysiology course examines how nerve cells transmit signals.
+
+例句来源：逐词编写的学习例句
 
 ## neuroplasticity
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/neuroplasticity#English)
 - 发音资料：核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 中文释义资料：逐词编写的中文释义
 
 > The course explores neuroplasticity and learning.
 
@@ -2591,39 +2964,31 @@
 
 例句来源：逐词编写的学习例句
 
-## neuropsychiatric
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/neuropsychiatric#English)
-- 中文释义资料：ECDICT
-
 ## neuropsychological
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/neuropsychological#English)
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The course introduces neuropsychological research on memory.
+
+例句来源：逐词编写的学习例句
 
 ## neuropsychology
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/neuropsychology#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The neuropsychology assessment included tasks involving memory and language.
 
 例句来源：逐词编写的学习例句
 
-> the neuropsychology of culpability comprises the neurology of competence and indeed all neuroscience of the neural correlates of consciousness
-
-例句来源：Wiktionary 用例
-
 ## neuroscience
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/neuroscience#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> I repurposed the notebook I was using to study neuroscience for calculus.
-
-例句来源：[Tatoeba；作者：araneo；句子 #13929704；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/13929704)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > She studies memory in a neuroscience laboratory.
 
@@ -2632,12 +2997,8 @@
 ## neuroscientist
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/neuroscientist#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Neuroscientist António Damásio defines consciousness as "the sensation of what is happening".
-
-例句来源：[Tatoeba；作者：carlosalberto；句子 #10529622；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/10529622)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The neuroscientist studies how the brain forms new memories.
 
@@ -2646,12 +3007,8 @@
 ## neurosis
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/neurosis#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Neurosis is a trait often stereotypically assigned to Ashkenazi Jews.
-
-例句来源：[Tatoeba；作者：shekitten；句子 #11064767；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/11064767)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The book traces the history of the concept of neurosis.
 
@@ -2660,12 +3017,8 @@
 ## neurosurgeon
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/neurosurgeon#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> James's dad is the only neurosurgeon in that hospital.
-
-例句来源：[Tatoeba；作者：Amastan；句子 #11511206；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/11511206)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The neurosurgeon reviewed the images of her spine.
 
@@ -2674,8 +3027,8 @@
 ## neurosurgery
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/neurosurgery#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > She began her training in neurosurgery at a teaching hospital.
 
@@ -2684,18 +3037,18 @@
 ## neurosurgical
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/neurosurgical#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She joined the hospital’s neurosurgical team.
+
+例句来源：逐词编写的学习例句
 
 ## neurotic
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/neurotic#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> He is getting neurotic about time-keeping.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > I can get a little neurotic about missing a train.
 
@@ -2705,45 +3058,27 @@
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/neuroticism#English)
 - 发音资料：核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 中文释义资料：逐词编写的中文释义
 
 > The questionnaire measures neuroticism as one dimension of personality.
 
 例句来源：逐词编写的学习例句
 
-> Your neuroticism is getting out of hand.
-
-例句来源：Wiktionary 用例
-
 ## neurotoxic
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/neurotoxic#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The researchers investigated the substance’s neurotoxic effects.
 
 例句来源：逐词编写的学习例句
 
-> The spikes on a stonefish's fins contain glands that inject neurotoxic and cytotoxic venom.
-
-例句来源：[Tatoeba；作者：frpzzd；句子 #13380454；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/13380454)
-
-## neurotoxicity
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/neurotoxicity#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
-
 ## neurotoxin
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/neurotoxin#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> He presses just the right part of the snail's foot to encourage it to secrete a neurotoxin directly onto a skein of cotton yarn.
-
-例句来源：[Tatoeba；作者：Hybrid；句子 #8257444；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/8257444)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The article explains how a neurotoxin disrupts nerve signalling.
 
@@ -2752,8 +3087,8 @@
 ## neurotransmitter
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/neurotransmitter#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The neuron releases a neurotransmitter into the gap between the cells.
 
@@ -2768,48 +3103,72 @@
 ## neutral
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/neutral#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> I am neutral regarding the issue of gay marriage.
+> She tried to keep her tone neutral.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## neutrality
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/neutrality#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> In 1949, Norway abandoned neutrality and became a member of NATO.
+> The mediator’s neutrality was important to both sides.
 
-例句来源：[Tatoeba；作者：The\_World\_Factbook；句子 #8904710；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/8904710)
+例句来源：逐词编写的学习例句
 
 ## neutralization
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/neutralization#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Neutralization is one type of chemical reaction.
+
+例句来源：逐词编写的学习例句
+
+## neutralize
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/neutralize#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The experiment shows how the base neutralizes the acid.
+
+例句来源：逐词编写的学习例句
 
 ## neutrally
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/neutrally#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The terms of the contract were arbitrated neutrally by a third party.
+> “The meeting starts at nine,” she said neutrally.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## neutrino
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/neutrino#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The exhibition explains how scientists detect neutrinos.
+
+例句来源：逐词编写的学习例句
 
 ## neutron
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/neutron#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The strong force is responsible for 99% of proton and neutron mass.
+> The diagram labels the protons and neutrons in the nucleus.
 
-例句来源：[Tatoeba；作者：shekitten；句子 #11077353；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/11077353)
+例句来源：逐词编写的学习例句
 
 ## neutrophil
 
@@ -2830,52 +3189,32 @@
 ## never
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/never#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > I have never seen the sea freeze.
 
 例句来源：逐词编写的学习例句
 
-> You said you were going to mow the lawn today. – I never!
-
-例句来源：Wiktionary 用例
-
-## neverland
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/neverland#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
-
-## nevermind
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nevermind#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
-
-> Where is my wallet? Nevermind! I just found it under the couch.
-
-例句来源：[Tatoeba；作者：DostKaplan；句子 #3054705；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/3054705)
-
 ## nevermore
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nevermore#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Quoth the raven, nevermore!
+> In the legend, the ship sailed away and returned nevermore.
 
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adv:00409597](https://wordnet.princeton.edu/)
+例句来源：逐词编写的学习例句
 
 ## nevertheless
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nevertheless#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> It's just five in the morning, but nevertheless it is light out.
+> The instructions were brief but nevertheless useful.
 
-例句来源：[Tatoeba；作者：Swift；句子 #2062；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/2062)
+例句来源：逐词编写的学习例句
 
 ## new
 
@@ -2887,31 +3226,53 @@
 
 例句来源：逐词编写的学习例句
 
+## newbie
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/newbie#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> I’m a complete newbie to gardening.
+
+例句来源：逐词编写的学习例句
+
 ## newborn
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/newborn#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The newborn slept quietly beside her mother.
 
 例句来源：逐词编写的学习例句
 
-> newborn child
-
-例句来源：Wiktionary 用例
-
 ## newcomer
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/newcomer#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> He's a newcomer to Boston.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset noun:10355688](https://wordnet.princeton.edu/)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The club holds a welcome evening for newcomers.
+
+例句来源：逐词编写的学习例句
+
+## newer
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/newer#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The newer map shows the road that opened last year.
+
+例句来源：逐词编写的学习例句
+
+## newest
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/newest#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Please welcome the newest member of our team.
 
 例句来源：逐词编写的学习例句
 
@@ -2938,8 +3299,8 @@
 ## newish
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/newish#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > We bought a newish car with very low mileage.
 
@@ -2948,12 +3309,8 @@
 ## newly
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/newly#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> She smelled the newly budding flowers.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > We ate at a newly opened restaurant.
 
@@ -2962,22 +3319,18 @@
 ## newlywed
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/newlywed#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Tanaka only just recently became a newlywed.
+> The newlyweds thanked everyone for coming.
 
-例句来源：[Tatoeba；作者：pip；句子 #11720498；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/11720498)
+例句来源：逐词编写的学习例句
 
 ## newness
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/newness#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> The newness of the car meant it still had that funny smell.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The newness of the city made every walk feel like an adventure.
 
@@ -2986,26 +3339,18 @@
 ## news
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/news#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The news is better than we expected.
 
 例句来源：逐词编写的学习例句
 
-> The news is that a new leader will be elected in one month.
-
-例句来源：Wiktionary 用例
-
 ## newsagent
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/newsagent#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> He crossed the road and went into a newsagent's.
-
-例句来源：[Tatoeba；作者：sundown；句子 #10119623；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/10119623)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > I bought a magazine at the newsagent’s.
 
@@ -3014,67 +3359,68 @@
 ## newsboy
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/newsboy#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> A newsboy passed by, yelling, "Extra! Extra! Read all about it!"
+> The old photograph shows a newsboy outside the station.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## newscast
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/newscast#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The TV newscast informs us of daily news.
+> The evening newscast opened with the election results.
 
-例句来源：[Tatoeba；作者：handsomelyian；句子 #39226；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/39226)
+例句来源：逐词编写的学习例句
 
 ## newscaster
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/newscaster#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The newscaster speaks four foreign languages: English, French, Italian and Spanish.
+> The newscaster introduced the next report.
 
-例句来源：[Tatoeba；作者：Ioan\_Cristian；句子 #13910511；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/13910511)
+例句来源：逐词编写的学习例句
 
 ## newsfeed
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/newsfeed#English)
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The app lets users customize their newsfeed.
+
+例句来源：逐词编写的学习例句
 
 ## newsflash
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/newsflash#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Television programmes were interrupted by a newsflash announcing that the Prime Minister had resigned.
+> The program was interrupted by a newsflash.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## newsgroup
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/newsgroup#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> I posted in my first newsgroup when I was thirteen years old.
+> He found the answer in an old photography newsgroup.
 
-例句来源：[Tatoeba；作者：shekitten；句子 #11977224；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/11977224)
+例句来源：逐词编写的学习例句
 
 ## newsletter
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/newsletter#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Subscribing to the newsletter will ensure you receive regular information about news.
-
-例句来源：[Tatoeba；作者：rul；句子 #13555395；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/13555395)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The museum sends a monthly newsletter to its members.
 
@@ -3083,126 +3429,132 @@
 ## newsman
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/newsman#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Radio listeners heard wailing and then silence, indicating the newsman was now dead.
+> The memoir was written by a veteran newsman.
 
-例句来源：[Tatoeba；作者：robingaspi；句子 #12538189；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/12538189)
+例句来源：逐词编写的学习例句
 
 ## newspaper
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/newspaper#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > She unfolded the newspaper and read the front page.
 
 例句来源：逐词编写的学习例句
 
-> The paper boy delivers her newspaper to her front porch every weekday.
-
-例句来源：Wiktionary 用例
-
 ## newspaperman
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/newspaperman#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> If you want to be a newspaperman, you have to be observant.
+> The veteran newspaperman knew everyone in town.
 
-例句来源：[Tatoeba；作者：CK；句子 #2049779；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/2049779)
+例句来源：逐词编写的学习例句
+
+## newspapers
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/newspapers#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Old newspapers covered the table.
+
+例句来源：逐词编写的学习例句
 
 ## newspeak
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/newspeak#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The critic called the slogan an example of newspeak.
 
 例句来源：逐词编写的学习例句
 
-> The welfare state brought its own newspeak.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset noun:00926277](https://wordnet.princeton.edu/)
-
 ## newsprint
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/newsprint#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The students practised drawing on sheets of newsprint.
 
 例句来源：逐词编写的学习例句
 
-> When I moved house, I wrapped everything in newsprint.
-
-例句来源：[Tatoeba；作者：chibiex；句子 #10079657；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/10079657)
-
 ## newsreader
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/newsreader#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Then, as the newsreader began a live interview, the channel was pulled from the airwaves.
+> The newsreader paused before announcing the result.
 
-例句来源：[Tatoeba；作者：Cangarejo；句子 #11580320；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/11580320)
+例句来源：逐词编写的学习例句
 
 ## newsreel
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/newsreel#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The documentary includes newsreel footage from the 1930s.
+
+例句来源：逐词编写的学习例句
 
 ## newsroom
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/newsroom#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Every newspaper editor is criticized by the newsroom.
+> The newsroom became busy as the election results came in.
 
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset noun:08063129](https://wordnet.princeton.edu/)
+例句来源：逐词编写的学习例句
 
 ## newsstand
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/newsstand#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> I have to go out to the newsstand to get a newspaper.
+> I bought a magazine at the station newsstand.
 
-例句来源：[Tatoeba；作者：zipangu；句子 #696437；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/696437)
+例句来源：逐词编写的学习例句
 
 ## newswire
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/newswire#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The editor saw the report on a newswire.
+
+例句来源：逐词编写的学习例句
 
 ## newsworthy
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/newsworthy#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> newsworthy event
+> The discovery was considered newsworthy.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## next
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/next#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The man was driven by his love for money and his desire to become the next Bill Gates.
+> I will call you next week.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## nexus
 
@@ -3214,91 +3566,165 @@
 
 例句来源：逐词编写的学习例句
 
-## nibbles
+## niacinamide
 
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nibbles#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/niacinamide#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> He always nibbles on cheese and olives.
+> The ingredient list includes niacinamide.
 
-例句来源：[Tatoeba；作者：Amastan；句子 #12106854；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/12106854)
-
-## nibbling
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nibbling#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
-
-> Benedito scolded his billy goat for nibbling on a neighbor's vegetable patch.
-
-例句来源：[Tatoeba；作者：Amastan；句子 #11739003；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/11739003)
+例句来源：逐词编写的学习例句
 
 ## nice
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nice#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> What is a nice person like you doing in a place like this?
+> It was nice of you to help us move.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## nicely
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nicely#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> I can envision a future where all peoples get along just nicely.
+> If you ask nicely, she may lend you the book.
 
-例句来源：[Tatoeba；作者：swolesuki；句子 #6907491；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/6907491)
+例句来源：逐词编写的学习例句
 
 ## niceness
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/niceness#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> I'd like to uncover what hides underneath her fake niceness.
+> People remembered her for her patience and niceness.
 
-例句来源：[Tatoeba；作者：LoverofEnglish；句子 #12763085；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/12763085)
+例句来源：逐词编写的学习例句
+
+## nicer
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nicer#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The room looks much nicer with the new curtains.
+
+例句来源：逐词编写的学习例句
+
+## niche
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/niche#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> A small statue stood in a niche in the wall.
+
+例句来源：逐词编写的学习例句
+
+## niches
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/niches#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Small statues filled the niches along the wall.
+
+例句来源：逐词编写的学习例句
+
+## nick
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nick#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> There is a small nick in the edge of the blade.
+
+例句来源：逐词编写的学习例句
 
 ## nicked
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nicked#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Never mind that, just take out what you've just nicked from your bag.
+> I nicked my chin while shaving.
 
-例句来源：[Tatoeba；作者：fcbond；句子 #329705；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/329705)
+例句来源：逐词编写的学习例句
+
+## nicking
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nicking#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Take care to avoid nicking the painted surface.
+
+例句来源：逐词编写的学习例句
+
+## nickname
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nickname#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Most of her friends know her by her nickname.
+
+例句来源：逐词编写的学习例句
+
+## nicknamed
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nicknamed#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Her classmates nicknamed her Sunny because she was always cheerful.
+
+例句来源：逐词编写的学习例句
+
+## nicks
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nicks#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The old table has a few nicks around the edges.
+
+例句来源：逐词编写的学习例句
 
 ## nicotinamide
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nicotinamide#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The ingredient list includes nicotinamide.
+
+例句来源：逐词编写的学习例句
 
 ## nicotine
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nicotine#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> He's got nicotine stains on his fingers.
+> The report compared nicotine levels in the samples.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## nicotinic
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nicotinic#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Niacin, also known as nicotinic acid, is a vitamin.
+> The glossary lists nicotinic acid as a form of vitamin B3.
 
-例句来源：[Tatoeba；作者：AlanF\_US；句子 #13574971；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/13574971)
+例句来源：逐词编写的学习例句
 
 ## nictate
 
@@ -3324,206 +3750,211 @@
 - 发音资料：Wiktionary
 - 中文释义资料：ECDICT
 
-## nidal
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nidal#English)
-- 中文释义资料：ECDICT
-
 ## niece
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/niece#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> My niece just celebrated her 15th birthday.
+> My niece is my sister’s daughter.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## nifty
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nifty#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> You look nifty in that jacket.
+> This app has a nifty search feature.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## night
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/night#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Most animals are awake at day and sleep at night.
+> The town is very quiet at night.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## nightcap
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nightcap#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> I'll make myself a nightcap of whisky and lemon before heading to bed.
+> The old illustration shows a man in a nightcap.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## nightclub
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nightclub#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Tom was able to hear the music from nightclub down the street.
+> They went to a nightclub after dinner.
 
-例句来源：[Tatoeba；作者：CK；句子 #4499273；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/4499273)
-
-## nightcrawler
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nightcrawler#English)
-- 中文释义资料：ECDICT
-
-## nighter
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nighter#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+例句来源：逐词编写的学习例句
 
 ## nightfall
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nightfall#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> at nightfall
+> We hoped to reach the village by nightfall.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## nightgown
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nightgown#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Mary was still wearing a nightgown when Tom got to her house at noon.
+> She changed into a cotton nightgown.
 
-例句来源：[Tatoeba；作者：CK；句子 #2639603；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/2639603)
+例句来源：逐词编写的学习例句
 
 ## nighthawk
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nighthawk#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> A nighthawk flew over the rooftops at dusk.
+
+例句来源：逐词编写的学习例句
 
 ## nightie
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nightie#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> I was too embarrassed to answer the door in my nightie.
+> She bought a light cotton nightie for summer.
 
-例句来源：Wiktionary 用例
-
-## nightjar
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nightjar#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+例句来源：逐词编写的学习例句
 
 ## nightlife
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nightlife#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Rio de Janeiro boasts the best nightlife in South America.
+> The city is known for its lively nightlife.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## nightlight
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nightlight#English)
-- 发音资料：Wiktionary
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> He put a small nightlight in the bathroom to find his way around in the dark.
+> A small nightlight glowed in the hallway.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
-## nightline
+## nightlights
 
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nightline#English)
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nightlights#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Small nightlights lined the hallway.
+
+例句来源：逐词编写的学习例句
 
 ## nightly
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nightly#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The dog demanded to go out for his nightly walk.
+> The band performs nightly during the festival.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## nightmare
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nightmare#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Cleaning up after identity theft can be a nightmare of phone calls and letters.
+> She woke up after a nightmare.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## nightmares
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nightmares#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The character keeps having nightmares about the old house.
+
+例句来源：逐词编写的学习例句
 
 ## nightmarish
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nightmarish#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Bruno had a nightmarish story to tell.
+> The journey became nightmarish after three missed connections.
 
-例句来源：[Tatoeba；作者：Amastan；句子 #11681010；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/11681010)
+例句来源：逐词编写的学习例句
 
 ## nights
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nights#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> I work nights, my brother only afternoons, and my son days.
+> The nights became colder in October.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## nightshade
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nightshade#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Where can I buy a deadly nightshade plant?
+> The botanist identified the plant as black nightshade.
 
-例句来源：[Tatoeba；作者：Miktsoanit；句子 #12295642；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/12295642)
+例句来源：逐词编写的学习例句
 
 ## nightstand
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nightstand#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> He always kept a full glass of water on the nightstand.
+> She left her glasses on the nightstand.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## nightstands
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nightstands#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Matching nightstands stood beside the bed.
+
+例句来源：逐词编写的学习例句
 
 ## nighttime
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nighttime#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> My nighttime routine includes showering, brushing my teeth, and washing my face.
-
-例句来源：[Tatoeba；作者：joan\_LanguageProcess；句子 #12082935；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/12082935)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Nighttime temperatures can fall sharply in the desert.
 
@@ -3532,8 +3963,12 @@
 ## nightwear
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nightwear#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The shop has a small section for nightwear.
+
+例句来源：逐词编写的学习例句
 
 ## nihilism
 
@@ -3548,12 +3983,8 @@
 ## nihilist
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nihilist#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Mary renounced her moral values and became a nihilist.
-
-例句来源：[Tatoeba；作者：Lepotdeterre；句子 #4380778；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/4380778)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The novel presents its narrator as a nihilist who doubts every accepted value.
 
@@ -3562,8 +3993,8 @@
 ## nihilistic
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nihilistic#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Critics disagreed about whether the film was nihilistic or deeply compassionate.
 
@@ -3582,22 +4013,12 @@
 ## nimble
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nimble#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> He was too nimble for the assailant and easily escaped his grasp.
+> Her nimble fingers repaired the tiny mechanism.
 
-例句来源：Wiktionary 用例
-
-## nimbly
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nimbly#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
-
-> Nimbly scaling an iron gate.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adv:00189615](https://wordnet.princeton.edu/)
+例句来源：逐词编写的学习例句
 
 ## nine
 
@@ -3609,101 +4030,135 @@
 
 例句来源：逐词编写的学习例句
 
-## niner
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/niner#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
-
 ## nineteen
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nineteen#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> It's amazing that he won the championship at the age of nineteen.
+> Nineteen people attended the workshop.
 
-例句来源：[Tatoeba；作者：CK；句子 #282872；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/282872)
+例句来源：逐词编写的学习例句
 
 ## nineteenth
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nineteenth#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Mass production of steel began in the middle of the nineteenth century.
+> The novel was published in the nineteenth century.
 
-例句来源：[Tatoeba；作者：rul；句子 #13067223；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/13067223)
+例句来源：逐词编写的学习例句
+
+## ninetieth
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ninetieth#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The family gathered for her ninetieth birthday.
+
+例句来源：逐词编写的学习例句
 
 ## ninety
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ninety#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Clyde Tombaugh died at the age of ninety on January 17, 1997.
+> The journey took ninety minutes.
 
-例句来源：[Tatoeba；作者：Hybrid；句子 #3958951；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/3958951)
+例句来源：逐词编写的学习例句
+
+## ninja
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ninja#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The child wore a ninja costume to the party.
+
+例句来源：逐词编写的学习例句
+
+## ninjas
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ninjas#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Two ninjas appear in the opening scene.
+
+例句来源：逐词编写的学习例句
 
 ## ninth
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ninth#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Astronomers claim they have discovered the ninth planet of the Solar System.
-
-例句来源：[Tatoeba；作者：Jesse；句子 #4849254；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/4849254)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > She finished ninth in the race.
 
 例句来源：逐词编写的学习例句
 
-## niobium
+## nip
 
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/niobium#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nip#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Niobium is a chemical element with the symbol Nb.
+> There was a nip in the air when we left home.
 
-例句来源：[Tatoeba；作者：mov0021；句子 #3436211；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/3436211)
+例句来源：逐词编写的学习例句
 
-## nipper
+## nipped
 
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nipper#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nipped#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The puppy nipped my finger while playing.
+
+例句来源：逐词编写的学习例句
+
+## nipping
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nipping#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The puppy kept nipping at the loose rope.
+
+例句来源：逐词编写的学习例句
 
 ## nipple
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nipple#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Turn the nipples on to the bicycle spokes only one turn, for each spoke on the new wheel all the way around until they are all snug, then check alignment.
+> The diagram labels the nipple and surrounding tissue.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
-## nippy
+## nips
 
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nippy#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nips#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Gosh, it's a bit nippy today: I'd better wear my gloves.
+> The puppy nips at the loose end of the rope.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## nitpick
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nitpick#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Someone will invariably nitpick about any spelling error posted to the forums.
+> We should solve the main problem instead of nitpicking over wording.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## nitric
 
@@ -3718,8 +4173,12 @@
 ## nitride
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nitride#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The report compares silicon nitride with other ceramics.
+
+例句来源：逐词编写的学习例句
 
 ## nitrocellulose
 
@@ -3730,42 +4189,22 @@
 ## nitrogen
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nitrogen#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> By molar fraction, nitric oxide contains equal parts nitrogen and oxygen.
+> Nitrogen makes up most of the air by volume.
 
-例句来源：Wiktionary 用例
-
-## nitrogenous
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nitrogenous#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
-
-> Other nitrogenous residues are contained in the urine of animals, and several other excretory products may be formed.
-
-例句来源：[Tatoeba；作者：Cangarejo；句子 #11744986；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/11744986)
-
-## nitty
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nitty#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
-
-> I'll spare you the nitty gritty.
-
-例句来源：[Tatoeba；作者：Hybrid；句子 #7446825；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/7446825)
+例句来源：逐词编写的学习例句
 
 ## nitwit
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nitwit#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> I can't believe I have to work with that nitwit again today.
+> I felt like a nitwit after missing the obvious sign.
 
-例句来源：[Tatoeba；作者：Amastan；句子 #11777081；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/11777081)
+例句来源：逐词编写的学习例句
 
 ## nival
 
@@ -3782,18 +4221,12 @@
 ## no
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/no#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> There's no stopping her once she gets going.
+> There is no milk left in the fridge.
 
-例句来源：Wiktionary 用例
-
-## nobby
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nobby#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+例句来源：逐词编写的学习例句
 
 ## nobiliary
 
@@ -3828,12 +4261,8 @@
 ## nobility
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nobility#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> He displayed nobility of character when helping his rivals.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The reforms reduced the political power of the nobility.
 
@@ -3852,12 +4281,8 @@
 ## nobleman
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nobleman#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> But these jovial sounds fell sadly on the ear of the ruined nobleman.
-
-例句来源：[Tatoeba；作者：Hybrid；句子 #7752531；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/7752531)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The portrait shows a nobleman in formal dress.
 
@@ -3866,28 +4291,30 @@
 ## noblewoman
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/noblewoman#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The noblewoman financed the restoration of the chapel.
 
 例句来源：逐词编写的学习例句
 
-> The noblewoman's manner of talking makes me nervous.
-
-例句来源：[Tatoeba；作者：SunnyMoon；句子 #11164935；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/11164935)
-
 ## nobly
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nobly#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> In the end he died nobly, trying to save the lives of others.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > She acted nobly by sharing the credit with the whole team.
+
+例句来源：逐词编写的学习例句
+
+## nobody
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nobody#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Nobody answered the door.
 
 例句来源：逐词编写的学习例句
 
@@ -3924,22 +4351,12 @@
 ## nodal
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nodal#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The port became a nodal point in the regional transport network.
 
 例句来源：逐词编写的学习例句
-
-## noddy
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/noddy#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
-
-> Noddy wears a blue hat and red shoes.
-
-例句来源：[Tatoeba；作者：Amastan；句子 #11780608；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/11780608)
 
 ## node
 
@@ -3951,15 +4368,21 @@
 
 例句来源：逐词编写的学习例句
 
+## nodes
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nodes#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The nodes in this graph represent cities.
+
+例句来源：逐词编写的学习例句
+
 ## nodular
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nodular#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Loose nodular deposits of gold metal are commonly referred to as nuggets.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The rock has a nodular structure rather than a smooth, uniform texture.
 
@@ -3978,42 +4401,62 @@
 ## noise
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/noise#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The problems with the new computer system are causing a lot of noise at Head Office.
+> I heard a strange noise outside.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## noiseless
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/noiseless#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The movements of the cat were noiseless as it approached the mousehole.
+> The door opened with an almost noiseless movement.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
-## noisily
+## noises
 
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/noisily#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/noises#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> They talked noisily and long into the night.
+> We heard strange noises from the attic.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## noisier
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/noisier#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The street became noisier after lunch.
+
+例句来源：逐词编写的学习例句
+
+## noisiest
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/noisiest#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> This is the noisiest room in the building.
+
+例句来源：逐词编写的学习例句
 
 ## noisy
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/noisy#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> the noisy crowd.
+> The restaurant was too noisy for a quiet conversation.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## nomad
 
@@ -4028,12 +4471,8 @@
 ## nomadic
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nomadic#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> The Tuaregs are Berber nomadic tribes that live in the Sahara Desert.
-
-例句来源：[Tatoeba；作者：Amastan；句子 #9690124；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/9690124)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The exhibition describes the tools used in nomadic life.
 
@@ -4072,12 +4511,8 @@
 ## nominal
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nominal#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Apart from the slightly high temperature, all the readings from the spacecraft are nominal.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Visitors pay only a nominal fee to enter the garden.
 
@@ -4096,12 +4531,8 @@
 ## nominally
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nominally#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Nominally he is the boss.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adv:00125012](https://wordnet.princeton.edu/)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > She was nominally in charge, but had little control over the budget.
 
@@ -4147,6 +4578,16 @@
 
 例句来源：逐词编写的学习例句
 
+## nominations
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nominations#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The film received three award nominations.
+
+例句来源：逐词编写的学习例句
+
 ## nominative
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nominative#English)
@@ -4170,16 +4611,22 @@
 ## nominee
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nominee#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > All nominees were invited to attend the ceremony.
 
 例句来源：逐词编写的学习例句
 
-> The Supreme Court confiscated half of Thaksin Shinawatra's fortune after finding that, while being Prime Minister, he held shares in commercial companies through nominees.
+## nominees
 
-例句来源：Wiktionary 用例
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nominees#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The museum announced the nominees for its design award.
+
+例句来源：逐词编写的学习例句
 
 ## nomothetic
 
@@ -4252,12 +4699,12 @@
 ## nonalcoholic
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nonalcoholic#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> My favorite nonalcoholic drink is an avocado shake. Yum, it's so delicious!
+> The menu includes several nonalcoholic drinks.
 
-例句来源：[Tatoeba；作者：erikspen；句子 #1585398；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/1585398)
+例句来源：逐词编写的学习例句
 
 ## nonalignment
 
@@ -4322,12 +4769,8 @@
 ## nonchalantly
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nonchalantly#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> David told the maid what he had seen, but she just shrugged nonchalantly.
-
-例句来源：[Tatoeba；作者：Amastan；句子 #11503813；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/11503813)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > He nonchalantly mentioned that he had won the prize.
 
@@ -4476,14 +4919,22 @@
 ## nondestructive
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nondestructive#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The team used nondestructive testing to inspect the part.
+
+例句来源：逐词编写的学习例句
 
 ## nondiscrimination
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nondiscrimination#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The organisation published a nondiscrimination policy.
+
+例句来源：逐词编写的学习例句
 
 ## nondisjunction
 
@@ -4518,16 +4969,12 @@
 ## none
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/none#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > None of these keys work.
 
 例句来源：逐词编写的学习例句
-
-> None of those is a good example. None are even acceptable.
-
-例句来源：Wiktionary 用例
 
 ## nonelective
 
@@ -4572,12 +5019,8 @@
 ## nonessential
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nonessential#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Nonessential to the integral meanings of poetry.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adj:00903264](https://wordnet.princeton.edu/)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > We cut nonessential spending for three months.
 
@@ -4616,22 +5059,18 @@
 ## nonexistence
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nonexistence#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The nonexistence of Father Christmas and the Tooth Fairy came as something of a shock.
+> The report notes the nonexistence of a central register.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## nonexistent
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nonexistent#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> His social skills are nonexistent: he chewed with his mouth open all through dinner.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The email was sent to a nonexistent address.
 
@@ -4640,18 +5079,22 @@
 ## nonfarm
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nonfarm#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Many families rely on nonfarm income as well as farming.
+
+例句来源：逐词编写的学习例句
 
 ## nonfat
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nonfat#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Nonfat or fat-free milk.
+> She ordered her coffee with nonfat milk.
 
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adj:00992955](https://wordnet.princeton.edu/)
+例句来源：逐词编写的学习例句
 
 ## nonfiction
 
@@ -4666,8 +5109,8 @@
 ## nonfunctional
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nonfunctional#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The museum uses a nonfunctional model to show the machine’s shape.
 
@@ -4686,8 +5129,12 @@
 ## nongovernmental
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nongovernmental#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Several nongovernmental groups contributed to the report.
+
+例句来源：逐词编写的学习例句
 
 ## nongraduate
 
@@ -4763,15 +5210,11 @@
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/noninvasive#English)
 - 发音资料：核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 中文释义资料：逐词编写的中文释义
 
 > The team developed a noninvasive method for monitoring the signal.
 
 例句来源：逐词编写的学习例句
-
-> Through this noninvasive type of project investigators can study some aspects of wildlife populations that previously involved intensive capture operations.
-
-例句来源：[Tatoeba；作者：Cangarejo；句子 #12363113；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/12363113)
 
 ## nonjoinder
 
@@ -5006,8 +5449,12 @@
 ## nonpayment
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nonpayment#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The reminder concerned nonpayment of the membership fee.
+
+例句来源：逐词编写的学习例句
 
 ## nonpermanent
 
@@ -5042,12 +5489,8 @@
 ## nonplussed
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nonplussed#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Forced to choose between Mary, Jane, and Betty, Tom was utterly nonplussed.
-
-例句来源：[Tatoeba；作者：FeuDRenais2；句子 #2616401；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/2616401)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > She looked nonplussed and asked him to explain the joke.
 
@@ -5096,7 +5539,12 @@
 ## nonpublic
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nonpublic#English)
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The draft remained nonpublic until the review was complete.
+
+例句来源：逐词编写的学习例句
 
 ## nonpunitive
 
@@ -5121,10 +5569,12 @@
 ## nonreligious
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nonreligious#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Many nonreligious people are agnostic, although some are atheists.
+> They chose a nonreligious wedding ceremony.
 
-例句来源：[Tatoeba；作者：CM；句子 #11096594；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/11096594)
+例句来源：逐词编写的学习例句
 
 ## nonremontant
 
@@ -5169,12 +5619,8 @@
 ## nonsense
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nonsense#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> After my father had a stroke, every time he tried to talk, it sounded like nonsense.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > That excuse is complete nonsense.
 
@@ -5183,12 +5629,12 @@
 ## nonsensical
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nonsensical#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> I know this sounds nonsensical, but it is exactly what I feel.
+> The instructions were so contradictory that they became nonsensical.
 
-例句来源：[Tatoeba；作者：al\_ex\_an\_der；句子 #2630380；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/2630380)
+例句来源：逐词编写的学习例句
 
 ## nonspecific
 
@@ -5203,31 +5649,28 @@
 ## nonstandard
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nonstandard#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> A nonstandard dialect is one used by uneducated speakers or socially disfavored groups.
+> The machine uses screws of a nonstandard size.
 
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adj:02298285](https://wordnet.princeton.edu/)
+例句来源：逐词编写的学习例句
 
 ## nonstick
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nonstick#English)
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> This nonstick cookware is easy to clean.
+> She cooked the eggs in a nonstick pan.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## nonstop
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nonstop#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> There's a nonstop flight to Mauritius, but I'm not sitting on the same plane for thirteen hours.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > We booked a nonstop flight to Singapore.
 
@@ -5256,8 +5699,12 @@
 ## nontraditional
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nontraditional#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The course uses a nontraditional approach to teaching history.
+
+例句来源：逐词编写的学习例句
 
 ## nontransferable
 
@@ -5272,12 +5719,12 @@
 ## nontrivial
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nontrivial#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> nontrivial subgroup
+> Making the two systems work together is a nontrivial task.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## nonuniform
 
@@ -5342,12 +5789,8 @@
 ## nonviolence
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nonviolence#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Martin Luther King Jr. fought for civil rights for African-Americans by teaching nonviolence.
-
-例句来源：[Tatoeba；作者：Source\_VOA；句子 #680514；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/680514)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The movement made a public commitment to nonviolence.
 
@@ -5386,12 +5829,12 @@
 ## nonwhite
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nonwhite#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Gen Z is the most racially and ethnically diverse generation in history, with 48% in 2018 being nonwhite.
+> The program counts all nonwhite pixels in the image.
 
-例句来源：[Tatoeba；作者：Hybrid；句子 #8173550；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/8173550)
+例句来源：逐词编写的学习例句
 
 ## noon
 
@@ -5426,22 +5869,12 @@
 ## nope
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nope#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> I'll take that as a nope, then.
+> “Have they replied?” “Nope, not yet.”
 
-例句来源：Wiktionary 用例
-
-## nor
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nor#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
-
-> She had no way of knowing, nor did we, that he’d done it.
-
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## norepinephrine
 
@@ -5472,12 +5905,8 @@
 ## normal
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/normal#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> I wrote a 30-page analysis of the show’s villain because I’m very normal about them.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The trains are running on a normal schedule again.
 
@@ -5486,26 +5915,18 @@
 ## normalcy
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/normalcy#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The reopened cafés brought a little normalcy back to the street.
 
 例句来源：逐词编写的学习例句
 
-> We won't return to normalcy because normalcy was the problem.
-
-例句来源：[Tatoeba；作者：shekitten；句子 #8729973；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/8729973)
-
 ## normality
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/normality#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Jessie was going to wear pants to school, but her brother persuaded her to wear shorts to preserve normality.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Opening the school helped restore a sense of normality.
 
@@ -5514,12 +5935,8 @@
 ## normalization
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/normalization#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Let us ensure that hate speech and its normalization are never tolerated.
-
-例句来源：[Tatoeba；作者：Amastan；句子 #12115501；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/12115501)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Normalization put the measurements on a common scale.
 
@@ -5528,16 +5945,12 @@
 ## normalize
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/normalize#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The two countries agreed to normalize diplomatic relations.
 
 例句来源：逐词编写的学习例句
-
-> We'll need to normalize these statements before we can compare them.
-
-例句来源：Wiktionary 用例
 
 ## normalized
 
@@ -5552,21 +5965,17 @@
 ## normally
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/normally#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > I normally take the bus, but today I walked.
 
 例句来源：逐词编写的学习例句
 
-> Lisa ate normally, until she realised that she was late for choir, when she sped up.
-
-例句来源：Wiktionary 用例
-
 ## norman
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/norman#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
+- 发音资料：核对后整理；见逐词精讲核对资料
 - 中文释义资料：逐词编写的中文释义
 
 > In that forum, a “norman” meant someone outside the group.
@@ -5576,12 +5985,8 @@
 ## normative
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/normative#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> normative behaviour
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > “Every child should have access to books” is a normative claim.
 
@@ -5620,22 +6025,28 @@
 ## normie
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/normie#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
+- 发音资料：核对后整理；见逐词精讲核对资料
 - 中文释义资料：逐词编写的中文释义
 
 > I’m a normie when it comes to that game; I barely know the rules.
 
 例句来源：逐词编写的学习例句
 
+## norms
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/norms#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Social norms can vary from one community to another.
+
+例句来源：逐词编写的学习例句
+
 ## norovirus
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/norovirus#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> The norovirus causes nausea, vomiting, diarrhea and stomach cramping.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The report linked the outbreak to norovirus.
 
@@ -5644,196 +6055,182 @@
 ## north
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/north#English)
-- 发音资料：Wiktionary
-- 中文释义资料：Wiktionary 汉语译词（参考，非逐义对齐）
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Stock prices are heading back towards the north.
+> We drove north for two hours.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## northbound
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/northbound#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> There are roadworks on the northbound carriageway.
+> We boarded a northbound train.
 
-例句来源：Wiktionary 用例
-
-## northbridge
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/northbridge#English)
-- 中文释义资料：ECDICT
+例句来源：逐词编写的学习例句
 
 ## northeast
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/northeast#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> a northeast course
+> The village is northeast of the airport.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## northeasterly
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/northeasterly#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> A northeasterly wind carried the mist inland.
+
+例句来源：逐词编写的学习例句
 
 ## northeastern
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/northeastern#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Kabylie, a region in northeastern Algeria, is very similar to southern Italy.
+> The storm reached the northeastern coast.
 
-例句来源：[Tatoeba；作者：Amastan；句子 #7851211；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/7851211)
-
-## northeastward
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/northeastward#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
-
-## norther
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/norther#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+例句来源：逐词编写的学习例句
 
 ## northerly
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/northerly#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> a northerly voyage
+> A northerly wind blew across the lake.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## northern
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/northern#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Les Dawson was a famous northern comedian.
+> Snow covered the northern hills.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## northerner
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/northerner#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Mary is a northerner. She comes from the Kiel region.
+> As a northerner, she was used to colder winters.
 
-例句来源：[Tatoeba；作者：sundown；句子 #6200973；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/6200973)
+例句来源：逐词编写的学习例句
 
 ## northernmost
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/northernmost#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Alaska is the northernmost American state.
+> We drove to the island’s northernmost point.
 
-例句来源：Wiktionary 用例
-
-## northland
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/northland#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
-
-## northside
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/northside#English)
-- 中文释义资料：ECDICT
+例句来源：逐词编写的学习例句
 
 ## northward
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/northward#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> There is a gradual cline of decreasing size to the northward.
+> The birds moved northward in spring.
 
-例句来源：[Tatoeba；作者：remline；句子 #10651140；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/10651140)
+例句来源：逐词编写的学习例句
 
 ## northwards
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/northwards#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> If Algeria does nothing, the Sahara desert will continue to expand northwards.
+> The railway extends northwards from the capital.
 
-例句来源：[Tatoeba；作者：Amastan；句子 #10078170；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/10078170)
+例句来源：逐词编写的学习例句
 
 ## northwest
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/northwest#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> a northwest course
+> The mountains lie northwest of the city.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## northwesterly
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/northwesterly#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> A light, northwesterly wind blew across the city.
+> A northwesterly wind cleared the clouds.
 
-例句来源：[Tatoeba；作者：TingBuDong；句子 #6900163；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/6900163)
+例句来源：逐词编写的学习例句
 
 ## northwestern
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/northwestern#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Brittany is located in northwestern France.
+> The road follows the northwestern edge of the forest.
 
-例句来源：Wiktionary 用例
-
-## northwestward
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/northwestward#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+例句来源：逐词编写的学习例句
 
 ## nose
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nose#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> It is essential that a winetaster develops a good nose.
+> The nose of the plane pointed toward the runway.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## nosebleed
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nosebleed#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> This is the first time I've ever had a nosebleed in winter.
+> He missed the start of the game because he had a nosebleed.
 
-例句来源：[Tatoeba；作者：Amastan；句子 #1725313；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/1725313)
+例句来源：逐词编写的学习例句
 
 ## nosedive
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nosedive#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The stock took a nosedive.
+> The plane went into a nosedive before the pilot regained control.
 
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset noun:13523088](https://wordnet.princeton.edu/)
+例句来源：逐词编写的学习例句
+
+## noses
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/noses#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The children came in with cold hands and red noses.
+
+例句来源：逐词编写的学习例句
 
 ## nostalgia
 
@@ -5848,12 +6245,8 @@
 ## nostalgic
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nostalgic#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Even now when I see a terakoya play, I feel somewhat nostalgic.
-
-例句来源：[Tatoeba；作者：Scott；句子 #1260134；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/1260134)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > I feel nostalgic whenever I visit my old school.
 
@@ -5872,38 +6265,48 @@
 ## nostril
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nostril#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> When my left nostril is blocked, I breathe through my right nostril.
+> The horse flared its nostrils.
 
-例句来源：[Tatoeba；作者：Joseph；句子 #4001649；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/4001649)
+例句来源：逐词编写的学习例句
+
+## nostrils
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nostrils#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The horse flared its nostrils.
+
+例句来源：逐词编写的学习例句
 
 ## nosy
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nosy#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> They built tall fences, yet the nosy neighbors always seemed to know everything about them.
+> I did not want to sound nosy, so I changed the subject.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## not
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/not#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Did you take out the trash? — No, I did not. I do not think it was my turn, was it?
+> I do not agree with the last point.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## notability
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/notability#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The archive helps establish the inventor’s historical notability.
 
@@ -5912,12 +6315,8 @@
 ## notable
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/notable#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> In a land of hunchbacks, upright elegance will be a notable exception.
-
-例句来源：[Tatoeba；作者：carlosalberto；句子 #13448891；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/13448891)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The report contains one notable exception to the general trend.
 
@@ -5926,12 +6325,8 @@
 ## notably
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/notably#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Coldwater fish, notably salmon and sardines, are good sources of omega-3 acids.
-
-例句来源：[Tatoeba；作者：Cangarejo；句子 #12258727；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/12258727)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Several countries, notably Canada and Japan, joined the project.
 
@@ -5970,16 +6365,12 @@
 ## notation
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/notation#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The teacher explained the notation used in the equation.
 
 例句来源：逐词编写的学习例句
-
-> This section lists all algebraic notation used in this book.
-
-例句来源：Wiktionary 用例
 
 ## notational
 
@@ -5988,6 +6379,46 @@
 - 中文释义资料：逐词编写的中文释义
 
 > The two formulas differ only in their notational conventions.
+
+例句来源：逐词编写的学习例句
+
+## notch
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/notch#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> There is a small notch in the wooden handle.
+
+例句来源：逐词编写的学习例句
+
+## notched
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/notched#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The carpenter notched the end of the board.
+
+例句来源：逐词编写的学习例句
+
+## notches
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/notches#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The stick has three notches cut into it.
+
+例句来源：逐词编写的学习例句
+
+## notching
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/notching#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> He was notching the wooden posts before fitting the rails.
 
 例句来源：逐词编写的学习例句
 
@@ -6004,16 +6435,22 @@
 ## notebook
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/notebook#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > She keeps a notebook beside her bed to record ideas.
 
 例句来源：逐词编写的学习例句
 
-> Tom and Mary gave me a notebook full of their favorite recipes.
+## notebooks
 
-例句来源：[Tatoeba；作者：CT；句子 #6496037；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/6496037)
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/notebooks#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She filled two notebooks with sketches.
+
+例句来源：逐词编写的学习例句
 
 ## noted
 
@@ -6029,29 +6466,41 @@
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/notepad#English)
 - 发音资料：核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 中文释义资料：逐词编写的中文释义
 
 > He wrote the delivery address on a notepad.
 
 例句来源：逐词编写的学习例句
 
-> Tom opened the drawer again and took out a notepad.
+## notepads
 
-例句来源：[Tatoeba；作者：CK；句子 #4501282；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/4501282)
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/notepads#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Small notepads were placed beside the phones.
+
+例句来源：逐词编写的学习例句
+
+## notes
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/notes#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> I took notes during the talk and reviewed them later.
+
+例句来源：逐词编写的学习例句
 
 ## noteworthy
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/noteworthy#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > One noteworthy detail is the complete absence of advertising.
 
 例句来源：逐词编写的学习例句
-
-> Zukertort represent the other most noteworthy tournaments.
-
-例句来源：Wiktionary 用例
 
 ## nothing
 
@@ -6066,12 +6515,8 @@
 ## nothingness
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nothingness#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> It was as if he evaporated into nothingness, leaving everyone bewildered and perplexed.
-
-例句来源：[Tatoeba；作者：Nuel；句子 #12123032；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/12123032)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The final note faded into nothingness.
 
@@ -6094,12 +6539,8 @@
 ## noticeable
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/noticeable#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Noticeable shadows under her eyes.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adj:01286799](https://wordnet.princeton.edu/)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > There was a noticeable improvement in her pronunciation.
 
@@ -6109,13 +6550,89 @@
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/noticeably#English)
 - 发音资料：核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Noticeably, what had been merely annoying to her was becoming infuriating.
-
-例句来源：Wiktionary 用例
+- 中文释义资料：逐词编写的中文释义
 
 > The room became noticeably quieter after the windows were closed.
+
+例句来源：逐词编写的学习例句
+
+## noticed
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/noticed#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> I noticed a small crack near the window.
+
+例句来源：逐词编写的学习例句
+
+## notices
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/notices#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The entrance is covered with notices about the event.
+
+例句来源：逐词编写的学习例句
+
+## noticing
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/noticing#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> I am noticing more details each time I read the story.
+
+例句来源：逐词编写的学习例句
+
+## notification
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/notification#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> I received a notification about the timetable change.
+
+例句来源：逐词编写的学习例句
+
+## notifications
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/notifications#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The app sends notifications when a new chapter is available.
+
+例句来源：逐词编写的学习例句
+
+## notified
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/notified#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The school notified us of the change by email.
+
+例句来源：逐词编写的学习例句
+
+## notify
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/notify#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Please notify us of any change in the schedule.
+
+例句来源：逐词编写的学习例句
+
+## noting
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/noting#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She kept a diary, noting the weather each day.
 
 例句来源：逐词编写的学习例句
 
@@ -6132,12 +6649,8 @@
 ## notional
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/notional#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> This paper proposes a notional Federated Identity Management (FIM) architecture.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > We used a notional budget of ten thousand pounds for the exercise.
 
@@ -6156,8 +6669,8 @@
 ## notionally
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/notionally#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The two units are notionally independent but share the same staff.
 
@@ -6192,12 +6705,8 @@
 ## notoriously
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/notoriously#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> European emigres, who notoriously used to repair to the British Museum to write seditious pamphlets.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adv:00410881](https://wordnet.princeton.edu/)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The software is notoriously difficult to configure.
 
@@ -6206,12 +6715,12 @@
 ## notwithstanding
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/notwithstanding#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> He, notwithstanding, persisted in his inquiries.
+> Notwithstanding the delay, the meeting ended on time.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## nougat
 
@@ -6226,22 +6735,22 @@
 ## nought
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nought#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> 0.335 cm is nought/zero point three three five of a centimeter.
+> The display read nought point five.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## noughties
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/noughties#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Generation Z includes those born in the early noughties, which is the first decade of the 21st Century from 2000 to 2009.
+> The playlist is full of songs from the noughties.
 
-例句来源：[Tatoeba；作者：Leono；句子 #7279393；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/7279393)
+例句来源：逐词编写的学习例句
 
 ## noun
 
@@ -6276,12 +6785,8 @@
 ## nourishment
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nourishment#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Her nourishment of the orphans saved many lives.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset noun:00664849](https://wordnet.princeton.edu/)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The young plants receive nourishment from the rich soil.
 
@@ -6320,22 +6825,42 @@
 ## novelist
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/novelist#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> In addition to being a famous physicist, he is a great novelist.
-
-例句来源：[Tatoeba；作者：CK；句子 #324468；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/324468)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The novelist spent years researching the setting of her book.
+
+例句来源：逐词编写的学习例句
+
+## novelists
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/novelists#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Several novelists spoke at the festival.
 
 例句来源：逐词编写的学习例句
 
 ## novelization
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/novelization#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> I read the novelization after watching the film.
+
+例句来源：逐词编写的学习例句
+
+## novelize
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/novelize#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She was hired to novelize the screenplay.
+
+例句来源：逐词编写的学习例句
 
 ## novella
 
@@ -6344,6 +6869,16 @@
 - 中文释义资料：逐词编写的中文释义
 
 > The novella can be read in a single evening.
+
+例句来源：逐词编写的学习例句
+
+## novels
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/novels#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She writes historical novels.
 
 例句来源：逐词编写的学习例句
 
@@ -6376,14 +6911,22 @@
 ## novena
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/novena#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The parish began a novena before the feast.
+
+例句来源：逐词编写的学习例句
 
 ## novenary
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/novenary#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The glossary defines a novenary as a group of nine.
+
+例句来源：逐词编写的学习例句
 
 ## novice
 
@@ -6398,10 +6941,30 @@
 ## novitiate
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/novitiate#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > She entered the novitiate after a period of reflection.
+
+例句来源：逐词编写的学习例句
+
+## nowadays
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nowadays#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Nowadays, many people read the news on their phones.
+
+例句来源：逐词编写的学习例句
+
+## nowhere
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nowhere#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> We had nowhere to sit.
 
 例句来源：逐词编写的学习例句
 
@@ -6418,22 +6981,22 @@
 ## nozzle
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nozzle#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The shape of the nozzle prevents the use of aftermarket eartips.
+> Turn the nozzle to change the spray pattern.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## nth
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nth#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> To the nth degree.
+> The formula gives the nth term of the sequence.
 
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adj:02213144](https://wordnet.princeton.edu/)
+例句来源：逐词编写的学习例句
 
 ## nuance
 
@@ -6448,16 +7011,12 @@
 ## nuanced
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nuanced#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The article offers a nuanced view of remote work.
 
 例句来源：逐词编写的学习例句
-
-> The setting sunlight played through the gently waving branches, creating subtly nuanced transitions of color and tone.
-
-例句来源：Wiktionary 用例
 
 ## nubile
 
@@ -6486,8 +7045,12 @@
 ## nuclease
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nuclease#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The illustration shows a nuclease cutting a nucleic acid chain.
+
+例句来源：逐词编写的学习例句
 
 ## nucleic
 
@@ -6512,22 +7075,18 @@
 ## nucleon
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nucleon#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > A proton is one type of nucleon.
 
 例句来源：逐词编写的学习例句
 
-> The binding energy between quarks in a nucleon is equal to its mass times the speed of light squared.
-
-例句来源：[Tatoeba；作者：rul；句子 #12635197；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/12635197)
-
 ## nucleotide
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nucleotide#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The model shows a chain of nucleotides.
 
@@ -6553,6 +7112,46 @@
 
 例句来源：逐词编写的学习例句
 
+## nudge
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nudge#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She gave me a nudge when our friend came into view.
+
+例句来源：逐词编写的学习例句
+
+## nudged
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nudged#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She nudged me with her elbow and pointed at the sign.
+
+例句来源：逐词编写的学习例句
+
+## nudges
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nudges#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> He nudges the door open with his foot.
+
+例句来源：逐词编写的学习例句
+
+## nudging
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nudging#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The dog kept nudging my hand for attention.
+
+例句来源：逐词编写的学习例句
+
 ## nudibranch
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nudibranch#English)
@@ -6562,12 +7161,6 @@
 > Elsewhere we watch large ocean predators and tiny denizens of the sea like the strangely alien nudibranch and Christmas tree worms.
 
 例句来源：[Tatoeba；作者：Cangarejo；句子 #10939980；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/10939980)
-
-## nudie
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nudie#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
 
 ## nudism
 
@@ -6582,26 +7175,18 @@
 ## nudist
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nudist#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The article interviews a nudist about the history of the movement.
 
 例句来源：逐词编写的学习例句
 
-> nudist colony
-
-例句来源：Wiktionary 用例
-
 ## nudity
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nudity#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> In places such as Scandinavia, public nudity is legal.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The lecture examined how different artists represented nudity.
 
@@ -6610,12 +7195,12 @@
 ## nugget
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nugget#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> a nugget of wisdom
+> They found a small gold nugget in the stream.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## nuisance
 
@@ -6640,12 +7225,8 @@
 ## null
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/null#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Since no date of birth was entered for the patient, his age is null.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The agreement was declared null and void.
 
@@ -6654,8 +7235,8 @@
 ## nullification
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nullification#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The report called for the nullification of the disputed result.
 
@@ -6664,16 +7245,12 @@
 ## nullify
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nullify#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The extra delivery charge nullified the saving from the discount.
 
 例句来源：逐词编写的学习例句
-
-> You'll nullify the contract if you move out before the lease period is up.
-
-例句来源：[Tatoeba；作者：casaniere；句子 #9496205；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/9496205)
 
 ## nullity
 
@@ -6688,76 +7265,78 @@
 ## numb
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/numb#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> legs numb from kneeling
+> My fingers were numb after the cold walk.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## number
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/number#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The number of visitors has doubled.
 
 例句来源：逐词编写的学习例句
 
-> There are, in addition to all the red socks, a number that don’t suit me either.
+## numbered
 
-例句来源：Wiktionary 用例
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/numbered#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The pages are numbered from one to fifty.
+
+例句来源：逐词编写的学习例句
 
 ## numbering
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/numbering#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The page numbering starts after the introduction.
 
 例句来源：逐词编写的学习例句
 
-> Their numbering system is base 5 instead of base 10.
-
-例句来源：[Tatoeba；作者：Miktsoanit；句子 #12430293；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/12430293)
-
 ## numberless
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/numberless#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The stars are as numberless as the grains of sand on a beach.
+> Numberless stars filled the dark sky.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
-## numbingly
+## numbers
 
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/numbingly#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/numbers#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Write the numbers in the correct order.
+
+例句来源：逐词编写的学习例句
 
 ## numbness
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/numbness#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> I have some numbness in my left hand.
+> He described numbness in his fingers.
 
-例句来源：[Tatoeba；作者：CK；句子 #243561；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/243561)
+例句来源：逐词编写的学习例句
 
 ## numeracy
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/numeracy#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> John Allen Paulos and others have asked our society to consider numeracy and innumeracy in a way closer to how we view literacy and illiteracy.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The workshop teaches practical numeracy through shopping examples.
 
@@ -6816,26 +7395,18 @@
 ## numerical
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/numerical#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Arrange the files in numerical order.
 
 例句来源：逐词编写的学习例句
 
-> The numerical superiority of the enemy.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adj:01915586](https://wordnet.princeton.edu/)
-
 ## numerically
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/numerically#English)
 - 发音资料：核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Our forces are numerically inferior to those of the enemy.
-
-例句来源：Wiktionary 用例
+- 中文释义资料：逐词编写的中文释义
 
 > The folders are sorted numerically by year.
 
@@ -6844,12 +7415,8 @@
 ## numerology
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/numerology#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> A strict system of numerology is like a mental jail.
-
-例句来源：[Tatoeba；作者：nonong；句子 #2055644；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/2055644)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The article describes a form of numerology based on names.
 
@@ -6858,26 +7425,18 @@
 ## numerous
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/numerous#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The proposal has attracted numerous objections.
 
 例句来源：逐词编写的学习例句
 
-> The reasons to refrain are numerous.
-
-例句来源：Wiktionary 用例
-
 ## numinous
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/numinous#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> His interest in numinous objects led him on a quest for the Holy Grail.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The silence gave the old chapel a numinous atmosphere.
 
@@ -6913,6 +7472,16 @@
 
 例句来源：逐词编写的学习例句
 
+## nun
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nun#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The museum occupies a building once used by a community of nuns.
+
+例句来源：逐词编写的学习例句
+
 ## nunciature
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nunciature#English)
@@ -6936,12 +7505,12 @@
 ## nunnery
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nunnery#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Every nunnery has its own rules.
+> The old nunnery has been converted into a school.
 
-例句来源：[Tatoeba；作者：CM；句子 #2845653；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/2845653)
+例句来源：逐词编写的学习例句
 
 ## nuptial
 
@@ -6966,24 +7535,30 @@
 ## nursemaid
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nursemaid#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> I don't believe I have to nursemaid these two rookies through their entire probationary period.
+> The nursemaid took the children to the garden.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## nursery
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nursery#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Commerce is the nursery of seamen.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > They painted the nursery before the baby arrived.
+
+例句来源：逐词编写的学习例句
+
+## nurses
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nurses#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The nurses prepared the room for the new patients.
 
 例句来源：逐词编写的学习例句
 
@@ -7010,42 +7585,52 @@
 ## nut
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nut#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> There are many sorts of nuts: peanuts, cashews, pistachios, Brazil nuts and more.
+> She added chopped nuts to the cake.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## nutcase
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nutcase#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> I would not be here if I had not been a nutcase.
+> The comedy follows a group of lovable nutcases.
 
-例句来源：[Tatoeba；作者：LiborSupcik；句子 #8564090；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/8564090)
+例句来源：逐词编写的学习例句
 
 ## nutcracker
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nutcracker#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Sami had a huge nutcracker sitting by the front door.
+> She used a nutcracker to open the walnut.
 
-例句来源：[Tatoeba；作者：OsoHombre；句子 #7165845；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/7165845)
+例句来源：逐词编写的学习例句
 
 ## nuthatch
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nuthatch#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The nuthatch is a bird that lives in forests and mountains.
+> A nuthatch moved down the tree trunk head first.
 
-例句来源：[Tatoeba；作者：BilalBouy；句子 #9669017；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/9669017)
+例句来源：逐词编写的学习例句
+
+## nutmeg
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nutmeg#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She added a little nutmeg to the sauce.
+
+例句来源：逐词编写的学习例句
 
 ## nutrient
 
@@ -7070,12 +7655,8 @@
 ## nutritional
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nutritional#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Sugary drinks have no nutritional value and contribute significantly to weight gain.
-
-例句来源：[Tatoeba；作者：patgfisher；句子 #4591193；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/4591193)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The report compares the nutritional value of several foods.
 
@@ -7085,11 +7666,7 @@
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nutritionally#English)
 - 发音资料：核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Nutritionally, her new diet is suicide.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adv:00411045](https://wordnet.princeton.edu/)
+- 中文释义资料：逐词编写的中文释义
 
 > The two products are nutritionally similar despite their different prices.
 
@@ -7098,12 +7675,8 @@
 ## nutritionist
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nutritionist#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> How can I find a registered dietitian or nutritionist?
-
-例句来源：[Tatoeba；作者：Igider；句子 #9805222；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/9805222)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The school invited a nutritionist to discuss its lunch menu.
 
@@ -7119,35 +7692,45 @@
 
 例句来源：逐词编写的学习例句
 
+## nuts
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nuts#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She put a bowl of nuts on the table.
+
+例句来源：逐词编写的学习例句
+
 ## nutshell
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nutshell#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Toki Pona is an attempt to interpret the meaning of life in a nutshell.
+> The squirrel left nutshells under the tree.
 
-例句来源：[Tatoeba；作者：carlosalberto；句子 #10273492；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/10273492)
+例句来源：逐词编写的学习例句
 
 ## nutter
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nutter#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Warning, the guy in front of you is a certified nutter!
+> He called himself a nutter for running in that storm.
 
-例句来源：[Tatoeba；作者：Eldad；句子 #1401920；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/1401920)
+例句来源：逐词编写的学习例句
 
 ## nutty
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nutty#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> That student's parents seem to be nutty as a fruitcake.
+> The rice has a mild, nutty flavour.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## nyctalgia
 
@@ -7179,15 +7762,15 @@
 - 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
 - 中文释义资料：ECDICT
 
-## nymphomaniac
+## nylon
 
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nymphomaniac#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/nylon#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Xenia's such a nymphomaniac that she's not even satisfied with three lovers.
+> The bag is made of lightweight nylon.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## nystagmic
 

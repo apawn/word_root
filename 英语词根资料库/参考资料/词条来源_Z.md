@@ -2,16 +2,6 @@
 
 [返回来源目录](README.md)
 
-## zapper
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/zapper#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
-
-> The news is starting on the other channel; hand me the zapper.
-
-例句来源：Wiktionary 用例
-
 ## zeal
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/zeal#English)
@@ -55,22 +45,32 @@
 ## zealously
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/zealously#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The team worked zealously to reopen the theatre.
 
 例句来源：逐词编写的学习例句
 
-> zealously defend someone
+## zebra
 
-例句来源：Wiktionary 用例
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/zebra#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-## zebrafish
+> A zebra stood beside the waterhole.
 
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/zebrafish#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+例句来源：逐词编写的学习例句
+
+## zebras
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/zebras#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> A herd of zebras crossed the plain.
+
+例句来源：逐词编写的学习例句
 
 ## zed
 
@@ -81,12 +81,6 @@
 > She spelled the code as bee, seven, zed.
 
 例句来源：逐词编写的学习例句
-
-## zein
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/zein#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
 
 ## zeolite
 
@@ -104,11 +98,35 @@
 
 例句来源：逐词编写的学习例句
 
+## zero
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/zero#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The temperature dropped below zero overnight.
+
+例句来源：逐词编写的学习例句
+
+## zest
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/zest#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The recipe includes a little lemon zest.
+
+例句来源：逐词编写的学习例句
+
 ## zesty
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/zesty#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> A zesty dressing gave the salad a fresh flavour.
+
+例句来源：逐词编写的学习例句
 
 ## zeta
 
@@ -136,87 +154,95 @@
 
 例句来源：逐词编写的学习例句
 
-## ziggy
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ziggy#English)
-
-> The Rise and Fall of Ziggy Stardust and the Spiders from Mars, David Bowie's fifth album, was released in 1972.
-
-例句来源：[Tatoeba；作者：sundown；句子 #10936775；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/10936775)
-
 ## zillion
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/zillion#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> I've told you a zillion times not to do that.
+> I have told you a zillion times where the keys are.
 
-例句来源：[Tatoeba；作者：CK；句子 #3204561；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/3204561)
-
-## zinger
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/zinger#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
-
-> I was still reeling from the zinger of seeing my ex on a date with my best friend.
-
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## zip
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/zip#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> I know zip about economics.
+> She zipped past us on her bicycle.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## zipline
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/zipline#English)
-- 发音资料：Wiktionary
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Benedito wants to ride a zipline in Costa Rica.
+> The zipline stretched across the valley.
 
-例句来源：[Tatoeba；作者：Amastan；句子 #11732126；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/11732126)
+例句来源：逐词编写的学习例句
 
 ## zipped
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/zipped#English)
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> We zipped our two sleeping bags together to make one big sleeping bag.
+> Keep the pocket zipped while you travel.
 
-例句来源：[Tatoeba；作者：CK；句子 #2537066；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/2537066)
+例句来源：逐词编写的学习例句
 
 ## zipper
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/zipper#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> He got his T-shirt stuck in the zipper of his jacket.
+> The zipper on my bag is stuck.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
-## zippo
+## zippers
 
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/zippo#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/zippers#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> We got 200 consoles and we sold 200 consoles and 200 minus 200 is ZIPPO, so I can't sell you anything right now.
+> The tailor replaced the broken zippers.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## zipping
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/zipping#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She was zipping up her jacket.
+
+例句来源：逐词编写的学习例句
 
 ## zippy
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/zippy#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The band opened with a zippy tune.
+
+例句来源：逐词编写的学习例句
+
+## zips
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/zips#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The bag has two sturdy zips.
+
+例句来源：逐词编写的学习例句
 
 ## zodiac
 
@@ -228,21 +254,31 @@
 
 例句来源：逐词编写的学习例句
 
-## zodiacal
+## zombie
 
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/zodiacal#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/zombie#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> I felt like a zombie after the overnight flight.
+
+例句来源：逐词编写的学习例句
+
+## zombies
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/zombies#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The zombies moved slowly through the empty street.
+
+例句来源：逐词编写的学习例句
 
 ## zonal
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/zonal#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> A zonal pattern of cell structure.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adj:02589913](https://wordnet.princeton.edu/)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The coach switched to zonal marking after halftime.
 
@@ -265,6 +301,16 @@
 - 中文释义资料：逐词编写的中文释义
 
 > The site is zoned for residential use.
+
+例句来源：逐词编写的学习例句
+
+## zones
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/zones#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The building is divided into several activity zones.
 
 例句来源：逐词编写的学习例句
 
@@ -291,12 +337,8 @@
 ## zookeeper
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/zookeeper#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> My name is Mary, I'm 40 years old and I'm a zookeeper.
-
-例句来源：[Tatoeba；作者：mraz；句子 #7461462；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/7461462)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The zookeeper recorded how much the young elephant ate.
 
@@ -305,12 +347,8 @@
 ## zoological
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/zoological#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> In the zoological gardens of Mars, there are animals from Earth.
-
-例句来源：[Tatoeba；作者：Hybrid；句子 #3651365；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/3651365)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The museum moved its zoological collection to a new building.
 
@@ -319,12 +357,8 @@
 ## zoologist
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/zoologist#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Sami continued his studies to become a zoologist.
-
-例句来源：[Tatoeba；作者：OsoHombre；句子 #6709709；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/6709709)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The zoologist tracked the animals without disturbing their nesting sites.
 
@@ -340,11 +374,45 @@
 
 例句来源：逐词编写的学习例句
 
-## zoomer
+## zoom
 
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/zoomer#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/zoom#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> A motorbike seemed to zoom past the window.
+
+例句来源：逐词编写的学习例句
+
+## zoomed
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/zoomed#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> A red car zoomed past the café.
+
+例句来源：逐词编写的学习例句
+
+## zooming
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/zooming#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Children were zooming around the room with toy cars.
+
+例句来源：逐词编写的学习例句
+
+## zooms
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/zooms#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The camera zooms in on her face.
+
+例句来源：逐词编写的学习例句
 
 ## zoonosis
 
@@ -359,12 +427,8 @@
 ## zoonotic
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/zoonotic#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> The Ebola virus is believed to be zoonotic.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adj:03145956](https://wordnet.princeton.edu/)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The course examines how zoonotic diseases spread.
 
@@ -373,10 +437,20 @@
 ## zooplankton
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/zooplankton#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Small fish gathered where zooplankton were abundant.
+
+例句来源：逐词编写的学习例句
+
+## zucchini
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/zucchini#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She cut a zucchini into thick slices.
 
 例句来源：逐词编写的学习例句
 
@@ -400,27 +474,31 @@
 
 例句来源：逐词编写的学习例句
 
-## zygomatic
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/zygomatic#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
-
 ## zygomycete
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/zygomycete#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The older textbook places the mold among the zygomycetes.
+
+例句来源：逐词编写的学习例句
 
 ## zygomycosis
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/zygomycosis#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The review explains the historical use of zygomycosis.
+
+例句来源：逐词编写的学习例句
 
 ## zygote
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/zygote#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The zygote begins to divide into more cells.
 

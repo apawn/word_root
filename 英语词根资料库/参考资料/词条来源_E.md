@@ -5,78 +5,98 @@
 ## eager
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/eager#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The new volunteers were eager to help.
 
 例句来源：逐词编写的学习例句
 
-> You stayed up all night to get to the front of the queue. You must be very eager to get tickets.
-
-例句来源：Wiktionary 用例
-
 ## eagerly
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/eagerly#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The children listened eagerly to the explorer’s story.
 
 例句来源：逐词编写的学习例句
 
-> The news was eagerly awaited.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adv:00200777](https://wordnet.princeton.edu/)
-
 ## eagerness
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/eagerness#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Pierre ate and drank a lot, with his usual eagerness.
-
-例句来源：[Tatoeba；作者：sharris123；句子 #7798525；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/7798525)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > She impressed us with her eagerness to learn.
+
+例句来源：逐词编写的学习例句
+
+## eagle
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/eagle#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> An eagle circled high above the valley.
+
+例句来源：逐词编写的学习例句
+
+## eagles
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/eagles#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Two eagles were perched on the cliff.
 
 例句来源：逐词编写的学习例句
 
 ## ear
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ear#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > She has a good ear for accents.
 
 例句来源：逐词编写的学习例句
 
-> the ears of a tub, skillet, or dish; The ears of a boat are outside kneepieces near the bow.
-
-例句来源：Wiktionary 用例
-
 ## earache
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/earache#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> I can't stay too late at the pub, otherwise I'll get a load of earache from the missus.
+> She missed the concert because she had an earache.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## earbud
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/earbud#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> One earbud had fallen under the chair.
+
+例句来源：逐词编写的学习例句
+
+## earbuds
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/earbuds#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She listened to the lesson through earbuds.
+
+例句来源：逐词编写的学习例句
 
 ## eardrum
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/eardrum#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Is it safe to fly with a perforated eardrum?
-
-例句来源：[Tatoeba；作者：Igider；句子 #9805502；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/9805502)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The model shows where the eardrum sits inside the ear.
 
@@ -85,128 +105,202 @@
 ## eared
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/eared#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> He was a large-eared man.
+> A long-eared rabbit sat beside the fence.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## earful
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/earful#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> give someone an earful
+> I got an earful for arriving late again.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
-## earldom
+## earl
 
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/earldom#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/earl#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The novel follows the life of an English earl.
+
+例句来源：逐词编写的学习例句
+
+## earlier
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/earlier#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Could we take an earlier train?
+
+例句来源：逐词编写的学习例句
+
+## earliest
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/earliest#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The repairs will be finished on Friday at the earliest.
+
+例句来源：逐词编写的学习例句
+
+## earls
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/earls#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The gallery displays portraits of several earls.
+
+例句来源：逐词编写的学习例句
 
 ## early
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/early#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The play "Two Gentlemen of Verona" is one of Shakespeare's early works.
+> We took an early train to the coast.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## earmark
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/earmark#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> You can donate to the organization as a whole, or you can earmark your contribution for a particular project.
+> The council earmarked funds for library repairs.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## earn
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/earn#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> With their hard work and dedication, they earned respect and a seat at the table.
+> She earns a living by repairing bicycles.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## earned
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/earned#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She earned extra money by helping at the shop.
+
+例句来源：逐词编写的学习例句
 
 ## earner
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/earner#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Those Japanese radios were a nice little earner: we sold all of them by lunchtime.
+> She is the higher earner in the household.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## earnest
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/earnest#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> an earnest disposition
+> She made an earnest effort to understand the problem.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## earnestly
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/earnestly#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Talking earnestly with his son.
+> He earnestly asked for another chance.
 
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adv:00165018](https://wordnet.princeton.edu/)
+例句来源：逐词编写的学习例句
 
 ## earnestness
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/earnestness#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> She spoke with great earnestness about the issue.
+> Her earnestness made the audience listen closely.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## earning
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/earning#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She is earning money by teaching music.
+
+例句来源：逐词编写的学习例句
 
 ## earnings
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/earnings#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Earnings from Nauru's export of phosphate remains an important source of income.
+> Her annual earnings vary from year to year.
 
-例句来源：[Tatoeba；作者：The\_World\_Factbook；句子 #8905257；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/8905257)
+例句来源：逐词编写的学习例句
 
 ## earphone
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/earphone#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Only the left earphone was working.
+
+例句来源：逐词编写的学习例句
+
+## earphones
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/earphones#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She listened to the recording through earphones.
 
 例句来源：逐词编写的学习例句
 
 ## earpiece
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/earpiece#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Holding the earpiece to my ear, I could hear him speaking clearly.
+> The presenter heard instructions through an earpiece.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## earpieces
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/earpieces#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The interpreters wore small earpieces.
+
+例句来源：逐词编写的学习例句
 
 ## earplug
 
@@ -221,144 +315,182 @@
 ## earring
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/earring#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> I dropped a earring down the pipe. I must call the plumber.
-
-例句来源：[Tatoeba；作者：iT4LL；句子 #8101676；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/8101676)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > She chose a pair of silver earrings for the wedding.
+
+例句来源：逐词编写的学习例句
+
+## earrings
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/earrings#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She chose a pair of pearl earrings.
+
+例句来源：逐词编写的学习例句
+
+## ears
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ears#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Tell me what happened; I am all ears.
 
 例句来源：逐词编写的学习例句
 
 ## earshot
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/earshot#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> I'll row out on the lake but stay within earshot.
+> Wait until they are out of earshot.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## earth
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/earth#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> New space telescopes may accelerate the search for other earths that may be out there.
+> The children dug in the soft earth.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## earthbound
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/earthbound#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> To earthbound observers, the aircraft seemed very small.
+
+例句来源：逐词编写的学习例句
 
 ## earthen
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/earthen#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The earthen pizza oven was lined with hot coals.
+> Water was stored in a large earthen pot.
 
-例句来源：[Tatoeba；作者：SurreptitiousLemons；句子 #12455185；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/12455185)
+例句来源：逐词编写的学习例句
 
 ## earthenware
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/earthenware#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> earthenware bowl
+> She served the soup in an earthenware bowl.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## earthing
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/earthing#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The electrician inspected the earthing connection.
+
+例句来源：逐词编写的学习例句
 
 ## earthling
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/earthling#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> He had to choose between "Earthling" and "Terran" for their demonym.
+> The alien in the cartoon greets the earthlings politely.
 
-例句来源：[Tatoeba；作者：nonong；句子 #1468756；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/1468756)
+例句来源：逐词编写的学习例句
 
 ## earthly
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/earthly#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> There is no earthly way, I mean no way on earth, that I will ever do that.
+> He gave away most of his earthly possessions.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## earthquake
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/earthquake#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Selling the company caused an earthquake among the employees.
+> The earthquake damaged several old buildings.
 
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset noun:13977870](https://wordnet.princeton.edu/)
+例句来源：逐词编写的学习例句
+
+## earthquakes
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/earthquakes#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The museum display explains how earthquakes are recorded.
+
+例句来源：逐词编写的学习例句
 
 ## earthwork
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/earthwork#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The survey identified traces of ancient earthworks.
+
+例句来源：逐词编写的学习例句
 
 ## earthworm
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/earthworm#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Tom said that he'd give me thirty dollars if I ate an earthworm.
+> An earthworm appeared in the soil after the rain.
 
-例句来源：[Tatoeba；作者：CK；句子 #1024241；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/1024241)
+例句来源：逐词编写的学习例句
 
 ## earthy
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/earthy#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> She was an earthy soul, the salt of the earth as they say of such rural folk, untarnished by false civilization.
+> The rain brought out an earthy smell from the garden.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## earwax
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/earwax#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> I'm trying to get the earwax out of my earbuds with a pencil.
+> The article explains what earwax is made of.
 
-例句来源：[Tatoeba；作者：DJ\_Saidez；句子 #10515287；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/10515287)
+例句来源：逐词编写的学习例句
 
 ## earworm
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/earworm#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The best way to get rid of an earworm is to replace it with another.
+> That chorus is an earworm; I have been humming it all day.
 
-例句来源：[Tatoeba；作者：deniko；句子 #6319960；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/6319960)
+例句来源：逐词编写的学习例句
 
 ## ease
 
@@ -367,6 +499,16 @@
 - 中文释义资料：逐词编写的中文释义
 
 > A short walk helped ease the tension in the room.
+
+例句来源：逐词编写的学习例句
+
+## eased
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/eased#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The traffic eased after the concert ended.
 
 例句来源：逐词编写的学习例句
 
@@ -380,109 +522,131 @@
 
 例句来源：逐词编写的学习例句
 
+## eases
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/eases#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> A clear plan eases the pressure on the team.
+
+例句来源：逐词编写的学习例句
+
+## easier
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/easier#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The larger labels make the boxes easier to identify.
+
+例句来源：逐词编写的学习例句
+
+## easiest
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/easiest#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> This is the easiest way to reach the museum from here.
+
+例句来源：逐词编写的学习例句
+
 ## easily
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/easily#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Individuals without a family network are easily controlled.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The lid comes off easily if you turn it slowly.
+
+例句来源：逐词编写的学习例句
+
+## easing
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/easing#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The tension was easing as everyone began to talk.
 
 例句来源：逐词编写的学习例句
 
 ## east
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/east#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Portsmouth is to the east of Southampton.
+> The road runs east toward the coast.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## eastbound
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/eastbound#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The eastbound train is late again!
+> The eastbound train leaves from platform three.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## easterly
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/easterly#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> the easterly side of the lake
+> An easterly wind blew across the bay.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## eastern
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/eastern#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The eastern end of the island.
+> The eastern side of the house gets morning light.
 
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adj:00823971](https://wordnet.princeton.edu/)
+例句来源：逐词编写的学习例句
 
 ## easternmost
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/easternmost#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Cyprus is currently the easternmost country in the European Union.
+> The trail ends at the island’s easternmost point.
 
-例句来源：Wiktionary 用例
-
-## eastland
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/eastland#English)
-- 中文释义资料：ECDICT
-
-## eastside
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/eastside#English)
-- 中文释义资料：ECDICT
+例句来源：逐词编写的学习例句
 
 ## eastward
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/eastward#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The empire expanded eastward, in search of resources for its burgeoning textile industry.
+> The clouds moved eastward.
 
-例句来源：[Tatoeba；作者：mailohilohi；句子 #5057449；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/5057449)
+例句来源：逐词编写的学习例句
 
 ## eastwards
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/eastwards#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> A band of rain, heading eastwards, will reach all parts by the end of the day.
+> We continued eastwards after lunch.
 
-例句来源：[Tatoeba；作者：sundown；句子 #6321757；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/6321757)
+例句来源：逐词编写的学习例句
 
 ## easy
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/easy#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> She has a reputation for being easy; they say she slept with half the senior class.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The instructions are easy to follow.
 
@@ -491,12 +655,8 @@
 ## easygoing
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/easygoing#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> An easygoing teacher who allowed extra time for assignments.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adj:00712004](https://wordnet.princeton.edu/)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Our easygoing host told us to arrive whenever we were ready.
 
@@ -505,62 +665,92 @@
 ## eat
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/eat#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The acid rain ate away the statue. The strong acid eats through the metal.
+> We usually eat dinner at seven.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## eaten
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/eaten#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> As a matter of fact, I haven't eaten anything since this morning.
+> I have already eaten, but I can join you for coffee.
 
-例句来源：[Tatoeba；作者：CK；句子 #404102；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/404102)
+例句来源：逐词编写的学习例句
 
 ## eater
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/eater#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> a very fussy eater
+> My younger brother is a very picky eater.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## eatery
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/eatery#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> They're at the eatery looking at the menu.
+> We found a small eatery near the station.
 
-例句来源：[Tatoeba；作者：FeuDRenais2；句子 #2206707；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/2206707)
+例句来源：逐词编写的学习例句
+
+## eating
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/eating#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> We were eating dinner when the lights went out.
+
+例句来源：逐词编写的学习例句
+
+## eats
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/eats#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She eats breakfast at seven.
+
+例句来源：逐词编写的学习例句
 
 ## eavesdrop
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/eavesdrop#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> I swear I didn't mean to eavesdrop; my hearing is just very good.
+> He realized that someone was eavesdropping on their conversation.
 
-例句来源：[Tatoeba；作者：kulupuJeti；句子 #11294487；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/11294487)
+例句来源：逐词编写的学习例句
 
-## eavesdropping
+## ebook
 
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/eavesdropping#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ebook#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> William started eavesdropping on the conversation between Sandra and Walid.
+> She read the novel as an ebook.
 
-例句来源：[Tatoeba；作者：Amastan；句子 #11607895；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/11607895)
+例句来源：逐词编写的学习例句
+
+## ebooks
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ebooks#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The library lends ebooks as well as printed books.
+
+例句来源：逐词编写的学习例句
 
 ## ebullience
 
@@ -585,12 +775,8 @@
 ## eccentric
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/eccentric#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> As of 2008, Margaret had the most eccentric orbit of any moon in the solar system, though Nereid's mean eccentricity is greater.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Her eccentric uncle collected antique doorbells.
 
@@ -629,16 +815,12 @@
 ## ecclesiastical
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ecclesiastical#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The archive contains both civil and ecclesiastical records.
 
 例句来源：逐词编写的学习例句
-
-> ecclesiastical architecture
-
-例句来源：Wiktionary 用例
 
 ## ecclesiology
 
@@ -730,6 +912,16 @@
 
 例句来源：逐词编写的学习例句
 
+## echoes
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/echoes#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> We heard echoes of our footsteps in the empty hall.
+
+例句来源：逐词编写的学习例句
+
 ## echoing
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/echoing#English)
@@ -743,16 +935,12 @@
 ## echolocation
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/echolocation#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The bat uses echolocation to find insects in the dark.
 
 例句来源：逐词编写的学习例句
-
-> The bat's echolocation allows it to navigate in the dark.
-
-例句来源：[Tatoeba；作者：Amastan；句子 #11880819；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/11880819)
 
 ## eclectic
 
@@ -767,8 +955,8 @@
 ## eclecticism
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/eclecticism#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The album is known for its musical eclecticism.
 
@@ -827,12 +1015,8 @@
 ## ecological
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ecological#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> It's worth noting that the solar water heater is also very ecological.
-
-例句来源：[Tatoeba；作者：Nylez；句子 #9412970；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/9412970)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The team assessed the ecological impact of the new road.
 
@@ -842,29 +1026,21 @@
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ecologically#English)
 - 发音资料：核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 中文释义资料：逐词编写的中文释义
 
 > Dead wood is ecologically important because many organisms depend on it.
 
 例句来源：逐词编写的学习例句
 
-> Ecologically speaking, this idea is brilliant; economically, it is a disaster.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adv:00324976](https://wordnet.princeton.edu/)
-
 ## ecologist
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ecologist#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The ecologist measured how shade affected seedlings beneath the trees.
 
 例句来源：逐词编写的学习例句
-
-> “It is called a kowari," said ecologist John Augusteyn, who shot the footage.
-
-例句来源：[Tatoeba；作者：Hybrid；句子 #10194906；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/10194906)
 
 ## ecology
 
@@ -879,18 +1055,18 @@
 ## econometric
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/econometric#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
+- 中文释义资料：ECDICT；逐词编写的中文释义
+
+> The paper uses an econometric model to study household spending.
+
+例句来源：逐词编写的学习例句
 
 ## economic
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/economic#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> He wrote the book primarily for economic reasons.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adj:02577454](https://wordnet.princeton.edu/)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The report links the town’s decline to wider economic changes.
 
@@ -899,12 +1075,8 @@
 ## economical
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/economical#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> The new, eco-friendly bicycle was an economical purchase.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The smaller machine is more economical to run.
 
@@ -913,30 +1085,32 @@
 ## economically
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/economically#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The project is technically possible but not yet economically viable.
 
 例句来源：逐词编写的学习例句
 
-> The report highlights some of the main challenges facing Algeria economically?
-
-例句来源：[Tatoeba；作者：Amastan；句子 #10105368；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/10105368)
-
 ## economics
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/economics#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Economics helps students examine how incentives influence choices.
 
 例句来源：逐词编写的学习例句
 
-> Mary studied economics for five years before going into banking.
+## economies
 
-例句来源：Wiktionary 用例
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/economies#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The book compares the economies of three fictional islands.
+
+例句来源：逐词编写的学习例句
 
 ## economise
 
@@ -958,15 +1132,21 @@
 
 例句来源：逐词编写的学习例句
 
+## economists
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/economists#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The economists disagreed about the reasons for the change.
+
+例句来源：逐词编写的学习例句
+
 ## economize
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/economize#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> I try to economize my spare time.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset verb:02269143](https://wordnet.princeton.edu/)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > We can economize on fuel by combining several deliveries into one trip.
 
@@ -1075,12 +1255,8 @@
 ## ectopic
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ectopic#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> An ectopic pregnancy is dangerous and potentially fatal for the mother.
-
-例句来源：[Tatoeba；作者：Vanilla；句子 #3720357；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/3720357)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The textbook explains how ectopic tissue differs from tissue in its usual location.
 
@@ -1089,8 +1265,8 @@
 ## ectoplasm
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ectoplasm#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The diagram labels the ectoplasm near the edge of the amoeba.
 
@@ -1139,30 +1315,22 @@
 ## ecumenical
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ecumenical#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The churches held an ecumenical service after the flood.
 
 例句来源：逐词编写的学习例句
 
-> The shrewdest political and ecumenical comment of our time.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adj:00527188](https://wordnet.princeton.edu/)
-
 ## ecumenism
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ecumenism#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The course traces the development of ecumenism in the twentieth century.
 
 例句来源：逐词编写的学习例句
-
-> Tom doesn't know the difference between ecumenism and communism.
-
-例句来源：[Tatoeba；作者：rul；句子 #12578916；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/12578916)
 
 ## ecumenopolis
 
@@ -1193,6 +1361,46 @@
 
 例句来源：[Tatoeba；作者：Cangarejo；句子 #11134499；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/11134499)
 
+## eddied
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/eddied#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Leaves eddied around our feet.
+
+例句来源：逐词编写的学习例句
+
+## eddies
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/eddies#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Foam collected in little eddies beside the bank.
+
+例句来源：逐词编写的学习例句
+
+## eddy
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/eddy#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> A small eddy formed behind the rock.
+
+例句来源：逐词编写的学习例句
+
+## eddying
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/eddying#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> We watched smoke eddying above the fire.
+
+例句来源：逐词编写的学习例句
+
 ## edema
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/edema#English)
@@ -1206,48 +1414,62 @@
 ## edge
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/edge#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> After the timeout there was a new edge to the team's play.
+> Do not leave the glass near the edge of the table.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## edged
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/edged#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The monks were forbidden to carry edged weapons such as swords and axes.
+> She edged closer to the window.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## edges
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/edges#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The paper has rough edges.
+
+例句来源：逐词编写的学习例句
 
 ## edgewise
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/edgewise#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Once his boss got started, Jim just couldn’t get a word in edgewise.
+> They turned the panel edgewise to carry it through the door.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## edginess
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/edginess#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> There was edginess in his voice before the interview.
+
+例句来源：逐词编写的学习例句
 
 ## edgy
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/edgy#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> an edgy temper
+> The long wait made everyone edgy.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## edibility
 
@@ -1292,136 +1514,162 @@
 ## edit
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/edit#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> An early edit of the film included a romantic subplot.
+> Please edit the introduction to make it clearer.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## editable
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/editable#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> This page is editable by anyone.
+> Please send an editable version of the document.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## edited
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/edited#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She edited the article to make the argument clearer.
+
+例句来源：逐词编写的学习例句
+
+## editing
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/editing#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> I spent the afternoon editing the report.
+
+例句来源：逐词编写的学习例句
 
 ## edition
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/edition#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The 2014 edition of the Tour de France started in Leeds, Yorkshire.
+> The revised edition includes a new chapter.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## editions
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/editions#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The library has several editions of the dictionary.
+
+例句来源：逐词编写的学习例句
 
 ## editor
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/editor#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The TPU EVE editor is an excellent, extensible, programmable editor.
+> The editor suggested a clearer opening paragraph.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## editorial
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/editorial#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> editorial labours; editorial remarks
+> The editorial team meets every Monday.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
-## editorially
+## editors
 
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/editorially#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/editors#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The paper commented editorially on the scandal.
+> The editors checked the names and dates before publication.
 
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adv:00226891](https://wordnet.princeton.edu/)
+例句来源：逐词编写的学习例句
 
 ## editorship
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/editorship#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She took over the editorship of the journal last year.
+
+例句来源：逐词编写的学习例句
+
+## edits
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/edits#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She edits the newsletter every week.
+
+例句来源：逐词编写的学习例句
 
 ## educate
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/educate#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The program educates children about local wildlife.
 
 例句来源：逐词编写的学习例句
 
-> Wang said such changes to the Baishui glacier provide the chance to educate visitors about global warming.
-
-例句来源：Wiktionary 用例
-
 ## educated
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/educated#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> She cast an educated eye over the antiques.
+> She made an educated guess based on the earlier figures.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## education
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/education#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Everyone should have access to a good education.
 
 例句来源：逐词编写的学习例句
 
-> The educations our children receive depend on their economic status.
-
-例句来源：Wiktionary 用例
-
 ## educational
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/educational#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> I can't see the educational value of going on a field trip to the clothes factory.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The website offers free educational resources.
 
 例句来源：逐词编写的学习例句
 
-## educationally
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/educationally#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
-
-> The assistant masters formed a committee of their own to consider what could be done educationally for the town.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adv:00325603](https://wordnet.princeton.edu/)
-
 ## educative
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/educative#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The exhibition was entertaining as well as educative.
+
+例句来源：逐词编写的学习例句
 
 ## educator
 
@@ -1433,15 +1681,55 @@
 
 例句来源：逐词编写的学习例句
 
+## educators
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/educators#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The workshop brought together educators and parents.
+
+例句来源：逐词编写的学习例句
+
+## eel
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/eel#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> An eel slipped between the rocks.
+
+例句来源：逐词编写的学习例句
+
+## eels
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/eels#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Several eels were hiding among the stones.
+
+例句来源：逐词编写的学习例句
+
+## eerie
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/eerie#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> An eerie silence filled the empty station.
+
+例句来源：逐词编写的学习例句
+
 ## eerily
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/eerily#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> It was eerily quiet in the chapel.
+> The streets were eerily quiet after midnight.
 
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adv:00325802](https://wordnet.princeton.edu/)
+例句来源：逐词编写的学习例句
 
 ## effect
 
@@ -1467,7 +1755,7 @@
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/effecting#English)
 - 发音资料：核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 中文释义资料：逐词编写的中文释义
 
 > The team is effecting changes across the organisation.
 
@@ -1486,26 +1774,18 @@
 ## effective
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/effective#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > A short break can be an effective way to regain focus.
 
 例句来源：逐词编写的学习例句
 
-> How long does it take to make a bunch of civilians an effective military force?
-
-例句来源：Wiktionary 用例
-
 ## effectively
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/effectively#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> On paper, the answer seems to be yes, but, effectively, the answer is no.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The team communicated effectively under pressure.
 
@@ -1514,12 +1794,8 @@
 ## effectiveness
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/effectiveness#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> The effectiveness of the drug was well established.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > We measured the effectiveness of the training.
 
@@ -1542,6 +1818,16 @@
 - 中文释义资料：逐词编写的中文释义
 
 > The muscle acts as an effector in the reflex.
+
+例句来源：逐词编写的学习例句
+
+## effects
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/effects#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The film uses simple sound effects to create tension.
 
 例句来源：逐词编写的学习例句
 
@@ -1568,12 +1854,8 @@
 ## effectually
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/effectually#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> No passion so effectually robs the mind of all its powers of acting and reasoning as fear.
-
-例句来源：[Tatoeba；作者：Scott；句子 #714843；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/714843)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The barrier effectually blocked the entrance.
 
@@ -1612,16 +1894,12 @@
 ## efficacious
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/efficacious#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The method proved efficacious in reducing errors.
 
 例句来源：逐词编写的学习例句
-
-> This medicine is efficacious.
-
-例句来源：Wiktionary 用例
 
 ## efficacity
 
@@ -1636,12 +1914,8 @@
 ## efficacy
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/efficacy#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Concern about the safety and efficacy of the vaccine.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset noun:05199869](https://wordnet.princeton.edu/)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The study tested the efficacy of the training method.
 
@@ -1650,16 +1924,12 @@
 ## efficiency
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/efficiency#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Better scheduling improved the team’s efficiency.
 
 例句来源：逐词编写的学习例句
-
-> The efficiency of the planning department is deplorable.
-
-例句来源：Wiktionary 用例
 
 ## efficient
 
@@ -1674,16 +1944,12 @@
 ## efficiently
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/efficiently#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The software sorts the files efficiently.
 
 例句来源：逐词编写的学习例句
-
-> Tom is a good employee. He gets things done quickly and efficiently.
-
-例句来源：[Tatoeba；作者：Hybrid；句子 #2753439；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/2753439)
 
 ## effigy
 
@@ -1694,16 +1960,6 @@
 > A stone effigy of the knight lies on top of the tomb.
 
 例句来源：逐词编写的学习例句
-
-## effing
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/effing#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
-
-> The effing car's broken down again!
-
-例句来源：Wiktionary 用例
 
 ## effluent
 
@@ -1728,12 +1984,8 @@
 ## effortless
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/effortless#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> She made the move look completely effortless.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Years of practice made her movements look effortless.
 
@@ -1742,14 +1994,20 @@
 ## effortlessly
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/effortlessly#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> She hoisted the child effortlessly and plopped him in bed.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > She switched effortlessly between the two languages.
+
+例句来源：逐词编写的学习例句
+
+## efforts
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/efforts#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Their efforts to repair the old boat finally paid off.
 
 例句来源：逐词编写的学习例句
 
@@ -1796,120 +2054,112 @@
 ## egalitarian
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/egalitarian#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Bonobos are also different in that they have a more egalitarian and cooperative society than chimpanzees.
+> The group aims to build a more egalitarian workplace.
 
-例句来源：[Tatoeba；作者：Cangarejo；句子 #11822514；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/11822514)
+例句来源：逐词编写的学习例句
 
 ## egalitarianism
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/egalitarianism#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The essay explores the relationship between egalitarianism and freedom.
+
+例句来源：逐词编写的学习例句
 
 ## egg
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/egg#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> I should determine the minimal amount of egg required to make good mayonnaise.
+> She cracked two eggs into the bowl.
 
-例句来源：Wiktionary 用例
-
-## egger
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/egger#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
-
-> The caterpillar of the egger moth spins a silk thread, from which it makes a cocoon.
-
-例句来源：[Tatoeba；作者：mraz；句子 #13448504；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/13448504)
+例句来源：逐词编写的学习例句
 
 ## egghead
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/egghead#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> In spite of her love of reading she denied being an egghead.
+> The character dismisses the researchers as eggheads.
 
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset noun:10047030](https://wordnet.princeton.edu/)
-
-## eggman
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/eggman#English)
+例句来源：逐词编写的学习例句
 
 ## eggnog
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/eggnog#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> She brought him a slice of cake and a glass of eggnog.
+> They served nonalcoholic eggnog at the party.
 
-例句来源：[Tatoeba；作者：Cangarejo；句子 #12127432；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/12127432)
+例句来源：逐词编写的学习例句
 
 ## eggplant
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/eggplant#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Eggplant is the main ingredient of some vegetarian dishes with tomato sauce.
+> We grilled eggplant with a little olive oil.
 
-例句来源：[Tatoeba；作者：Objectivesea；句子 #10174644；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/10174644)
+例句来源：逐词编写的学习例句
+
+## eggs
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/eggs#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The bird laid three eggs in the nest.
+
+例句来源：逐词编写的学习例句
 
 ## eggshell
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/eggshell#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> This clear varnish is available in gloss, matt and eggshell finishes.
+> A piece of eggshell fell into the bowl.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## eggy
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/eggy#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> an eggy smell/taste
+> The café serves eggy bread with tomatoes.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## ego
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ego#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Losing the argument bruised his ego.
 
 例句来源：逐词编写的学习例句
 
-> the cousin of ego on the father's side
-
-例句来源：Wiktionary 用例
-
 ## egocentric
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/egocentric#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > His egocentric approach left little room for other people’s needs.
 
 例句来源：逐词编写的学习例句
-
-> Our genetic material is being constantly invaded by small egocentric molecular parasites.
-
-例句来源：[Tatoeba；作者：marcelostockle；句子 #1247904；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/1247904)
 
 ## egocentrism
 
@@ -1944,12 +2194,8 @@
 ## egoistic
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/egoistic#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Children are completely egoistic; they feel their needs intensely and strive ruthlessly to satisfy them.
-
-例句来源：[Tatoeba；作者：Hybrid；句子 #5271981；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/5271981)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The critic saw the donation as an egoistic attempt to gain publicity.
 
@@ -1968,12 +2214,8 @@
 ## egomaniac
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/egomaniac#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> He's a raving egomaniac: all he ever talks about is himself and how important he is.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The film’s villain is an egomaniac who demands constant praise.
 
@@ -1987,12 +2229,8 @@
 ## egotism
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/egotism#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Conceit, arrogance and egotism are the essentials of patriotism.
-
-例句来源：[Tatoeba；作者：shekitten；句子 #8603261；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/8603261)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > His speech was so full of egotism that he barely mentioned the team.
 
@@ -2011,12 +2249,8 @@
 ## egotistical
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/egotistical#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> I'm an egotistical bastard, and I name all my projects after myself.
-
-例句来源：[Tatoeba；作者：fekundulo；句子 #3896747；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/3896747)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > It sounded egotistical to claim that the project depended entirely on him.
 
@@ -2035,8 +2269,8 @@
 ## egregiously
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/egregiously#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The headline was egregiously misleading.
 
@@ -2092,71 +2326,91 @@
 
 例句来源：逐词编写的学习例句
 
+## eh
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/eh#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Nice day for a walk, eh?
+
+例句来源：逐词编写的学习例句
+
 ## eigenvalue
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/eigenvalue#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The matrix doubles every vector, so its only eigenvalue is two.
+
+例句来源：逐词编写的学习例句
+
+## eight
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/eight#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The train leaves at eight.
 
 例句来源：逐词编写的学习例句
 
 ## eighteen
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/eighteen#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> If he could pass for eighteen years old, he'd join the army.
+> The project took eighteen months.
 
-例句来源：[Tatoeba；作者：CK；句子 #73306；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/73306)
+例句来源：逐词编写的学习例句
 
 ## eighteenth
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/eighteenth#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> It talks about the tragic fate of slaves in the eighteenth century.
+> They celebrated her eighteenth birthday.
 
-例句来源：[Tatoeba；作者：sharris123；句子 #7791071；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/7791071)
-
-## eightfold
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/eightfold#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+例句来源：逐词编写的学习例句
 
 ## eighth
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/eighth#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Two bits equals two eighths of a dollar.
+> Our office is on the eighth floor.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## eightieth
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/eightieth#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The town celebrated the library’s eightieth anniversary.
+
+例句来源：逐词编写的学习例句
 
 ## eighty
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/eighty#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Seventy or eighty years is the normal span of a man's life.
+> The battery charges to eighty percent in an hour.
 
-例句来源：[Tatoeba；作者：CN；句子 #72394；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/72394)
+例句来源：逐词编写的学习例句
 
 ## ejaculate
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ejaculate#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Men can ejaculate between 0.1 and 10 milliliters of semen on average.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The study measured the volume of each ejaculate.
 
@@ -2235,16 +2489,12 @@
 ## ejector
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ejector#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > An ejector pin pushes the finished part out of the mould.
 
 例句来源：逐词编写的学习例句
-
-> The ESA researchers used the compressed air ejector to shoot 20 nets traveling at different speeds toward the satellite model over a two-day period.
-
-例句来源：[Tatoeba；作者：Cangarejo；句子 #11254046；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/11254046)
 
 ## elaborate
 
@@ -2259,12 +2509,8 @@
 ## elaborately
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/elaborately#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> The prince asked for her hand in marriage in an elaborately planned proposal on the yacht.
-
-例句来源：[Tatoeba；作者：acbarbosa；句子 #2190487；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/2190487)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The wooden screen was elaborately carved with birds and flowers.
 
@@ -2273,16 +2519,12 @@
 ## elaboration
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/elaboration#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > He rejected the proposal without further elaboration.
 
 例句来源：逐词编写的学习例句
-
-> the elaboration of chyle, or sap, or tissues
-
-例句来源：Wiktionary 用例
 
 ## elapse
 
@@ -2307,85 +2549,112 @@
 ## elastic
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/elastic#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The rope is somewhat elastic, so expect it to give when you pull on it.
+> The waistband is made from elastic material.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## elasticity
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/elasticity#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> If the sales of an item drop by 5% when the price increases by 10%, its price elasticity is −0.5.
+> The experiment compares the elasticity of two materials.
 
-例句来源：Wiktionary 用例
-
-## elastin
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/elastin#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
-
-> Medical experts say the only possible negative repercussion of using laboratory-produced elastin to repair tissue, is that it could cause inflammation or calcification.
-
-例句来源：[Tatoeba；作者：Cangarejo；句子 #12289443；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/12289443)
+例句来源：逐词编写的学习例句
 
 ## elastomer
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/elastomer#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-## elastomeric
+> The seal is made from a flexible elastomer.
 
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/elastomeric#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+例句来源：逐词编写的学习例句
 
 ## elbow
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/elbow#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> the sides of windows, where the jamb makes an elbow with the window back
+> He rested his elbows on the table.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## elbows
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/elbows#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> He rested his elbows on the table.
+
+例句来源：逐词编写的学习例句
 
 ## elder
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/elder#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> After being a member of the Church for a while, Bill was ordained to the office of elder.
+> My elder sister lives nearby.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## elderberry
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/elderberry#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The drawing shows elderberries hanging in clusters.
+
+例句来源：逐词编写的学习例句
 
 ## elderflower
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/elderflower#English)
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The café serves elderflower cordial with sparkling water.
+
+例句来源：逐词编写的学习例句
 
 ## elderly
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/elderly#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> He lives next door to an elderly.
+> An elderly neighbour helped us identify the old photograph.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## elders
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/elders#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The children listened to stories told by the elders.
+
+例句来源：逐词编写的学习例句
+
+## eldest
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/eldest#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Her eldest daughter lives abroad.
+
+例句来源：逐词编写的学习例句
 
 ## elect
 
@@ -2410,10 +2679,20 @@
 ## electable
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/electable#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The party was searching for an electable candidate.
+
+例句来源：逐词编写的学习例句
+
+## elected
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/elected#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The members elected her chair of the club.
 
 例句来源：逐词编写的学习例句
 
@@ -2430,26 +2709,28 @@
 ## election
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/election#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The club will hold an election next month.
 
 例句来源：逐词编写的学习例句
 
-> The election of John Smith was due to his broad appeal.
+## elections
 
-例句来源：Wiktionary 用例
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/elections#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The club holds elections for its committee each year.
+
+例句来源：逐词编写的学习例句
 
 ## elective
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/elective#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> After accounting for all of my required courses, there is hardly any room in my schedule for any elective ones.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > I chose photography as an elective.
 
@@ -2458,8 +2739,8 @@
 ## elector
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/elector#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Each registered elector received a notice.
 
@@ -2468,12 +2749,8 @@
 ## electoral
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/electoral#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> MISA says the electoral commission should accredit all journalists without conditions.
-
-例句来源：[Tatoeba；作者：Cangarejo；句子 #11350905；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/11350905)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The article explains the electoral system.
 
@@ -2482,8 +2759,8 @@
 ## electorally
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/electorally#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The coalition proved electorally successful.
 
@@ -2492,16 +2769,12 @@
 ## electorate
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/electorate#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The proposal divided the electorate.
 
 例句来源：逐词编写的学习例句
-
-> The votes have been counted and the electorate has spoken.
-
-例句来源：Wiktionary 用例
 
 ## electric
 
@@ -2516,26 +2789,18 @@
 ## electrical
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/electrical#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > An electrical fault caused the lights to go out.
 
 例句来源：逐词编写的学习例句
 
-> electrical engineering for the design of electrical appliances
-
-例句来源：Wiktionary 用例
-
 ## electrically
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/electrically#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> The concert was electrically exciting.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The seats are electrically heated.
 
@@ -2544,26 +2809,18 @@
 ## electrician
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/electrician#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The electrician replaced the damaged wiring.
 
 例句来源：逐词编写的学习例句
 
-> You don't need to contact an electrician to replace a light switch.
-
-例句来源：[Tatoeba；作者：Amastan；句子 #9967090；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/9967090)
-
 ## electricity
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/electricity#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Last year this portion of the grid consumed more than a thousand megawatt-hours of electricity.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The village gained a reliable electricity supply.
 
@@ -2572,30 +2829,22 @@
 ## electrics
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/electrics#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The old house needs new electrics.
 
 例句来源：逐词编写的学习例句
 
-> The technician is still trying to fix the electrics.
-
-例句来源：[Tatoeba；作者：Amastan；句子 #8290928；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/8290928)
-
 ## electrification
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/electrification#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Rural electrification changed evening life in the village.
 
 例句来源：逐词编写的学习例句
-
-> rural electrification
-
-例句来源：Wiktionary 用例
 
 ## electrified
 
@@ -2630,12 +2879,8 @@
 ## electrocardiogram
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/electrocardiogram#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> I have to shave your chest for the electrocardiogram.
-
-例句来源：[Tatoeba；作者：NurseMeeks；句子 #9853942；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/9853942)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The doctor explained the curves on the electrocardiogram.
 
@@ -2654,22 +2899,18 @@
 ## electrochemical
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/electrochemical#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > A battery stores energy through electrochemical processes.
 
 例句来源：逐词编写的学习例句
 
-> The plant will use the technology of electrochemical purification of raw materials.
-
-例句来源：[Tatoeba；作者：AlanF\_US；句子 #10725678；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/10725678)
-
 ## electrochemistry
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/electrochemistry#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Her interest in batteries led her to study electrochemistry.
 
@@ -2688,12 +2929,8 @@
 ## electrocution
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/electrocution#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> The faulty wiring caused the unfortunate worker’s accidental electrocution.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The investigation classified the death as accidental electrocution.
 
@@ -2712,8 +2949,8 @@
 ## electrodynamics
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/electrodynamics#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The textbook develops classical electrodynamics from Maxwell’s equations.
 
@@ -2729,21 +2966,11 @@
 
 例句来源：逐词编写的学习例句
 
-## electroencephalography
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/electroencephalography#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
-
 ## electrolysis
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/electrolysis#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> People with dark hair would benefit more from laser hair removal than electrolysis.
-
-例句来源：[Tatoeba；作者：shekitten；句子 #9796259；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/9796259)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The exhibition explains how electrolysis can split water into hydrogen and oxygen.
 
@@ -2752,12 +2979,8 @@
 ## electrolyte
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/electrolyte#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Lab tests to consider under these circumstances include serum electrolytes, serum glucose, and urine protein.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The diagram shows ions moving through the electrolyte.
 
@@ -2766,12 +2989,8 @@
 ## electrolytic
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/electrolytic#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> An electrolytic cell is a type of electrochemical cell in which the flow of electric energy from an external source enables a redox reaction.
-
-例句来源：[Tatoeba；作者：LinaTamazight；句子 #8767491；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/8767491)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The factory uses an electrolytic process to refine the metal.
 
@@ -2790,12 +3009,8 @@
 ## electromagnetic
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/electromagnetic#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Sound needs matter to propagate through. However, cosmic noise and electromagnetic waves don't.
-
-例句来源：[Tatoeba；作者：neron；句子 #3513071；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/3513071)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Visible light is electromagnetic radiation.
 
@@ -2814,8 +3029,12 @@
 ## electromechanical
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/electromechanical#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The device uses an electromechanical relay.
+
+例句来源：逐词编写的学习例句
 
 ## electromotive
 
@@ -2860,16 +3079,12 @@
 ## electronic
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/electronic#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The door uses an electronic lock.
 
 例句来源：逐词编写的学习例句
-
-> electronic signature
-
-例句来源：Wiktionary 用例
 
 ## electronica
 
@@ -2894,16 +3109,12 @@
 ## electronics
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/electronics#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Electronics is one of her favorite subjects.
 
 例句来源：逐词编写的学习例句
-
-> The electronics is the difference between a modern and an old-fashioned thermostat.
-
-例句来源：Wiktionary 用例
 
 ## electronystagmography
 
@@ -2911,21 +3122,11 @@
 - 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
 - 中文释义资料：ECDICT
 
-## electrophilic
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/electrophilic#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
-
 ## electrophoresis
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/electrophoresis#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Agarose gel electrophoresis is a method commonly used to separate DNA fragments based on their size.
-
-例句来源：[Tatoeba；作者：BobbyLee；句子 #9408444；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/9408444)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The students used gel electrophoresis to compare DNA fragments.
 
@@ -2937,27 +3138,15 @@
 - 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
 - 中文释义资料：ECDICT
 
-## electrophysiological
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/electrophysiological#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
-
-## electrophysiology
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/electrophysiology#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
-
 ## electroshock
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/electroshock#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> I'm not homophobic, but I have no problem with electroshock therapy for gay people.
+> The article discussed the term electroshock in medical history.
 
-例句来源：[Tatoeba；作者：shekitten；句子 #5597795；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/5597795)
+例句来源：逐词编写的学习例句
 
 ## electrostatic
 
@@ -2979,39 +3168,90 @@
 
 例句来源：逐词编写的学习例句
 
+## elegance
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/elegance#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> They admired the elegance of the solution.
+
+例句来源：逐词编写的学习例句
+
 ## elegant
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/elegant#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> an elegant solution
+> She wore a simple but elegant dress.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## elegantly
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/elegantly#English)
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The members of these groups do not express themselves as accurately or as elegantly as their critics do.
+> The bridge is elegantly designed.
 
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adv:00327408](https://wordnet.princeton.edu/)
+例句来源：逐词编写的学习例句
+
+## element
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/element#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Trust is an essential element of teamwork.
+
+例句来源：逐词编写的学习例句
+
+## elementary
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/elementary#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The course begins with elementary principles.
+
+例句来源：逐词编写的学习例句
+
+## elements
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/elements#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The lesson explains the basic elements of a good story.
+
+例句来源：逐词编写的学习例句
 
 ## elephant
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/elephant#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Let's play hide and seek. I'll count. One elephant, two elephant, three elephant...
+> The elephant lifted its trunk.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## elephants
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/elephants#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The documentary follows a herd of elephants.
+
+例句来源：逐词编写的学习例句
 
 ## elevate
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/elevate#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
+- 发音资料：核对后整理；见逐词精讲核对资料
 - 中文释义资料：逐词编写的中文释义
 
 > The mechanism elevates the platform slowly.
@@ -3031,12 +3271,8 @@
 ## elevation
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/elevation#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> A hill is an elevation of the ground.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The village stands at an elevation of about one thousand metres.
 
@@ -3045,46 +3281,42 @@
 ## elevator
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/elevator#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> He elevatored up to the third floor.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > We took the elevator to the eighth floor.
+
+例句来源：逐词编写的学习例句
+
+## eleven
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/eleven#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The team has eleven players on the field.
 
 例句来源：逐词编写的学习例句
 
 ## eleventh
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/eleventh#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> We'd better finish up this project before the eleventh hour.
+> The solution appeared in the eleventh chapter.
 
-例句来源：[Tatoeba；作者：Ramiav；句子 #279501；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/279501)
+例句来源：逐词编写的学习例句
 
 ## elf
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/elf#English)
-- 发音资料：Wiktionary
-- 中文释义资料：Wiktionary 汉语译词（参考，非逐义对齐）
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> In contrast to Mary, a forest elf, Jeanne was a dark elf.
+> An elf appears at the edge of the forest.
 
-例句来源：[Tatoeba；作者：rul；句子 #13052233；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/13052233)
-
-## elfin
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/elfin#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
-
-> The tinkles of sleigh bells among the snowy hills came like elfin chimes through the frosty air.
-
-例句来源：[Tatoeba；作者：Hybrid；句子 #5831708；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/5831708)
+例句来源：逐词编写的学习例句
 
 ## elide
 
@@ -3119,28 +3351,52 @@
 ## eliminate
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/eliminate#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Let's eliminate the course on Akkadian hieroglyphics.
+> The new checklist helped eliminate common errors.
 
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset verb:00471711](https://wordnet.princeton.edu/)
+例句来源：逐词编写的学习例句
+
+## eliminated
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/eliminated#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The new layout eliminated several unnecessary steps.
+
+例句来源：逐词编写的学习例句
+
+## eliminating
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/eliminating#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The editor is eliminating repeated sentences.
+
+例句来源：逐词编写的学习例句
 
 ## elimination
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/elimination#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Everton require at least 3 goals in the second leg to avoid elimination from the FA Cup.
+> We found the answer by a process of elimination.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## eliminator
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/eliminator#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The catalogue lists an odour eliminator for household use.
+
+例句来源：逐词编写的学习例句
 
 ## elision
 
@@ -3162,29 +3418,31 @@
 
 例句来源：逐词编写的学习例句
 
+## elites
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/elites#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The historian compares the cultural elites of two cities.
+
+例句来源：逐词编写的学习例句
+
 ## elitism
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/elitism#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The essay criticizes elitism in arts funding.
 
 例句来源：逐词编写的学习例句
 
-> The words "elitist" and "elitism" are often used by anti-intellectuals.
-
-例句来源：[Tatoeba；作者：mailohilohi；句子 #5933891；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/5933891)
-
 ## elitist
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/elitist#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Criticizing something as being "elitist" is often a disguised form of anti-intellectualism.
-
-例句来源：[Tatoeba；作者：mailohilohi；句子 #5933894；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/5933894)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Critics called the admissions policy elitist.
 
@@ -3199,15 +3457,6 @@
 > In the legend, the king searches for an elixir that will make him immortal.
 
 例句来源：逐词编写的学习例句
-
-## elkhorn
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/elkhorn#English)
-- 中文释义资料：ECDICT
-
-> Elkhorn corals are listed as threatened under the U.S. Endangered Species Act.
-
-例句来源：[Tatoeba；作者：Hybrid；句子 #6684387；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/6684387)
 
 ## ellipse
 
@@ -3239,12 +3488,6 @@
 
 例句来源：逐词编写的学习例句
 
-## ellipsoidal
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ellipsoidal#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
-
 ## elliptic
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/elliptic#English)
@@ -3258,22 +3501,32 @@
 ## elliptical
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/elliptical#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> I got a runner's high after using the elliptical machine for fifty minutes.
-
-例句来源：[Tatoeba；作者：Eccles17；句子 #6713222；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/6713222)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The architect designed an elliptical courtyard.
 
 例句来源：逐词编写的学习例句
 
-## elmwood
+## elm
 
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/elmwood#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/elm#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> An old elm shaded the village square.
+
+例句来源：逐词编写的学习例句
+
+## elms
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/elms#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Tall elms lined the road.
+
+例句来源：逐词编写的学习例句
 
 ## elocution
 
@@ -3318,14 +3571,12 @@
 ## elope
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/elope#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-## elopement
+> They eloped and told their families a week later.
 
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/elopement#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+例句来源：逐词编写的学习例句
 
 ## eloquence
 
@@ -3351,21 +3602,37 @@
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/eloquently#English)
 - 发音资料：核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> He speaks eloquently, but he can't do math to save himself.
-
-例句来源：[Tatoeba；作者：Teangloir；句子 #12857375；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/12857375)
+- 中文释义资料：逐词编写的中文释义
 
 > He spoke eloquently about his grandmother’s kindness.
+
+例句来源：逐词编写的学习例句
+
+## else
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/else#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Would you like anything else?
+
+例句来源：逐词编写的学习例句
+
+## elsewhere
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/elsewhere#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> We could not find a table, so we ate elsewhere.
 
 例句来源：逐词编写的学习例句
 
 ## elucidate
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/elucidate#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The diagram helps elucidate the relationship between the two processes.
 
@@ -3424,22 +3691,32 @@
 ## elven
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/elven#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The quickest way to the elven neighborhood is through the orc neighborhood.
+> The story leads the travellers to an elven city.
 
-例句来源：[Tatoeba；作者：rul；句子 #12763988；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/12763988)
+例句来源：逐词编写的学习例句
+
+## elves
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/elves#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The children read a story about elves in a forest.
+
+例句来源：逐词编写的学习例句
 
 ## elvish
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/elvish#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> My Elvish is rusty, but I think he's saying he means us no harm.
+> The illustrator gave the character an elvish face.
 
-例句来源：[Tatoeba；作者：rul；句子 #12568163；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/12568163)
+例句来源：逐词编写的学习例句
 
 ## emaciate
 
@@ -3461,6 +3738,46 @@
 
 例句来源：逐词编写的学习例句
 
+## email
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/email#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Please send me an email when you have the details.
+
+例句来源：逐词编写的学习例句
+
+## emailed
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/emailed#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She emailed me the revised schedule last night.
+
+例句来源：逐词编写的学习例句
+
+## emailing
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/emailing#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She is emailing the directions to everyone in the group.
+
+例句来源：逐词编写的学习例句
+
+## emails
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/emails#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> I read the unanswered emails before the meeting.
+
+例句来源：逐词编写的学习例句
+
 ## emanate
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/emanate#English)
@@ -3474,26 +3791,18 @@
 ## emanation
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/emanation#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > A faint emanation of light appeared beneath the door.
 
 例句来源：逐词编写的学习例句
 
-> Perfume is an emanation from a flower.
-
-例句来源：Wiktionary 用例
-
 ## emancipate
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/emancipate#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Education can emancipate us from error or prejudices.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The movement sought to emancipate workers from oppressive conditions.
 
@@ -3562,98 +3871,122 @@
 ## embankment
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/embankment#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Sami's body was discovered dumped over a highway embankment in Ontario.
+> They walked along the river embankment.
 
-例句来源：[Tatoeba；作者：OsoHombre；句子 #6577678；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/6577678)
+例句来源：逐词编写的学习例句
 
 ## embark
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/embark#English)
-- 发音资料：Wiktionary
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-## embarrassingly
+> Passengers embarked at the small harbour.
 
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/embarrassingly#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+例句来源：逐词编写的学习例句
 
-> He was presented with an embarrassingly long list of options.
+## embarkation
 
-例句来源：Wiktionary 用例
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/embarkation#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Signs directed passengers to the embarkation area.
+
+例句来源：逐词编写的学习例句
+
+## embarrass
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/embarrass#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Please do not embarrass me in front of everyone.
+
+例句来源：逐词编写的学习例句
+
+## embarrassed
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/embarrassed#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> I felt embarrassed when I forgot her name.
+
+例句来源：逐词编写的学习例句
+
+## embarrassing
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/embarrassing#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> It was an embarrassing mistake, but we corrected it quickly.
+
+例句来源：逐词编写的学习例句
 
 ## embarrassment
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/embarrassment#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Losing this highly publicized case was an embarrassment to the firm.
+> To my embarrassment, I had forgotten her name.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
-## embattled
+## embassy
 
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/embattled#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/embassy#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She works at an embassy in the capital.
+
+例句来源：逐词编写的学习例句
 
 ## embed
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/embed#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The instructions showed how to embed a chart from the spreadsheet within the wordprocessor document.
+> The artist embedded coloured stones in the wall.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## embedded
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/embedded#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Confused by the embedded Latin quotations.
+> The article contains an embedded video.
 
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adj:01328419](https://wordnet.princeton.edu/)
+例句来源：逐词编写的学习例句
 
-## embedding
+## embezzle
 
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/embedding#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/embezzle#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> word embeddings
+> The accountant was accused of embezzling company funds.
 
-例句来源：Wiktionary 用例
-
-## embellishment
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/embellishment#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
-
-## ember
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ember#English)
-- 发音资料：Wiktionary
-
-> ember fasts
-
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## embezzlement
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/embezzlement#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> He was arrested for embezzlement of company funds.
+> The bank reported suspected embezzlement.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## embiotocid
 
@@ -3682,28 +4015,32 @@
 ## embodiment
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/embodiment#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> You are the very embodiment of beauty.
+> For her students, she was the embodiment of patience.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## embody
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/embody#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The US Constitution aimed to embody the ideals of diverse groups of people, from Puritans to Deists.
+> The design embodies the idea of simplicity.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## embolden
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/embolden#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The early success emboldened the team to try a harder design.
+
+例句来源：逐词编写的学习例句
 
 ## embolic
 
@@ -3775,6 +4112,26 @@
 
 例句来源：逐词编写的学习例句
 
+## embrace
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/embrace#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> They embraced when they met at the station.
+
+例句来源：逐词编写的学习例句
+
+## embraced
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/embraced#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She embraced her brother at the station.
+
+例句来源：逐词编写的学习例句
+
 ## embrocate
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/embrocate#English)
@@ -3784,22 +4141,6 @@
 ## embrocation
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/embrocation#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
-
-## embroider
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/embroider#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
-
-> I don't know how to sew or embroider.
-
-例句来源：[Tatoeba；作者：Ederra；句子 #1471158；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/1471158)
-
-## embryogenesis
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/embryogenesis#English)
 - 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
 - 中文释义资料：ECDICT
 
@@ -3866,12 +4207,8 @@
 ## emergency
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/emergency#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Cardiac arrest is an emergency requiring medical attention.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Keep the emergency exit clear.
 
@@ -3884,6 +4221,16 @@
 - 中文释义资料：逐词编写的中文释义
 
 > The model shows emergent behaviour from simple rules.
+
+例句来源：逐词编写的学习例句
+
+## emerges
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/emerges#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> A deer emerges from the trees at the edge of the picture.
 
 例句来源：逐词编写的学习例句
 
@@ -3980,26 +4327,12 @@
 ## eminently
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/eminently#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Everyone supported the nominee because she was eminently qualified.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Your proposal is eminently sensible.
 
 例句来源：逐词编写的学习例句
-
-## emirate
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/emirate#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
-
-> Algeria is not an Islamic emirate.
-
-例句来源：[Tatoeba；作者：Amastan；句子 #10092171；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/10092171)
 
 ## emissary
 
@@ -4018,6 +4351,16 @@
 - 中文释义资料：逐词编写的中文释义
 
 > The city plans to reduce emissions from buses.
+
+例句来源：逐词编写的学习例句
+
+## emissions
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/emissions#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The report compares emissions from different sources.
 
 例句来源：逐词编写的学习例句
 
@@ -4074,10 +4417,30 @@
 ## emitter
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/emitter#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The sensor contains a small infrared emitter.
+
+例句来源：逐词编写的学习例句
+
+## emoji
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/emoji#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She replied with a heart emoji.
+
+例句来源：逐词编写的学习例句
+
+## emojis
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/emojis#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The message ended with three laughing emojis.
 
 例句来源：逐词编写的学习例句
 
@@ -4104,12 +4467,8 @@
 ## emotional
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/emotional#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> I felt so emotional seeing my three-legged poodle win first prize.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > She needed emotional support after the move.
 
@@ -4118,8 +4477,8 @@
 ## emotionality
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/emotionality#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The study tracked changes in emotionality over time.
 
@@ -4128,12 +4487,8 @@
 ## emotionally
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/emotionally#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Physically, it was easy, but emotionally it was the hardest thing I've ever done.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The decision was emotionally difficult for her.
 
@@ -4142,16 +4497,22 @@
 ## emotionless
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/emotionless#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > He read the statement in an emotionless voice.
 
 例句来源：逐词编写的学习例句
 
-> Ziri's expression was so emotionless it still haunts me to this day.
+## emotions
 
-例句来源：[Tatoeba；作者：Amastan；句子 #10204460；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/10204460)
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/emotions#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She felt mixed emotions about leaving home.
+
+例句来源：逐词编写的学习例句
 
 ## emotive
 
@@ -4216,12 +4577,8 @@
 ## empathic
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/empathic#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Be fair to people: not everyone can be empathic, like Cathy is. Her gift is rare.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The training focuses on empathic listening.
 
@@ -4260,16 +4617,12 @@
 ## empathy
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/empathy#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Her own experience gave her empathy for new students.
 
 例句来源：逐词编写的学习例句
-
-> She had a lot of empathy for her neighbor; she knew what it was like to lose a parent too.
-
-例句来源：Wiktionary 用例
 
 ## emperor
 
@@ -4305,11 +4658,7 @@
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/emphasise#English)
 - 发音资料：核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> I would like to emphasise that I will not agree to that.
-
-例句来源：[Tatoeba；作者：Tom9358；句子 #13843456；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/13843456)
+- 中文释义资料：逐词编写的中文释义
 
 > The guide emphasised the need to stay on the marked path.
 
@@ -4358,105 +4707,130 @@
 ## empirical
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/empirical#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The lengths were calculated according to the empirical rules of the trade.
+> The theory needs empirical support.
 
-例句来源：Wiktionary 用例
-
-## empirically
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/empirically#English)
-- 中文释义资料：ECDICT
-
-> We need to test this idea empirically instead of just speculating about it.
-
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## empiricism
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/empiricism#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The prosaic materialism of the majority condemns as madness the flashes of super-sight which penetrate the common veil of obvious empiricism.
+> The course introduces empiricism through debates about knowledge.
 
-例句来源：[Tatoeba；作者：Hybrid；句子 #5749599；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/5749599)
+例句来源：逐词编写的学习例句
 
 ## employ
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/employ#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The studio employs three full-time designers.
 
 例句来源：逐词编写的学习例句
 
-> Yesterday our local garage employed a new mechanic.
-
-例句来源：Wiktionary 用例
-
 ## employability
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/employability#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Tom needs to improve his employability.
+> The course aims to improve students’ employability.
 
-例句来源：[Tatoeba；作者：zumley；句子 #5663933；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/5663933)
+例句来源：逐词编写的学习例句
 
 ## employable
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/employable#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Experience in volunteering can make you more employable.
+> The course aims to make graduates more employable.
 
-例句来源：[Tatoeba；作者：zumley；句子 #5663939；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/5663939)
+例句来源：逐词编写的学习例句
+
+## employed
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/employed#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She is employed as a designer at a small company.
+
+例句来源：逐词编写的学习例句
 
 ## employee
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/employee#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Each employee received a copy of the new handbook.
 
 例句来源：逐词编写的学习例句
 
-> One way to encourage your employees to work harder is by giving them incentives.
+## employees
 
-例句来源：Wiktionary 用例
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/employees#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> New employees attend a brief introduction session on their first day.
+
+例句来源：逐词编写的学习例句
 
 ## employer
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/employer#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Do I have to tell the employer that I'm unable to work?
-
-例句来源：[Tatoeba；作者：tjwhale；句子 #11008290；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/11008290)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The hospital is the largest employer in the town.
+
+例句来源：逐词编写的学习例句
+
+## employers
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/employers#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Several local employers attended the careers fair.
+
+例句来源：逐词编写的学习例句
+
+## employing
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/employing#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The company is employing more local staff.
 
 例句来源：逐词编写的学习例句
 
 ## employment
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/employment#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> The percentage of a country's population in employment used to be called "participation rate".
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The training helped her find permanent employment.
+
+例句来源：逐词编写的学习例句
+
+## employs
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/employs#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The workshop employs six people.
 
 例句来源：逐词编写的学习例句
 
@@ -4473,12 +4847,8 @@
 ## empower
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/empower#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> John found that starting up his own business empowered him greatly in social situations.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The policy empowers staff to solve small problems without approval.
 
@@ -4487,26 +4857,18 @@
 ## empowered
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/empowered#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Only two officers are empowered to sign this document.
 
 例句来源：逐词编写的学习例句
 
-> When you know yourself you are empowered. When you accept yourself you are invincible.
-
-例句来源：[Tatoeba；作者：Aghanim；句子 #11271706；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/11271706)
-
 ## empowerment
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/empowerment#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Stereotypical beliefs about femininity hinder women's empowerment and limit their opportunities for growth.
-
-例句来源：[Tatoeba；作者：Nuel；句子 #12128915；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/12128915)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The program links financial education with economic empowerment.
 
@@ -4515,36 +4877,22 @@
 ## empress
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/empress#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Despite her title of Empress of India, Queen Victoria never went there herself.
-
-例句来源：[Tatoeba；作者：araneo；句子 #13953253；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/13953253)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The exhibition includes a portrait of the empress.
 
 例句来源：逐词编写的学习例句
 
-## emptier
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/emptier#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
-
-> Shopping trolleys used to be small, making them appear more full; today they are massive, making them appear emptier.
-
-例句来源：[Tatoeba；作者：sundown；句子 #10068574；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/10068574)
-
 ## empty
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/empty#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Empty cow rates have increased in recent years.
+> The room was completely empty.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## empyema
 
@@ -4555,12 +4903,8 @@
 ## emulate
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/emulate#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> People are endlessly fascinating, even if you'd never want to emulate them.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Young designers often try to emulate her attention to detail.
 
@@ -4599,16 +4943,12 @@
 ## emulsifier
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/emulsifier#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The label lists lecithin as an emulsifier.
 
 例句来源：逐词编写的学习例句
-
-> The lecithin in egg yolks is often used as an emulsifier.
-
-例句来源：Wiktionary 用例
 
 ## emulsify
 
@@ -4640,11 +4980,21 @@
 
 例句来源：逐词编写的学习例句
 
+## enabled
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/enabled#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The new tools enabled us to work more efficiently.
+
+例句来源：逐词编写的学习例句
+
 ## enablement
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/enablement#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The enablement program gives new staff practical training.
 
@@ -4654,21 +5004,61 @@
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/enabler#English)
 - 发音资料：核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 中文释义资料：逐词编写的中文释义
 
 > Reliable internet is a key enabler of remote work.
+
+例句来源：逐词编写的学习例句
+
+## enables
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/enables#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The bridge enables people to cross the river safely.
+
+例句来源：逐词编写的学习例句
+
+## enabling
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/enabling#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The grant is enabling the team to continue its work.
+
+例句来源：逐词编写的学习例句
+
+## enact
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/enact#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The parliament enacted a new law.
+
+例句来源：逐词编写的学习例句
+
+## enacted
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/enacted#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The fictional council enacted a new law.
 
 例句来源：逐词编写的学习例句
 
 ## enactment
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/enactment#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The enactments passed by the council that year included sweeping reforms.
+> The debate continued after the enactment of the law.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## enamor
 
@@ -4786,22 +5176,18 @@
 ## encampment
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/encampment#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The survey found traces of an ancient encampment.
 
 例句来源：逐词编写的学习例句
 
-> They will fight with great courage to protect the encampment.
-
-例句来源：[Tatoeba；作者：MethodGT；句子 #2310704；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/2310704)
-
 ## encapsulate
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/encapsulate#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > That photograph encapsulates the joy of the celebration.
 
@@ -4810,16 +5196,12 @@
 ## encapsulation
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/encapsulation#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Her final sentence was a neat encapsulation of the argument.
 
 例句来源：逐词编写的学习例句
-
-> The encapsulation of tendons in membranous sheaths.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset noun:13998395](https://wordnet.princeton.edu/)
 
 ## encephalitis
 
@@ -4834,8 +5216,8 @@
 ## encephalopathy
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/encephalopathy#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The lecture explains several causes of encephalopathy.
 
@@ -4864,16 +5246,12 @@
 ## enchanter
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/enchanter#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The enchanter placed the ring beneath the old tree.
 
 例句来源：逐词编写的学习例句
-
-> Tom's brother Tim is an enchanter who's scared of rabbits.
-
-例句来源：[Tatoeba；作者：DJ\_Saidez；句子 #9287197；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/9287197)
 
 ## enchanting
 
@@ -4898,12 +5276,8 @@
 ## enchantress
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/enchantress#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> His desire for that enchantress led him to financial ruin.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The enchantress promised to restore the prince’s memory.
 
@@ -4922,12 +5296,8 @@
 ## encirclement
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/encirclement#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> The US is pursuing the geopolitical encirclement of China.
-
-例句来源：[Tatoeba；作者：Amastan；句子 #11578820；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/11578820)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The chapter describes the encirclement of the city.
 
@@ -4936,16 +5306,22 @@
 ## enclose
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/enclose#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > A stone wall encloses the garden.
 
 例句来源：逐词编写的学习例句
 
-> Please enclose a stamped self-addressed envelope if you require a reply.
+## enclosed
 
-例句来源：Wiktionary 用例
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/enclosed#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> A high wall enclosed the garden.
+
+例句来源：逐词编写的学习例句
 
 ## enclosure
 
@@ -4960,22 +5336,12 @@
 ## encode
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/encode#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> encode a secret message to be sent
+> The system encodes the text as UTF-8.
 
-例句来源：Wiktionary 用例
-
-## encoder
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/encoder#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
-
-> Is it true that the iTunes' MP3 encoder has poor sound quality?
-
-例句来源：[Tatoeba；作者：fcbond；句子 #328874；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/328874)
+例句来源：逐词编写的学习例句
 
 ## encomienda
 
@@ -5017,6 +5383,56 @@
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/encopretic#English)
 
+## encore
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/encore#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The audience shouted “Encore!”
+
+例句来源：逐词编写的学习例句
+
+## encores
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/encores#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The band played two encores.
+
+例句来源：逐词编写的学习例句
+
+## encounter
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/encounter#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> We encountered several problems during the move.
+
+例句来源：逐词编写的学习例句
+
+## encountered
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/encountered#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> We encountered a problem near the end of the project.
+
+例句来源：逐词编写的学习例句
+
+## encounters
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/encounters#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The book describes her encounters with local artists.
+
+例句来源：逐词编写的学习例句
+
 ## encourage
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/encourage#English)
@@ -5024,6 +5440,16 @@
 - 中文释义资料：逐词编写的中文释义
 
 > My teacher encouraged me to ask more questions.
+
+例句来源：逐词编写的学习例句
+
+## encouraged
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/encouraged#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The teacher encouraged her to ask more questions.
 
 例句来源：逐词编写的学习例句
 
@@ -5037,6 +5463,16 @@
 
 例句来源：逐词编写的学习例句
 
+## encourages
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/encourages#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She encourages the children to ask questions.
+
+例句来源：逐词编写的学习例句
+
 ## encouraging
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/encouraging#English)
@@ -5047,35 +5483,31 @@
 
 例句来源：逐词编写的学习例句
 
-## encouragingly
+## encroach
 
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/encouragingly#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/encroach#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> `Go on,' he said encouragingly to his student.
+> Work began to encroach on her weekends.
 
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adv:00328679](https://wordnet.princeton.edu/)
+例句来源：逐词编写的学习例句
 
 ## encroachment
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/encroachment#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> A flood can be defined as the encroachment of water in an area or region which is usually dry.
+> Residents opposed further encroachment on the park.
 
-例句来源：[Tatoeba；作者：sundown；句子 #9440415；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/9440415)
+例句来源：逐词编写的学习例句
 
 ## encrypt
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/encrypt#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> All messages on this platform are doubly encrypted to increase security.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The app encrypts each message before it leaves the device.
 
@@ -5091,45 +5523,75 @@
 
 例句来源：逐词编写的学习例句
 
+## encrypting
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/encrypting#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The computer was encrypting the archive.
+
+例句来源：逐词编写的学习例句
+
 ## encryption
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/encryption#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Encryption protects the contents of the messages while they travel across the network.
 
 例句来源：逐词编写的学习例句
 
-> Encryption technology has advanced to the point where it's pretty reliable.
+## encrypts
 
-例句来源：[Tatoeba；作者：Zifre；句子 #28412；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/28412)
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/encrypts#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-## encyclical
+> The program encrypts the backup before storing it.
 
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/encyclical#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+例句来源：逐词编写的学习例句
+
+## encyclopaedia
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/encyclopaedia#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The library keeps an illustrated encyclopaedia in the reference section.
+
+例句来源：逐词编写的学习例句
+
+## encyclopedia
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/encyclopedia#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She checked the dates in an online encyclopedia.
+
+例句来源：逐词编写的学习例句
 
 ## encyclopedic
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/encyclopedic#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Tom has an encyclopedic knowledge of the X-Men.
+> She has an encyclopedic knowledge of birds.
 
-例句来源：[Tatoeba；作者：shekitten；句子 #9517884；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/9517884)
+例句来源：逐词编写的学习例句
 
 ## end
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/end#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> My father always sat at the end of the table nearest the kitchen.
+> The shop is at the end of the street.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## endanger
 
@@ -5151,45 +5613,35 @@
 
 例句来源：逐词编写的学习例句
 
-## endangerment
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/endangerment#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
-
-> You can be charged with child endangerment for driving while intoxicated if you're carrying passengers younger than 15 years old.
-
-例句来源：[Tatoeba；作者：protondonor；句子 #5668059；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/5668059)
-
 ## endear
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/endear#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> By giving candy to the children the man tried to endear himself to them.
+> Her kindness endeared her to the whole neighbourhood.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## endearing
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/endearing#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> His lack of self-awareness was sublime. That could be either endearing or maddening.
+> He has an endearing habit of thanking everyone by name.
 
-例句来源：[Tatoeba；作者：AlanF\_US；句子 #4990293；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/4990293)
+例句来源：逐词编写的学习例句
 
 ## endearment
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/endearment#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> "Sky" and "heart" are terms of endearment in Spanish.
+> “Darling” is a common term of endearment.
 
-例句来源：[Tatoeba；作者：darinmex；句子 #657163；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/657163)
+例句来源：逐词编写的学习例句
 
 ## endeavor
 
@@ -5201,75 +5653,95 @@
 
 例句来源：逐词编写的学习例句
 
+## ended
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ended#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The meeting ended earlier than we expected.
+
+例句来源：逐词编写的学习例句
+
 ## endemic
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/endemic#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> The endemic religion of Easter Island arrived with the Polynesian settlers.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The frog is endemic to this island.
 
 例句来源：逐词编写的学习例句
 
-## ender
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ender#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
-
-> Tom hasn't defeated the Ender Dragon before.
-
-例句来源：[Tatoeba；作者：DJ\_Saidez；句子 #10059414；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/10059414)
-
 ## endgame
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/endgame#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Being stuck with two V tiles can make for an awkward Scrabble endgame.
+> The talks have entered their endgame.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## ending
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ending#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Spanish verb forms have different endings depending on the tense, mood and person.
+> I liked the film, but the ending felt rushed.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## endings
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/endings#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The class compared the endings of the two stories.
+
+例句来源：逐词编写的学习例句
 
 ## endless
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/endless#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> endless time; endless praise
+> The children asked endless questions.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## endlessly
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/endlessly#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Her nagging went on endlessly.
+> They argued endlessly about minor details.
 
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adv:00283235](https://wordnet.princeton.edu/)
+例句来源：逐词编写的学习例句
 
-## endo
+## endnote
 
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/endo#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/endnote#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> An endnote explains where the quotation came from.
+
+例句来源：逐词编写的学习例句
+
+## endnotes
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/endnotes#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The endnotes appear after the final chapter.
+
+例句来源：逐词编写的学习例句
 
 ## endocarditis
 
@@ -5310,12 +5782,8 @@
 ## endocrinologist
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/endocrinologist#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Could I get a referral to another endocrinologist?
-
-例句来源：[Tatoeba；作者：shekitten；句子 #11327268；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/11327268)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Her doctor referred her to an endocrinologist.
 
@@ -5324,12 +5792,8 @@
 ## endocrinology
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/endocrinology#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Endocrinology is on the third floor.
-
-例句来源：[Tatoeba；作者：Miktsoanit；句子 #12390991；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/12390991)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > She chose endocrinology because she was interested in hormone signalling.
 
@@ -5358,8 +5822,8 @@
 ## endogenous
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/endogenous#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The study measured endogenous hormone production.
 
@@ -5373,8 +5837,8 @@
 ## endometrial
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/endometrial#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The scan measured endometrial thickness.
 
@@ -5383,12 +5847,12 @@
 ## endometriosis
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/endometriosis#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Women with mothers or sisters who have endometriosis are at elevated risk of developing the condition themselves.
+> The article explains the meaning of endometriosis.
 
-例句来源：[Tatoeba；作者：Vanilla；句子 #4282130；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/4282130)
+例句来源：逐词编写的学习例句
 
 ## endometrium
 
@@ -5400,16 +5864,6 @@
 
 例句来源：逐词编写的学习例句
 
-## endoplasmic
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/endoplasmic#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
-
-> The smooth endoplasmic reticulum is the organelle responsible for lipid synthesis.
-
-例句来源：[Tatoeba；作者：Miktsoanit；句子 #12231177；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/12231177)
-
 ## endorse
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/endorse#English)
@@ -5420,25 +5874,31 @@
 
 例句来源：逐词编写的学习例句
 
+## endorsed
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/endorsed#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The committee endorsed the idea of a shared garden.
+
+例句来源：逐词编写的学习例句
+
 ## endorsement
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/endorsement#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The proposal received a strong endorsement from the advisory board.
 
 例句来源：逐词编写的学习例句
 
-> To transport gasoline, truckers must have a valid licence and the hazardous materials endorsement.
-
-例句来源：Wiktionary 用例
-
 ## endorser
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/endorser#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The campaign listed its public endorsers on the website.
 
@@ -5452,12 +5912,8 @@
 ## endoscope
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/endoscope#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Endoscopy is a medical procedure that uses an endoscope.
-
-例句来源：[Tatoeba；作者：orcrist；句子 #2266544；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/2266544)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The nurse showed the patient a model of the endoscope.
 
@@ -5466,26 +5922,18 @@
 ## endoscopic
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/endoscopic#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The report includes several endoscopic images.
 
 例句来源：逐词编写的学习例句
 
-> We hope the doctors can find the cause of Tom's chest pain with an endoscopic ultrasound.
-
-例句来源：[Tatoeba；作者：Nylez；句子 #8958482；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/8958482)
-
 ## endoscopy
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/endoscopy#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> If you're worried, go for an endoscopy to have it checked out.
-
-例句来源：[Tatoeba；作者：weihaiping；句子 #11542172；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/11542172)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The leaflet explains what an endoscopy involves.
 
@@ -5571,34 +6019,45 @@
 
 例句来源：逐词编写的学习例句
 
-## endovascular
+## endow
 
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/endovascular#English)
-- 中文释义资料：ECDICT
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/endow#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The donation will endow a scholarship.
+
+例句来源：逐词编写的学习例句
 
 ## endowment
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/endowment#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The university's endowment has decreased steadily over the last ten years.
+> The university’s endowment supports research and scholarships.
 
-例句来源：[Tatoeba；作者：darinmex；句子 #1534333；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/1534333)
+例句来源：逐词编写的学习例句
 
 ## endpoint
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/endpoint#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Mark both endpoints of the line segment.
 
 例句来源：逐词编写的学习例句
 
-> The river flows into the Bay of Fundy near St. Martins, New Brunswick, and serves as the endpoint of the Fundy Trail.
+## ends
 
-例句来源：[Tatoeba；作者：Zurich899；句子 #4987152；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/4987152)
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ends#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Hold both ends of the rope firmly.
+
+例句来源：逐词编写的学习例句
 
 ## endurable
 
@@ -5613,12 +6072,8 @@
 ## endurance
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/endurance#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> He has great endurance: he ran a marathon and then cycled home.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The long walk tested our endurance more than our speed.
 
@@ -5641,6 +6096,16 @@
 - 中文释义资料：逐词编写的中文释义
 
 > The film has an enduring appeal across generations.
+
+例句来源：逐词编写的学习例句
+
+## enemies
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/enemies#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The story follows two former enemies who become friends.
 
 例句来源：逐词编写的学习例句
 
@@ -5667,8 +6132,8 @@
 ## energise
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/energise#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The success energised the volunteers.
 
@@ -5677,22 +6142,12 @@
 ## energize
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/energize#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The lively discussion energized the whole team.
 
 例句来源：逐词编写的学习例句
-
-> Whenever we energize that circuit we blow a fuse.
-
-例句来源：Wiktionary 用例
-
-## energizer
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/energizer#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
 
 ## energy
 
@@ -5747,81 +6202,112 @@
 ## enforce
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/enforce#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The staff enforce the rule that food must stay outside the laboratory.
 
 例句来源：逐词编写的学习例句
 
-> The victim was able to enforce his evidence against the alleged perpetrator.
-
-例句来源：Wiktionary 用例
-
 ## enforceability
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/enforceability#English)
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The report questions the rule’s practical enforceability.
+
+例句来源：逐词编写的学习例句
 
 ## enforceable
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/enforceable#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> There must be active and enforceable mechanisms to protect copyright exceptions and limitations, including fair use and fair dealing regimes.
+> The team wanted a clear and enforceable rule.
 
-例句来源：[Tatoeba；作者：wxcraft；句子 #6216943；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/6216943)
+例句来源：逐词编写的学习例句
+
+## enforced
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/enforced#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The library’s quiet rule was gently but consistently enforced.
+
+例句来源：逐词编写的学习例句
 
 ## enforcement
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/enforcement#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Consistent enforcement helped everyone understand the parking rules.
 
 例句来源：逐词编写的学习例句
 
-> The payments were blocked just in time by alert law enforcement officials.
-
-例句来源：[Tatoeba；作者：Hybrid；句子 #8794461；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/8794461)
-
 ## enforcer
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/enforcer#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The mob enforcer kept a pair of brass knuckles in his coat pocket.
+> The referee acts as the rule enforcer during the match.
 
-例句来源：[Tatoeba；作者：ddnktr；句子 #10795816；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/10795816)
+例句来源：逐词编写的学习例句
 
-## enfranchisement
+## enfranchise
 
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/enfranchisement#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/enfranchise#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The reform enfranchised a wider group of citizens.
+
+例句来源：逐词编写的学习例句
 
 ## engage
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/engage#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Whenever I engage the clutch, the car stalls out.
+> The activity engaged every student in the class.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## engaged
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/engaged#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> They got engaged last spring.
+
+例句来源：逐词编写的学习例句
 
 ## engagement
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/engagement#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> After engagement it quickly became clear which of the fencers was going to prevail.
+> She wore a simple engagement ring.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## engaging
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/engaging#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She is an engaging speaker.
+
+例句来源：逐词编写的学习例句
 
 ## engender
 
@@ -5836,41 +6322,52 @@
 ## engine
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/engine#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> a graphics engine
+> The car’s engine would not start.
 
-例句来源：Wiktionary 用例
-
-## engined
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/engined#English)
-- 中文释义资料：ECDICT
-
-> diesel-engined
-
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## engineer
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/engineer#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> a political engineer
+> She works as a civil engineer.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## engineering
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/engineering#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Thanks to genetic engineering, there are now penguins that swim in lava.
+> He studied mechanical engineering at university.
 
-例句来源：[Tatoeba；作者：tvindy；句子 #5902343；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/5902343)
+例句来源：逐词编写的学习例句
+
+## engineers
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/engineers#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The engineers inspected the bridge before it reopened.
+
+例句来源：逐词编写的学习例句
+
+## engines
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/engines#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The engineers tested both engines before the flight.
+
+例句来源：逐词编写的学习例句
 
 ## engram
 
@@ -5882,61 +6379,95 @@
 
 例句来源：逐词编写的学习例句
 
-## engraver
+## engulf
 
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/engraver#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/engulf#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> He's not just a calligrapher – he's also an engraver.
+> Thick fog began to engulf the village.
 
-例句来源：[Tatoeba；作者：sundown；句子 #8957706；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/8957706)
+例句来源：逐词编写的学习例句
+
+## engulfed
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/engulfed#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Within minutes, the harbour was engulfed in fog.
+
+例句来源：逐词编写的学习例句
 
 ## enhance
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/enhance#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> A debt enhances rapidly by compound interest.
+> A little salt can enhance the flavour of the soup.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## enhanced
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/enhanced#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> They have enhanced security checks and are prepared for the worst.
+> The update includes enhanced search features.
 
-例句来源：[Tatoeba；作者：neron；句子 #3500341；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/3500341)
+例句来源：逐词编写的学习例句
 
 ## enhancement
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/enhancement#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The original product, with its simplistic design, has undergone many enhancements over the years.
+> The new release includes several small enhancements.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## enhancer
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/enhancer#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The label lists the ingredient as a flavour enhancer.
+
+例句来源：逐词编写的学习例句
+
+## enhancing
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/enhancing#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The new lighting is enhancing the colours in the painting.
+
+例句来源：逐词编写的学习例句
+
+## enigma
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/enigma#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Her sudden departure remains an enigma.
+
+例句来源：逐词编写的学习例句
 
 ## enigmatic
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/enigmatic#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The Mona Lisa has an enigmatic smile.
+> She gave him an enigmatic smile.
 
-例句来源：[Tatoeba；作者：Hybrid；句子 #2327236；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/2327236)
+例句来源：逐词编写的学习例句
 
 ## enjoin
 
@@ -5971,32 +6502,62 @@
 ## enjoy
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/enjoy#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> I've really enjoyed you and your sister showing me around.
+> I enjoy reading on the train.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## enjoyable
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/enjoyable#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> That was an enjoyable day; I had a lot of fun.
+> We had an enjoyable evening with friends.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## enjoyed
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/enjoyed#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> We enjoyed walking along the river.
+
+例句来源：逐词编写的学习例句
+
+## enjoying
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/enjoying#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> We are enjoying the view from the balcony.
+
+例句来源：逐词编写的学习例句
 
 ## enjoyment
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/enjoyment#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Few activities better the enjoyment of a hearty meal eaten in good company.
+> Reading gives her a great deal of enjoyment.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## enjoys
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/enjoys#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She enjoys reading by the window.
+
+例句来源：逐词编写的学习例句
 
 ## enlarge
 
@@ -6008,15 +6569,21 @@
 
 例句来源：逐词编写的学习例句
 
+## enlarged
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/enlarged#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The photograph was enlarged for the exhibition.
+
+例句来源：逐词编写的学习例句
+
 ## enlargement
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/enlargement#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Rick was ashamed about the size of his penis, so he had a penis enlargement.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The enlargement of the library added two reading rooms.
 
@@ -6025,62 +6592,68 @@
 ## enlighten
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/enlighten#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> She tried to enlighten them about the rules of the program, but they remained belligerently and self-righteously ignorant.
+> Could you enlighten me about the purpose of this rule?
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## enlightenment
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/enlightenment#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The most significant achievement of the Hungarian Enlightenment was the language reform.
+> I asked the expert for enlightenment on the issue.
 
-例句来源：[Tatoeba；作者：feyero；句子 #3573370；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/3573370)
+例句来源：逐词编写的学习例句
 
 ## enlist
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/enlist#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The army wants potential soldiers to enlist.
+> She enlisted the help of two experienced volunteers.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## enlisted
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/enlisted#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> He enlisted in the navy after finishing school.
+
+例句来源：逐词编写的学习例句
 
 ## enlistment
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/enlistment#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Military enlistment must take place in the year that the Brazilian turns eighteen years old.
+> The record gives his date of enlistment.
 
-例句来源：[Tatoeba；作者：Nylez；句子 #9717076；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/9717076)
+例句来源：逐词编写的学习例句
 
 ## enliven
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/enliven#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The game was much enlivened when both teams scored within five minutes of each other.
+> Personal stories enlivened the lecture.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## enmity
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/enmity#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> The incident earned Dan the enmity of his boss.
-
-例句来源：[Tatoeba；作者：Amastan；句子 #3997939；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/3997939)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > There was no personal enmity between the two candidates.
 
@@ -6099,8 +6672,8 @@
 ## enneagram
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/enneagram#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The workshop introduced the nine types of the Enneagram.
 
@@ -6153,26 +6726,18 @@
 ## enormous
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/enormous#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > An enormous tree stood beside the small cottage.
 
 例句来源：逐词编写的学习例句
 
-> The enormous Jupiter is the largest planet in the Solar System.
-
-例句来源：Wiktionary 用例
-
 ## enormously
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/enormously#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Gloria is enormously pleased with our progress.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Your notes were enormously helpful before the exam.
 
@@ -6185,6 +6750,16 @@
 - 中文释义资料：逐词编写的中文释义
 
 > Standing beside the dam, we finally understood its enormousness.
+
+例句来源：逐词编写的学习例句
+
+## enough
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/enough#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> We have enough food for everyone.
 
 例句来源：逐词编写的学习例句
 
@@ -6241,12 +6816,22 @@
 ## enrage
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/enrage#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The renomination could enrage anti-government protestors who demand he resign.
+> The deliberate insult enraged her.
 
-例句来源：[Tatoeba；作者：Cangarejo；句子 #11582352；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/11582352)
+例句来源：逐词编写的学习例句
+
+## enraged
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/enraged#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The enraged customer demanded an explanation.
+
+例句来源：逐词编写的学习例句
 
 ## enrapt
 
@@ -6278,15 +6863,25 @@
 
 例句来源：逐词编写的学习例句
 
+## enrich
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/enrich#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Travel can enrich your understanding of other cultures.
+
+例句来源：逐词编写的学习例句
+
 ## enrichment
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/enrichment#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The enrichment of the soil with minerals allowed my corn to grow this tall.
+> The school offers enrichment activities after class.
 
-例句来源：[Tatoeba；作者：francaisr0wlet；句子 #8246509；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/8246509)
+例句来源：逐词编写的学习例句
 
 ## enrol
 
@@ -6308,6 +6903,16 @@
 
 例句来源：逐词编写的学习例句
 
+## enrolled
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/enrolled#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She enrolled in a drawing course.
+
+例句来源：逐词编写的学习例句
+
 ## enrollee
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/enrollee#English)
@@ -6321,22 +6926,18 @@
 ## enrollment
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/enrollment#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Enrollment for the evening course opens on Monday.
 
 例句来源：逐词编写的学习例句
 
-> The enrollment for the book exhibition will take place on July 11, 2024.
-
-例句来源：[Tatoeba；作者：anzart；句子 #12565608；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/12565608)
-
 ## enrolment
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/enrolment#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Please complete the enrolment form in black ink.
 
@@ -6349,6 +6950,16 @@
 - 中文释义资料：逐词编写的中文释义
 
 > A small ensemble performed music for strings and flute.
+
+例句来源：逐词编写的学习例句
+
+## ensembles
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ensembles#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The festival features several small ensembles.
 
 例句来源：逐词编写的学习例句
 
@@ -6379,22 +6990,22 @@
 ## enslave
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/enslave#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> To give millions a knowledge of English is to enslave them.
+> The historical account describes how captives were enslaved.
 
-例句来源：[Tatoeba；作者：Adelpa；句子 #4261029；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/4261029)
+例句来源：逐词编写的学习例句
 
 ## enslavement
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/enslavement#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Somewhere in the far future a diabolical brain plotted the enslavement of mankind.
+> The exhibition documents the enslavement of thousands of people.
 
-例句来源：[Tatoeba；作者：Cangarejo；句子 #12093675；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/12093675)
+例句来源：逐词编写的学习例句
 
 ## ensue
 
@@ -6416,15 +7027,35 @@
 
 例句来源：逐词编写的学习例句
 
+## ensuring
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ensuring#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Ensuring accuracy takes time.
+
+例句来源：逐词编写的学习例句
+
+## entangle
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/entangle#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The rope became entangled in the branches.
+
+例句来源：逐词编写的学习例句
+
 ## entanglement
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/entanglement#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Every government office seems to have problems in expediting matters without entanglement in its red tape system.
+> The country hoped to avoid further political entanglements.
 
-例句来源：[Tatoeba；作者：mailohilohi；句子 #37532；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/37532)
+例句来源：逐词编写的学习例句
 
 ## entendre
 
@@ -6446,11 +7077,35 @@
 
 例句来源：逐词编写的学习例句
 
-## enteral
+## enter
 
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/enteral#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/enter#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Please enter your name in the box.
+
+例句来源：逐词编写的学习例句
+
+## entered
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/entered#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She entered the room quietly.
+
+例句来源：逐词编写的学习例句
+
+## entering
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/entering#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Please check the address before entering it in the form.
+
+例句来源：逐词编写的学习例句
 
 ## enterocentesis
 
@@ -6481,6 +7136,26 @@
 
 例句来源：逐词编写的学习例句
 
+## enterprises
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/enterprises#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Several small enterprises share the building.
+
+例句来源：逐词编写的学习例句
+
+## enters
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/enters#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The cat enters through a small door.
+
+例句来源：逐词编写的学习例句
+
 ## entertain
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/entertain#English)
@@ -6491,57 +7166,75 @@
 
 例句来源：逐词编写的学习例句
 
+## entertained
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/entertained#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The stories kept the children entertained.
+
+例句来源：逐词编写的学习例句
+
 ## entertainer
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/entertainer#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> He is not so much a teacher as an entertainer.
-
-例句来源：[Tatoeba；作者：CM；句子 #295352；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/295352)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The entertainer kept the children engaged with simple magic tricks.
+
+例句来源：逐词编写的学习例句
+
+## entertainers
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/entertainers#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Street entertainers drew a crowd in the square.
 
 例句来源：逐词编写的学习例句
 
 ## entertaining
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/entertaining#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> In my opinion, a movie is much more entertaining than a book.
-
-例句来源：[Tatoeba；作者：AlanF\_US；句子 #5236549；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/5236549)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The guide gave an entertaining account of the town’s history.
 
 例句来源：逐词编写的学习例句
 
-## entertainingly
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/entertainingly#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
-
-> Byron's consumed memoirs possessed the merit of being well and entertainingly written.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adv:00329478](https://wordnet.princeton.edu/)
-
 ## entertainment
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/entertainment#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The festival offers live entertainment for all ages.
 
 例句来源：逐词编写的学习例句
 
-> The religion of one age is the literary entertainment of the next.
+## entertainments
 
-例句来源：[Tatoeba；作者：Sonoriuxo；句子 #1813470；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/1813470)
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/entertainments#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The festival offers a variety of entertainments for children.
+
+例句来源：逐词编写的学习例句
+
+## entertains
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/entertains#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She entertains the children with simple stories.
+
+例句来源：逐词编写的学习例句
 
 ## enthesis
 
@@ -6562,18 +7255,6 @@
 > The old textbook classifies the illness as an enthetic disease.
 
 例句来源：逐词编写的学习例句
-
-## enthroned
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/enthroned#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
-
-## enthronement
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/enthronement#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
 
 ## enthusiasm
 
@@ -6598,30 +7279,22 @@
 ## enthusiastic
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/enthusiastic#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > She is enthusiastic about learning to code.
 
 例句来源：逐词编写的学习例句
 
-> an enthusiastic lover of art
-
-例句来源：Wiktionary 用例
-
 ## enthusiastically
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/enthusiastically#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The children enthusiastically joined the garden project.
 
 例句来源：逐词编写的学习例句
-
-> They discussed the question enthusiastically.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adv:00188779](https://wordnet.princeton.edu/)
 
 ## entire
 
@@ -6636,16 +7309,12 @@
 ## entirely
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/entirely#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The two proposals are entirely different.
 
 例句来源：逐词编写的学习例句
-
-> This part of the park is used entirely by the workers; everyone else will have to go to the other side.
-
-例句来源：Wiktionary 用例
 
 ## entirety
 
@@ -6657,15 +7326,55 @@
 
 例句来源：逐词编写的学习例句
 
+## entities
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/entities#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The two departments operate as separate entities.
+
+例句来源：逐词编写的学习例句
+
+## entitle
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/entitle#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The ticket entitles you to free entry.
+
+例句来源：逐词编写的学习例句
+
+## entitled
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/entitled#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Every team member is entitled to a copy of the notes.
+
+例句来源：逐词编写的学习例句
+
 ## entitlement
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/entitlement#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Narcissists often have a sense of entitlement and expect special treatment from others.
+> The contract explains your holiday entitlement.
 
-例句来源：[Tatoeba；作者：Amastan；句子 #11766954；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/11766954)
+例句来源：逐词编写的学习例句
+
+## entity
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/entity#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The two departments operate as separate entities.
+
+例句来源：逐词编写的学习例句
 
 ## entomb
 
@@ -6680,12 +7389,8 @@
 ## entomological
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/entomological#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> A study outlining the scientist’s research and findings were recently published Annals of the Entomological Society of America.
-
-例句来源：[Tatoeba；作者：Cangarejo；句子 #12291398；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/12291398)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The museum has a large entomological collection.
 
@@ -6694,86 +7399,72 @@
 ## entomologist
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/entomologist#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > An entomologist identified the insect found in the garden.
 
 例句来源：逐词编写的学习例句
 
-> The noted entomologist Charles W. Woodworth suggested the use of Drosophila melanogaster for genetic studies.
-
-例句来源：Wiktionary 用例
-
 ## entomology
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/entomology#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Entomology is an important field of study within biology.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Her interest in entomology began with watching ants in the garden.
 
 例句来源：逐词编写的学习例句
 
-## entrainment
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/entrainment#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
-
 ## entrance
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/entrance#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Place your bag by the entrance so that you can find it easily.
+> Please wait at the main entrance.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## entranced
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/entranced#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> I was simply entranced by the beauty of her face.
+> The children sat entranced by the storyteller.
 
-例句来源：[Tatoeba；作者：blay\_paul；句子 #398190；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/398190)
+例句来源：逐词编写的学习例句
 
 ## entranceway
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/entranceway#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> This is a code lock type that you can use on the entranceway as well.
+> A lamp stood in the narrow entranceway.
 
-例句来源：[Tatoeba；作者：fcbond；句子 #329402；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/329402)
+例句来源：逐词编写的学习例句
 
 ## entrap
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/entrap#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The cops were trying to entrap Tom.
+> The character tries to entrap his rival in a dishonest scheme.
 
-例句来源：[Tatoeba；作者：Miktsoanit；句子 #12272813；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/12272813)
+例句来源：逐词编写的学习例句
 
 ## entrapment
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/entrapment#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> A detective asking you to buy illegal marijuana for a dying man would be police entrapment.
+> The report examines air entrapment during the manufacturing process.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## entremet
 
@@ -6808,8 +7499,8 @@
 ## entrenchment
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/entrenchment#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The report warns of the entrenchment of economic inequality.
 
@@ -6818,38 +7509,58 @@
 ## entrepreneur
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/entrepreneur#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> He's an Algerian entrepreneur who made his fortune in the fashion industry.
+> The entrepreneur started a small repair business.
 
-例句来源：[Tatoeba；作者：Amastan；句子 #8608570；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/8608570)
+例句来源：逐词编写的学习例句
 
 ## entrepreneurial
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/entrepreneurial#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Dependability is part of our entrepreneurial culture.
+> She brought an entrepreneurial spirit to the community project.
 
-例句来源：[Tatoeba；作者：Dejo；句子 #8402360；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/8402360)
+例句来源：逐词编写的学习例句
+
+## entrepreneurs
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/entrepreneurs#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The workshop brought together local entrepreneurs.
+
+例句来源：逐词编写的学习例句
 
 ## entrepreneurship
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/entrepreneurship#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> His experience lies in the field of entrepreneurship and social responsibility services.
+> The college offers a course in entrepreneurship.
 
-例句来源：[Tatoeba；作者：leoruilova；句子 #1819660；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/1819660)
+例句来源：逐词编写的学习例句
+
+## entries
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/entries#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She read the first three diary entries.
+
+例句来源：逐词编写的学习例句
 
 ## entropic
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/entropic#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The model includes both energetic and entropic contributions.
 
@@ -6868,32 +7579,62 @@
 ## entrust
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/entrust#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Can I entrust you with a secret?
+> She entrusted me with the keys to her flat.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## entrusted
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/entrusted#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She was entrusted with the care of the garden.
+
+例句来源：逐词编写的学习例句
+
+## entrusting
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/entrusting#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> We are entrusting you with the final decision.
+
+例句来源：逐词编写的学习例句
+
+## entrusts
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/entrusts#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She entrusts me with the keys whenever she travels.
+
+例句来源：逐词编写的学习例句
 
 ## entry
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/entry#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The wrestler's dramatic entry into the stadium was very impressive.
+> The museum offers free entry on Sundays.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## entryway
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/entryway#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> There were greeters handing out programmes in the entryway to the museum.
+> There is a bench in the entryway.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## enumerable
 
@@ -6908,16 +7649,12 @@
 ## enumerate
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/enumerate#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The report enumerates the main risks of the project.
 
 例句来源：逐词编写的学习例句
-
-> Use Roman numerals to enumerate the chapters of the novel.
-
-例句来源：[Tatoeba；作者：frpzzd；句子 #13385706；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/13385706)
 
 ## enumeration
 
@@ -6989,19 +7726,35 @@
 
 例句来源：逐词编写的学习例句
 
+## envelope
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/envelope#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She sealed the letter in an envelope.
+
+例句来源：逐词编写的学习例句
+
+## envelopes
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/envelopes#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She wrote the addresses on the envelopes.
+
+例句来源：逐词编写的学习例句
+
 ## enviable
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/enviable#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The school has an enviable reputation for music.
 
 例句来源：逐词编写的学习例句
-
-> The small town of Taghit, in southwestern Algeria, enjoys an enviable tranquility.
-
-例句来源：[Tatoeba；作者：Amastan；句子 #8780679；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/8780679)
 
 ## envious
 
@@ -7016,51 +7769,62 @@
 ## environment
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/environment#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> That program uses the Microsoft Windows environment.
+> Children need a safe environment in which to learn.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## environmental
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/environmental#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Not a day goes by without our hearing of an environmental problem.
+> The report examines the environmental impact of the project.
 
-例句来源：[Tatoeba；作者：CK；句子 #247227；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/247227)
+例句来源：逐词编写的学习例句
 
 ## environmentalism
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/environmentalism#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The color green is often associated with environmentalism.
+> The course traces the history of environmentalism.
 
-例句来源：[Tatoeba；作者：mailohilohi；句子 #6037912；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/6037912)
+例句来源：逐词编写的学习例句
 
 ## environmentalist
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/environmentalist#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Environmentalist parties generally use the color green in their symbols and names.
+> Local environmentalists opposed the plan.
 
-例句来源：[Tatoeba；作者：mailohilohi；句子 #6037924；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/6037924)
+例句来源：逐词编写的学习例句
 
 ## environmentally
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/environmentally#English)
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The new recycling policy is environmentally safe.
+> The team looked for more environmentally friendly packaging.
 
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adv:00329635](https://wordnet.princeton.edu/)
+例句来源：逐词编写的学习例句
+
+## environments
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/environments#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> These plants grow in very different environments.
+
+例句来源：逐词编写的学习例句
 
 ## envisage
 
@@ -7122,11 +7886,25 @@
 
 例句来源：逐词编写的学习例句
 
+## enzymes
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/enzymes#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The textbook explains how enzymes speed up chemical reactions.
+
+例句来源：逐词编写的学习例句
+
 ## enzymology
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/enzymology#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The laboratory combines structural biology with enzymology.
+
+例句来源：逐词编写的学习例句
 
 ## Eocene
 
@@ -7240,12 +8018,6 @@
 - 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
 - 中文释义资料：ECDICT
 
-## ephedrine
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ephedrine#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
-
 ## ephemera
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ephemera#English)
@@ -7269,22 +8041,22 @@
 ## epic
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/epic#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The Icelandic epic took all night to recite.
+> The film tells an epic story of survival.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## epically
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/epically#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Yanni had an epically bad high school friend.
+> The plan was epically ambitious.
 
-例句来源：[Tatoeba；作者：Amastan；句子 #9037726；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/9037726)
+例句来源：逐词编写的学习例句
 
 ## epicarp
 
@@ -7297,6 +8069,16 @@
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/epicene#English)
 - 发音资料：Wiktionary
 - 中文释义资料：ECDICT
+
+## epicenter
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/epicenter#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The map marks the earthquake’s epicenter with a star.
+
+例句来源：逐词编写的学习例句
 
 ## epicentre
 
@@ -7322,7 +8104,7 @@
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/epidemiologic#English)
 - 发音资料：核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 中文释义资料：逐词编写的中文释义
 
 > The paper reviews epidemiologic evidence on air pollution.
 
@@ -7332,11 +8114,7 @@
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/epidemiological#English)
 - 发音资料：核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Rafael Castillo, vice president of the National Penitentiary Council, said the intent is to create an epidemiological containment ring within the prison facility.
-
-例句来源：[Tatoeba；作者：Cangarejo；句子 #11565087；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/11565087)
+- 中文释义资料：逐词编写的中文释义
 
 > The team collected epidemiological data from several regions.
 
@@ -7345,12 +8123,8 @@
 ## epidemiologist
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/epidemiologist#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> I'm an epidemiologist. When I heard about Britain's "herd immunity" coronavirus plan, I thought it was satire.
-
-例句来源：[Tatoeba；作者：Adelpa；句子 #8616167；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/8616167)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The epidemiologist compared illness rates in the two towns.
 
@@ -7531,26 +8305,32 @@
 ## epilogue
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/epilogue#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> In the play’s epilogue, the actor addressed the audience directly.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The epilogue follows the characters ten years later.
+
+例句来源：逐词编写的学习例句
+
+## epilogues
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/epilogues#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The epilogues show what happened years later.
 
 例句来源：逐词编写的学习例句
 
 ## epinephrine
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/epinephrine#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Tom carries an epinephrine injector at all times.
+> The textbook used epinephrine, while the lecture used adrenaline.
 
-例句来源：[Tatoeba；作者：Hybrid；句子 #6608784；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/6608784)
+例句来源：逐词编写的学习例句
 
 ## epiphany
 
@@ -7568,22 +8348,6 @@
 - 发音资料：Wiktionary
 - 中文释义资料：ECDICT
 
-## episcopacy
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/episcopacy#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
-
-## episcopalian
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/episcopalian#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
-
-> Nietzsche, belatedly discovered by a world beset by terrors too great for it and mysteries too profound, becomes almost respectable, nay, almost Episcopalian!
-
-例句来源：[Tatoeba；作者：Cangarejo；句子 #11912773；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/11912773)
-
 ## episode
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/episode#English)
@@ -7594,15 +8358,21 @@
 
 例句来源：逐词编写的学习例句
 
+## episodes
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/episodes#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> We watched the first two episodes last night.
+
+例句来源：逐词编写的学习例句
+
 ## episodic
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/episodic#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Fortunately, my episodic bouts of dizziness didn't prevent me from climbing Chichen Itzá.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The novel has an episodic structure, with each chapter telling a separate adventure.
 
@@ -7647,8 +8417,8 @@
 ## epistemological
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/epistemological#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The disagreement rests on different epistemological assumptions.
 
@@ -7687,26 +8457,12 @@
 ## epitaph
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/epitaph#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> The epitaph engraved on the headstone was a meaningful, succinct poem.
-
-例句来源：[Tatoeba；作者：swolesuki；句子 #6907336；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/6907336)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The epitaph on the stone remembered her kindness.
 
 例句来源：逐词编写的学习例句
-
-## epitaxial
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/epitaxial#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
-
-> Epitaxial crystals are astonishing, aren't they?
-
-例句来源：[Tatoeba；作者：Ahha；句子 #10153952；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/10153952)
 
 ## epitheca
 
@@ -7721,8 +8477,8 @@
 ## epithelial
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/epithelial#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The students identified epithelial cells under the microscope.
 
@@ -7771,22 +8527,12 @@
 ## epitomize
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/epitomize#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Anna's radiant smile and graceful demeanor epitomize the elegance and poise commonly associated with Russian women.
-
-例句来源：[Tatoeba；作者：Amastan；句子 #11847227；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/11847227)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Her generosity epitomizes the spirit of the community.
 
 例句来源：逐词编写的学习例句
-
-## epitope
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/epitope#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
 
 ## epitrochoid
 
@@ -7817,12 +8563,8 @@
 ## epochal
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/epochal#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Epochal decisions made by Roosevelt and Churchill.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adj:02162179](https://wordnet.princeton.edu/)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Historians described the agreement as an epochal change in regional politics.
 
@@ -7857,12 +8599,12 @@
 ## epoxy
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/epoxy#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> After bonding, more ductile epoxy is used to waterproof the bond.
+> The table has an epoxy coating.
 
-例句来源：[Tatoeba；作者：hecko2；句子 #10779995；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/10779995)
+例句来源：逐词编写的学习例句
 
 ## epsilon
 
@@ -7927,12 +8669,8 @@
 ## equality
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/equality#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> People in the world are always advocating for more freedom and equality.
-
-例句来源：[Tatoeba；作者：Zifre；句子 #1926；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/1926)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The school discussed equality of opportunity in its admissions process.
 
@@ -7941,12 +8679,8 @@
 ## equalization
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/equalization#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> California’s state Board of Equalization estimated the tampon tax repeal would have cost $20 million in 2016.
-
-例句来源：[Tatoeba；作者：Cangarejo；句子 #11229197；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/11229197)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Pressure equalization took several seconds.
 
@@ -7955,26 +8689,18 @@
 ## equalize
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/equalize#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The valve allows the pressure on both sides to equalize.
 
 例句来源：逐词编写的学习例句
 
-> to equalize accounts, burdens, or taxes
-
-例句来源：Wiktionary 用例
-
 ## equalizer
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/equalizer#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Death is the great equalizer.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Her equalizer brought the score to two all.
 
@@ -7983,14 +8709,20 @@
 ## equally
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/equally#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> John suffered setbacks at his job. Equally, Frank's business slowed.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > They divided the remaining food equally among the four hikers.
+
+例句来源：逐词编写的学习例句
+
+## equals
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/equals#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Two plus three equals five.
 
 例句来源：逐词编写的学习例句
 
@@ -8027,16 +8759,22 @@
 ## equation
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/equation#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The equation has two real solutions.
 
 例句来源：逐词编写的学习例句
 
-> We need to bring the balance of power into equation
+## equations
 
-例句来源：Wiktionary 用例
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/equations#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The class learned how to solve simple equations.
+
+例句来源：逐词编写的学习例句
 
 ## Equator
 
@@ -8091,8 +8829,12 @@
 ## equicrural
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/equicrural#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The old geometry text describes an equicrural triangle.
+
+例句来源：逐词编写的学习例句
 
 ## equidistance
 
@@ -8107,8 +8849,8 @@
 ## equidistant
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/equidistant#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The hotel is equidistant from the two stations.
 
@@ -8117,12 +8859,8 @@
 ## equilateral
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/equilateral#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> An equilateral triangle has three equal length sides and three equal size angles.
-
-例句来源：[Tatoeba；作者：JustCallMeH；句子 #10854955；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/10854955)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Each side of the equilateral triangle is six centimetres long.
 
@@ -8178,15 +8916,25 @@
 
 例句来源：逐词编写的学习例句
 
+## equip
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/equip#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The rooms are equipped with small kitchens.
+
+例句来源：逐词编写的学习例句
+
 ## equipment
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/equipment#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The sports shop sells different kits of famous clubs, and equipment from all kind of sports.
+> No special equipment is needed for the activity.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## equipoise
 
@@ -8195,6 +8943,16 @@
 - 中文释义资料：逐词编写的中文释义
 
 > For a moment, the opposing forces remained in equipoise.
+
+例句来源：逐词编写的学习例句
+
+## equipped
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/equipped#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The room is equipped with a large screen.
 
 例句来源：逐词编写的学习例句
 
@@ -8211,12 +8969,8 @@
 ## equitably
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/equitably#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> The inheritance was equitably divided among the sisters.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adv:00329878](https://wordnet.princeton.edu/)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The workload was shared equitably according to each person’s available time.
 
@@ -8255,22 +9009,18 @@
 ## equivalent
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/equivalent#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > One kilometre is equivalent to one thousand metres.
 
 例句来源：逐词编写的学习例句
 
-> To burn calories, a thirty-minute jog is equivalent to a couple of hamburgers.
-
-例句来源：Wiktionary 用例
-
 ## equivalently
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/equivalently#English)
 - 发音资料：核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 中文释义资料：逐词编写的中文释义
 
 > The fraction can be written equivalently as one half.
 
@@ -8279,12 +9029,8 @@
 ## equivocal
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/equivocal#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> His actions are equivocal.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > His equivocal answer left us unsure whether he would help.
 
@@ -8310,10 +9056,20 @@
 
 例句来源：逐词编写的学习例句
 
+## era
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/era#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The invention marked the beginning of a new era.
+
+例句来源：逐词编写的学习例句
+
 ## eradicate
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/eradicate#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
+- 发音资料：核对后整理；见逐词精讲核对资料
 - 中文释义资料：逐词编写的中文释义
 
 > The project aims to eradicate invasive weeds from the reserve.
@@ -8333,14 +9089,20 @@
 ## eradication
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/eradication#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Addressing the delegates, the president made an impassioned appeal for concrete action to achieve the goals of sustainable development and the eradication of poverty.
-
-例句来源：[Tatoeba；作者：Cangarejo；句子 #12031276；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/12031276)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The reserve began an eradication programme for the invasive plant.
+
+例句来源：逐词编写的学习例句
+
+## eras
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/eras#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The exhibition brings together clothing from several eras.
 
 例句来源：逐词编写的学习例句
 
@@ -8367,30 +9129,32 @@
 ## eraser
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/eraser#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> I have worn out the eraser on this pencil.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > There is a small eraser attached to the end of the pencil.
+
+例句来源：逐词编写的学习例句
+
+## erasers
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/erasers#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The box held pencils and erasers.
 
 例句来源：逐词编写的学习例句
 
 ## erasure
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/erasure#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The manuscript shows several erasures beside the final paragraph.
 
 例句来源：逐词编写的学习例句
-
-> There were several erasures on the paper.
-
-例句来源：Wiktionary 用例
 
 ## erect
 
@@ -8402,19 +9166,25 @@
 
 例句来源：逐词编写的学习例句
 
+## erected
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/erected#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The workers erected a sign beside the entrance.
+
+例句来源：逐词编写的学习例句
+
 ## erectile
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/erectile#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The diagram shows the location of the erectile tissue.
 
 例句来源：逐词编写的学习例句
-
-> The penis and clitoris contain erectile tissue which responds to sexual stimulation.
-
-例句来源：Wiktionary 用例
 
 ## erection
 
@@ -8425,16 +9195,6 @@
 > The erection of the steel frame took three days.
 
 例句来源：逐词编写的学习例句
-
-## erector
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/erector#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
-
-> The boys are playing with their Erector Set.
-
-例句来源：[Tatoeba；作者：Scott；句子 #944258；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/944258)
 
 ## erg
 
@@ -8489,8 +9249,8 @@
 ## ergodic
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ergodic#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The proof assumes that the transformation is ergodic.
 
@@ -8509,12 +9269,8 @@
 ## ergonomic
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ergonomic#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> The instrument panel has a very ergonomic layout.
-
-例句来源：[Tatoeba；作者：darinmex；句子 #601977；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/601977)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The team reviewed the ergonomic design of the control panel.
 
@@ -8523,12 +9279,8 @@
 ## ergonomics
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ergonomics#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Ergonomics is increasingly important in office-product design.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The redesign improved the ergonomics of the control panel.
 
@@ -8557,16 +9309,12 @@
 ## erogenous
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/erogenous#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The textbook explains the term erogenous zone.
 
 例句来源：逐词编写的学习例句
-
-> give him an erogenous massage
-
-例句来源：Wiktionary 用例
 
 ## erosion
 
@@ -8611,16 +9359,12 @@
 ## eroticism
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/eroticism#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Her essay examines the subtle eroticism of the poems.
 
 例句来源：逐词编写的学习例句
-
-> There is a subtle difference between eroticism and pornography.
-
-例句来源：[Tatoeba；作者：meshbags；句子 #8228979；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/8228979)
 
 ## err
 
@@ -8685,8 +9429,8 @@
 ## erroneously
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/erroneously#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The package was erroneously labelled as fragile.
 
@@ -8702,15 +9446,25 @@
 
 例句来源：逐词编写的学习例句
 
+## errors
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/errors#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Please check the names for spelling errors.
+
+例句来源：逐词编写的学习例句
+
 ## erstwhile
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/erstwhile#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> My erstwhile colleague kept me up-to-date with the company gossip.
+> She met an erstwhile colleague at the conference.
 
-例句来源：[Tatoeba；作者：mollydot；句子 #11516611；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/11516611)
+例句来源：逐词编写的学习例句
 
 ## erudite
 
@@ -8789,8 +9543,8 @@
 ## erythrocyte
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/erythrocyte#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Erythrocytes carry oxygen from the lungs to other parts of the body.
 
@@ -8799,12 +9553,6 @@
 ## erythromycin
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/erythromycin#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
-
-## erythropoietin
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/erythropoietin#English)
 - 发音资料：Wiktionary
 - 中文释义资料：ECDICT
 
@@ -8821,16 +9569,12 @@
 ## escalation
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/escalation#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Both sides wanted to prevent further escalation of the dispute.
 
 例句来源：逐词编写的学习例句
-
-> Higher wages caused an escalation of prices.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset noun:00366846](https://wordnet.princeton.edu/)
 
 ## escalator
 
@@ -8845,52 +9589,72 @@
 ## escape
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/escape#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> When using the "bash" shell, you can escape the ampersand character with a backslash.
+> The bird escaped through an open window.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## escaped
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/escaped#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The cat escaped through the open door.
+
+例句来源：逐词编写的学习例句
 
 ## escapee
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/escapee#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Police officers are on the hunt for the escapee.
+> The guards searched for the escapee.
 
-例句来源：[Tatoeba；作者：Cangarejo；句子 #10998665；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/10998665)
+例句来源：逐词编写的学习例句
 
 ## escapement
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/escapement#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The escapement is the reason why clocks tick.
+> The watchmaker examined the escapement.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## escaping
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/escaping#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Air was escaping from the balloon.
+
+例句来源：逐词编写的学习例句
 
 ## escapism
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/escapism#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> His alcohol problem was a form of escapism.
+> For her, adventure novels are a form of escapism.
 
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset noun:00429440](https://wordnet.princeton.edu/)
+例句来源：逐词编写的学习例句
 
 ## escapist
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/escapist#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> He enjoys reading escapist fiction in his free time.
+> She enjoys escapist fiction on long journeys.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## eschatology
 
@@ -8965,8 +9729,8 @@
 ## esophageal
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/esophageal#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The textbook describes the function of the lower esophageal sphincter.
 
@@ -9015,22 +9779,12 @@
 ## especially
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/especially#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > I enjoy walking, especially in the early morning.
 
 例句来源：逐词编写的学习例句
-
-> The buildings are not especially large.
-
-例句来源：Wiktionary 用例
-
-## esper
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/esper#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
 
 ## esplanade
 
@@ -9082,47 +9836,75 @@
 
 例句来源：逐词编写的学习例句
 
+## essay
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/essay#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> We have to write an essay on urban life.
+
+例句来源：逐词编写的学习例句
+
 ## essayist
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/essayist#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> She was an essayist whose frequent contributions to the editorial pages of major newspapers had a loyal following.
+> She is best known as an essayist and critic.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## essays
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/essays#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The students wrote essays about their hometowns.
+
+例句来源：逐词编写的学习例句
+
+## essence
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/essence#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> This short example captures the essence of the idea.
+
+例句来源：逐词编写的学习例句
 
 ## essential
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/essential#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> I see it as essential that there should be somewhere to park.
+> Good lighting is essential for this work.
 
-例句来源：Wiktionary 用例
-
-## essentialism
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/essentialism#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
-
-## essentialist
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/essentialist#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+例句来源：逐词编写的学习例句
 
 ## essentially
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/essentially#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> A: So you're saying, in other words, that he's greedy? B: Essentially, yes, that's what I'm saying.
+> The two designs are essentially the same.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## essentials
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/essentials#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> We packed only the essentials for the short trip.
+
+例句来源：逐词编写的学习例句
 
 ## establish
 
@@ -9134,17 +9916,43 @@
 
 例句来源：逐词编写的学习例句
 
+## established
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/established#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The club was established by a group of local teachers.
+
+例句来源：逐词编写的学习例句
+
+## establishing
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/establishing#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The team is establishing a regular meeting schedule.
+
+例句来源：逐词编写的学习例句
+
 ## establishment
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/establishment#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Since their establishment of the company in 1984, they have grown into a global business.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The establishment of the library took several years.
+
+例句来源：逐词编写的学习例句
+
+## establishments
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/establishments#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Several food establishments opened near the station.
 
 例句来源：逐词编写的学习例句
 
@@ -9158,47 +9966,85 @@
 
 例句来源：逐词编写的学习例句
 
+## estates
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/estates#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The map shows three old country estates.
+
+例句来源：逐词编写的学习例句
+
 ## esteem
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/esteem#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> We hold her in high esteem.
+> Her colleagues held her in high esteem.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## estimable
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/estimable#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She is an estimable colleague whose judgment I trust.
+
+例句来源：逐词编写的学习例句
 
 ## estimate
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/estimate#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> He got an estimate from the car repair shop.
+> We estimate that the repairs will take two weeks.
 
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset noun:06783598](https://wordnet.princeton.edu/)
+例句来源：逐词编写的学习例句
+
+## estimated
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/estimated#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> We estimated the distance at about five kilometres.
+
+例句来源：逐词编写的学习例句
+
+## estimates
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/estimates#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The two estimates of the cost were quite different.
+
+例句来源：逐词编写的学习例句
 
 ## estimation
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/estimation#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> According to my estimations, we should get to the border in five hours, give or take.
+> In my estimation, this is the best option.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## estimator
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/estimator#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The cost estimator reviewed the drawings before preparing a quote.
+
+例句来源：逐词编写的学习例句
 
 ## estrange
 
@@ -9223,26 +10069,18 @@
 ## estrangement
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/estrangement#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > They spoke again after years of estrangement.
 
 例句来源：逐词编写的学习例句
 
-> William is working to rebuild his relationship with his son after a period of estrangement.
-
-例句来源：[Tatoeba；作者：Amastan；句子 #11618007；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/11618007)
-
 ## estrogen
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/estrogen#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Declining estrogen levels can lead to thinning of the vaginal walls.
-
-例句来源：[Tatoeba；作者：fekundulo；句子 #3898964；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/3898964)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The graph shows how estrogen levels change during the menstrual cycle.
 
@@ -9251,22 +10089,12 @@
 ## estrogenic
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/estrogenic#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The researchers compared the estrogenic activity of several compounds.
 
 例句来源：逐词编写的学习例句
-
-## estuarine
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/estuarine#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
-
-> Estuarine dolphins can live in both saltwater and freshwater.
-
-例句来源：[Tatoeba；作者：Hybrid；句子 #9823741；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/9823741)
 
 ## et cetera
 
@@ -9287,12 +10115,8 @@
 ## eternally
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/eternally#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> I shall be eternally grateful for your assistance.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > I will be eternally grateful for your help.
 
@@ -9311,18 +10135,22 @@
 ## ethane
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ethane#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Ethane has two carbon atoms in each molecule.
+
+例句来源：逐词编写的学习例句
 
 ## ethanol
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ethanol#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Methanol has the same effects as ethanol, but also makes people blind.
+> The report gives the ethanol content of the sample.
 
-例句来源：[Tatoeba；作者：Hybrid；句子 #7813186；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/7813186)
+例句来源：逐词编写的学习例句
 
 ## ether
 
@@ -9344,12 +10172,6 @@
 
 例句来源：逐词编写的学习例句
 
-## etheric
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/etheric#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
-
 ## ethic
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ethic#English)
@@ -9363,36 +10185,28 @@
 ## ethical
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ethical#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The experiment raises several ethical questions about consent.
 
 例句来源：逐词编写的学习例句
 
-> We are trying to decide what the most ethical course of action would be.
-
-例句来源：Wiktionary 用例
-
 ## ethically
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ethically#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The proposal is technically possible but ethically questionable.
 
 例句来源：逐词编写的学习例句
 
-> This is ethically unacceptable.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adv:00330505](https://wordnet.princeton.edu/)
-
 ## ethicist
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ethicist#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The hospital invited an ethicist to discuss the difficult case.
 
@@ -9437,12 +10251,8 @@
 ## ethnicity
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ethnicity#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Ethnicity has a strong influence on community status relations.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset noun:04799133](https://wordnet.princeton.edu/)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > People of different ethnicities took part in the festival.
 
@@ -9451,12 +10261,8 @@
 ## ethnocentric
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ethnocentric#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> The Abrahamic religions are deeply ethnocentric.
-
-例句来源：[Tatoeba；作者：blues；句子 #10317239；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/10317239)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The writer questioned the ethnocentric assumptions behind the travel account.
 
@@ -9465,12 +10271,8 @@
 ## ethnocentrism
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ethnocentrism#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Monolingualism is like a disease, as it leads to ethnocentrism and culture isolation. But this disease can be cured.
-
-例句来源：[Tatoeba；作者：AlanF\_US；句子 #2886618；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/2886618)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The class discussed how ethnocentrism can distort historical accounts.
 
@@ -9479,14 +10281,18 @@
 ## ethnographer
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ethnographer#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The ethnographer spent a year studying life in the village.
+
+例句来源：逐词编写的学习例句
 
 ## ethnographic
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ethnographic#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The team spent a year doing ethnographic fieldwork in the factory.
 
@@ -9495,16 +10301,12 @@
 ## ethnography
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ethnography#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Her ethnography describes daily life in a coastal fishing community.
 
 例句来源：逐词编写的学习例句
-
-> Her ethnography of urban youth explored how music shapes identity and belonging.
-
-例句来源：[Tatoeba；作者：rul；句子 #13570538；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/13570538)
 
 ## ethnolect
 
@@ -9516,21 +10318,11 @@
 
 例句来源：逐词编写的学习例句
 
-## ethnological
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ethnological#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
-
 ## ethnology
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ethnology#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Every student of biology, anatomy, anthropology, ethnology or psychology is familiar with these facts.
-
-例句来源：[Tatoeba；作者：Source\_Benedict\_1921；句子 #847255；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/847255)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The museum’s ethnology collection includes objects used in everyday work.
 
@@ -9573,22 +10365,32 @@
 ## ethyl
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ethyl#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Manufacturers add ethyl butyrate to their orange juice to make it taste fresher.
+> The molecule contains an ethyl group.
 
-例句来源：[Tatoeba；作者：Hybrid；句子 #3401922；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/3401922)
+例句来源：逐词编写的学习例句
 
 ## ethylene
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ethylene#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Some vegetables are easily affected by ethylene, including asparagus, broccoli, cabbage and cucumbers.
+> The factory uses ethylene to make polyethylene.
 
-例句来源：[Tatoeba；作者：Cangarejo；句子 #10899188；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/10899188)
+例句来源：逐词编写的学习例句
+
+## etiquette
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/etiquette#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She read a guide to table etiquette before the formal dinner.
+
+例句来源：逐词编写的学习例句
 
 ## etude
 
@@ -9603,26 +10405,12 @@
 ## etymological
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/etymological#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> I merely drew an etymological distinction.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adj:03022003](https://wordnet.princeton.edu/)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The note explains the etymological connection between the two words.
 
 例句来源：逐词编写的学习例句
-
-## etymologically
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/etymologically#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
-
-> In Russian, the words for "caress, endearment" and "least weasel" are homonymous and possibly related etymologically.
-
-例句来源：[Tatoeba；作者：Ooneykcall；句子 #4458504；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/4458504)
 
 ## etymologist
 
@@ -9664,12 +10452,6 @@
 
 例句来源：逐词编写的学习例句
 
-## eucharistic
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/eucharistic#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
-
 ## Eugene
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/Eugene#English)
@@ -9683,8 +10465,8 @@
 ## eugenic
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/eugenic#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The historian challenged the eugenic assumptions behind the law.
 
@@ -9713,16 +10495,12 @@
 ## eukaryotic
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/eukaryotic#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The diagram labels the nucleus of a eukaryotic cell.
 
 例句来源：逐词编写的学习例句
-
-> While the genome of a eukaryotic cell is nuclear, the ribosomes are cytosolic.
-
-例句来源：[Tatoeba；作者：haukie；句子 #8110005；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/8110005)
 
 ## eulogy
 
@@ -9747,12 +10525,8 @@
 ## euphemistic
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/euphemistic#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Most languages have euphemistic expressions to describe death and dying.
-
-例句来源：[Tatoeba；作者：patgfisher；句子 #3244932；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/3244932)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The phrase sounded euphemistic, so she asked what had actually happened.
 
@@ -9788,16 +10562,6 @@
 
 例句来源：逐词编写的学习例句
 
-## euphonium
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/euphonium#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
-
-> A trombonist by trade, Harry sometimes doubles on the euphonium.
-
-例句来源：[Tatoeba；作者：papabear；句子 #814465；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/814465)
-
 ## euphonize
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/euphonize#English)
@@ -9831,12 +10595,8 @@
 ## euphoric
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/euphoric#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> In this moment, I am euphoric.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > She felt euphoric after hearing that her application had been accepted.
 
@@ -9862,6 +10622,16 @@
 
 例句来源：逐词编写的学习例句
 
+## euro
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/euro#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The locker takes a euro coin.
+
+例句来源：逐词编写的学习例句
+
 ## Europe
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/Europe#English)
@@ -9879,6 +10649,16 @@
 - 中文释义资料：逐词编写的中文释义
 
 > The gallery has a large collection of European paintings.
+
+例句来源：逐词编写的学习例句
+
+## euros
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/euros#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The ticket costs twelve euros.
 
 例句来源：逐词编写的学习例句
 
@@ -9938,39 +10718,31 @@
 
 例句来源：逐词编写的学习例句
 
-## eutrophication
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/eutrophication#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
-
-> He argued that the controlling factor in eutrophication is not nitrate but phosphate.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset noun:13476590](https://wordnet.princeton.edu/)
-
 ## evacuate
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/evacuate#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Staff evacuated the building when the alarm sounded.
 
 例句来源：逐词编写的学习例句
 
-> The firefighters decided to evacuate all the inhabitants from the street.
+## evacuated
 
-例句来源：Wiktionary 用例
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/evacuated#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The theatre was evacuated after the alarm sounded.
+
+例句来源：逐词编写的学习例句
 
 ## evacuation
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/evacuation#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> As the hurricane grew closer, the governor issued a statewide evacuation notice.
-
-例句来源：[Tatoeba；作者：nana2capriccio；句子 #12457381；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/12457381)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The school holds an evacuation drill every term.
 
@@ -9996,25 +10768,41 @@
 
 例句来源：逐词编写的学习例句
 
+## evaluated
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/evaluated#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The team evaluated three possible designs.
+
+例句来源：逐词编写的学习例句
+
+## evaluating
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/evaluating#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The team is evaluating three designs for the new exhibition.
+
+例句来源：逐词编写的学习例句
+
 ## evaluation
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/evaluation#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The evaluation found that the new layout reduced waiting time.
 
 例句来源：逐词编写的学习例句
 
-> The result of the semestral evaluation will go towards your final score.
-
-例句来源：Wiktionary 用例
-
 ## evaluative
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/evaluative#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The report should include evaluative comments, not just a list of activities.
 
@@ -10043,83 +10831,68 @@
 ## evangelical
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/evangelical#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> An ultraconservative evangelical message.
+> She grew up in an evangelical church.
 
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adj:02923005](https://wordnet.princeton.edu/)
-
-## evangelicalism
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/evangelicalism#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+例句来源：逐词编写的学习例句
 
 ## evangelism
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/evangelism#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Evangelical Christians prioritize evangelism and sharing their faith journey.
+> The lecture examines the history of evangelism.
 
-例句来源：[Tatoeba；作者：always；句子 #12652710；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/12652710)
+例句来源：逐词编写的学习例句
 
 ## evangelist
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/evangelist#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> developer evangelist
+> The town invited an evangelist to speak at the church.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## evangelistic
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/evangelistic#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> I was pretty evangelistic about the merits of working in a small team.
+> The church organised an evangelistic campaign.
 
-例句来源：Wiktionary 用例
-
-## evangelization
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/evangelization#English)
-- 中文释义资料：ECDICT
+例句来源：逐词编写的学习例句
 
 ## evangelize
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/evangelize#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The book describes how missionaries evangelized in the region.
+
+例句来源：逐词编写的学习例句
 
 ## evaporate
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/evaporate#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The puddle evaporated during the afternoon.
 
 例句来源：逐词编写的学习例句
 
-> to evaporate apples
-
-例句来源：Wiktionary 用例
-
 ## evaporation
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/evaporation#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Heat causes the evaporation of water from the surface.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The lid reduced water loss through evaporation.
 
@@ -10128,8 +10901,8 @@
 ## evaporative
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/evaporative#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The building uses evaporative cooling during hot, dry weather.
 
@@ -10138,8 +10911,8 @@
 ## evaporator
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/evaporator#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The evaporator removes water from the juice to make a concentrate.
 
@@ -10185,51 +10958,65 @@
 
 例句来源：逐词编写的学习例句
 
+## eve
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/eve#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> We arrived on the eve of the festival.
+
+例句来源：逐词编写的学习例句
+
 ## even
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/even#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> You biffed me back at the barn, and I biffed you here—so now we're even.
+> Spread the mixture in an even layer.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## evening
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/evening#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> I met my wife on a summer's evening in 1999.
+> We went for a walk in the evening.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## evenings
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/evenings#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The theatre group would always give open-air performances on fine summer evenings.
+> We spent our evenings reading by the window.
 
-例句来源：[Tatoeba；作者：sundown；句子 #11166035；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/11166035)
+例句来源：逐词编写的学习例句
 
 ## evenly
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/evenly#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> To avoid arguments, he divided the sweets evenly between his two children.
+> Divide the money evenly between the two groups.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## evensong
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/evensong#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Visitors are welcome to attend evensong.
+
+例句来源：逐词编写的学习例句
 
 ## event
 
@@ -10244,70 +11031,52 @@
 ## eventful
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/eventful#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > It was an eventful day, with a new job offer and a surprise visit.
 
 例句来源：逐词编写的学习例句
 
-> With the number of drunken revellers on the streets it could hardly fail to be an eventful night.
+## events
 
-例句来源：Wiktionary 用例
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/events#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-## eventing
+> The museum lists next month’s events on its website.
 
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/eventing#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+例句来源：逐词编写的学习例句
 
 ## eventual
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/eventual#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The eventual winner was not the early favorite.
 
 例句来源：逐词编写的学习例句
 
-> They both opposed an eventual imposition of anti-dumping measures as they considered that it could lead to a cessation of imports of the product concerned from the PRC79.
-
-例句来源：Wiktionary 用例
-
 ## eventuality
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/eventuality#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> We need to be ready for any eventuality.
+> We prepared for every eventuality before the journey.
 
-例句来源：[Tatoeba；作者：CK；句子 #11632843；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/11632843)
+例句来源：逐词编写的学习例句
 
 ## eventually
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/eventually#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> She didn't arrive. Eventually, we started without her.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > We took several wrong turns but eventually found the hotel.
 
 例句来源：逐词编写的学习例句
-
-## eventuate
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/eventuate#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
-
-> The rain forecast for yesterday didn't eventuate.
-
-例句来源：[Tatoeba；作者：patgfisher；句子 #3074184；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/3074184)
 
 ## ever
 
@@ -10332,21 +11101,12 @@
 ## evergreen
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/evergreen#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Evergreen shrubs keep the courtyard green in winter.
 
 例句来源：逐词编写的学习例句
-
-> The Evergreen Point Floating Bridge is the world's longest floating bridge.
-
-例句来源：[Tatoeba；作者：Hybrid；句子 #9814258；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/9814258)
-
-## everlast
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/everlast#English)
-- 中文释义资料：ECDICT
 
 ## everlasting
 
@@ -10361,12 +11121,8 @@
 ## evermore
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/evermore#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Lead a blameless life evermore.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adv:00332596](https://wordnet.princeton.edu/)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The inscription promised that their names would be remembered for evermore.
 
@@ -10385,12 +11141,8 @@
 ## everybody
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/everybody#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Does everybody have their ticket(s) at hand?
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Everybody brought their own lunch to the workshop.
 
@@ -10433,6 +11185,16 @@
 - 中文释义资料：逐词编写的中文释义
 
 > We looked everywhere for the missing key.
+
+例句来源：逐词编写的学习例句
+
+## eves
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/eves#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Shops often stay open late on the eves of major festivals.
 
 例句来源：逐词编写的学习例句
 
@@ -10499,12 +11261,8 @@
 ## evidentiary
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/evidentiary#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Evidentiary investigations are common in legal proceedings.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The report discusses the evidentiary value of the photograph.
 
@@ -10513,12 +11271,8 @@
 ## evidently
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/evidently#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Evidently, no one can resist reading the ballad "Chavayn" by Olyk Ipay.
-
-例句来源：[Tatoeba；作者：AlanF\_US；句子 #2878063；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/2878063)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > He was evidently pleased with the result.
 
@@ -10527,28 +11281,32 @@
 ## evil
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/evil#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Do you think that companies that engage in animal testing are evil?
+> The story explores the struggle between good and evil.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## evilly
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/evilly#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> By doing nothing, men learn to act evilly.
+> The villain smiled evilly at the frightened hero.
 
-例句来源：[Tatoeba；作者：carlosalberto；句子 #10995995；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/10995995)
+例句来源：逐词编写的学习例句
 
 ## evilness
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/evilness#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The critic discussed the evilness of the character’s actions.
+
+例句来源：逐词编写的学习例句
 
 ## evince
 
@@ -10563,8 +11321,8 @@
 ## eviscerate
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/eviscerate#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The cuts would eviscerate the town’s public transport programme.
 
@@ -10633,32 +11391,32 @@
 ## evolution
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/evolution#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The ongoing evolution of Lolita subculture fashion includes, among other things, the ballet style.
+> The exhibition traces the evolution of the design.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## evolutionarily
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/evolutionarily#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The mutation has been evolutionarily successful.
+> The two species are evolutionarily related.
 
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adv:00331291](https://wordnet.princeton.edu/)
+例句来源：逐词编写的学习例句
 
 ## evolutionary
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/evolutionary#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The evolutionary history of marine mammals includes land-dwelling ancestors.
+> She studies evolutionary biology.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## evolve
 
@@ -10670,19 +11428,35 @@
 
 例句来源：逐词编写的学习例句
 
+## evolved
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/evolved#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The idea evolved into a practical plan.
+
+例句来源：逐词编写的学习例句
+
+## evolving
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/evolving#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Our plans are still evolving.
+
+例句来源：逐词编写的学习例句
+
 ## exacerbate
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/exacerbate#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The delay exacerbated an already serious shortage.
 
 例句来源：逐词编写的学习例句
-
-> The proposed shutdown would exacerbate unemployment problems.
-
-例句来源：Wiktionary 用例
 
 ## exacerbation
 
@@ -10697,46 +11471,42 @@
 ## exact
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/exact#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The clock keeps exact time.
+> Tell me the exact time of the meeting.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## exacting
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/exacting#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Ziri is even more hellbent on exacting revenge.
+> Restoring the painting was slow and exacting work.
 
-例句来源：[Tatoeba；作者：Amastan；句子 #11382720；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/11382720)
+例句来源：逐词编写的学习例句
 
 ## exactly
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/exactly#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Measure exactly so we can be sure it is right.
+> That is exactly what I meant.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## exaggerate
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/exaggerate#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Do not exaggerate the size of the problem.
 
 例句来源：逐词编写的学习例句
-
-> I've told you a billion times not to exaggerate!
-
-例句来源：Wiktionary 用例
 
 ## exaggerated
 
@@ -10788,35 +11558,105 @@
 
 例句来源：逐词编写的学习例句
 
+## exam
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/exam#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> We have a history exam on Friday.
+
+例句来源：逐词编写的学习例句
+
 ## examination
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/examination#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Your success depends on whether you pass the STEP examination or not.
+> The documents are still under examination.
 
-例句来源：[Tatoeba；作者：Zifre；句子 #17025；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/17025)
+例句来源：逐词编写的学习例句
+
+## examinations
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/examinations#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The students prepared for their final examinations.
+
+例句来源：逐词编写的学习例句
 
 ## examine
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/examine#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> How long does it take for a veterinarian to examine a horse?
+> The scientist examined the sample under a microscope.
 
-例句来源：[Tatoeba；作者：Source\_VOA；句子 #680866；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/680866)
+例句来源：逐词编写的学习例句
+
+## examined
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/examined#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She examined the painting under a bright light.
+
+例句来源：逐词编写的学习例句
 
 ## examiner
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/examiner#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The examiner searched for clues.
+> The examiner asked her to explain the answer.
 
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset noun:10067968](https://wordnet.princeton.edu/)
+例句来源：逐词编写的学习例句
+
+## examining
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/examining#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She was examining the old map closely.
+
+例句来源：逐词编写的学习例句
+
+## example
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/example#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Could you give me an example?
+
+例句来源：逐词编写的学习例句
+
+## examples
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/examples#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The teacher used examples from everyday life.
+
+例句来源：逐词编写的学习例句
+
+## exams
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/exams#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The students are preparing for their final exams.
+
+例句来源：逐词编写的学习例句
 
 ## exasperate
 
@@ -10838,6 +11678,16 @@
 
 例句来源：逐词编写的学习例句
 
+## exasperates
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/exasperates#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> His refusal to give a straight answer exasperates me.
+
+例句来源：逐词编写的学习例句
+
 ## exasperating
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/exasperating#English)
@@ -10845,6 +11695,16 @@
 - 中文释义资料：逐词编写的中文释义
 
 > The app has an exasperating habit of logging me out.
+
+例句来源：逐词编写的学习例句
+
+## exasperatingly
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/exasperatingly#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The machine responded exasperatingly slowly.
 
 例句来源：逐词编写的学习例句
 
@@ -10861,83 +11721,102 @@
 ## excavate
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/excavate#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Archaeologists excavated the site over several summers.
 
 例句来源：逐词编写的学习例句
 
-> The mining company wants to excavate the hillside.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset verb:01310660](https://wordnet.princeton.edu/)
-
 ## excavation
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/excavation#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The excavation revealed the remains of a small temple.
 
 例句来源：逐词编写的学习例句
 
-> There's an interesting excavation going on near Princeton.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset noun:00941974](https://wordnet.princeton.edu/)
-
 ## excavator
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/excavator#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > An excavator removed the soil beside the road.
 
 例句来源：逐词编写的学习例句
 
-> the excavators of an ancient Egyptian tomb
+## exceed
 
-例句来源：Wiktionary 用例
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/exceed#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The cost exceeded our original estimate.
+
+例句来源：逐词编写的学习例句
+
+## exceeded
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/exceeded#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The concert exceeded our expectations.
+
+例句来源：逐词编写的学习例句
 
 ## exceeding
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/exceeding#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The International Labour Organization defines a workweek exceeding 48 hours as excessive.
+> We finished the project without exceeding the budget.
 
-例句来源：[Tatoeba；作者：Hybrid；句子 #7010181；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/7010181)
+例句来源：逐词编写的学习例句
 
 ## exceedingly
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/exceedingly#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Rejoice, and be exceedingly glad, for great is your reward in heaven.
+> The puzzle was exceedingly difficult.
 
-例句来源：[Tatoeba；作者：ddnktr；句子 #11815272；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/11815272)
+例句来源：逐词编写的学习例句
+
+## excel
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/excel#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She excels at explaining difficult ideas clearly.
+
+例句来源：逐词编写的学习例句
+
+## excellence
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/excellence#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The award recognises excellence in teaching.
+
+例句来源：逐词编写的学习例句
 
 ## excellent
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/excellent#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Bill and Ted had an excellent adventure last week in preparation for their history exam.
+> The guide gave an excellent explanation of the building’s history.
 
-例句来源：Wiktionary 用例
-
-## excellently
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/excellently#English)
-- 中文释义资料：ECDICT
-
-> Where did Yanni learn Berber? He speaks it so excellently.
-
-例句来源：[Tatoeba；作者：Amastan；句子 #9725977；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/9725977)
+例句来源：逐词编写的学习例句
 
 ## except
 
@@ -10952,12 +11831,8 @@
 ## exception
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/exception#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> That rule is usually true, but there are a few exceptions.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > We do not usually allow pets, but we made an exception this time.
 
@@ -10966,81 +11841,122 @@
 ## exceptional
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/exceptional#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The origins of the conditions and disorders that exceptional learners have are not always well understood.
+> She showed exceptional skill in the final round.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## exceptionalism
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/exceptionalism#English)
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Israel will not be able to defend its exceptionalism for ever.
+> The essay examines national exceptionalism.
 
-例句来源：[Tatoeba；作者：OsoHombre；句子 #6959068；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/6959068)
+例句来源：逐词编写的学习例句
 
 ## exceptionally
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/exceptionally#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> In 1957, an exceptionally severe hailstorm struck the village.
+> The room was exceptionally quiet that morning.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## exceptions
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/exceptions#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The rule has a few exceptions.
+
+例句来源：逐词编写的学习例句
+
+## excess
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/excess#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Wipe away any excess water.
+
+例句来源：逐词编写的学习例句
 
 ## excessive
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/excessive#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The movie's excessive use of special effects distracted from the plot.
+> The machine stopped because of excessive heat.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## excessively
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/excessively#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The application form was excessively complicated.
+> The room was excessively hot.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## exchange
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/exchange#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> NPA-NXX-1234 is standard format, where NPA is the area code and NXX is the exchange.
+> We exchanged phone numbers after the meeting.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## exchangeable
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/exchangeable#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> This garment is exchangeable within three days.
+> These vouchers are exchangeable for meals.
 
-例句来源：[Tatoeba；作者：papabear；句子 #57421；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/57421)
+例句来源：逐词编写的学习例句
+
+## exchanged
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/exchanged#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> We exchanged addresses before leaving.
+
+例句来源：逐词编写的学习例句
 
 ## exchanger
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/exchanger#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> You can download the instruction manual for the heat exchanger here.
+> The engineer inspected the heat exchanger.
 
-例句来源：[Tatoeba；作者：CM；句子 #457147；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/457147)
+例句来源：逐词编写的学习例句
+
+## exchanges
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/exchanges#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The schools organise student exchanges each summer.
+
+例句来源：逐词编写的学习例句
 
 ## excide
 
@@ -11085,8 +12001,8 @@
 ## excitability
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/excitability#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The study measured changes in neuronal excitability.
 
@@ -11095,12 +12011,8 @@
 ## excitable
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/excitable#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> The excitable puppy jumped all over the furniture.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The puppy is friendly but very excitable.
 
@@ -11109,12 +12021,8 @@
 ## excitation
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/excitation#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> The amount of stimulation or electrical excitation of the natural tissue that's been required to date is also a significant challenge.
-
-例句来源：[Tatoeba；作者：Cangarejo；句子 #11457261；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/11457261)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The experiment used light for excitation of the molecules.
 
@@ -11133,40 +12041,32 @@
 ## excited
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/excited#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The children were excited about the trip.
 
 例句来源：逐词编写的学习例句
 
-> The excited electrons give off light when they drop to a lower energy state.
-
-例句来源：Wiktionary 用例
-
 ## excitedly
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/excitedly#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> She shook his hand excitedly.
+> The children talked excitedly about the trip.
 
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adv:00153977](https://wordnet.princeton.edu/)
+例句来源：逐词编写的学习例句
 
 ## excitement
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/excitement#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Her voice shook with excitement.
 
 例句来源：逐词编写的学习例句
-
-> to get caught up in the excitement
-
-例句来源：Wiktionary 用例
 
 ## exciting
 
@@ -11218,15 +12118,31 @@
 
 例句来源：逐词编写的学习例句
 
+## excluded
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/excluded#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The appendix was excluded from the page count.
+
+例句来源：逐词编写的学习例句
+
+## excluding
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/excluding#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The group has ten people, excluding the guide.
+
+例句来源：逐词编写的学习例句
+
 ## exclusion
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/exclusion#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> The exclusion of mathematics from the field of culture is like intellectual castration.
-
-例句来源：[Tatoeba；作者：violinmike；句子 #649686；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/649686)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The study explains the exclusion of incomplete responses.
 
@@ -11235,12 +12151,12 @@
 ## exclusionary
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/exclusionary#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Social groups are often exclusionary.
+> The club changed rules that had been criticised as exclusionary.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## exclusive
 
@@ -11255,26 +12171,18 @@
 ## exclusively
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/exclusively#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The course is designed exclusively for beginners.
 
 例句来源：逐词编写的学习例句
 
-> These new shoes are made exclusively out of recycled cardboard.
-
-例句来源：Wiktionary 用例
-
 ## exclusivity
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/exclusivity#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> The news agency had access, with exclusivity, to the security cameras that recorded the crime.
-
-例句来源：[Tatoeba；作者：lucasmg123；句子 #8543482；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/8543482)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The publisher asked for six months of exclusivity.
 
@@ -11289,12 +12197,6 @@
 > The committee excogitated a plan for sharing the limited space.
 
 例句来源：逐词编写的学习例句
-
-## excommunicate
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/excommunicate#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
 
 ## excoriate
 
@@ -11366,16 +12268,6 @@
 
 例句来源：逐词编写的学习例句
 
-## excruciatingly
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/excruciatingly#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
-
-> The gunshot wound was excruciatingly painful.
-
-例句来源：Wiktionary 用例
-
 ## exculpate
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/exculpate#English)
@@ -11389,16 +12281,12 @@
 ## exculpatory
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/exculpatory#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The investigators found new exculpatory evidence in the phone records.
 
 例句来源：逐词编写的学习例句
-
-> Tom has been acquitted, thanks to exculpatory statements from witnesses, but there is no trace of the real culprit.
-
-例句来源：[Tatoeba；作者：DJ\_Saidez；句子 #9927961；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/9927961)
 
 ## excursion
 
@@ -11417,6 +12305,36 @@
 - 中文释义资料：逐词编写的中文释义
 
 > He made an excuse and left before the meeting ended.
+
+例句来源：逐词编写的学习例句
+
+## excused
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/excused#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She was excused from the afternoon meeting.
+
+例句来源：逐词编写的学习例句
+
+## excuses
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/excuses#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> He made excuses for being late.
+
+例句来源：逐词编写的学习例句
+
+## excusing
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/excusing#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> I am explaining the mistake, not excusing it.
 
 例句来源：逐词编写的学习例句
 
@@ -11443,42 +12361,72 @@
 ## executable
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/executable#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The program as written by the programmer is generally processed into an executable that can be run.
+> The download contains an executable and a user guide.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## execute
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/execute#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> There are certain states where it is lawful to execute prisoners convicted of certain crimes.
+> The team executed the plan with great care.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## executed
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/executed#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The team executed the plan with great care.
+
+例句来源：逐词编写的学习例句
 
 ## execution
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/execution#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The entire machine slowed down during the execution of the virus checker.
+> The idea was promising, but the execution was poor.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## executioner
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/executioner#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Moved, he sees Priam extending his helpless hands to his son's executioner.
+> The historical novel includes a character who works as an executioner.
 
-例句来源：[Tatoeba；作者：carlosalberto；句子 #13581220；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/13581220)
+例句来源：逐词编写的学习例句
+
+## executive
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/executive#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She works as an executive at a publishing company.
+
+例句来源：逐词编写的学习例句
+
+## executives
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/executives#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The executives discussed the new strategy.
+
+例句来源：逐词编写的学习例句
 
 ## exegesis
 
@@ -11487,6 +12435,26 @@
 - 中文释义资料：逐词编写的中文释义
 
 > The seminar offers a close exegesis of the opening paragraph.
+
+例句来源：逐词编写的学习例句
+
+## exemplary
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/exemplary#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Her conduct was exemplary throughout the trip.
+
+例句来源：逐词编写的学习例句
+
+## exemplify
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/exemplify#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> This small town exemplifies the changes taking place across the region.
 
 例句来源：逐词编写的学习例句
 
@@ -11503,26 +12471,52 @@
 ## exemption
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/exemption#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > He applied for an exemption from the language test.
 
 例句来源：逐词编写的学习例句
 
-> Let's take advantage of the 'exemption' controversy to reconsider the way we work.
+## exercise
 
-例句来源：[Tatoeba；作者：fcbond；句子 #329057；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/329057)
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/exercise#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Walking is a simple form of exercise.
+
+例句来源：逐词编写的学习例句
 
 ## exercised
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/exercised#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> I exercised like I used to, and now I'm all worn out.
+> She exercised every morning during the holiday.
 
-例句来源：[Tatoeba；作者：xorgy；句子 #4717531；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/4717531)
+例句来源：逐词编写的学习例句
+
+## exercises
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/exercises#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The chapter ends with ten short exercises.
+
+例句来源：逐词编写的学习例句
+
+## exercising
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/exercising#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> They enjoy exercising outdoors.
+
+例句来源：逐词编写的学习例句
 
 ## exert
 
@@ -11547,16 +12541,12 @@
 ## exhalation
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/exhalation#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > A long exhalation broke the silence.
 
 例句来源：逐词编写的学习例句
-
-> exhalations from the earth or flowers
-
-例句来源：Wiktionary 用例
 
 ## exhale
 
@@ -11581,16 +12571,12 @@
 ## exhausted
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/exhausted#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > By the time we reached the hotel, we were exhausted.
 
 例句来源：逐词编写的学习例句
-
-> The exhausted mine was worthless once all the ore had been extracted.
-
-例句来源：Wiktionary 用例
 
 ## exhaustible
 
@@ -11605,26 +12591,18 @@
 ## exhausting
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/exhausting#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Moving house was more exhausting than we expected.
 
 例句来源：逐词编写的学习例句
 
-> This task is exhausting!
-
-例句来源：Wiktionary 用例
-
 ## exhaustion
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/exhaustion#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> I ran in the marathon to exhaustion, then I collapsed and had to be carried away.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > She fell asleep almost immediately from exhaustion.
 
@@ -11643,16 +12621,12 @@
 ## exhaustively
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/exhaustively#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The committee examined the available evidence exhaustively.
 
 例句来源：逐词编写的学习例句
-
-> This is an exhaustively long list!
-
-例句来源：[Tatoeba；作者：jiraixu；句子 #13203826；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/13203826)
 
 ## exhibit
 
@@ -11664,29 +12638,31 @@
 
 例句来源：逐词编写的学习例句
 
+## exhibited
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/exhibited#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Her paintings were exhibited at the local gallery.
+
+例句来源：逐词编写的学习例句
+
 ## exhibition
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/exhibition#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The exhibition brings together drawings from five countries.
 
 例句来源：逐词编写的学习例句
 
-> There was an art exhibition on in the town hall.
-
-例句来源：Wiktionary 用例
-
 ## exhibitionism
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/exhibitionism#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> I feel an aversion toward all this exhibitionism.
-
-例句来源：[Tatoeba；作者：carlosalberto；句子 #6322775；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/6322775)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The critic dismissed the stunt as empty exhibitionism.
 
@@ -11695,14 +12671,20 @@
 ## exhibitionist
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/exhibitionist#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> An exhibitionist would be the ideal partner for a voyeur.
-
-例句来源：[Tatoeba；作者：kinoko；句子 #4982259；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/4982259)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > He is a natural exhibitionist who loves being the center of attention.
+
+例句来源：逐词编写的学习例句
+
+## exhibitions
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/exhibitions#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The museum holds three temporary exhibitions each year.
 
 例句来源：逐词编写的学习例句
 
@@ -11716,15 +12698,15 @@
 
 例句来源：逐词编写的学习例句
 
-## exhilaration
+## exhibits
 
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/exhilaration#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/exhibits#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Exhilaration filled her as she raced down the street.
+> The children enjoyed the interactive exhibits.
 
-例句来源：[Tatoeba；作者：Stohlberg；句子 #4408666；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/4408666)
+例句来源：逐词编写的学习例句
 
 ## exhumation
 
@@ -11746,6 +12728,46 @@
 
 例句来源：逐词编写的学习例句
 
+## exile
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/exile#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The writer spent many years in exile.
+
+例句来源：逐词编写的学习例句
+
+## exiled
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/exiled#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The exiled writer continued to publish abroad.
+
+例句来源：逐词编写的学习例句
+
+## exiles
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/exiles#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The city became a meeting place for exiles.
+
+例句来源：逐词编写的学习例句
+
+## exiling
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/exiling#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The play shows a ruler exiling his closest adviser.
+
+例句来源：逐词编写的学习例句
+
 ## exist
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/exist#English)
@@ -11756,15 +12778,21 @@
 
 例句来源：逐词编写的学习例句
 
+## existed
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/existed#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The village existed long before the railway was built.
+
+例句来源：逐词编写的学习例句
+
 ## existence
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/existence#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> In order to destroy evil, we must first acknowledge its existence.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The map confirms the existence of an earlier road.
 
@@ -11773,36 +12801,28 @@
 ## existent
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/existent#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> An attempt to refine the existent machinery to make it more efficient.
+> The essay asks whether numbers should be treated as existent objects.
 
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adj:00927017](https://wordnet.princeton.edu/)
+例句来源：逐词编写的学习例句
 
 ## existential
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/existential#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Losing its only source of funding posed an existential threat to the museum.
 
 例句来源：逐词编写的学习例句
 
-> an existential risk or threat
-
-例句来源：Wiktionary 用例
-
 ## existentialism
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/existentialism#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Sartre’s existentialism is atheistic, but the existentialism of Marcel is distinctly Christian.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The seminar introduced existentialism through questions about choice and responsibility.
 
@@ -11811,17 +12831,32 @@
 ## existentialist
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/existentialist#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The course pairs an existentialist essay with a novel about personal choice.
 
 例句来源：逐词编写的学习例句
 
-## existentially
+## existing
 
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/existentially#English)
-- 中文释义资料：ECDICT
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/existing#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> We can use the existing equipment for the experiment.
+
+例句来源：逐词编写的学习例句
+
+## exists
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/exists#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> A copy of the original map still exists.
+
+例句来源：逐词编写的学习例句
 
 ## exit
 
@@ -11892,8 +12927,8 @@
 ## exogenous
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/exogenous#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The model treats the weather as an exogenous factor.
 
@@ -11908,16 +12943,6 @@
 > The server logs exonerated the technician who had been blamed for the outage.
 
 例句来源：逐词编写的学习例句
-
-## exonerated
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/exonerated#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
-
-> Modern DNA analysis has exonerated many people on death row in the US.
-
-例句来源：[Tatoeba；作者：darinmex；句子 #1097262；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/1097262)
 
 ## exoneration
 
@@ -11942,16 +12967,12 @@
 ## exoskeleton
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/exoskeleton#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The crab sheds its exoskeleton as it grows.
 
 例句来源：逐词编写的学习例句
-
-> The exoskeleton is worn on the user’s back and around the stomach.
-
-例句来源：[Tatoeba；作者：Hybrid；句子 #6990459；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/6990459)
 
 ## exosphere
 
@@ -11986,12 +13007,8 @@
 ## exoticism
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/exoticism#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> He loved the exoticism of Egypt.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset noun:04799612](https://wordnet.princeton.edu/)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The novel relies on the exoticism of its setting to attract readers.
 
@@ -12010,24 +13027,40 @@
 ## expandable
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/expandable#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Mobile homes include doublewides, expandables, and single units.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The suitcase has an expandable section for extra clothes.
+
+例句来源：逐词编写的学习例句
+
+## expanded
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/expanded#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The library expanded its collection of children’s books.
 
 例句来源：逐词编写的学习例句
 
 ## expander
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/expander#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Click the expander to reveal the advanced settings.
+
+例句来源：逐词编写的学习例句
+
+## expanding
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/expanding#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The library is expanding its collection of local history books.
 
 例句来源：逐词编写的学习例句
 
@@ -12054,8 +13087,8 @@
 ## expansionary
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/expansionary#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The textbook describes the budget as expansionary.
 
@@ -12064,44 +13097,32 @@
 ## expansionism
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/expansionism#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The chapter examines territorial expansionism in the nineteenth century.
 
 例句来源：逐词编写的学习例句
 
-> Vietnam is getting seriously frightened by the expansionism of China.
-
-例句来源：[Tatoeba；作者：Amastan；句子 #10101212；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/10101212)
-
 ## expansionist
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/expansionist#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The document reveals the government’s expansionist ambitions.
 
 例句来源：逐词编写的学习例句
 
-> The empire fell as a result of the expansionist tendencies of its neighbors.
-
-例句来源：[Tatoeba；作者：mailohilohi；句子 #5057442；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/5057442)
-
 ## expansive
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/expansive#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The balcony offers an expansive view of the valley.
 
 例句来源：逐词编写的学习例句
-
-> expansive research work
-
-例句来源：Wiktionary 用例
 
 ## expansively
 
@@ -12146,16 +13167,12 @@
 ## expectancy
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/expectancy#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > A sense of expectancy filled the room.
 
 例句来源：逐词编写的学习例句
-
-> An indicator of expectancy in development.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset noun:05951323](https://wordnet.princeton.edu/)
 
 ## expectant
 
@@ -12171,11 +13188,7 @@
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/expectantly#English)
 - 发音资料：核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> The cat looked expectantly at the mouse.
-
-例句来源：Wiktionary 用例
+- 中文释义资料：逐词编写的中文释义
 
 > The children looked at her expectantly.
 
@@ -12184,14 +13197,40 @@
 ## expectation
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/expectation#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> He struggled with his parents' expectations.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The results exceeded our expectations.
+
+例句来源：逐词编写的学习例句
+
+## expectations
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/expectations#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The trip exceeded our expectations.
+
+例句来源：逐词编写的学习例句
+
+## expected
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/expected#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The parcel arrived earlier than expected.
+
+例句来源：逐词编写的学习例句
+
+## expecting
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/expecting#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> We are expecting visitors this afternoon.
 
 例句来源：逐词编写的学习例句
 
@@ -12202,6 +13241,16 @@
 - 中文释义资料：逐词编写的中文释义
 
 > The label describes the product as an expectorant.
+
+例句来源：逐词编写的学习例句
+
+## expects
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/expects#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> He expects to finish the draft tomorrow.
 
 例句来源：逐词编写的学习例句
 
@@ -12268,12 +13317,8 @@
 ## expeditionary
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/expeditionary#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> The French expeditionary force in Indochina.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adj:01517317](https://wordnet.princeton.edu/)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The museum displays letters written by members of an expeditionary force.
 
@@ -12292,8 +13337,8 @@
 ## expeditiously
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/expeditiously#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The support team resolved the access problem expeditiously.
 
@@ -12306,6 +13351,16 @@
 - 中文释义资料：逐词编写的中文释义
 
 > The club expelled the member after repeated rule violations.
+
+例句来源：逐词编写的学习例句
+
+## expelled
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/expelled#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> In the novel, the character is expelled from the club.
 
 例句来源：逐词编写的学习例句
 
@@ -12322,12 +13377,8 @@
 ## expendable
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/expendable#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Oil and other expendable resources are frequently the subject of military disputes.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The budget distinguishes reusable equipment from expendable supplies.
 
@@ -12336,12 +13387,8 @@
 ## expenditure
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/expenditure#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> The expenditure of time, money, and political capital on this project has been excessive.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The report separates expenditure on repairs from expenditure on new equipment.
 
@@ -12370,100 +13417,142 @@
 ## expensive
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/expensive#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The printer is cheap, but the ink is expensive.
 
 例句来源：逐词编写的学习例句
 
-> an unnecessarily expensive choice of algorithm
-
-例句来源：Wiktionary 用例
-
 ## expensively
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/expensively#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> An expensively dressed little man turned a corner and approached her.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adv:00334040](https://wordnet.princeton.edu/)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The room was expensively furnished but felt unwelcoming.
+
+例句来源：逐词编写的学习例句
+
+## experience
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/experience#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She has experience in teaching young children.
 
 例句来源：逐词编写的学习例句
 
 ## experienced
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/experienced#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Indeed he is young, but he is well experienced for his age.
+> An experienced guide led the group through the old city.
 
-例句来源：[Tatoeba；作者：potatoindespair；句子 #36230；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/36230)
+例句来源：逐词编写的学习例句
+
+## experiences
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/experiences#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> They shared their experiences of living abroad.
+
+例句来源：逐词编写的学习例句
+
+## experiencing
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/experiencing#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> We are experiencing a delay.
+
+例句来源：逐词编写的学习例句
 
 ## experiment
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/experiment#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> perform a scientific experiment
+> The class conducted a simple experiment with light.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## experimental
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/experimental#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Chemistry is an experimental science.
+> The paper presented the experimental results.
 
-例句来源：Wiktionary 用例
-
-## experimentally
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/experimentally#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
-
-> Gut feelings play a role in science; they are called hypotheses, and then they are verified or disproven experimentally.
-
-例句来源：[Tatoeba；作者：rul；句子 #13047127；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/13047127)
+例句来源：逐词编写的学习例句
 
 ## experimentation
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/experimentation#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The bear was about to be sold to a laboratory for scientific experimentation.
+> The design emerged through experimentation with paper.
 
-例句来源：[Tatoeba；作者：Amastan；句子 #12027818；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/12027818)
+例句来源：逐词编写的学习例句
 
 ## experimenter
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/experimenter#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> She was an experimenter in new forms of poetry.
+> The experimenter explained the task to the participants.
 
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset noun:09617696](https://wordnet.princeton.edu/)
+例句来源：逐词编写的学习例句
 
-## expertly
+## experiments
 
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/expertly#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/experiments#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> He repaired the TV set expertly.
+> The class carried out simple experiments with light.
 
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adv:00214289](https://wordnet.princeton.edu/)
+例句来源：逐词编写的学习例句
+
+## expert
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/expert#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> We asked an expert in old buildings to examine the house.
+
+例句来源：逐词编写的学习例句
+
+## expertise
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/expertise#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The project needs expertise in both history and engineering.
+
+例句来源：逐词编写的学习例句
+
+## experts
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/experts#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The museum invited experts on local history.
+
+例句来源：逐词编写的学习例句
 
 ## expiate
 
@@ -12528,16 +13617,12 @@
 ## expiry
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/expiry#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Check the expiry date on your membership card.
 
 例句来源：逐词编写的学习例句
-
-> The contract becomes void upon expiry.
-
-例句来源：Wiktionary 用例
 
 ## explain
 
@@ -12553,37 +13638,69 @@
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/explainable#English)
 - 发音资料：核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 中文释义资料：逐词编写的中文释义
 
 > The difference is explainable by the change in temperature.
+
+例句来源：逐词编写的学习例句
+
+## explained
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/explained#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She explained the rules to the new players.
 
 例句来源：逐词编写的学习例句
 
 ## explainer
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/explainer#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Confused by the Olympics? Here's a video explainer.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The newspaper published an explainer on how the voting system works.
+
+例句来源：逐词编写的学习例句
+
+## explaining
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/explaining#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The teacher is explaining how the machine works.
+
+例句来源：逐词编写的学习例句
+
+## explains
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/explains#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The diagram explains how the machine works.
 
 例句来源：逐词编写的学习例句
 
 ## explanation
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/explanation#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> An explanation for the UFO sightings was easily found.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Her explanation made the problem much easier to understand.
+
+例句来源：逐词编写的学习例句
+
+## explanations
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/explanations#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The teacher gave clear explanations of the main ideas.
 
 例句来源：逐词编写的学习例句
 
@@ -12631,15 +13748,11 @@
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/explicitly#English)
 - 发音资料：核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 中文释义资料：逐词编写的中文释义
 
 > The contract explicitly states the delivery date.
 
 例句来源：逐词编写的学习例句
-
-> The fifth amendment to the United States constitution provides explicitly for the protection of private property.
-
-例句来源：Wiktionary 用例
 
 ## explode
 
@@ -12651,41 +13764,71 @@
 
 例句来源：逐词编写的学习例句
 
+## exploded
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/exploded#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The audience exploded with laughter at the final joke.
+
+例句来源：逐词编写的学习例句
+
 ## exploit
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/exploit#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The first trek to the summit of Mount Everest was a stunning exploit.
+> The team exploited the opportunity to improve the design.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## exploitable
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/exploitable#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The survey identified commercially exploitable resources.
+
+例句来源：逐词编写的学习例句
+
+## exploitation
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/exploitation#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The report examines the commercial exploitation of the discovery.
+
+例句来源：逐词编写的学习例句
 
 ## exploitative
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/exploitative#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> We are protesting the company's exploitative policies.
+> The article criticises exploitative working conditions.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## exploited
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/exploited#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The team exploited a gap in the opposing defence.
+
+例句来源：逐词编写的学习例句
 
 ## exploration
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/exploration#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> The exploration of unknown areas was often the precursor to colonization.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The mission was designed for the exploration of a distant moon.
 
@@ -12694,12 +13837,8 @@
 ## exploratory
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/exploratory#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Digging an exploratory well in the Gulf of Mexico.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adj:00877345](https://wordnet.princeton.edu/)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The two groups held exploratory talks about a possible partnership.
 
@@ -12715,17 +13854,43 @@
 
 例句来源：逐词编写的学习例句
 
+## explored
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/explored#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> We explored the old town on foot.
+
+例句来源：逐词编写的学习例句
+
 ## explorer
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/explorer#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> It's troublesome that Internet Explorer's stop icon looks like a shiitake mushroom.
-
-例句来源：[Tatoeba；作者：blay\_paul；句子 #542593；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/542593)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The explorer kept detailed notes on the route.
+
+例句来源：逐词编写的学习例句
+
+## explores
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/explores#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The book explores the relationship between music and memory.
+
+例句来源：逐词编写的学习例句
+
+## exploring
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/exploring#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> We spent the morning exploring the old town.
 
 例句来源：逐词编写的学习例句
 
@@ -12739,15 +13904,21 @@
 
 例句来源：逐词编写的学习例句
 
+## explosions
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/explosions#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The film uses sound effects to suggest distant explosions.
+
+例句来源：逐词编写的学习例句
+
 ## explosive
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/explosive#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> He has an explosive personality.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The company experienced explosive growth in its first year.
 
@@ -12757,21 +13928,31 @@
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/explosively#English)
 - 发音资料：核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 中文释义资料：逐词编写的中文释义
 
 > The number of users grew explosively after the free version appeared.
 
 例句来源：逐词编写的学习例句
 
-> The political situation in Kashmir and Jammu is explosively unstable.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adv:00334516](https://wordnet.princeton.edu/)
-
 ## explosiveness
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/explosiveness#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The coach admired the athlete’s explosiveness off the starting line.
+
+例句来源：逐词编写的学习例句
+
+## explosives
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/explosives#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The documentary describes the history of explosives in mining.
+
+例句来源：逐词编写的学习例句
 
 ## exponent
 
@@ -12786,26 +13967,22 @@
 ## exponential
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/exponential#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > A population that doubles each year follows exponential growth.
 
 例句来源：逐词编写的学习例句
 
-> If not otherwise specified, "the" exponential function is normally understood to mean eˣ.
-
-例句来源：Wiktionary 用例
-
 ## exponentially
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/exponentially#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Inflation is growing exponentially.
+> The number doubled every hour, growing exponentially.
 
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adv:00334668](https://wordnet.princeton.edu/)
+例句来源：逐词编写的学习例句
 
 ## export
 
@@ -12820,12 +13997,8 @@
 ## exportation
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/exportation#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> The government has been reconsidering its firearms exportation.
-
-例句来源：[Tatoeba；作者：papabear；句子 #840123；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/840123)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The report traces the exportation of wool during that period.
 
@@ -12834,14 +14007,20 @@
 ## exporter
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/exporter#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> India is the leading exporter of guar gum, making up nearly 85 per cent of the global production.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The country is a major exporter of wheat.
+
+例句来源：逐词编写的学习例句
+
+## exports
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/exports#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The company exports furniture to several countries.
 
 例句来源：逐词编写的学习例句
 
@@ -12855,29 +14034,55 @@
 
 例句来源：逐词编写的学习例句
 
+## exposed
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/exposed#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The investigation exposed errors in the report.
+
+例句来源：逐词编写的学习例句
+
+## exposing
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/exposing#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The report is exposing problems in the old design.
+
+例句来源：逐词编写的学习例句
+
+## exposition
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/exposition#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The book offers a clear exposition of the main ideas.
+
+例句来源：逐词编写的学习例句
+
 ## expository
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/expository#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Practicing expository writing will teach you to explain complex concepts clearly.
+> The students wrote expository essays about local history.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## exposure
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/exposure#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The fabric faded after prolonged exposure to sunlight.
 
 例句来源：逐词编写的学习例句
-
-> They rented a cabin with a beautiful southern exposure.
-
-例句来源：Wiktionary 用例
 
 ## expound
 
@@ -12899,29 +14104,51 @@
 
 例句来源：逐词编写的学习例句
 
+## expressed
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/expressed#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She expressed her thanks in a short letter.
+
+例句来源：逐词编写的学习例句
+
+## expresses
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/expresses#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The poem expresses a feeling of hope.
+
+例句来源：逐词编写的学习例句
+
+## expressing
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/expressing#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She is expressing her ideas through drawings.
+
+例句来源：逐词编写的学习例句
+
 ## expression
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/expression#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Her expression changed when she heard the news.
 
 例句来源：逐词编写的学习例句
 
-> The best poker players can tell if the opponents have a good hand by looking at their expression.
-
-例句来源：Wiktionary 用例
-
 ## expressionism
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/expressionism#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Abstract Expressionism is art that shows emotions and ideas through non-representational forms.
-
-例句来源：[Tatoeba；作者：Cangarejo；句子 #12411750；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/12411750)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The course explores expressionism in painting and film.
 
@@ -12930,12 +14157,8 @@
 ## expressionist
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/expressionist#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> In nineteen forty-four, Pollock married Lee Krasner who was also a skilled Abstract Expressionist painter.
-
-例句来源：[Tatoeba；作者：Cangarejo；句子 #12411747；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/12411747)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > She wrote an essay on an expressionist painter.
 
@@ -12944,16 +14167,22 @@
 ## expressionless
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/expressionless#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > She listened with an expressionless face.
 
 例句来源：逐词编写的学习例句
 
-> The legionnaires beat Ziri's mother savagely. Their faces were completely expressionless.
+## expressions
 
-例句来源：[Tatoeba；作者：Amastan；句子 #11783641；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/11783641)
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/expressions#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The lesson introduces common expressions for asking for help.
+
+例句来源：逐词编写的学习例句
 
 ## expressive
 
@@ -12969,11 +14198,7 @@
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/expressiveness#English)
 - 发音资料：核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Russians are known for their passion and expressiveness.
-
-例句来源：[Tatoeba；作者：Amastan；句子 #11764862；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/11764862)
+- 中文释义资料：逐词编写的中文释义
 
 > The singer is admired for the expressiveness of her voice.
 
@@ -12982,40 +14207,22 @@
 ## expressly
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/expressly#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The rules expressly forbid smoking in the building.
 
 例句来源：逐词编写的学习例句
 
-> We were expressly permitted to use the building. See – here is the note from the manager clearly stating that we have permission to use the building.
-
-例句来源：Wiktionary 用例
-
 ## expressway
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/expressway#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> A lot of cars speed by on this expressway day and night.
-
-例句来源：[Tatoeba；作者：CM；句子 #277578；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/277578)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > We took the expressway to avoid the city centre.
 
 例句来源：逐词编写的学习例句
-
-## expropriation
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/expropriation#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
-
-> Sometimes only expropriation can prevent a social tragedy.
-
-例句来源：[Tatoeba；作者：frpzzd；句子 #13297067；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/13297067)
 
 ## expulsion
 
@@ -13110,12 +14317,8 @@
 ## exquisitely
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/exquisitely#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> His bared head revealed a shock of exquisitely slicked-back red hair.
-
-例句来源：[Tatoeba；作者：Hybrid；句子 #8895449；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/8895449)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The bird was exquisitely carved from a single piece of wood.
 
@@ -13134,6 +14337,12 @@
 ## exspuition
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/exspuition#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The old glossary defines exspuition as the act of spitting.
+
+例句来源：逐词编写的学习例句
 
 ## extant
 
@@ -13168,32 +14377,58 @@
 ## extendable
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/extendable#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The table has an extendable top.
+
+例句来源：逐词编写的学习例句
+
+## extended
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/extended#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> They extended their stay by two days.
 
 例句来源：逐词编写的学习例句
 
 ## extender
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/extender#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > A belt extender made the strap long enough.
 
 例句来源：逐词编写的学习例句
 
-> Soy protein is used as a meat extender.
+## extending
 
-例句来源：Wiktionary 用例
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/extending#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The company is extending the bus route.
+
+例句来源：逐词编写的学习例句
+
+## extends
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/extends#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The path extends to the river.
+
+例句来源：逐词编写的学习例句
 
 ## extensibility
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/extensibility#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The plugin system improves extensibility.
 
@@ -13222,8 +14457,8 @@
 ## extensional
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/extensional#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The book gives an extensional definition by listing the members.
 
@@ -13236,6 +14471,16 @@
 - 中文释义资料：逐词编写的中文释义
 
 > The axiom of extensionality identifies sets with exactly the same members.
+
+例句来源：逐词编写的学习例句
+
+## extensions
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/extensions#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The browser supports several useful extensions.
 
 例句来源：逐词编写的学习例句
 
@@ -13252,12 +14497,8 @@
 ## extensively
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/extensively#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> He became more extensively involved than he intended.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > She has travelled extensively in Asia.
 
@@ -13326,41 +14567,42 @@
 ## exterminate
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/exterminate#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The public school failed to exterminate truancy.
+> The article describes attempts to exterminate rats in the port.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## external
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/external#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> This building has some external pipework.
+> We copied the files to an external drive.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## externality
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/externality#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Waste is a negative externality arising from consumption.
+> Noise from the factory is a negative externality for nearby residents.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## externally
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/externally#English)
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The candidate needs to be externally evaluated.
+> The study was funded externally.
 
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adv:00249300](https://wordnet.princeton.edu/)
+例句来源：逐词编写的学习例句
 
 ## extinct
 
@@ -13395,22 +14637,12 @@
 ## extinguisher
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/extinguisher#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > A fire extinguisher is mounted beside the exit.
 
 例句来源：逐词编写的学习例句
-
-> Tom used a fire extinguisher to try and put the fire out.
-
-例句来源：[Tatoeba；作者：CK；句子 #4498691；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/4498691)
-
-## extinguishment
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/extinguishment#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
 
 ## extort
 
@@ -13435,12 +14667,8 @@
 ## extortionate
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/extortionate#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Many influencers and YouTubers often release a range of cosmetics at extortionate prices.
-
-例句来源：[Tatoeba；作者：Rawrren；句子 #8490231；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/8490231)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The café near the station charged extortionate prices for bottled water.
 
@@ -13459,8 +14687,8 @@
 ## extracellular
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/extracellular#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The diagram shows fluid in the extracellular space.
 
@@ -13486,6 +14714,16 @@
 
 例句来源：逐词编写的学习例句
 
+## extracted
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/extracted#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The program extracted the dates from the document.
+
+例句来源：逐词编写的学习例句
+
 ## extraction
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/extraction#English)
@@ -13499,8 +14737,22 @@
 ## extractive
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/extractive#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Mining is a major extractive industry in the region.
+
+例句来源：逐词编写的学习例句
+
+## extracts
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/extracts#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The lesson includes extracts from three novels.
+
+例句来源：逐词编写的学习例句
 
 ## extracurricular
 
@@ -13535,12 +14787,8 @@
 ## extramarital
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/extramarital#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> I would be surprised if Tom had never had any extramarital affairs.
-
-例句来源：[Tatoeba；作者：Hybrid；句子 #3163309；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/3163309)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The novel centres on the consequences of an extramarital affair.
 
@@ -13579,12 +14827,8 @@
 ## extraordinarily
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/extraordinarily#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Mary's mother is an extraordinarily difficult woman to get along with.
-
-例句来源：[Tatoeba；作者：patgfisher；句子 #3198932；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/3198932)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > She was extraordinarily patient with the beginners.
 
@@ -13613,8 +14857,8 @@
 ## extrapolation
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/extrapolation#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The estimate is an extrapolation from only three years of records.
 
@@ -13643,12 +14887,8 @@
 ## extraterritorial
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/extraterritorial#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> It is hard for city and federal officials to take action because embassies have extraterritorial status under international law.
-
-例句来源：[Tatoeba；作者：Cangarejo；句子 #12410748；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/12410748)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The seminar examined the extraterritorial application of competition law.
 
@@ -13687,12 +14927,8 @@
 ## extravagantly
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/extravagantly#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> My salary doesn't allow us to live extravagantly.
-
-例句来源：[Tatoeba；作者：CM；句子 #250652；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/250652)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > They decorated the hall extravagantly for the celebration.
 
@@ -13731,44 +14967,32 @@
 ## extremely
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/extremely#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The instructions were extremely clear.
 
 例句来源：逐词编写的学习例句
 
-> The other girls are jealous of Lily because she is extremely pretty.
-
-例句来源：[Tatoeba；作者：CN；句子 #29661；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/29661)
-
 ## extremism
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/extremism#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The seminar examined the causes of political extremism.
 
 例句来源：逐词编写的学习例句
 
-> The slogan for the day against extremism was, "multicolored instead of brown".
-
-例句来源：[Tatoeba；作者：Dejo；句子 #1545898；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/1545898)
-
 ## extremist
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/extremist#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The report distinguishes peaceful activists from violent extremists.
 
 例句来源：逐词编写的学习例句
-
-> We're not going to let a bunch of extremist sociopaths divide Algeria.
-
-例句来源：[Tatoeba；作者：Amastan；句子 #9738349；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/9738349)
 
 ## extremity
 
@@ -13813,16 +15037,12 @@
 ## extroverted
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/extroverted#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Her extroverted style makes it easy for newcomers to join in.
 
 例句来源：逐词编写的学习例句
-
-> She's very extroverted. She's always out meeting new people and looking for new experiences.
-
-例句来源：Wiktionary 用例
 
 ## extrude
 
@@ -13847,8 +15067,8 @@
 ## extruder
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/extruder#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The factory installed a new extruder for plastic tubing.
 
@@ -13897,12 +15117,8 @@
 ## exuberantly
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/exuberantly#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> The exuberantly baroque decoration of the church.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adv:00335544](https://wordnet.princeton.edu/)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The fans cheered exuberantly at the final whistle.
 
@@ -13971,149 +15187,199 @@
 ## eye
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/eye#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Natalie’s brown eyes looked into Jim’s blue eyes, and the girl and boy flirted.
+> Can you keep an eye on my bag?
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## eyeball
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/eyeball#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> We need compelling content for the new Web site so we can attract more eyeballs.
+> The diagram shows the main parts of the eyeball.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## eyeballs
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/eyeballs#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The poster was designed to attract eyeballs.
+
+例句来源：逐词编写的学习例句
 
 ## eyebrow
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/eyebrow#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Benedito raised an eyebrow as his billy goat sniffed curiously at a clump of rocks.
+> He raised an eyebrow at the unusual suggestion.
 
-例句来源：[Tatoeba；作者：Amastan；句子 #11739023；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/11739023)
+例句来源：逐词编写的学习例句
+
+## eyebrows
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/eyebrows#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She raised her eyebrows in surprise.
+
+例句来源：逐词编写的学习例句
 
 ## eyed
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/eyed#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The back of the beetle was eyed to make it appear to be a snake to a predator.
+> A blue-eyed child stood by the window.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## eyeglass
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/eyeglass#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Tom broke his eyeglass frames when he dropped his glasses.
+> She keeps a spare pair of eyeglasses at work.
 
-例句来源：[Tatoeba；作者：Delian；句子 #3897880；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/3897880)
+例句来源：逐词编写的学习例句
 
 ## eyeglasses
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/eyeglasses#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Luckily, when Tom dropped his eyeglasses, his lenses didn't get scratched.
+> I left my eyeglasses on the desk.
 
-例句来源：[Tatoeba；作者：Delian；句子 #3897883；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/3897883)
+例句来源：逐词编写的学习例句
 
 ## eyelash
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/eyelash#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> I hate it when I get an eyelash in my eye.
+> An eyelash had fallen onto her cheek.
 
-例句来源：[Tatoeba；作者：DJ\_Saidez；句子 #9511496；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/9511496)
+例句来源：逐词编写的学习例句
 
-## eyeless
+## eyelashes
 
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/eyeless#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/eyelashes#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Huge eyeless crabs roam the ocean floor around hydrothermal vents.
+> Her eyelashes cast tiny shadows on her cheeks.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## eyelid
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/eyelid#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Tim's mother did not bat an eyelid when he came out as gay.
+> Her eyelids felt heavy after the long journey.
 
-例句来源：[Tatoeba；作者：mccarras；句子 #8977709；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/8977709)
+例句来源：逐词编写的学习例句
+
+## eyelids
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/eyelids#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> His eyelids grew heavy during the lecture.
+
+例句来源：逐词编写的学习例句
 
 ## eyeliner
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/eyeliner#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> I'm wearing some foundation, a bit of blush and some eyeliner.
+> She bought a brown eyeliner pencil.
 
-例句来源：[Tatoeba；作者：Luornu；句子 #5674660；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/5674660)
+例句来源：逐词编写的学习例句
 
 ## eyepiece
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/eyepiece#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She looked through the telescope’s eyepiece.
+
+例句来源：逐词编写的学习例句
+
+## eyes
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/eyes#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Her eyes shone with excitement.
+
+例句来源：逐词编写的学习例句
+
+## eyeshadow
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/eyeshadow#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She chose soft brown eyeshadow.
+
+例句来源：逐词编写的学习例句
 
 ## eyesight
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/eyesight#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Her eyesight is good enough to read the small print.
 
 例句来源：逐词编写的学习例句
 
-> His eyesight began to fail with age.
-
-例句来源：Wiktionary 用例
-
 ## eyesore
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/eyesore#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The building, towering over its surroundings with its square concrete frame and reflective walls of gold-tinted glass, was an eyesore visible throughout the city.
+> The abandoned warehouse had become an eyesore.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## eyewear
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/eyewear#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Almost all patients require corrective eyewear after cataract surgery.
+> Workers were required to wear protective eyewear.
 
-例句来源：[Tatoeba；作者：Cangarejo；句子 #11469110；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/11469110)
+例句来源：逐词编写的学习例句
 
 ## eyewitness
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/eyewitness#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> One eyewitness is worth more than ten people who have heard it told.
+> An eyewitness described what happened at the crossing.
 
-例句来源：[Tatoeba；作者：carlosalberto；句子 #11111839；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/11111839)
+例句来源：逐词编写的学习例句

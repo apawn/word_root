@@ -5,18 +5,22 @@
 ## rabbi
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rabbi#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Rabbi Akiva recited the Shema as he was flayed by the Romans.
+> The rabbi answered questions about the festival.
 
-例句来源：[Tatoeba；作者：shekitten；句子 #8805168；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/8805168)
+例句来源：逐词编写的学习例句
 
 ## rabbinic
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rabbinic#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
+- 中文释义资料：ECDICT；逐词编写的中文释义
+
+> The course introduces rabbinic literature.
+
+例句来源：逐词编写的学习例句
 
 > Yoni was hired as the shul's cantor, but he has a very rabbinic attitude.
 
@@ -25,33 +29,68 @@
 ## rabbinical
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rabbinical#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
+- 中文释义资料：ECDICT；逐词编写的中文释义
 
-## rabidly
+> She studied at a rabbinical school.
 
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rabidly#English)
-- 中文释义资料：ECDICT
+例句来源：逐词编写的学习例句
+
+## rabbit
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rabbit#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> A rabbit disappeared into a hole beside the fence.
+
+例句来源：逐词编写的学习例句
+
+## rabbits
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rabbits#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> We saw three rabbits at the edge of the field.
+
+例句来源：逐词编写的学习例句
+
+## raccoon
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/raccoon#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> A raccoon climbed onto the fence.
+
+例句来源：逐词编写的学习例句
+
+## raccoons
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/raccoons#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Two raccoons were exploring the garden.
+
+例句来源：逐词编写的学习例句
 
 ## race
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/race#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Several horses ran in a horse race: the first one to reach the finishing post won.
+> She won the race by a narrow margin.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## racecourse
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/racecourse#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> The racecourse was set in a valley, about a mile from the town centre.
-
-例句来源：[Tatoeba；作者：LittleBoy；句子 #934471；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/934471)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Thousands of spectators arrived at the racecourse.
 
@@ -60,44 +99,52 @@
 ## racehorse
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/racehorse#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> An investigation established that the racehorse had been doped.
+> The racehorse was resting in its stable.
 
-例句来源：[Tatoeba；作者：patgfisher；句子 #3238056；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/3238056)
-
-## racemic
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/racemic#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+例句来源：逐词编写的学习例句
 
 ## racer
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/racer#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Cycling through slush on a racer isn't wise, but this year there's no alternative.
+> The young racer completed every lap.
 
-例句来源：[Tatoeba；作者：sundown；句子 #8893080；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/8893080)
+例句来源：逐词编写的学习例句
+
+## races
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/races#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The school held several races on sports day.
+
+例句来源：逐词编写的学习例句
 
 ## racetrack
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/racetrack#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Do you think she'll still take me for a lap around the racetrack?
+> The driver tested the car on a closed racetrack.
 
-例句来源：[Tatoeba；作者：Wierdmin；句子 #2844466；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/2844466)
+例句来源：逐词编写的学习例句
 
 ## raceway
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/raceway#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The raceway hosted a weekend motor event.
+
+例句来源：逐词编写的学习例句
 
 ## rachipagus
 
@@ -119,58 +166,132 @@
 ## racial
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/racial#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> the racial complexion
+> The course discusses racial identity in literature.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## racially
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/racially#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> a racially aggravated attack
+> The school serves a racially diverse community.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## racing
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/racing#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The children were racing towards the finish line.
+
+例句来源：逐词编写的学习例句
 
 ## racism
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/racism#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Martin Luther King spoke out against racism.
+> The documentary examines racism in professional sport.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## racist
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/racist#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> They don't allow Muslims and gays to join the club? That's racist!
+> The club condemned the racist abuse directed at the player.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## rack
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rack#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Put the wet clothes on the drying rack.
+
+例句来源：逐词编写的学习例句
+
+## racked
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/racked#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> I racked my brains but could not remember the title.
+
+例句来源：逐词编写的学习例句
+
+## racket
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/racket#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She left her tennis racket by the door.
+
+例句来源：逐词编写的学习例句
 
 ## racketeer
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/racketeer#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The novel follows a racketeer who controls the city’s clubs.
+
+例句来源：逐词编写的学习例句
+
+## racking
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/racking#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> I was racking my brains for a way to solve the problem.
+
+例句来源：逐词编写的学习例句
+
+## racks
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/racks#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The shop displays coats on wooden racks.
+
+例句来源：逐词编写的学习例句
 
 ## racy
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/racy#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> She wore a racy dress that was just barely appropriate for the occasion.
+> The review describes the novel as racy but well written.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## radar
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/radar#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The ship appeared on the radar screen.
+
+例句来源：逐词编写的学习例句
 
 ## radial
 
@@ -186,11 +307,7 @@
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/radially#English)
 - 发音资料：核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> An imaginative dispersal of the pews radially from the central focus of the pulpit.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adv:00438582](https://wordnet.princeton.edu/)
+- 中文释义资料：逐词编写的中文释义
 
 > The cracks spread radially from the point of impact.
 
@@ -199,18 +316,18 @@
 ## radian
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/radian#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> A half-turn is equal to pi radians.
+
+例句来源：逐词编写的学习例句
 
 ## radiance
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/radiance#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> The radiance that emanates from Marika's face reflects the rich tapestry of her mixed heritage.
-
-例句来源：[Tatoeba；作者：Amastan；句子 #11847157；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/11847157)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The room was filled with the soft radiance of the evening sun.
 
@@ -226,6 +343,16 @@
 
 例句来源：逐词编写的学习例句
 
+## radiantly
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/radiantly#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She smiled radiantly when she saw the children.
+
+例句来源：逐词编写的学习例句
+
 ## radiate
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/radiate#English)
@@ -233,6 +360,36 @@
 - 中文释义资料：逐词编写的中文释义
 
 > Several narrow streets radiate from the central square.
+
+例句来源：逐词编写的学习例句
+
+## radiated
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/radiated#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Heat radiated from the stone walls.
+
+例句来源：逐词编写的学习例句
+
+## radiates
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/radiates#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The stove radiates heat into the room.
+
+例句来源：逐词编写的学习例句
+
+## radiating
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/radiating#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The map shows roads radiating from the central square.
 
 例句来源：逐词编写的学习例句
 
@@ -249,14 +406,20 @@
 ## radiator
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/radiator#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> The radiator kept the apartment warm during winter.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The radiator under the window keeps the bedroom warm.
+
+例句来源：逐词编写的学习例句
+
+## radiators
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/radiators#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The radiators warmed the rooms throughout the house.
 
 例句来源：逐词编写的学习例句
 
@@ -273,26 +436,18 @@
 ## radicalism
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/radicalism#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The chapter explores the radicalism of the early reform movement.
 
 例句来源：逐词编写的学习例句
 
-> There has been a significant increase of religious radicalism in Algeria.
-
-例句来源：[Tatoeba；作者：Amastan；句子 #10122339；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/10122339)
-
 ## radicalization
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/radicalization#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Is it radicalization if you know you're being radical?
-
-例句来源：[Tatoeba；作者：DJ\_Saidez；句子 #9955662；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/9955662)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The article examines political radicalization during a period of unrest.
 
@@ -301,8 +456,8 @@
 ## radicalize
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/radicalize#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The crackdown helped radicalize parts of the protest movement.
 
@@ -311,12 +466,8 @@
 ## radically
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/radically#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> "Clot" and "clod" are radically the same word.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The two proposals take radically different approaches.
 
@@ -325,26 +476,18 @@
 ## radio
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/radio#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > I heard the weather forecast on the radio.
 
 例句来源：逐词编写的学习例句
 
-> She was listening to the radio when he knocked on the door.
-
-例句来源：Wiktionary 用例
-
 ## radioactive
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/radioactive#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Even sleazy tactics and his radioactive mouth may not be able to contain this debacle.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The samples were tested for radioactive contamination.
 
@@ -353,66 +496,58 @@
 ## radioactivity
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/radioactivity#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The instrument measures radioactivity in the sample.
 
 例句来源：逐词编写的学习例句
 
-> What do you think of when you hear the word "radioactivity"?
-
-例句来源：[Tatoeba；作者：\_undertoad；句子 #2074287；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/2074287)
-
 ## radiocarbon
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/radiocarbon#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Radiocarbon dating allows us to calculate the age of these skull at approximately 14,700 years.
-
-例句来源：[Tatoeba；作者：sangelo；句子 #10612214；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/10612214)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Radiocarbon dating helped estimate the age of the wooden tool.
 
 例句来源：逐词编写的学习例句
 
-## radiographic
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/radiographic#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
-
 ## radiography
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/radiography#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Industrial radiography revealed a defect inside the component.
+
+例句来源：逐词编写的学习例句
 
 ## radioisotope
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/radioisotope#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-## radiologic
+> Carbon-14 is a radioisotope of carbon.
 
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/radiologic#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+例句来源：逐词编写的学习例句
 
 ## radiological
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/radiological#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The team reviewed the radiological images.
+
+例句来源：逐词编写的学习例句
 
 ## radiologist
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/radiologist#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The radiologist compared the new scan with the earlier images.
 
@@ -421,12 +556,8 @@
 ## radiology
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/radiology#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> A number of imaging techniques are employed in radiology, such as X-ray, MRI, and ultrasound.
-
-例句来源：[Tatoeba；作者：Auride；句子 #10888570；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/10888570)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The images were sent to the radiology department for review.
 
@@ -435,26 +566,28 @@
 ## radiometer
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/radiometer#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-## radiometric
+> The satellite carries a microwave radiometer.
 
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/radiometric#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+例句来源：逐词编写的学习例句
 
 ## radionuclide
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/radionuclide#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The sample contains several radionuclides.
+
+例句来源：逐词编写的学习例句
 
 ## radiotelephone
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/radiotelephone#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The crew contacted the harbour by radiotelephone.
 
@@ -463,12 +596,8 @@
 ## radiotherapy
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/radiotherapy#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Her first course of treatment was radiotherapy.
-
-例句来源：[Tatoeba；作者：Hybrid；句子 #8575725；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/8575725)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > His treatment plan includes radiotherapy.
 
@@ -487,12 +616,12 @@
 ## radium
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/radium#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> It was Marie Curie who discovered radium.
+> The exhibition described the discovery of radium.
 
-例句来源：[Tatoeba；作者：CM；句子 #29800；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/29800)
+例句来源：逐词编写的学习例句
 
 ## radius
 
@@ -514,31 +643,85 @@
 
 例句来源：逐词编写的学习例句
 
-## rafter
+## raffle
 
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rafter#English)
-- 发音资料：Wiktionary
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/raffle#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The school held a raffle to raise money for new books.
+
+例句来源：逐词编写的学习例句
+
+## raffled
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/raffled#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The organisers raffled off a basket of local food.
+
+例句来源：逐词编写的学习例句
+
+## raffles
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/raffles#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Local groups organise raffles throughout the year.
+
+例句来源：逐词编写的学习例句
+
+## raffling
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/raffling#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The club is raffling off a guitar donated by a local musician.
+
+例句来源：逐词编写的学习例句
 
 ## rage
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rage#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Miniskirts were all the rage back then.
+> He flew into a rage when he saw the broken model.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
-## rager
+## raged
 
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rager#English)
-- 发音资料：Wiktionary
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/raged#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-## raggedy
+> The storm raged all night.
 
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/raggedy#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+例句来源：逐词编写的学习例句
+
+## rages
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rages#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The debate still rages among local residents.
+
+例句来源：逐词编写的学习例句
+
+## raging
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/raging#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> A raging storm kept the boats in the harbor.
+
+例句来源：逐词编写的学习例句
 
 ## ragtime
 
@@ -550,207 +733,325 @@
 
 例句来源：逐词编写的学习例句
 
+## raid
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/raid#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Police carried out a raid on the warehouse.
+
+例句来源：逐词编写的学习例句
+
 ## raider
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/raider#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The corporate raider had a history of running companies into the ground.
+> The raiders escaped before dawn.
 
-例句来源：[Tatoeba；作者：Tangobango；句子 #7123815；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/7123815)
+例句来源：逐词编写的学习例句
+
+## raids
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/raids#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The history book describes several raids along the coast.
+
+例句来源：逐词编写的学习例句
 
 ## rail
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rail#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> ISA devices draw power from the +5 V, −5 V, +12 V, and −12 V rails of the power supply unit.
+> She held the rail as she climbed the stairs.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## railcar
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/railcar#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-## railgun
+> The museum restored a historic railcar.
 
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/railgun#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+例句来源：逐词编写的学习例句
+
+## railing
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/railing#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The balcony has a wooden railing.
+
+例句来源：逐词编写的学习例句
 
 ## railroad
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/railroad#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The lawyers made the procedure a railroad to get the signatures they needed.
+> The town grew around the railroad station.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## rails
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rails#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The train moved slowly along the steel rails.
+
+例句来源：逐词编写的学习例句
 
 ## railway
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/railway#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> It often happens that railway traffic is suspended by a heavy snowfall.
+> The new railway links three major cities.
 
-例句来源：[Tatoeba；作者：AlanF\_US；句子 #275810；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/275810)
+例句来源：逐词编写的学习例句
+
+## railways
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/railways#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The museum tells the history of railways.
+
+例句来源：逐词编写的学习例句
 
 ## rain
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rain#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> A rain of mortar fire fell on our trenches.
+> Heavy rain delayed the match.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## rainbow
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rainbow#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Many electoral promises are rainbows, vanishing soon after poll day.
+> A rainbow appeared after the shower.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## raincoat
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/raincoat#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Today I bought a raincoat and wore it on a sunny day.
+> Take a raincoat in case the weather changes.
 
-例句来源：[Tatoeba；作者：Just\_Balls；句子 #13804081；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/13804081)
+例句来源：逐词编写的学习例句
 
 ## raindrop
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/raindrop#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> A raindrop splashed on her cheek.
+> The first raindrops landed on the pavement.
 
-例句来源：[Tatoeba；作者：sinatra；句子 #1581051；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/1581051)
-
-## rainer
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rainer#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
-
-> Rainer inherited a small stack of gold bullion from his grandfather instead of cash.
-
-例句来源：[Tatoeba；作者：rul；句子 #13636817；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/13636817)
+例句来源：逐词编写的学习例句
 
 ## rainfall
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rainfall#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Asia possesses 12 of the Top 19 world single-day rainfall records.
+> Annual rainfall varies across the region.
 
-例句来源：[Tatoeba；作者：Apkaloo；句子 #2700180；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/2700180)
+例句来源：逐词编写的学习例句
 
 ## rainforest
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rainforest#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Most accidents, after all, happen around the corner, not in the rainforest.
+> The film explores life in a tropical rainforest.
 
-例句来源：[Tatoeba；作者：shekitten；句子 #43230；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/43230)
+例句来源：逐词编写的学习例句
+
+## raining
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/raining#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> It has been raining since dawn.
+
+例句来源：逐词编写的学习例句
 
 ## rainmaker
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rainmaker#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The law firm relied heavily on Charlotte as its main rainmaker to bring in new clients.
+> She became the firm’s leading rainmaker by attracting major clients.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## rains
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rains#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> It rains a lot here in spring.
+
+例句来源：逐词编写的学习例句
 
 ## rainstorm
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rainstorm#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Due to the rainstorm, the river water surged over the river banks.
+> A sudden rainstorm sent everyone running for shelter.
 
-例句来源：[Tatoeba；作者：sharris123；句子 #7794445；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/7794445)
+例句来源：逐词编写的学习例句
 
 ## rainwater
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rainwater#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Rainwater flows from the gutter, down the downpipe and into the sewer.
+> Rainwater ran down the roof into a barrel.
 
-例句来源：[Tatoeba；作者：sundown；句子 #12463864；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/12463864)
+例句来源：逐词编写的学习例句
 
 ## rainy
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rainy#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Due to the rainy weather, we decided not to play in the park.
+> We spent the rainy afternoon reading indoors.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## raise
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/raise#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> There should be some consideration (i.e., payment or exchange) to raise a use.
+> Please raise your hand if you have a question.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## raised
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/raised#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She raised a useful question at the end of the meeting.
+
+例句来源：逐词编写的学习例句
 
 ## raiser
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/raiser#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> She is a raiser of gerbils.
+> The cattle raiser checks the herd every morning.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## raises
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/raises#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The example raises an interesting question.
+
+例句来源：逐词编写的学习例句
 
 ## raising
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/raising#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> cattle raising
+> Raising children takes patience.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
-## rakish
+## rake
 
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rakish#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rake#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> a hat worn at a rakish angle
+> Use a rake to gather the leaves into a pile.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## raked
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/raked#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> We raked the fallen leaves into two large piles.
+
+例句来源：逐词编写的学习例句
+
+## rakes
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rakes#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Several rakes and shovels stood in the shed.
+
+例句来源：逐词编写的学习例句
+
+## raking
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/raking#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> He spent the morning raking leaves in the garden.
+
+例句来源：逐词编写的学习例句
+
+## rallies
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rallies#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The documentary includes footage of several public rallies.
+
+例句来源：逐词编写的学习例句
 
 ## rally
 
@@ -762,40 +1063,85 @@
 
 例句来源：逐词编写的学习例句
 
-## ralphie
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ralphie#English)
-- 发音资料：Wiktionary
-
 ## ram
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ram#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The SWAT team broke down the front door with a battering ram.
+> A ram stood beside the flock.
 
-例句来源：[Tatoeba；作者：Hybrid；句子 #4864290；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/4864290)
+例句来源：逐词编写的学习例句
 
 ## ramble
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ramble#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> She often rambles about bees' behavior, both in the hive and in the field.
+> We rambled through the woods all afternoon.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## rambled
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rambled#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> We rambled through the fields until sunset.
+
+例句来源：逐词编写的学习例句
 
 ## rambler
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rambler#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Both rutting boars and sows with their young can be dangerous to the careless woodland rambler.
+> An experienced rambler showed us the path across the fields.
 
-例句来源：[Tatoeba；作者：sundown；句子 #10982463；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/10982463)
+例句来源：逐词编写的学习例句
+
+## ramblers
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ramblers#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The path is popular with local ramblers.
+
+例句来源：逐词编写的学习例句
+
+## rambles
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rambles#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> We used to take long rambles in the hills.
+
+例句来源：逐词编写的学习例句
+
+## rambling
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rambling#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> He gave a rambling answer that confused everyone.
+
+例句来源：逐词编写的学习例句
+
+## ramen
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ramen#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> We shared a bowl of ramen after the walk.
+
+例句来源：逐词编写的学习例句
 
 ## ramification
 
@@ -830,38 +1176,42 @@
 ## rammer
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rammer#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Now use your rammer to pack it tightly into the barrel.
+> The worker used a rammer to compact the soil.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## ramp
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ramp#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> He hit three ramps in a row to push his team near the opponents total.
+> A ramp connects the pavement to the entrance.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## rampage
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rampage#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> What Tom is doing right now is a spiritual rampage.
+> The escaped bull went on a rampage through the market.
 
-例句来源：[Tatoeba；作者：Miktsoanit；句子 #12203729；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/12203729)
+例句来源：逐词编写的学习例句
 
 ## rampant
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rampant#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
+- 中文释义资料：ECDICT；逐词编写的中文释义
+
+> Rumours ran rampant after the announcement.
+
+例句来源：逐词编写的学习例句
 
 > The Vienna riding school displays splendid rampant movement.
 
@@ -870,27 +1220,57 @@
 ## ramrod
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ramrod#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> That new project manager is just the one to ramrod this through to completion.
+> She sat ramrod straight during the interview.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## rams
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rams#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Two rams stood near the gate.
+
+例句来源：逐词编写的学习例句
+
+## ran
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ran#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> He ran across the field to catch the dog.
+
+例句来源：逐词编写的学习例句
 
 ## Rana
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/Rana#English)
 - 中文释义资料：ECDICT
 
-## rancher
+## ranch
 
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rancher#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ranch#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> I know that Tom used to be a cattle rancher.
+> Her family runs a cattle ranch.
 
-例句来源：[Tatoeba；作者：CK；句子 #7512285；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/7512285)
+例句来源：逐词编写的学习例句
+
+## ranches
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ranches#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Several ranches lie beyond the hills.
+
+例句来源：逐词编写的学习例句
 
 ## rancid
 
@@ -935,149 +1315,308 @@
 ## rando
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rando#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> I accidentally took some rando's luggage from the airport carousel.
+> Some rando joined the group chat by mistake.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## random
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/random#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The party was boring. It was full of randoms.
+> The program selected a name at random.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## randomization
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/randomization#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-## randomizer
+> The experiment used randomization to assign the tasks.
 
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/randomizer#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
-
-> A perfect randomizer can show the results that don't seem random at first sight.
-
-例句来源：[Tatoeba；作者：Takirabor；句子 #8109954；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/8109954)
+例句来源：逐词编写的学习例句
 
 ## randomly
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/randomly#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> I just randomly remembered this dream from 2 years ago.
+> The cards were arranged randomly on the table.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## randomness
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/randomness#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> There was no randomness in the teacher's selection of the class representative.
+> The game uses randomness to keep each round different.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## rang
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rang#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The phone rang while we were eating.
+
+例句来源：逐词编写的学习例句
 
 ## range
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/range#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> By playing in comedies as well as in dramas he has proved his range as an actor.
+> The shop offers a wide range of sizes.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## ranged
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ranged#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The discussion ranged from architecture to music.
+
+例句来源：逐词编写的学习例句
 
 ## rangefinder
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rangefinder#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The surveyor used a rangefinder to measure the distance.
+
+例句来源：逐词编写的学习例句
 
 ## rangeland
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rangeland#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The study examines vegetation on the rangeland.
+
+例句来源：逐词编写的学习例句
 
 ## ranger
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ranger#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Ziri volunteered to be a ranger to ear credits while in college.
+> A park ranger explained why the trail was closed.
 
-例句来源：[Tatoeba；作者：Amastan；句子 #11239755；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/11239755)
+例句来源：逐词编写的学习例句
+
+## rangers
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rangers#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The park rangers answered our questions about the trail.
+
+例句来源：逐词编写的学习例句
+
+## ranges
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ranges#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The price ranges from ten to twenty pounds.
+
+例句来源：逐词编写的学习例句
+
+## ranging
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ranging#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The book covers topics ranging from music to architecture.
+
+例句来源：逐词编写的学习例句
 
 ## rank
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rank#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Your gym clothes are rank, bro – when'd you last wash 'em?
+> The school ranks among the best in the region.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## ranked
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ranked#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> I hate playing ranked.
+> She chose a highly ranked university.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## ranking
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ranking#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The player improved her world ranking.
+
+例句来源：逐词编写的学习例句
+
+## rankings
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rankings#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The report compares several university rankings.
+
+例句来源：逐词编写的学习例句
+
+## ranks
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ranks#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She rose through the ranks to become manager.
+
+例句来源：逐词编写的学习例句
+
+## ransack
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ransack#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The thieves began to ransack the empty house.
+
+例句来源：逐词编写的学习例句
+
+## ransacked
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ransacked#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> We came home to find the flat ransacked.
+
+例句来源：逐词编写的学习例句
+
+## ransacking
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ransacking#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> I found him ransacking the cupboard for biscuits.
+
+例句来源：逐词编写的学习例句
+
+## ransacks
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ransacks#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> He ransacks the kitchen whenever he cannot find a snack.
+
+例句来源：逐词编写的学习例句
+
+## ransom
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ransom#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The kidnappers demanded a ransom.
+
+例句来源：逐词编写的学习例句
 
 ## ransomware
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ransomware#English)
-- 发音资料：Wiktionary
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Cybercrime has exploded, with mounting reports of an increase in ransomware attacks.
+> The company reported a ransomware attack.
 
-例句来源：[Tatoeba；作者：Hybrid；句子 #8794443；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/8794443)
+例句来源：逐词编写的学习例句
+
+## rant
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rant#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> He went on a long rant about the delayed train.
+
+例句来源：逐词编写的学习例句
+
+## ranted
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ranted#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> He ranted for ten minutes about the cancelled meeting.
+
+例句来源：逐词编写的学习例句
 
 ## ranting
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ranting#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The last time I saw Tom, he was ranting about something.
+> He was ranting about the price of the repair.
 
-例句来源：[Tatoeba；作者：CK；句子 #1898214；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/1898214)
+例句来源：逐词编写的学习例句
+
+## rants
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rants#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> He rants about the traffic every morning.
+
+例句来源：逐词编写的学习例句
 
 ## rap
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rap#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> You can't act irresponsibly and then expect me to take the rap.
+> We heard a sharp rap on the door.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## rapacious
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rapacious#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> A rapacious divorcee on the prowl.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adj:00031138](https://wordnet.princeton.edu/)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The novel portrays a rapacious landlord who cares only about rent.
 
@@ -1123,30 +1662,15 @@
 
 例句来源：逐词编写的学习例句
 
-## raper
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/raper#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
-
 ## rapeseed
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rapeseed#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The hills were bright yellow with flowering rapeseed.
 
 例句来源：逐词编写的学习例句
-
-## rapey
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rapey#English)
-- 发音资料：Wiktionary
-
-> This song is pretty rapey if you think about the lyrics.
-
-例句来源：Wiktionary 用例
 
 ## raphe
 
@@ -1167,12 +1691,8 @@
 ## rapidity
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rapidity#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Rapidity of rise may be inversely proportional to duration at altitude.
-
-例句来源：[Tatoeba；作者：halfb1t；句子 #2042067；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/2042067)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > We were surprised by the rapidity of the recovery.
 
@@ -1181,14 +1701,20 @@
 ## rapidly
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rapidly#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> She packed her case rapidly and hurried out.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The water level rose rapidly after the storm.
+
+例句来源：逐词编写的学习例句
+
+## rapids
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rapids#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> We could hear the rapids from the bridge.
 
 例句来源：逐词编写的学习例句
 
@@ -1205,22 +1731,22 @@
 ## rapist
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rapist#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Julian Assange is accused of being a rapist and a spy.
+> The novel ends with the rapist being brought to justice.
 
-例句来源：[Tatoeba；作者：Amastan；句子 #10821644；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/10821644)
+例句来源：逐词编写的学习例句
 
 ## rapper
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rapper#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> He rose from the ghetto to become a successful rapper.
+> The rapper wrote all the lyrics on the album.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## rapport
 
@@ -1275,16 +1801,12 @@
 ## rapturous
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rapturous#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The singer received rapturous applause at the end of the concert.
 
 例句来源：逐词编写的学习例句
-
-> the rapturous emotions on the pulpit
-
-例句来源：Wiktionary 用例
 
 ## rapturously
 
@@ -1309,12 +1831,8 @@
 ## rare
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rare#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Black pearls are very rare and therefore very valuable.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > This is a rare chance to hear the composer discuss her own work.
 
@@ -1343,12 +1861,8 @@
 ## rarely
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rarely#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> I became a rarely good judge of the best in modern painting.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > I rarely check my phone during dinner.
 
@@ -1357,12 +1871,8 @@
 ## rarity
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rarity#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Being in the south of England, snow is a rarity for us.
-
-例句来源：[Tatoeba；作者：sundown；句子 #9283907；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/9283907)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The rarity of the recording made it difficult to find a copy.
 
@@ -1378,25 +1888,55 @@
 
 例句来源：逐词编写的学习例句
 
-## rashly
+## rasp
 
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rashly#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rasp#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Why act rashly? Wait until tomorrow.
+> He used a rasp to smooth the wooden handle.
 
-例句来源：[Tatoeba；作者：AlanF\_US；句子 #10903481；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/10903481)
+例句来源：逐词编写的学习例句
+
+## rasped
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rasped#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> “Stay back,” he rasped.
+
+例句来源：逐词编写的学习例句
+
+## rasping
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rasping#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> He spoke in a low, rasping voice.
+
+例句来源：逐词编写的学习例句
+
+## rasps
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rasps#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The loose bolt rasps against the metal frame.
+
+例句来源：逐词编写的学习例句
 
 ## raspy
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/raspy#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> His incessant coughing made his voice sound raspy.
+> The singer has a warm, raspy voice.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## raster
 
@@ -1431,129 +1971,272 @@
 ## rat
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rat#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> He loved hockey and was a devoted rink rat.
+> A rat disappeared behind the boxes.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## rate
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rate#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> We pay an hourly rate of between $10 – $15 per hour depending on qualifications and experience.
+> What is your hourly rate?
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## rated
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rated#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Readers rated the guide highly for its clear explanations.
+
+例句来源：逐词编写的学习例句
 
 ## ratepayer
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ratepayer#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The government is supposed to mediate between ratepayers and the power company.
+> The council discussed the cost to local ratepayers.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## rater
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rater#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The three raters agreed on the score.
+> Two independent raters assessed each answer.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## rates
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rates#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The two machines work at different rates.
+
+例句来源：逐词编写的学习例句
 
 ## rather
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rather#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> I s'pose we'd better clean the kitchen, but we had much rather not do anything right now.
+> I would rather walk than wait for another bus.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## rating
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rating#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The visitors gave the exhibition a high rating.
+
+例句来源：逐词编写的学习例句
+
+## ratings
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ratings#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The hotel received high ratings from its guests.
+
+例句来源：逐词编写的学习例句
+
+## ratio
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ratio#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Mix flour and water in a ratio of two to one.
+
+例句来源：逐词编写的学习例句
 
 ## rational
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rational#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> His statements were quite rational.
+> We need a rational explanation for the change.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## rationalism
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rationalism#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The seminar compared rationalism and empiricism as accounts of knowledge.
+
+例句来源：逐词编写的学习例句
 
 ## rationalist
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rationalist#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The rationalist argued that some knowledge does not depend on sense experience.
+
+例句来源：逐词编写的学习例句
 
 ## rationality
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rationality#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Such a discussion deserves rationality, not emotional gut reactions.
+> The committee questioned the rationality of the decision.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## rationalization
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rationalization#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> It began with the familiar political motives of civil service rationalization and downsizing.
+> The merger was presented as a rationalization of services.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## rationalize
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rationalize#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The company rationalized its ordering system to reduce duplicated work.
+
+例句来源：逐词编写的学习例句
 
 ## rationally
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rationally#English)
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> We must act rationally.
+> They tried to discuss the problem rationally.
 
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adv:00184530](https://wordnet.princeton.edu/)
+例句来源：逐词编写的学习例句
+
+## ratios
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ratios#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The diagram compares the ratios of red beads to blue beads.
+
+例句来源：逐词编写的学习例句
+
+## rats
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rats#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The farmer found rats in the old shed.
+
+例句来源：逐词编写的学习例句
+
+## rattle
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rattle#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Loose coins began to rattle inside the box.
+
+例句来源：逐词编写的学习例句
+
+## rattled
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rattled#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The windows rattled as the train went past.
+
+例句来源：逐词编写的学习例句
 
 ## rattler
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rattler#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> A rattler lay beside the path.
+
+例句来源：逐词编写的学习例句
+
+## rattlers
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rattlers#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The guide pointed out places where rattlers sometimes rested.
+
+例句来源：逐词编写的学习例句
+
+## rattles
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rattles#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The loose window rattles in the wind.
+
+例句来源：逐词编写的学习例句
 
 ## rattlesnake
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rattlesnake#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Tom found a rattlesnake under the bed and quickly killed it.
+> The documentary showed a rattlesnake moving across the desert.
 
-例句来源：[Tatoeba；作者：Amastan；句子 #3902312；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/3902312)
+例句来源：逐词编写的学习例句
+
+## rattling
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rattling#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The rattling of the loose window kept me awake.
+
+例句来源：逐词编写的学习例句
 
 ## ratty
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ratty#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> I felt out of place with my ratty pants and wrinkled shirt.
+> He wore a ratty old sweater.
 
-例句来源：[Tatoeba；作者：Babelball；句子 #11546988；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/11546988)
+例句来源：逐词编写的学习例句
 
 ## raucous
 
@@ -1598,12 +2281,12 @@
 ## raven
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/raven#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> She was a tall, sophisticated, raven-haired beauty.
+> A raven called from the top of the ruined tower.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## ravenous
 
@@ -1625,11 +2308,15 @@
 
 例句来源：逐词编写的学习例句
 
-## raver
+## ravens
 
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/raver#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ravens#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Two ravens perched on the old tower.
+
+例句来源：逐词编写的学习例句
 
 ## ravine
 
@@ -1638,6 +2325,16 @@
 - 中文释义资料：逐词编写的中文释义
 
 > A narrow bridge crossed the ravine.
+
+例句来源：逐词编写的学习例句
+
+## ravioli
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ravioli#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> We ordered ravioli filled with cheese and spinach.
 
 例句来源：逐词编写的学习例句
 
@@ -1684,38 +2381,52 @@
 ## raw
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/raw#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> There's nothing but raw fish in the freezer.
+> The report includes both raw data and a summary.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## rawhide
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rawhide#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The handle was wrapped with rawhide strips.
+
+例句来源：逐词编写的学习例句
 
 ## rawness
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rawness#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The rawness of his diary made it unpublishable.
+> The rawness of her voice suited the song.
 
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset noun:14462193](https://wordnet.princeton.edu/)
+例句来源：逐词编写的学习例句
 
 ## ray
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ray#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> I saw a ray of light through the clouds.
+> A ray of sunlight fell across the desk.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## rays
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rays#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Rays of sunlight reached the floor.
+
+例句来源：逐词编写的学习例句
 
 ## raze
 
@@ -1727,11 +2438,6 @@
 
 例句来源：逐词编写的学习例句
 
-## razer
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/razer#English)
-- 中文释义资料：ECDICT
-
 ## razor
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/razor#English)
@@ -1742,46 +2448,55 @@
 
 例句来源：逐词编写的学习例句
 
-## razorback
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/razorback#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
-
 ## reach
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reach#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The climbers reached the top of the mountain after a gruelling ten-day hike.
+> We reached the village before dark.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## reachable
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reachable#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The transmitter on Voyager was not reachable due to solar winds.
+> The island is reachable by ferry.
 
-例句来源：[Tatoeba；作者：kkupus；句子 #6082591；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/6082591)
+例句来源：逐词编写的学习例句
 
-## reacher
+## reached
 
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reacher#English)
-- 中文释义资料：ECDICT
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reached#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> We reached the village just before sunset.
+
+例句来源：逐词编写的学习例句
+
+## reaches
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reaches#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The path reaches the river after a short climb.
+
+例句来源：逐词编写的学习例句
 
 ## reaching
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reaching#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> We must prevent the fire from reaching the gunpowder at any cost.
+> She was reaching for her coat when the phone rang.
 
-例句来源：[Tatoeba；作者：auxitt；句子 #24911；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/24911)
+例句来源：逐词编写的学习例句
 
 ## reacquaint
 
@@ -1806,8 +2521,8 @@
 ## reactance
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reactance#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The capacitor’s reactance changes with frequency.
 
@@ -1816,50 +2531,72 @@
 ## reactant
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reactant#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> A step change in the feed rate of one reactant results in a gradual change in the reaction rate.
-
-例句来源：[Tatoeba；作者：Auride；句子 #10545039；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/10545039)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The diagram labels each reactant and product.
+
+例句来源：逐词编写的学习例句
+
+## reacted
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reacted#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The children reacted with delight when the puppet appeared.
+
+例句来源：逐词编写的学习例句
+
+## reacting
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reacting#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The photograph shows the audience reacting to the final scene.
 
 例句来源：逐词编写的学习例句
 
 ## reaction
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reaction#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Her first reaction was surprise.
 
 例句来源：逐词编写的学习例句
 
-> In this reaction, the acid and base will neutralize each other, producing a salt.
-
-例句来源：Wiktionary 用例
-
 ## reactionary
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reactionary#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> He claims to be a centrist, but he talks like a reactionary.
+> The historian examined reactionary movements after the revolution.
 
-例句来源：[Tatoeba；作者：shekitten；句子 #11274449；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/11274449)
+例句来源：逐词编写的学习例句
+
+## reactions
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reactions#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The announcement received mixed reactions.
+
+例句来源：逐词编写的学习例句
 
 ## reactivate
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reactivate#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Cosmic radiation during a solar minimum can reactivate viruses from their dormancy.
+> The library reactivated my old membership.
 
-例句来源：[Tatoeba；作者：Eccles17；句子 #10891681；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/10891681)
+例句来源：逐词编写的学习例句
 
 ## reactivation
 
@@ -1874,32 +2611,28 @@
 ## reactive
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reactive#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The team wants to replace reactive maintenance with regular inspections.
 
 例句来源：逐词编写的学习例句
 
-> francium is the most reactive of the alkali metals.
-
-例句来源：Wiktionary 用例
-
 ## reactivity
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reactivity#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The experiment compares the reactivity of two metals.
+
+例句来源：逐词编写的学习例句
 
 ## reactor
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reactor#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Red sky in morning; global warming. Red sky at night, reactor's alight.
-
-例句来源：[Tatoeba；作者：blay\_paul；句子 #414481；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/414481)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The chemical reactor was designed for continuous operation.
 
@@ -1908,92 +2641,102 @@
 ## read
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/read#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Our school focuses primarily on the liberal arts (read "useless degrees").
+> Please read the instructions before you begin.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## readability
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/readability#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The book had a clever plot, but lacked readability.
+> Shorter paragraphs improved the readability of the report.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## readable
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/readable#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> These assembly instructions aren't readable, I still don't have a clue how to start!
+> Her notes were still readable despite the water damage.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## reader
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reader#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> an early reader, a talented reader
+> The magazine invites readers to send in their stories.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## readers
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/readers#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The introduction gives readers a quick overview of the book.
+
+例句来源：逐词编写的学习例句
 
 ## readership
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/readership#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The village newspaper has a readership of only 200 people.
+> The magazine has a loyal readership.
 
-例句来源：Wiktionary 用例
-
-## readies
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/readies#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
-
-> Voice clips are entered into a submission queue that readies them for listening.
-
-例句来源：[Tatoeba；作者：Isomorph；句子 #8310514；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/8310514)
+例句来源：逐词编写的学习例句
 
 ## readily
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/readily#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The suspect readily answered all questions the police officers asked him.
+> She readily agreed to help.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## readiness
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/readiness#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> readiness for civil emergencies
+> The team checked the equipment’s readiness before departure.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## reading
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reading#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> He glanced across and took note of the speedometer reading.
+> Reading is part of her evening routine.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## readings
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/readings#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The library hosts poetry readings every month.
+
+例句来源：逐词编写的学习例句
 
 ## readjust
 
@@ -2008,14 +2751,22 @@
 ## readjustment
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/readjustment#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Returning home required a period of readjustment.
+
+例句来源：逐词编写的学习例句
 
 ## readme
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/readme#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The readme explains how to install the package.
+
+例句来源：逐词编写的学习例句
 
 ## readmission
 
@@ -2037,15 +2788,25 @@
 
 例句来源：逐词编写的学习例句
 
+## reads
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reads#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She reads for half an hour before bed.
+
+例句来源：逐词编写的学习例句
+
 ## ready
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ready#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The cave was like a ready-made home for us.
+> Are you ready to leave?
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## reaffirm
 
@@ -2060,12 +2821,12 @@
 ## real
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/real#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> City hall has its place, but this pub is the real heart of the town.
+> Is this a real diamond?
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## realign
 
@@ -2090,92 +2851,142 @@
 ## realise
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/realise#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> You do realise that I won't be able to come, don't you?
+> I did not realise how late it was.
 
-例句来源：[Tatoeba；作者：patgfisher；句子 #3773041；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/3773041)
+例句来源：逐词编写的学习例句
+
+## realised
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/realised#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> I realised that I had the wrong key.
+
+例句来源：逐词编写的学习例句
 
 ## realism
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/realism#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> He stood agape for a moment in front of the painting, surprised at its realism.
+> We need a little more realism about the cost.
 
-例句来源：[Tatoeba；作者：sacredceltic；句子 #981076；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/981076)
+例句来源：逐词编写的学习例句
 
 ## realist
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/realist#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> He's a realist, and doesn't believe that miracles are possible.
+> I am a realist: we cannot finish this with only two people.
 
-例句来源：[Tatoeba；作者：FeuDRenais2；句子 #574206；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/574206)
+例句来源：逐词编写的学习例句
 
 ## realistic
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/realistic#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> A realistic novel about the Victorian poor.
+> We need a realistic deadline for the project.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## realistically
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/realistically#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Try all you want but realistically you've got no hope.
+> Realistically, we can finish two chapters today.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## realities
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/realities#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The plan must take practical realities into account.
+
+例句来源：逐词编写的学习例句
 
 ## reality
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reality#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The reality of the crash scene on TV dawned upon him only when he saw the victim was no actor but his friend.
+> The job looked easy, but in reality it required years of practice.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## realization
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/realization#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> A bath is a lovely relaxing event, until the realization that you're soaking in your own crud.
+> The realization that she was safe brought relief.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## realize
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/realize#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> She desperately yelled at her young daughter, frantic to make her realize what she had done.
+> I suddenly realized that I had left my keys at home.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## realized
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/realized#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> I realized that I had left my keys at home.
+
+例句来源：逐词编写的学习例句
+
+## realizes
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/realizes#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> He realizes that he has taken the wrong bag.
+
+例句来源：逐词编写的学习例句
+
+## realizing
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/realizing#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Realizing I was late, I started to run.
+
+例句来源：逐词编写的学习例句
 
 ## really
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/really#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> "He really is a true friend." / "Really? What makes you so sure?"
+> Do you really want to leave now?
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## realm
 
@@ -2187,20 +2998,25 @@
 
 例句来源：逐词编写的学习例句
 
-## realness
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/realness#English)
-- 中文释义资料：ECDICT
-
 ## realtor
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/realtor#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The 67-year-old realtor sees definite advantages to living in a space owned by someone else.
+> The brochure identifies her as a REALTOR®.
 
-例句来源：[Tatoeba；作者：Cangarejo；句子 #12107120；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/12107120)
+例句来源：逐词编写的学习例句
+
+## realty
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/realty#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The firm specialises in commercial realty.
+
+例句来源：逐词编写的学习例句
 
 ## reanalysis
 
@@ -2232,35 +3048,75 @@
 
 例句来源：逐词编写的学习例句
 
+## reap
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reap#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The farmers reaped the wheat before the rain.
+
+例句来源：逐词编写的学习例句
+
+## reaped
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reaped#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> After years of training, she reaped the rewards.
+
+例句来源：逐词编写的学习例句
+
 ## reaper
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reaper#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The Grim Reaper slowly extended his right arm towards Yanni.
+> The reapers worked in the field until sunset.
 
-例句来源：[Tatoeba；作者：Amastan；句子 #9361024；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/9361024)
+例句来源：逐词编写的学习例句
+
+## reapers
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reapers#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The reapers worked across the field in a long line.
+
+例句来源：逐词编写的学习例句
+
+## reaping
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reaping#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The town is reaping the benefits of its new railway link.
+
+例句来源：逐词编写的学习例句
 
 ## reappear
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reappear#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Halley is the comet that proved correct Edmund Halley's prediction that it would reappear.
+> The sun reappeared after the clouds passed.
 
-例句来源：[Tatoeba；作者：Hybrid；句子 #6293899；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/6293899)
+例句来源：逐词编写的学习例句
 
 ## reappearance
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reappearance#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> His reappearance as Hamlet has been long awaited.
+> The reappearance of the error surprised the engineers.
 
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset noun:00050887](https://wordnet.princeton.edu/)
+例句来源：逐词编写的学习例句
 
 ## reapply
 
@@ -2292,30 +3148,31 @@
 
 例句来源：逐词编写的学习例句
 
-## reapportionment
+## reaps
 
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reapportionment#English)
-- 中文释义资料：ECDICT
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reaps#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The company reaps the benefits of years of research.
+
+例句来源：逐词编写的学习例句
 
 ## rear
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rear#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The family has been rearing cattle for 200 years.
+> The luggage was stored at the rear of the bus.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## rearm
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rearm#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> After the war, the defeated country was not allowed to rearm.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset verb:01087559](https://wordnet.princeton.edu/)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The treaty restricted the country’s ability to rearm.
 
@@ -2334,12 +3191,8 @@
 ## rearrange
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rearrange#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Please rearrange these files.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset verb:00278280](https://wordnet.princeton.edu/)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > We rearranged the chairs so everyone could see the screen.
 
@@ -2348,8 +3201,8 @@
 ## rearrangement
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rearrangement#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > A simple rearrangement of the desks created more space.
 
@@ -2358,66 +3211,88 @@
 ## rearview
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rearview#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > She checked the rearview mirror before slowing down.
 
 例句来源：逐词编写的学习例句
 
-> Tom had a pair of fuzzy dice hanging from his rearview mirror.
-
-例句来源：[Tatoeba；作者：CK；句子 #10142610；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/10142610)
-
 ## rearward
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rearward#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The rearward seats of the bus were unpleasantly close to the toilet facilities.
+> The mirror improves rearward visibility.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## reason
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reason#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> What was the reason for the delay?
+
+例句来源：逐词编写的学习例句
 
 ## reasonable
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reasonable#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> $20 a bottle is very reasonable for a good wine at a restaurant.
+> The hotel offered a reasonable price.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## reasonableness
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reasonableness#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The store is famous for the reasonableness of its prices.
+> We discussed the reasonableness of the deadline.
 
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset noun:05146904](https://wordnet.princeton.edu/)
+例句来源：逐词编写的学习例句
 
 ## reasonably
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reasonably#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> They were able handle their disagreements reasonably.
+> The restaurant is reasonably priced.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## reasoning
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reasoning#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> I followed her reasoning, but disagreed with the conclusion.
+
+例句来源：逐词编写的学习例句
+
+## reasons
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reasons#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> There are several reasons for choosing the smaller room.
+
+例句来源：逐词编写的学习例句
 
 ## reassemble
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reassemble#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> I dropped this clay witch figure and it broke into pieces, but I was more or less able to reassemble it.
-
-例句来源：[Tatoeba；作者：frpzzd；句子 #13475628；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/13475628)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > We reassembled the chair after replacing the broken joint.
 
@@ -2426,7 +3301,12 @@
 ## reassembly
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reassembly#English)
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She followed the reassembly instructions carefully.
+
+例句来源：逐词编写的学习例句
 
 ## reassert
 
@@ -2451,31 +3331,32 @@
 ## reassess
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reassess#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Algeria should reassess its relations with Saudi Arabia, Qatar, and the United Arab Emirates.
+> We need to reassess our priorities.
 
-例句来源：[Tatoeba；作者：Amastan；句子 #8605341；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/8605341)
+例句来源：逐词编写的学习例句
 
 ## reassessment
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reassessment#English)
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The new evidence prompted a reassessment of the case.
+
+例句来源：逐词编写的学习例句
 
 ## reassign
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reassign#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The manager reassigned the task to another team.
 
 例句来源：逐词编写的学习例句
-
-> The offending employees were reassigned after the incident.
-
-例句来源：Wiktionary 用例
 
 ## reassignment
 
@@ -2497,6 +3378,16 @@
 
 例句来源：逐词编写的学习例句
 
+## reassurances
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reassurances#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Her repeated reassurances helped the child relax.
+
+例句来源：逐词编写的学习例句
+
 ## reassure
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reassure#English)
@@ -2507,21 +3398,35 @@
 
 例句来源：逐词编写的学习例句
 
-## reassuringly
+## reassured
 
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reassuringly#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reassured#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The prime minister pointed reassuringly to the silence of the British press.
+> I felt reassured by her clear explanation.
 
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adv:00439687](https://wordnet.princeton.edu/)
+例句来源：逐词编写的学习例句
 
-## reaver
+## reassures
 
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reaver#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reassures#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Her calm voice reassures the children.
+
+例句来源：逐词编写的学习例句
+
+## reassuring
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reassuring#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She gave me a reassuring smile.
+
+例句来源：逐词编写的学习例句
 
 ## reavow
 
@@ -2536,27 +3441,28 @@
 ## rebalance
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rebalance#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> India needs to rebalance its workforce.
+> The manager rebalanced the workload across the team.
 
-例句来源：[Tatoeba；作者：Amastan；句子 #11730301；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/11730301)
+例句来源：逐词编写的学习例句
 
 ## rebar
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rebar#English)
-- 发音资料：Wiktionary
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Workers placed the rebar before pouring the concrete.
+
+例句来源：逐词编写的学习例句
 
 ## rebel
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rebel#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> A group of rebels defied the general's orders and split off from the main army.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The novel follows a rebel who refuses to serve the king.
 
@@ -2565,22 +3471,18 @@
 ## rebelling
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rebelling#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Lately he's been rebelling against his parents.
+> The teenagers were rebelling against the strict rules.
 
-例句来源：[Tatoeba；作者：Objectivesea；句子 #9765346；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/9765346)
+例句来源：逐词编写的学习例句
 
 ## rebellion
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rebellion#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> The army general led a successful rebellion and became president of the country.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The history book explains why the rebellion spread to nearby towns.
 
@@ -2589,12 +3491,8 @@
 ## rebellious
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rebellious#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> All I remember about him is that he was a rebellious teen.
-
-例句来源：[Tatoeba；作者：Amastan；句子 #3881410；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/3881410)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Her rebellious streak made her question every school rule.
 
@@ -2613,108 +3511,172 @@
 ## rebelliousness
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rebelliousness#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Her early rebelliousness later became a willingness to challenge outdated ideas.
+
+例句来源：逐词编写的学习例句
+
+## rebels
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rebels#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The novel follows a group of young rebels.
 
 例句来源：逐词编写的学习例句
 
 ## rebirth
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rebirth#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Bennu is the ancient Egyptian deity linked with the Sun, creation and rebirth.
+> The new theatre helped bring about a cultural rebirth in the town.
 
-例句来源：[Tatoeba；作者：Hybrid；句子 #9165112；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/9165112)
+例句来源：逐词编写的学习例句
 
 ## rebook
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rebook#English)
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> We had to rebook our flight for the following day.
+
+例句来源：逐词编写的学习例句
 
 ## reboot
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reboot#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> They rebooted the TV series, but it's even worse than the original.
+> Please reboot the computer after the installation.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## rebooted
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rebooted#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> I rebooted the computer after saving the file.
+
+例句来源：逐词编写的学习例句
+
+## rebooting
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rebooting#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The computer was rebooting when I came back.
+
+例句来源：逐词编写的学习例句
+
+## reboots
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reboots#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The computer reboots after the installation.
+
+例句来源：逐词编写的学习例句
 
 ## reborn
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reborn#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> I will show that it's possible to be reborn from one's ashes.
+> After a week of rest, I felt reborn.
 
-例句来源：[Tatoeba；作者：FeuDRenais；句子 #414838；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/414838)
-
-## rebounder
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rebounder#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+例句来源：逐词编写的学习例句
 
 ## rebrand
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rebrand#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Acme Co. is trying to rebrand their line of toasters under the Bewidget name.
+> The café rebranded itself as a community meeting place.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## rebroadcast
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rebroadcast#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The station will rebroadcast the interview on Sunday.
+
+例句来源：逐词编写的学习例句
 
 ## rebuff
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rebuff#English)
-- 发音资料：Wiktionary
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She rebuffed his offer of help.
+
+例句来源：逐词编写的学习例句
 
 ## rebuild
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rebuild#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> After missing the playoffs for the seventh straight season in a row, the Detroit Red Wings are trying to rebuild.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The community helped rebuild the bridge after the flood.
+
+例句来源：逐词编写的学习例句
+
+## rebuilt
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rebuilt#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The village rebuilt the bridge after the storm.
 
 例句来源：逐词编写的学习例句
 
 ## rebuke
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rebuke#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> He had to take the rebuke with a smile on his face.
+> The coach rebuked the players for their careless behavior.
 
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset noun:06711855](https://wordnet.princeton.edu/)
+例句来源：逐词编写的学习例句
+
+## rebut
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rebut#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She rebutted the claim with records from the archive.
+
+例句来源：逐词编写的学习例句
 
 ## rebuttal
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rebuttal#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> A rebuttal will be published in the next issue.
+> The journal published her rebuttal.
 
-例句来源：[Tatoeba；作者：AlanF\_US；句子 #10130689；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/10130689)
+例句来源：逐词编写的学习例句
 
 ## recalculate
 
@@ -2729,12 +3691,32 @@
 ## recall
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/recall#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> He was recalled to service after his retirement.
+> I can clearly recall our first conversation.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## recalled
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/recalled#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She recalled the name after a moment.
+
+例句来源：逐词编写的学习例句
+
+## recalls
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/recalls#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She recalls the day they first met.
+
+例句来源：逐词编写的学习例句
 
 ## recant
 
@@ -2759,16 +3741,12 @@
 ## recap
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/recap#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Could you give me a quick recap of the meeting?
 
 例句来源：逐词编写的学习例句
-
-> They buy a lot of camelback because they recap a lot of truck tires for trailer fleets.
-
-例句来源：Wiktionary 用例
 
 ## recapitulate
 
@@ -2803,12 +3781,12 @@
 ## recast
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/recast#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The whole bell had to be recast although it had only one tiny, hardly visible crack.
+> She recast the proposal in simpler language.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## recede
 
@@ -2817,6 +3795,26 @@
 - 中文释义资料：逐词编写的中文释义
 
 > The floodwater began to recede overnight.
+
+例句来源：逐词编写的学习例句
+
+## receipt
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/receipt#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She put the receipt in her bag.
+
+例句来源：逐词编写的学习例句
+
+## receipts
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/receipts#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> He filed the receipts in a folder.
 
 例句来源：逐词编写的学习例句
 
@@ -2830,69 +3828,101 @@
 
 例句来源：逐词编写的学习例句
 
+## received
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/received#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> We received the parcel two days after ordering it.
+
+例句来源：逐词编写的学习例句
+
 ## receiver
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/receiver#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The receiver converts the signal into sound.
 
 例句来源：逐词编写的学习例句
 
-> Tom picked up the telephone receiver and put it to his ear.
+## receivers
 
-例句来源：[Tatoeba；作者：CK；句子 #2957668；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/2957668)
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/receivers#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The museum displays several early radio receivers.
+
+例句来源：逐词编写的学习例句
 
 ## receivership
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/receivership#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The business is in receivership.
+> The company went into receivership after months of financial trouble.
 
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset noun:14479320](https://wordnet.princeton.edu/)
+例句来源：逐词编写的学习例句
+
+## receives
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/receives#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The office receives deliveries every morning.
+
+例句来源：逐词编写的学习例句
+
+## receiving
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/receiving#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The device is receiving a signal from the station.
+
+例句来源：逐词编写的学习例句
 
 ## recency
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/recency#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Due to its recency, there are no used parts available for this model.
+> The list is sorted by recency, with the newest items first.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## recent
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/recent#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> I met three recent graduates at the conference.
+> Have you read her most recent book?
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## recently
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/recently#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> My recently published book about the life stories of recently-arrived immigrants.
+> We recently moved to a smaller flat.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## reception
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reception#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Please leave the package at reception.
-
-例句来源：编写的学习例句
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Please leave your key at reception.
 
@@ -2901,26 +3931,52 @@
 ## receptionist
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/receptionist#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> The receptionist at the hotel was surly and not at all friendly.
-
-例句来源：[Tatoeba；作者：patgfisher；句子 #4638768；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/4638768)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The receptionist showed us where to wait.
+
+例句来源：逐词编写的学习例句
+
+## receptive
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/receptive#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The team was receptive to new ideas.
 
 例句来源：逐词编写的学习例句
 
 ## receptivity
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/receptivity#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> What fans describe as receptivity to psychic energy is probably just indigestion.
+> The workshop increased receptivity to different viewpoints.
 
-例句来源：[Tatoeba；作者：DylanTonic；句子 #13361020；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/13361020)
+例句来源：逐词编写的学习例句
+
+## receptor
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/receptor#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The diagram labels a receptor on the cell surface.
+
+例句来源：逐词编写的学习例句
+
+## receptors
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/receptors#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The diagram shows receptors on the surface of a cell.
+
+例句来源：逐词编写的学习例句
 
 ## recess
 
@@ -2945,37 +4001,48 @@
 ## recessive
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/recessive#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The lesson uses a simple example of a recessive trait.
+
+例句来源：逐词编写的学习例句
+
+## recharge
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/recharge#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> I need to recharge the camera battery.
+
+例句来源：逐词编写的学习例句
 
 ## rechargeable
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rechargeable#English)
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The number of Sony rechargeable batteries supposed to be collected totalled 7,659,000 units.
+> The lamp has a rechargeable battery.
 
-例句来源：[Tatoeba；作者：Jujugrubs；句子 #5057635；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/5057635)
+例句来源：逐词编写的学习例句
 
 ## recheck
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/recheck#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The article needed a complete recheck.
+> Please recheck the delivery address.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## recidivism
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/recidivism#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> The increase in criminal activity was attributed to recidivism.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The study examines whether job training can reduce recidivism.
 
@@ -3011,6 +4078,16 @@
 
 例句来源：逐词编写的学习例句
 
+## recipes
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/recipes#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The book contains easy recipes for beginners.
+
+例句来源：逐词编写的学习例句
+
 ## recipient
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/recipient#English)
@@ -3021,64 +4098,51 @@
 
 例句来源：逐词编写的学习例句
 
-## reciprocally
+## recipients
 
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reciprocally#English)
-- 中文释义资料：ECDICT
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/recipients#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Wavelength and frequency are, of course, related reciprocally.
+> Please check the recipients before sending the email.
 
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adv:00175919](https://wordnet.princeton.edu/)
+例句来源：逐词编写的学习例句
 
 ## reciprocate
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reciprocate#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> We always invite the neighbors and they never reciprocate!
+> I hope to reciprocate your kindness one day.
 
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset verb:02372326](https://wordnet.princeton.edu/)
-
-## reciprocation
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reciprocation#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
-
-> the reciprocation of kindness
-
-例句来源：Wiktionary 用例
-
-## recirculation
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/recirculation#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+例句来源：逐词编写的学习例句
 
 ## recital
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/recital#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > We attended her piano recital on Friday.
 
 例句来源：逐词编写的学习例句
 
-> perform a piano recital
+## recitals
 
-例句来源：Wiktionary 用例
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/recitals#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She gives piano recitals across the country.
+
+例句来源：逐词编写的学习例句
 
 ## recitation
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/recitation#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> The professor assigned the recitation sections to the teaching assistants.
-
-例句来源：[Tatoeba；作者：JHR；句子 #10913598；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/10913598)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The programme included a recitation of the poem.
 
@@ -3094,43 +4158,85 @@
 
 例句来源：逐词编写的学习例句
 
+## recited
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/recited#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The child recited the poem from memory.
+
+例句来源：逐词编写的学习例句
+
+## recites
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/recites#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She recites a short poem at the start of the show.
+
+例句来源：逐词编写的学习例句
+
+## reciting
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reciting#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The children were reciting the alphabet together.
+
+例句来源：逐词编写的学习例句
+
 ## reckless
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reckless#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Became the fiercest and most reckless of partisans.
+> It was reckless to begin without checking the equipment.
 
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adj:00250739](https://wordnet.princeton.edu/)
+例句来源：逐词编写的学习例句
 
 ## recklessly
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/recklessly#English)
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> He survived an accident last year, but still drives recklessly.
+> He recklessly ignored the clear warning.
 
-例句来源：[Tatoeba；作者：CM；句子 #1616628；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/1616628)
+例句来源：逐词编写的学习例句
 
 ## recklessness
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/recklessness#English)
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> His recklessness repeatedly put him in danger.
+> The accident exposed the recklessness of the earlier decision.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## reckon
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reckon#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> I reckon we should leave before noon.
+
+例句来源：逐词编写的学习例句
 
 ## reckoning
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reckoning#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> By that reckoning, it would take six weeks to go five miles.
+> By my reckoning, we have enough time to finish.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## reclaim
 
@@ -3145,22 +4251,18 @@
 ## reclamation
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reclamation#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The reclamation project turned the former mine into a park.
 
 例句来源：逐词编写的学习例句
 
-> Tom thinks it's theft, even if they call it individual reclamation.
-
-例句来源：[Tatoeba；作者：Miktsoanit；句子 #12299164；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/12299164)
-
 ## reclassification
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reclassification#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The reclassification places the species in a different genus.
 
@@ -3186,19 +4288,45 @@
 
 例句来源：逐词编写的学习例句
 
+## reclined
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reclined#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She reclined her seat after the meal.
+
+例句来源：逐词编写的学习例句
+
 ## recliner
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/recliner#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > He fell asleep in the recliner by the window.
 
 例句来源：逐词编写的学习例句
 
-> Yuri was asleep in the recliner next to me.
+## recliners
 
-例句来源：[Tatoeba；作者：Amastan；句子 #11948148；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/11948148)
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/recliners#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The cinema replaced its old seats with recliners.
+
+例句来源：逐词编写的学习例句
+
+## reclines
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reclines#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The seat reclines almost flat.
+
+例句来源：逐词编写的学习例句
 
 ## reclining
 
@@ -3223,12 +4351,8 @@
 ## reclusive
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reclusive#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Sitting under the reclusive calm of a shade tree.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adj:01859055](https://wordnet.princeton.edu/)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The reclusive painter rarely gave interviews.
 
@@ -3237,18 +4361,42 @@
 ## recode
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/recode#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The researchers recoded the responses into three categories.
+
+例句来源：逐词编写的学习例句
 
 ## recognisable
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/recognisable#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> St Paul's Cathedral is one of the most famous and most recognisable sights in London.
+> Her style is easily recognisable.
 
-例句来源：[Tatoeba；作者：Hybrid；句子 #5320322；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/5320322)
+例句来源：逐词编写的学习例句
+
+## recognise
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/recognise#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> I recognised her voice immediately.
+
+例句来源：逐词编写的学习例句
+
+## recognised
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/recognised#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> I recognised her voice immediately.
+
+例句来源：逐词编写的学习例句
 
 ## recognition
 
@@ -3263,22 +4411,12 @@
 ## recognizable
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/recognizable#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The peacock (Inachis io) is a beautiful and easily recognizable butterfly.
+> The melody was instantly recognizable.
 
-例句来源：[Tatoeba；作者：ondo；句子 #1049193；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/1049193)
-
-## recognizably
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/recognizably#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
-
-> The body was badly burned, but still recognizably human.
-
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## recognize
 
@@ -3287,6 +4425,76 @@
 - 中文释义资料：逐词编写的中文释义
 
 > I recognized her voice immediately.
+
+例句来源：逐词编写的学习例句
+
+## recognized
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/recognized#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> I recognized her voice before I saw her.
+
+例句来源：逐词编写的学习例句
+
+## recognizes
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/recognizes#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She recognizes the melody after hearing only a few notes.
+
+例句来源：逐词编写的学习例句
+
+## recognizing
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/recognizing#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She is good at recognizing voices.
+
+例句来源：逐词编写的学习例句
+
+## recoil
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/recoil#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She began to recoil from the intense heat.
+
+例句来源：逐词编写的学习例句
+
+## recoiled
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/recoiled#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She recoiled when the cold hand touched her arm.
+
+例句来源：逐词编写的学习例句
+
+## recoiling
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/recoiling#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> He found himself recoiling from the proposed plan.
+
+例句来源：逐词编写的学习例句
+
+## recoils
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/recoils#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> He recoils from the idea of deceiving his friends.
 
 例句来源：逐词编写的学习例句
 
@@ -3323,24 +4531,32 @@
 ## recombination
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/recombination#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The chapter introduces genetic recombination.
+
+例句来源：逐词编写的学习例句
 
 ## recombine
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/recombine#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The DNA can recombine.
+> The artist recombined familiar shapes into a new design.
 
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset verb:00566024](https://wordnet.princeton.edu/)
+例句来源：逐词编写的学习例句
 
 ## recommence
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/recommence#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Work will recommence after the holiday.
+
+例句来源：逐词编写的学习例句
 
 ## recommend
 
@@ -3362,6 +4578,16 @@
 
 例句来源：逐词编写的学习例句
 
+## recommendations
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/recommendations#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The report makes several recommendations for improving access to the service.
+
+例句来源：逐词编写的学习例句
+
 ## recommendatory
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/recommendatory#English)
@@ -3372,6 +4598,16 @@
 
 例句来源：逐词编写的学习例句
 
+## recommended
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/recommended#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> This is the route recommended by the visitor centre.
+
+例句来源：逐词编写的学习例句
+
 ## recommender
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/recommender#English)
@@ -3379,6 +4615,16 @@
 - 中文释义资料：逐词编写的中文释义
 
 > Please ask your recommender to submit the letter by Friday.
+
+例句来源：逐词编写的学习例句
+
+## recommends
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/recommends#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She recommends this book to new readers.
 
 例句来源：逐词编写的学习例句
 
@@ -3405,7 +4651,12 @@
 ## recon
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/recon#English)
-- 发音资料：Wiktionary
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The team carried out a recon mission before dawn.
+
+例句来源：逐词编写的学习例句
 
 ## reconcile
 
@@ -3426,11 +4677,6 @@
 > The letter opened the door to reconciliation between the sisters.
 
 例句来源：逐词编写的学习例句
-
-## reconfigurable
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reconfigurable#English)
-- 中文释义资料：ECDICT
 
 ## reconfiguration
 
@@ -3475,12 +4721,8 @@
 ## reconnection
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reconnection#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Aftercare is about reconnection and ensuring we both feel nurtured.
-
-例句来源：[Tatoeba；作者：Ahha；句子 #11992049；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/11992049)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The software supports automatic reconnection after a network failure.
 
@@ -3529,12 +4771,8 @@
 ## reconsider
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reconsider#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Is there any way I can get you to reconsider selling your car?
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The new evidence made the committee reconsider its decision.
 
@@ -3544,15 +4782,11 @@
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reconsideration#English)
 - 发音资料：核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 中文释义资料：逐词编写的中文释义
 
 > After careful reconsideration, we kept the original design.
 
 例句来源：逐词编写的学习例句
-
-> There is no room for reconsideration.
-
-例句来源：[Tatoeba；作者：Dejo；句子 #243671；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/243671)
 
 ## reconstitute
 
@@ -3597,12 +4831,8 @@
 ## reconstructive
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reconstructive#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Boldi couldn't undergo reconstructive surgery until her grew up.
-
-例句来源：[Tatoeba；作者：Amastan；句子 #11959363；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/11959363)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > She underwent reconstructive surgery after the accident.
 
@@ -3628,20 +4858,70 @@
 
 例句来源：逐词编写的学习例句
 
-## recordable
+## recorded
 
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/recordable#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/recorded#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Sound and movement are recordable by means of microphones and cameras.
+> She recorded the temperature every hour.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## recorder
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/recorder#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She used a recorder to save the interview.
+
+例句来源：逐词编写的学习例句
+
+## recorders
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/recorders#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The team tested three voice recorders.
+
+例句来源：逐词编写的学习例句
+
+## recording
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/recording#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> They are recording the concert for the school archive.
+
+例句来源：逐词编写的学习例句
+
+## recordings
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/recordings#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> We listened to recordings of the interviews.
+
+例句来源：逐词编写的学习例句
+
+## records
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/records#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The archive keeps records of every performance.
+
+例句来源：逐词编写的学习例句
 
 ## recount
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/recount#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
+- 发音资料：核对后整理；见逐词精讲核对资料
 - 中文释义资料：逐词编写的中文释义
 
 > She recounted the journey in vivid detail.
@@ -3661,41 +4941,52 @@
 ## recover
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/recover#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The plaintiff recovered in his suit, being awarded declaratory relief and a clearing of his name.
+> The team took several weeks to recover from the setback.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## recoverable
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/recoverable#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> a recoverable error
+> The technician said some of the data was still recoverable.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## recovered
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/recovered#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> We recovered the missing file from a backup.
+
+例句来源：逐词编写的学习例句
 
 ## recovering
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/recovering#English)
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The opera singer tested her voice gingerly after recovering from throat surgery.
+> The recovering athlete watched the match from the stands.
 
-例句来源：[Tatoeba；作者：patgfisher；句子 #2941963；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/2941963)
+例句来源：逐词编写的学习例句
 
 ## recovery
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/recovery#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> When I realized I'd called my teacher "Mom" again, I made a quick recovery saying that she loves me so much that she reminds me of my mother.
+> She made a full recovery after the accident.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## recreant
 
@@ -3730,24 +5021,12 @@
 ## recreational
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/recreational#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> A recreational area with a pool and ball fields.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adj:02787831](https://wordnet.princeton.edu/)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The lake is popular for recreational boating.
 
 例句来源：逐词编写的学习例句
-
-## recreationally
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/recreationally#English)
-
-> Is it legal to recreationally hunt kangaroos in Austria?
-
-例句来源：[Tatoeba；作者：deniko；句子 #7879969；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/7879969)
 
 ## recross
 
@@ -3769,29 +5048,51 @@
 
 例句来源：逐词编写的学习例句
 
+## recruited
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/recruited#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The library recruited volunteers for the reading event.
+
+例句来源：逐词编写的学习例句
+
+## recruiting
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/recruiting#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The group is recruiting volunteers for the event.
+
+例句来源：逐词编写的学习例句
+
 ## recruitment
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/recruitment#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The hospital launched a recruitment campaign for nurses.
 
 例句来源：逐词编写的学习例句
 
-> The war was very unpopular, so recruitment of new soldiers became difficult.
+## recruits
 
-例句来源：[Tatoeba；作者：AlanF\_US；句子 #2349840；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/2349840)
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/recruits#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The new recruits met their team leaders.
+
+例句来源：逐词编写的学习例句
 
 ## rectal
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rectal#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> The customs inspector subjected him to a rectal exam.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The textbook includes a diagram of the rectal wall.
 
@@ -3830,8 +5131,8 @@
 ## rectifier
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rectifier#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The power supply contains a bridge rectifier.
 
@@ -3930,12 +5231,8 @@
 ## recurrence
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/recurrence#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> The chances of recurrence vary from patient to patient.
-
-例句来源：[Tatoeba；作者：Nuel；句子 #11767367；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/11767367)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > We changed the process to prevent a recurrence of the error.
 
@@ -3944,12 +5241,8 @@
 ## recurrent
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/recurrent#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> The patient complained of recurrent chest pain.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The team investigated a recurrent software fault.
 
@@ -3968,36 +5261,22 @@
 ## recursive
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/recursive#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > A recursive function may call itself with a smaller input.
 
 例句来源：逐词编写的学习例句
 
-> the recursive nature of stories which borrow from each other
-
-例句来源：Wiktionary 用例
-
 ## recursively
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/recursively#English)
 - 发音资料：核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 中文释义资料：逐词编写的中文释义
 
 > The tool searches the folders recursively.
 
 例句来源：逐词编写的学习例句
-
-> We'd usually solve this problem recursively, but the proposed solution uses an iterative algorithm.
-
-例句来源：[Tatoeba；作者：sysko；句子 #2443225；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/2443225)
-
-## recusal
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/recusal#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
 
 ## recussion
 
@@ -4012,18 +5291,18 @@
 ## recut
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/recut#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The director recut the final scene.
+
+例句来源：逐词编写的学习例句
 
 ## recyclable
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/recyclable#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Soda cans are recyclable.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The box is made from recyclable cardboard.
 
@@ -4049,15 +5328,6 @@
 
 例句来源：逐词编写的学习例句
 
-## recycler
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/recycler#English)
-- 中文释义资料：ECDICT
-
-> This plastic is sold to an Algerian industrial recycler.
-
-例句来源：[Tatoeba；作者：Amastan；句子 #8591088；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/8591088)
-
 ## recycling
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/recycling#English)
@@ -4071,12 +5341,12 @@
 ## red
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/red#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Red can be seen as hot or angry.
+> Her face went red when everyone looked at her.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## redact
 
@@ -4111,31 +5381,22 @@
 ## redden
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/redden#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> With every minute, the flames began to redden the sky in a dramatic display.
+> His face reddened when he realized his mistake.
 
-例句来源：[Tatoeba；作者：LoverofEnglish；句子 #12917938；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/12917938)
+例句来源：逐词编写的学习例句
 
 ## reddish
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reddish#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> What color is your urine: bright, tawny, reddish or golden brown?
+> The rocks had a reddish tint in the evening light.
 
-例句来源：[Tatoeba；作者：szaby78；句子 #702528；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/702528)
-
-## reddy
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reddy#English)
-- 发音资料：Wiktionary
-
-> The song "I Am Woman" by Helen Reddy became the unofficial anthem of the Women's Liberation Movement.
-
-例句来源：[Tatoeba；作者：patgfisher；句子 #3806344；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/3806344)
+例句来源：逐词编写的学习例句
 
 ## redecorate
 
@@ -4170,26 +5431,18 @@
 ## redeemable
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/redeemable#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The voucher is redeemable for two cinema tickets.
 
 例句来源：逐词编写的学习例句
 
-> redeemable preferred stock
-
-例句来源：Wiktionary 用例
-
 ## redeemer
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/redeemer#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> God be my rock and my redeemer.
-
-例句来源：[Tatoeba；作者：menaud；句子 #14005788；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/14005788)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The hymn refers to Christ as the Redeemer.
 
@@ -4208,12 +5461,12 @@
 ## redefinition
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/redefinition#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> George Orwell's novel 1984 proposed that people's thoughts could be constrained by the redefinition of words in their language.
+> The project led to a redefinition of everyone’s role.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## redemption
 
@@ -4228,12 +5481,12 @@
 ## redeploy
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/redeploy#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The U.S. must redeploy their troops in the Middle East.
+> The organisation redeployed staff to the busiest office.
 
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset verb:01379804](https://wordnet.princeton.edu/)
+例句来源：逐词编写的学习例句
 
 ## redesign
 
@@ -4248,53 +5501,52 @@
 ## redevelop
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/redevelop#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> They dream of redeveloping the entire downtown.
+> The city plans to redevelop the old railway yard.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## redevelopment
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/redevelopment#English)
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> the redevelopment of the hero's character in a comic book
+> The old factory is scheduled for redevelopment.
 
-例句来源：Wiktionary 用例
-
-## redfin
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/redfin#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
-
-## redfish
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/redfish#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+例句来源：逐词编写的学习例句
 
 ## redhead
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/redhead#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> I'm a natural redhead, so I most definitely freckle.
+> She is the only redhead in her family.
 
-例句来源：[Tatoeba；作者：LK；句子 #8283077；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/8283077)
+例句来源：逐词编写的学习例句
 
 ## redheaded
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/redheaded#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> That little redheaded girl they have over at Cuthbert's is as smart as they make 'em.
+> The redheaded actor plays the scientist in the film.
 
-例句来源：[Tatoeba；作者：Hybrid；句子 #5831702；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/5831702)
+例句来源：逐词编写的学习例句
+
+## redid
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/redid#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> I redid the calculation after finding the error.
+
+例句来源：逐词编写的学习例句
 
 ## redirect
 
@@ -4309,8 +5561,8 @@
 ## redirection
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/redirection#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The plan calls for a redirection of funds toward maintenance.
 
@@ -4319,18 +5571,22 @@
 ## rediscover
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rediscover#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> She rediscovered her faith in religion.
+> I rediscovered an old favourite while sorting my books.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## rediscovery
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rediscovery#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The rediscovery of the letters changed our view of the writer.
+
+例句来源：逐词编写的学习例句
 
 ## redistribute
 
@@ -4345,12 +5601,8 @@
 ## redistribution
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/redistribution#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> The redistribution of wealth between the rich and poor has been tried many times.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The reorganisation involved a redistribution of responsibilities.
 
@@ -4359,28 +5611,42 @@
 ## redline
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/redline#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Please send the clean copy and the redline version.
+
+例句来源：逐词编写的学习例句
+
+## redlining
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/redlining#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The exhibition displays historical redlining maps.
+
+例句来源：逐词编写的学习例句
 
 ## redneck
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/redneck#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The way he talks and acts, you can tell he's a redneck.
+> The film challenges the lazy stereotype of the redneck.
 
-例句来源：[Tatoeba；作者：CM；句子 #296363；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/296363)
+例句来源：逐词编写的学习例句
 
 ## redness
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/redness#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Redness and swelling are associated with certain superficial infections.
+> The redness of the evening sky faded into grey.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## redo
 
@@ -4392,6 +5658,26 @@
 
 例句来源：逐词编写的学习例句
 
+## redoes
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/redoes#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She redoes the calculation to check the result.
+
+例句来源：逐词编写的学习例句
+
+## redoing
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/redoing#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She is redoing the introduction in simpler language.
+
+例句来源：逐词编写的学习例句
+
 ## redondilla
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/redondilla#English)
@@ -4399,6 +5685,16 @@
 - 中文释义资料：逐词编写的中文释义
 
 > The class identified the abba rhyme scheme of the redondilla.
+
+例句来源：逐词编写的学习例句
+
+## redone
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/redone#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The whole calculation has been redone.
 
 例句来源：逐词编写的学习例句
 
@@ -4432,42 +5728,85 @@
 
 例句来源：逐词编写的学习例句
 
+## redraft
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/redraft#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> We need to redraft the proposal in simpler language.
+
+例句来源：逐词编写的学习例句
+
+## redrafted
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/redrafted#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The team redrafted the instructions after the trial.
+
+例句来源：逐词编写的学习例句
+
+## redrafting
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/redrafting#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She is redrafting the proposal for a wider audience.
+
+例句来源：逐词编写的学习例句
+
+## redrafts
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/redrafts#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The proposal went through three redrafts.
+
+例句来源：逐词编写的学习例句
+
 ## redress
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/redress#English)
-- 发音资料：Wiktionary
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The new timetable aims to redress the imbalance in teaching hours.
+
+例句来源：逐词编写的学习例句
 
 ## redshift
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/redshift#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Astronomers measured the redshift of the distant galaxy.
+
+例句来源：逐词编写的学习例句
 
 ## redshirt
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/redshirt#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Sensing danger, Captain Kirk decided to beam down to the surface with Spock, McCoy, and a couple of redshirts.
+> The old team profile lists him as a redshirt during his first season.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## redskin
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/redskin#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-## redstone
+> The museum explains why the term “redskin” is offensive.
 
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/redstone#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
-
-> He made a complicated redstone circuit to help farm sugar cane.
-
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## reduce
 
@@ -4479,69 +5818,105 @@
 
 例句来源：逐词编写的学习例句
 
+## reduced
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reduced#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The new windows reduced the noise from the street.
+
+例句来源：逐词编写的学习例句
+
 ## reducer
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reducer#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > A reducer connects the wider pipe to the narrower one.
+
+例句来源：逐词编写的学习例句
+
+## reduces
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reduces#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The new layout reduces the amount of walking.
 
 例句来源：逐词编写的学习例句
 
 ## reducible
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reducible#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Reducible to a set of principles of human nature.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adj:00883611](https://wordnet.princeton.edu/)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The fraction is reducible to one half.
+
+例句来源：逐词编写的学习例句
+
+## reducing
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reducing#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The team is reducing waste in the workshop.
 
 例句来源：逐词编写的学习例句
 
 ## reduction
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reduction#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The changes led to a reduction in waste.
 
 例句来源：逐词编写的学习例句
 
-> open reduction and internal fixation
-
-例句来源：Wiktionary 用例
-
 ## reductionism
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reductionism#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The seminar examined reductionism in the study of complex systems.
+
+例句来源：逐词编写的学习例句
 
 ## reductionist
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reductionist#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The author rejects a purely reductionist account of human behaviour.
+
+例句来源：逐词编写的学习例句
+
+## reductions
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reductions#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The shop announced price reductions on several items.
+
+例句来源：逐词编写的学习例句
 
 ## redundancy
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/redundancy#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The network was designed with enough redundancy to survive a single failure.
 
 例句来源：逐词编写的学习例句
-
-> The use of industrial robots created redundancy among workers.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset noun:05120310](https://wordnet.princeton.edu/)
 
 ## redundant
 
@@ -4563,58 +5938,55 @@
 
 例句来源：逐词编写的学习例句
 
-## redwing
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/redwing#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
-
 ## redwood
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/redwood#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> This redwood deck will last forever.
+> The path wound through a quiet redwood forest.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## reed
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reed#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The clarinetist fitted a new reed onto his mouthpiece.
+> Reeds grew along the edge of the lake.
 
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset noun:04066888](https://wordnet.princeton.edu/)
-
-## reeder
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reeder#English)
-- 中文释义资料：ECDICT
+例句来源：逐词编写的学习例句
 
 ## reeducation
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reeducation#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The new system required a period of reeducation for experienced staff.
+
+例句来源：逐词编写的学习例句
 
 ## reedy
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reedy#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> reedy iron
+> A reedy voice called from behind the door.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
-## reefer
+## reef
 
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reefer#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reef#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Colourful fish swam above the reef.
+
+例句来源：逐词编写的学习例句
 
 ## reelect
 
@@ -4679,7 +6051,12 @@
 ## reestablishment
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reestablishment#English)
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The agreement allowed the reestablishment of diplomatic relations.
+
+例句来源：逐词编写的学习例句
 
 ## reevaluate
 
@@ -4694,12 +6071,22 @@
 ## reevaluation
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reevaluation#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Science involves constant questioning and reevaluation.
+> The new data prompted a reevaluation of the plan.
 
-例句来源：[Tatoeba；作者：Amastan；句子 #11737944；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/11737944)
+例句来源：逐词编写的学习例句
+
+## ref
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ref#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The ref stopped play after the foul.
+
+例句来源：逐词编写的学习例句
 
 ## refactorable
 
@@ -4764,36 +6151,88 @@
 ## referee
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/referee#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The referee stopped the game after the collision.
 
 例句来源：逐词编写的学习例句
 
-> Your application, along with letters from three referees, should be received by January 31.
-
-例句来源：Wiktionary 用例
-
 ## reference
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reference#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Keep this email for future reference.
 
 例句来源：逐词编写的学习例句
 
-> Reference Dictionary of Linguistics
+## referenced
 
-例句来源：Wiktionary 用例
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/referenced#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She referenced the earlier report in her introduction.
+
+例句来源：逐词编写的学习例句
+
+## references
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/references#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The article includes references to earlier studies.
+
+例句来源：逐词编写的学习例句
+
+## referencing
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/referencing#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The course teaches referencing in academic writing.
+
+例句来源：逐词编写的学习例句
+
+## referenda
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/referenda#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Several referenda were held during that period.
+
+例句来源：逐词编写的学习例句
+
+## referendum
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/referendum#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The town held a referendum on the proposal.
+
+例句来源：逐词编写的学习例句
+
+## referendums
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/referendums#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The book compares referendums held in different decades.
+
+例句来源：逐词编写的学习例句
 
 ## referent
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/referent#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > In this sentence, the referent of “she” is the narrator’s sister.
 
@@ -4802,50 +6241,72 @@
 ## referential
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/referential#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The essay examines the referential meaning of the phrase.
 
 例句来源：逐词编写的学习例句
 
-> The standard pitch A is used as referential pitch for tuning most of all instruments and is set to 440 Hertz.
-
-例句来源：[Tatoeba；作者：BraveSentry；句子 #787656；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/787656)
-
 ## referral
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/referral#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> After misbehaving in class, George was given a referral for disrupting class and sent to the office.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The clinic received a referral from her family doctor.
+
+例句来源：逐词编写的学习例句
+
+## referred
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/referred#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She referred to her notes before answering.
+
+例句来源：逐词编写的学习例句
+
+## referring
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/referring#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Which part of the report are you referring to?
+
+例句来源：逐词编写的学习例句
+
+## refers
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/refers#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The word refers to a kind of sea bird.
 
 例句来源：逐词编写的学习例句
 
 ## refill
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/refill#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Today it is $2 for a coffee, with free refills throughout the day.
+> Could you refill my water bottle?
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## refillable
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/refillable#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> One lab in Houston is developing refillable implants placed under the skin to potentially deliver life-saving medicine at a low cost for various diseases.
+> She uses a refillable fountain pen.
 
-例句来源：[Tatoeba；作者：Hybrid；句子 #7042923；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/7042923)
+例句来源：逐词编写的学习例句
 
 ## refinance
 
@@ -4867,15 +6328,21 @@
 
 例句来源：逐词编写的学习例句
 
+## refined
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/refined#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The team refined the design after the first trial.
+
+例句来源：逐词编写的学习例句
+
 ## refinement
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/refinement#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> He described a refinement of this technique.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset noun:07357679](https://wordnet.princeton.edu/)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The latest model includes several small refinements.
 
@@ -4884,12 +6351,8 @@
 ## refiner
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/refiner#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> He was a sugar refiner.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset noun:10514784](https://wordnet.princeton.edu/)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The refiner buys crude oil from several suppliers.
 
@@ -4908,12 +6371,12 @@
 ## refit
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/refit#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The ship required a refit before setting out again.
+> The ship returned to port for a major refit.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## reflect
 
@@ -4928,12 +6391,8 @@
 ## reflectance
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reflectance#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Satellite instruments measure light emitted or reflected back to space at different wavelengths and create spectral reflectance curves.
-
-例句来源：[Tatoeba；作者：Hybrid；句子 #8715952；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/8715952)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The coating has high reflectance in the visible range.
 
@@ -4962,26 +6421,28 @@
 ## reflection
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reflection#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> After careful reflection, I have decided not to vote for that proposition.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Her reflection disappeared as the water began to ripple.
+
+例句来源：逐词编写的学习例句
+
+## reflections
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reflections#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The lake held clear reflections of the mountains.
 
 例句来源：逐词编写的学习例句
 
 ## reflective
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reflective#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> He always becomes reflective in preparation for the new year.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The cyclist wore a jacket with reflective strips.
 
@@ -5000,8 +6461,8 @@
 ## reflectivity
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reflectivity#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The coating increases the mirror’s reflectivity.
 
@@ -5010,16 +6471,22 @@
 ## reflector
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reflector#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The photographer placed a reflector beside the model.
 
 例句来源：逐词编写的学习例句
 
-> The shit he smeared on the reflector ruined it with its smell.
+## reflects
 
-例句来源：[Tatoeba；作者：loonaOT12dalso；句子 #13877495；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/13877495)
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reflects#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The lake reflects the surrounding hills.
+
+例句来源：逐词编写的学习例句
 
 ## reflex
 
@@ -5034,12 +6501,8 @@
 ## reflexive
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reflexive#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> The electric shock elicited an automatic and reflexive response from him.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > “Herself” is a reflexive pronoun in this sentence.
 
@@ -5049,15 +6512,11 @@
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reflexively#English)
 - 发音资料：核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 中文释义资料：逐词编写的中文释义
 
 > He reflexively reached for his phone when it vibrated.
 
 例句来源：逐词编写的学习例句
-
-> Reflexively he opened his mouth to breathe, forgetting he was underwater.
-
-例句来源：Wiktionary 用例
 
 ## reflexivity
 
@@ -5072,16 +6531,12 @@
 ## reflexology
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reflexology#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The chapter discusses reflexology in the history of psychology.
 
 例句来源：逐词编写的学习例句
-
-> The spa offers a reflexology foot bath.
-
-例句来源：[Tatoeba；作者：Amastan；句子 #11731916；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/11731916)
 
 ## refocus
 
@@ -5093,15 +6548,25 @@
 
 例句来源：逐词编写的学习例句
 
+## reforest
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reforest#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The community plans to reforest the hillside.
+
+例句来源：逐词编写的学习例句
+
 ## reforestation
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reforestation#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Since the decades-long reforestation program, there are hardly any bare mountains anymore.
+> The community started a reforestation project.
 
-例句来源：[Tatoeba；作者：frpzzd；句子 #13821494；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/13821494)
+例句来源：逐词编写的学习例句
 
 ## reform
 
@@ -5126,12 +6591,8 @@
 ## reformer
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reformer#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Many now remember Giscard as a reformer and a champion of European unity.
-
-例句来源：[Tatoeba；作者：Hybrid；句子 #9431666；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/9431666)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The reformer argued for wider access to education.
 
@@ -5140,14 +6601,20 @@
 ## reformist
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reformist#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Reformist prison systems try and encourage learning the teachings of stoicism because it lowers reoffending rates a lot.
-
-例句来源：[Tatoeba；作者：Ooneykcall；句子 #13607108；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/13607108)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The party adopted a reformist programme.
+
+例句来源：逐词编写的学习例句
+
+## reforms
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reforms#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The committee proposed several reforms.
 
 例句来源：逐词编写的学习例句
 
@@ -5184,12 +6651,8 @@
 ## refractive
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/refractive#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> The refractive characteristics of the eye.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adj:02788005](https://wordnet.princeton.edu/)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The two liquids have different refractive indices.
 
@@ -5198,8 +6661,8 @@
 ## refractor
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/refractor#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > She observed the Moon through a small refractor.
 
@@ -5228,42 +6691,72 @@
 ## reframe
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reframe#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> We must reframe our marketing efforts to prove to our prospects how we can save them money and make their jobs easier.
+> The museum reframed the painting before the exhibition.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## refresh
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/refresh#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Sleep refreshes the body and the mind.
+> Refresh the page to see the latest results.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
-## refresher
+## refreshed
 
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/refresher#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/refreshed#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> They recommend a refresher class every few years.
+> I felt refreshed after a short sleep.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## refreshes
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/refreshes#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The display refreshes every minute.
+
+例句来源：逐词编写的学习例句
+
+## refreshing
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/refreshing#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The cold drink was wonderfully refreshing.
+
+例句来源：逐词编写的学习例句
 
 ## refreshingly
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/refreshingly#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> She was refreshingly free from shyness.
+> The instructions were refreshingly simple.
 
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adv:00440121](https://wordnet.princeton.edu/)
+例句来源：逐词编写的学习例句
+
+## refreshment
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/refreshment#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Light refreshments will be served after the talk.
+
+例句来源：逐词编写的学习例句
 
 ## refrigerant
 
@@ -5288,12 +6781,8 @@
 ## refrigeration
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/refrigeration#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Refrigeration by immersing the patient's body in a cold bath.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset noun:00707344](https://wordnet.princeton.edu/)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The building has a separate room for refrigeration equipment.
 
@@ -5309,15 +6798,25 @@
 
 例句来源：逐词编写的学习例句
 
+## refs
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/refs#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The refs checked the result before the restart.
+
+例句来源：逐词编写的学习例句
+
 ## refuel
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/refuel#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> We have to refuel in order to have sufficient petrol for the journey.
+> We stopped to refuel before entering the mountains.
 
-例句来源：[Tatoeba；作者：Ioan\_Cristian；句子 #13902106；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/13902106)
+例句来源：逐词编写的学习例句
 
 ## refuge
 
@@ -5339,6 +6838,16 @@
 
 例句来源：逐词编写的学习例句
 
+## refugees
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/refugees#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Local volunteers helped the refugees find temporary accommodation.
+
+例句来源：逐词编写的学习例句
+
 ## refund
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/refund#English)
@@ -5352,25 +6861,32 @@
 ## refundable
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/refundable#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The booking requires a refundable deposit.
 
 例句来源：逐词编写的学习例句
 
-> The entrance fee is refundable if you choose not to stay for more than half an hour.
+## refurbish
 
-例句来源：Wiktionary 用例
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/refurbish#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The hotel refurbished all its guest rooms.
+
+例句来源：逐词编写的学习例句
 
 ## refurbishment
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/refurbishment#English)
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> That ship was towed into the shipyard for refurbishment.
+> The library is closed for refurbishment.
 
-例句来源：[Tatoeba；作者：sundown；句子 #10191213；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/10191213)
+例句来源：逐词编写的学习例句
 
 ## refusal
 
@@ -5385,10 +6901,50 @@
 ## refuse
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/refuse#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
+- 发音资料：核对后整理；见逐词精讲核对资料
 - 中文释义资料：逐词编写的中文释义
 
 > She refused to sign a document she had not read.
+
+例句来源：逐词编写的学习例句
+
+## refused
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/refused#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> He refused to answer the question.
+
+例句来源：逐词编写的学习例句
+
+## refuses
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/refuses#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She refuses to give up.
+
+例句来源：逐词编写的学习例句
+
+## refusing
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/refusing#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She apologised for refusing the invitation.
+
+例句来源：逐词编写的学习例句
+
+## regain
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/regain#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She needed time to regain her confidence.
 
 例句来源：逐词编写的学习例句
 
@@ -5425,36 +6981,62 @@
 ## regard
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/regard#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> He is held in great regard in Whitehall.
+> They regard her as a reliable colleague.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## regarded
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/regarded#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She is widely regarded as an excellent teacher.
+
+例句来源：逐词编写的学习例句
+
+## regarding
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/regarding#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> I am writing regarding your application.
+
+例句来源：逐词编写的学习例句
 
 ## regardless
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/regardless#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The proposal may become law, or it may not. Regardless, we will adopt it as a club rule.
+> Everyone is welcome, regardless of age.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## regards
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/regards#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She regards him as a trusted friend.
+
+例句来源：逐词编写的学习例句
 
 ## regency
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/regency#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > A council exercised power during the regency.
 
 例句来源：逐词编写的学习例句
-
-> The Regency Hotel was closed indefinitely.
-
-例句来源：[Tatoeba；作者：vvv123；句子 #3652370；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/3652370)
 
 ## regenerate
 
@@ -5466,21 +7048,11 @@
 
 例句来源：逐词编写的学习例句
 
-## regenerated
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/regenerated#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
-
 ## regeneration
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/regeneration#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> The conversion of so many old industrial buildings into living quarters was a major factor in the regeneration.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The researchers studied the regeneration of damaged tissue.
 
@@ -5505,15 +7077,6 @@
 > His uncle served as regent while the king was a child.
 
 例句来源：逐词编写的学习例句
-
-## reggie
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reggie#English)
-- 发音资料：Wiktionary
-
-> Ever the organizer, Reggie separates his Skittles into groupings of the same flavor before he eats them.
-
-例句来源：[Tatoeba；作者：papabear；句子 #909964；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/909964)
 
 ## regicide
 
@@ -5558,16 +7121,12 @@
 ## regimental
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/regimental#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The regimental band played during the ceremony.
 
 例句来源：逐词编写的学习例句
-
-> This dog is our regimental mascot.
-
-例句来源：[Tatoeba；作者：AlanF\_US；句子 #59426；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/59426)
 
 ## regimentation
 
@@ -5602,26 +7161,18 @@
 ## regional
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/regional#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The dish has several regional variations.
 
 例句来源：逐词编写的学习例句
 
-> regional language variation
-
-例句来源：Wiktionary 用例
-
 ## regionalism
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/regionalism#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> I try to avoid this regionalism when speaking to an international audience.
-
-例句来源：[Tatoeba；作者：rul；句子 #12656013；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/12656013)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The essay examines regionalism in nineteenth-century politics.
 
@@ -5630,14 +7181,20 @@
 ## regionally
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/regionally#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Northern Berber dialects are mutually intelligible but regionally different varieties of the same language.
-
-例句来源：[Tatoeba；作者：Amastan；句子 #11702990；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/11702990)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Pronunciation varies regionally.
+
+例句来源：逐词编写的学习例句
+
+## regions
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/regions#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The survey includes several coastal regions.
 
 例句来源：逐词编写的学习例句
 
@@ -5684,12 +7241,8 @@
 ## registration
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/registration#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Did you submit your car registration yet?
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Online registration closes at noon.
 
@@ -5698,26 +7251,12 @@
 ## registry
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/registry#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> In Germany, people can only get married at the registry office.
-
-例句来源：[Tatoeba；作者：umut243；句子 #1471056；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/1471056)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The property details are held in the land registry.
 
 例句来源：逐词编写的学习例句
-
-## rego
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rego#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
-
-> The police pulled me over for driving with an expired rego.
-
-例句来源：Wiktionary 用例
 
 ## regress
 
@@ -5732,26 +7271,18 @@
 ## regression
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/regression#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The analyst used regression to estimate the relationship between size and price.
 
 例句来源：逐词编写的学习例句
 
-> The linear regression showed that race was tied to mental health outcomes.
-
-例句来源：[Tatoeba；作者：mccarras；句子 #8983404；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/8983404)
-
 ## regressive
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/regressive#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> A tariff is a regressive tax on consumers.
-
-例句来源：[Tatoeba；作者：rul；句子 #13732978；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/13732978)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The report describes the sales tax as regressive.
 
@@ -5760,78 +7291,102 @@
 ## regret
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/regret#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> I don't regret enrolling in law, but I regret not studying some Chinese.
+> I regret not asking for help sooner.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## regretful
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/regretful#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> feel sincerely regretful
+> She sounded regretful about leaving so early.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## regretfully
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/regretfully#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> I must regretfully decline your kind invitation.
+> I regretfully declined the invitation because I had to work.
 
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adv:00424313](https://wordnet.princeton.edu/)
+例句来源：逐词编写的学习例句
+
+## regrets
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/regrets#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She has no regrets about moving here.
+
+例句来源：逐词编写的学习例句
 
 ## regrettable
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/regrettable#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The officers' actions were regrettable, yes, but there's nothing to be done now but to relocate everyone to the mainland in a calm and orderly manner.
+> The delay was regrettable but unavoidable.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## regrettably
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/regrettably#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Your exam results are regrettably poor: you should regretfully reflect on all the time wasted reading comics.
+> Regrettably, the train was cancelled.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## regretted
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/regretted#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> I regretted sending the message so quickly.
+
+例句来源：逐词编写的学习例句
+
+## regretting
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/regretting#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> I am already regretting my decision.
+
+例句来源：逐词编写的学习例句
 
 ## regrow
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/regrow#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Humans cannot regrow lost limbs but some amphibians can.
+> The plant regrew its leaves after the dry season.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## regrowth
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/regrowth#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> After the forest fire, much of the regrowth consisted of invasive non-native plant species.
+> Fresh regrowth appeared after the first rains.
 
-例句来源：Wiktionary 用例
-
-## regs
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/regs#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+例句来源：逐词编写的学习例句
 
 ## regular
 
@@ -5856,8 +7411,8 @@
 ## regularization
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/regularization#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The committee proposed the regularization of several informal procedures.
 
@@ -5876,12 +7431,8 @@
 ## regularly
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/regularly#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Noemi decided to dress regularly for the party, instead of going for an outrageous outfit.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > We meet regularly to compare our progress.
 
@@ -5897,29 +7448,41 @@
 
 例句来源：逐词编写的学习例句
 
+## regulated
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/regulated#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The device regulated the temperature automatically.
+
+例句来源：逐词编写的学习例句
+
 ## regulation
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/regulation#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > All visitors must follow the safety regulations.
 
 例句来源：逐词编写的学习例句
 
-> Army regulations state a soldier AWOL over 30 days is a deserter.
+## regulations
 
-例句来源：Wiktionary 用例
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/regulations#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The competition regulations are posted at the entrance.
+
+例句来源：逐词编写的学习例句
 
 ## regulator
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/regulator#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> The case was referred to the media regulator.
-
-例句来源：[Tatoeba；作者：voxbubnya；句子 #6888286；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/6888286)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The regulator keeps the gas pressure within a safe range.
 
@@ -5978,12 +7541,8 @@
 ## rehabilitative
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rehabilitative#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> From a penal to a rehabilitative philosophy.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adj:01903412](https://wordnet.princeton.edu/)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The hospital offers rehabilitative care after surgery.
 
@@ -6002,38 +7561,102 @@
 ## rehash
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rehash#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The CEO of the company only rehashed a speech for the news conference.
+> There is no point in rehashing the same argument.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## rehearsal
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rehearsal#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The rehearsal starts at six.
+
+例句来源：逐词编写的学习例句
+
+## rehearsals
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rehearsals#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> We have three rehearsals before the concert.
+
+例句来源：逐词编写的学习例句
+
+## rehearse
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rehearse#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> We need to rehearse the final scene again.
+
+例句来源：逐词编写的学习例句
+
+## rehearsed
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rehearsed#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> We rehearsed the dance twice before lunch.
+
+例句来源：逐词编写的学习例句
+
+## rehearses
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rehearses#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The band rehearses every Thursday.
+
+例句来源：逐词编写的学习例句
+
+## rehearsing
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rehearsing#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The actors are rehearsing the final scene.
+
+例句来源：逐词编写的学习例句
 
 ## reheat
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reheat#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> I gave the potatoes a reheat.
+> I reheated the soup for lunch.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## rehire
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rehire#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Ziri went in and asked the manager to rehire Rima.
+> The company decided to rehire a former editor.
 
-例句来源：[Tatoeba；作者：Amastan；句子 #10987265；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/10987265)
+例句来源：逐词编写的学习例句
 
 ## rehome
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rehome#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The shelter hopes to rehome the dog this month.
+
+例句来源：逐词编写的学习例句
 
 ## rehydrate
 
@@ -6098,16 +7721,12 @@
 ## reimbursement
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reimbursement#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Please attach the receipts to your reimbursement claim.
 
 例句来源：逐词编写的学习例句
-
-> The patient received full reimbursement for the cost of treatment.
-
-例句来源：Wiktionary 用例
 
 ## reimmerse
 
@@ -6132,12 +7751,8 @@
 ## reincarnation
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reincarnation#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> He is believed to be the reincarnation of Jesus.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The novel explores a character’s belief in reincarnation.
 
@@ -6176,12 +7791,8 @@
 ## reinforce
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reinforce#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Advertising for fast food can reinforce unhealthy dietary tendencies.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Steel bars reinforce the concrete beam.
 
@@ -6190,25 +7801,22 @@
 ## reinforced
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reinforced#English)
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Her phobia of snakes was only reinforced when she moved to Arizona.
+> The trousers have reinforced knees.
 
-例句来源：[Tatoeba；作者：CarpeLanam；句子 #6219798；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/6219798)
+例句来源：逐词编写的学习例句
 
 ## reinforcement
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reinforcement#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The bridge needs additional reinforcement near its supports.
 
 例句来源：逐词编写的学习例句
-
-> There's a website that can be a good learning reinforcement.
-
-例句来源：Wiktionary 用例
 
 ## reinspect
 
@@ -6223,21 +7831,32 @@
 ## reinstall
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reinstall#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> I tried removing and reinstalling the software, but the reinstall failed.
+> He reinstalled the app after replacing his phone.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## reinstate
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reinstate#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She was reinstated as team captain.
+
+例句来源：逐词编写的学习例句
 
 ## reinstatement
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reinstatement#English)
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Many people are unhappy with the sacking of the chief constable and demand his immediate reinstatement.
+> The workers called for her reinstatement.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## reinsurance
 
@@ -6282,18 +7901,22 @@
 ## reinterpret
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reinterpret#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> If you look at it that way, you can reinterpret all the old evidence so that it supports the new theory.
+> New evidence led historians to reinterpret the event.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## reinterpretation
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reinterpretation#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The production offers a modern reinterpretation of the old play.
+
+例句来源：逐词编写的学习例句
 
 ## reintroduce
 
@@ -6308,8 +7931,12 @@
 ## reintroduction
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reintroduction#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The proposal calls for the reintroduction of the old bus route.
+
+例句来源：逐词编写的学习例句
 
 ## reinvent
 
@@ -6384,12 +8011,12 @@
 ## reissue
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reissue#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Copies of the original comic are valued by collectors, but the reissues are worthless.
+> The publisher reissued the novel with a new cover.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## reiterate
 
@@ -6404,8 +8031,8 @@
 ## reiteration
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reiteration#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The statement was a reiteration of the position announced last week.
 
@@ -6431,6 +8058,16 @@
 
 例句来源：逐词编写的学习例句
 
+## rejected
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rejected#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The committee rejected the proposal after a long discussion.
+
+例句来源：逐词编写的学习例句
+
 ## rejection
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rejection#English)
@@ -6438,6 +8075,16 @@
 - 中文释义资料：逐词编写的中文释义
 
 > He received a polite rejection letter.
+
+例句来源：逐词编写的学习例句
+
+## rejects
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rejects#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The committee rejects the first proposal.
 
 例句来源：逐词编写的学习例句
 
@@ -6464,16 +8111,12 @@
 ## rejuvenate
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rejuvenate#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > A quiet weekend in the countryside rejuvenated her.
 
 例句来源：逐词编写的学习例句
-
-> We need new blood to rejuvenate our country.
-
-例句来源：[Tatoeba；作者：shekitten；句子 #9390365；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/9390365)
 
 ## rejuvenating
 
@@ -6489,25 +8132,21 @@
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rejuvenation#English)
 - 发音资料：核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 中文释义资料：逐词编写的中文释义
 
 > The park became a symbol of the neighbourhood’s rejuvenation.
 
 例句来源：逐词编写的学习例句
 
-> the rejuvenation of the city center
-
-例句来源：Wiktionary 用例
-
 ## rekindle
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rekindle#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> He returned to Algeria to rekindle his relationship with Skura.
+> The trip rekindled my love of painting.
 
-例句来源：[Tatoeba；作者：Amastan；句子 #8287257；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/8287257)
+例句来源：逐词编写的学习例句
 
 ## relapse
 
@@ -6522,117 +8161,172 @@
 ## relatable
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/relatable#English)
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The characters in the play are very warm and relatable.
+> The film’s main character is flawed but relatable.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## relate
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/relate#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The patterns on the screen relate to the pitch and volume of the music being played.
+> She related her experience to the class.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
-## relatedness
+## related
 
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/relatedness#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/related#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Comparative linguistics is a specific set of processes you go through to find the relatedness of languages, or lack thereof.
+> The two problems are closely related.
 
-例句来源：[Tatoeba；作者：rul；句子 #13040676；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/13040676)
+例句来源：逐词编写的学习例句
+
+## relates
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/relates#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> This question relates to the final chapter.
+
+例句来源：逐词编写的学习例句
+
+## relating
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/relating#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Please keep all documents relating to the project.
+
+例句来源：逐词编写的学习例句
 
 ## relation
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/relation#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> This relation uses the customer's social security number as a key.
+> The report examines the relation between sleep and memory.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## relational
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/relational#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> essays on relational rights
+> The workshop focuses on relational skills in team leadership.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## relations
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/relations#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Relations between the two teams improved after the meeting.
+
+例句来源：逐词编写的学习例句
 
 ## relationship
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/relationship#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> They have been in a relationship for ten years, but have never married.
+> She has a good relationship with her neighbours.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## relationships
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/relationships#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She builds good relationships with everyone on the team.
+
+例句来源：逐词编写的学习例句
 
 ## relative
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/relative#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> We've been discussing the relative merits of various methods of transportation.
+> The relative importance of these factors has changed.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## relatively
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/relatively#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The situation is relatively calm now.
+> The hotel is relatively inexpensive for this area.
 
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adv:00160834](https://wordnet.princeton.edu/)
+例句来源：逐词编写的学习例句
+
+## relatives
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/relatives#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> We visited relatives during the holiday.
+
+例句来源：逐词编写的学习例句
 
 ## relativism
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/relativism#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> It's important to take cultural relativism into account before judging another culture.
+> The seminar discussed cultural relativism.
 
-例句来源：[Tatoeba；作者：tjbaron；句子 #5491258；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/5491258)
+例句来源：逐词编写的学习例句
 
 ## relativistic
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/relativistic#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Relativistic increase in mass.
+> The model includes relativistic effects.
 
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adj:02835887](https://wordnet.princeton.edu/)
+例句来源：逐词编写的学习例句
 
 ## relativity
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/relativity#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The results are perfectly in line with the theory of general relativity.
+> The course introduces the theory of relativity.
 
-例句来源：[Tatoeba；作者：Hybrid；句子 #7023447；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/7023447)
+例句来源：逐词编写的学习例句
 
 ## relaunch
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/relaunch#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> They relaunched the website with a simpler design.
+
+例句来源：逐词编写的学习例句
 
 ## relax
 
@@ -6657,42 +8351,50 @@
 ## relaxation
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/relaxation#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Reading in the garden is her favourite form of relaxation.
 
 例句来源：逐词编写的学习例句
 
-> relaxation of the soft palate
+## relaxations
 
-例句来源：Wiktionary 用例
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/relaxations#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The committee proposed several relaxations of the entry rules.
+
+例句来源：逐词编写的学习例句
 
 ## relaxed
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/relaxed#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Everyone seemed more relaxed after the introductions.
 
 例句来源：逐词编写的学习例句
 
-> He's a relaxed kind of guy, he never lets himself get upset.
-
-例句来源：Wiktionary 用例
-
 ## relaxer
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/relaxer#English)
 - 发音资料：核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Music is a good relaxer.
-
-例句来源：Wiktionary 用例
+- 中文释义资料：逐词编写的中文释义
 
 > The salon keeps hair relaxers on a separate shelf.
+
+例句来源：逐词编写的学习例句
+
+## relaxes
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/relaxes#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She relaxes by reading in the garden.
 
 例句来源：逐词编写的学习例句
 
@@ -6719,12 +8421,12 @@
 ## relearn
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/relearn#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> I had to relearn how to swim properly.
+> I had to relearn the keyboard shortcuts after changing software.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## release
 
@@ -6733,6 +8435,36 @@
 - 中文释义资料：逐词编写的中文释义
 
 > The shelter released the recovered bird into the wild.
+
+例句来源：逐词编写的学习例句
+
+## released
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/released#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The team released a new version of the app.
+
+例句来源：逐词编写的学习例句
+
+## releases
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/releases#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The company releases a new version each year.
+
+例句来源：逐词编写的学习例句
+
+## releasing
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/releasing#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The band is releasing a new album next month.
 
 例句来源：逐词编写的学习例句
 
@@ -6756,35 +8488,41 @@
 
 例句来源：逐词编写的学习例句
 
+## relent
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/relent#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> At first she refused, but eventually she relented.
+
+例句来源：逐词编写的学习例句
+
 ## relentless
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/relentless#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> In Algeria, the heat of the sun can be relentless in the summer.
+> The team faced relentless pressure throughout the match.
 
-例句来源：[Tatoeba；作者：Amastan；句子 #8582853；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/8582853)
+例句来源：逐词编写的学习例句
 
 ## relentlessly
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/relentlessly#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> As soon as summer came, the rain began to fall relentlessly.
+> She worked relentlessly to improve the design.
 
-例句来源：[Tatoeba；作者：sundown；句子 #10245083；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/10245083)
+例句来源：逐词编写的学习例句
 
 ## relevance
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/relevance#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> In her speech, she emphasized the issues that had direct relevance to practice.
-
-例句来源：[Tatoeba；作者：astynk；句子 #2900424；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/2900424)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The teacher explained the relevance of the example.
 
@@ -6793,8 +8531,8 @@
 ## relevancy
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/relevancy#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The editor questioned the relevancy of the final paragraph.
 
@@ -6803,12 +8541,8 @@
 ## relevant
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/relevant#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> His mother provided some relevant background information concerning his medical condition.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Please include only experience relevant to this role.
 
@@ -6817,12 +8551,8 @@
 ## reliability
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reliability#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> RAID-1 focuses on reliability, at the expense of storage size.
-
-例句来源：[Tatoeba；作者：sysko；句子 #1270330；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/1270330)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The upgrade improved the reliability of the network.
 
@@ -6831,12 +8561,8 @@
 ## reliable
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reliable#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> A reliable source of information.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adj:00724081](https://wordnet.princeton.edu/)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > We need a reliable source before publishing the story.
 
@@ -6845,36 +8571,28 @@
 ## reliably
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reliably#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Genuine cowards follow the wicked and cannot reliably sustain any virtue.
+> The device works reliably even in cold weather.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## reliance
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reliance#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The city wants to reduce its reliance on private cars.
 
 例句来源：逐词编写的学习例句
 
-> The industry is working to phase out its reliance on fossil fuels.
-
-例句来源：Wiktionary 用例
-
 ## reliant
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reliant#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Flanders is more reliant on the export of cars and diamonds than Walloonia.
-
-例句来源：[Tatoeba；作者：Micsmithel；句子 #6488754；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/6488754)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The business is heavily reliant on one supplier.
 
@@ -6890,6 +8608,16 @@
 
 例句来源：逐词编写的学习例句
 
+## relied
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/relied#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> We relied on her local knowledge to find the path.
+
+例句来源：逐词编写的学习例句
+
 ## relief
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/relief#English)
@@ -6897,6 +8625,26 @@
 - 中文释义资料：逐词编写的中文释义
 
 > She sighed with relief when the missing bag was found.
+
+例句来源：逐词编写的学习例句
+
+## reliefs
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reliefs#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The museum displays several stone reliefs.
+
+例句来源：逐词编写的学习例句
+
+## relies
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/relies#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The village relies on the river for water.
 
 例句来源：逐词编写的学习例句
 
@@ -6923,26 +8671,28 @@
 ## reliever
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reliever#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Gardening is a useful stress reliever for her.
 
 例句来源：逐词编写的学习例句
 
-> I'll be the reliever today so that you can each take a break.
+## relieves
 
-例句来源：Wiktionary 用例
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/relieves#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The extra help relieves some of the pressure on the team.
+
+例句来源：逐词编写的学习例句
 
 ## relieving
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/relieving#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Grammar being the art of relieving the difficulties of a language, the lever must not be heavier than the load it lifts.
-
-例句来源：[Tatoeba；作者：Adelpa；句子 #4998699；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/4998699)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The extra bus is relieving pressure on the morning service.
 
@@ -6958,25 +8708,31 @@
 
 例句来源：逐词编写的学习例句
 
+## religions
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/religions#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The course introduces the history of several religions.
+
+例句来源：逐词编写的学习例句
+
 ## religiosity
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/religiosity#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Religiosity is dropping faster in the United States than almost any other country.
+> The survey asked about changes in personal religiosity.
 
-例句来源：[Tatoeba；作者：rul；句子 #13712484；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/13712484)
+例句来源：逐词编写的学习例句
 
 ## religious
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/religious#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> It is the job of this court to rule on legal matters. We do not consider religious issues.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The museum has a collection of religious art.
 
@@ -6985,11 +8741,12 @@
 ## religiously
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/religiously#English)
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> It is odd he gets so many cavities since he brushes his teeth religiously, every night, rain or shine.
+> She waters the balcony plants religiously every morning.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## relinquish
 
@@ -7024,22 +8781,52 @@
 ## relive
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/relive#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Replays in video games allow you to relive your greatest moments.
+> The photographs helped us relive our trip.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## reload
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reload#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Each reload of the weapon took about 30 seconds.
+> Try reloading the page if the image does not appear.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## reloaded
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reloaded#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> I reloaded the page after the connection returned.
+
+例句来源：逐词编写的学习例句
+
+## reloading
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reloading#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The page was still reloading when I returned.
+
+例句来源：逐词编写的学习例句
+
+## reloads
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reloads#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The program reloads the file after each change.
+
+例句来源：逐词编写的学习例句
 
 ## relocate
 
@@ -7064,44 +8851,50 @@
 ## reluctance
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reluctance#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Our new dog shows reluctance to go on walks, preferring to be indoors.
+> Her reluctance to speak was understandable.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## reluctant
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reluctant#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Surprisingly, our new dog is a reluctant ball-retriever.
+> She was reluctant to admit that she needed help.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## reluctantly
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reluctantly#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Mary reluctantly agreed to listen to another one of Tom's freestyle raps.
+> He reluctantly agreed to change the date.
 
-例句来源：[Tatoeba；作者：ddnktr；句子 #10220280；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/10220280)
+例句来源：逐词编写的学习例句
 
 ## rely
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rely#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Rely on your friends.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset verb:00688377](https://wordnet.princeton.edu/)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > You can rely on Maya to keep her promise.
+
+例句来源：逐词编写的学习例句
+
+## relying
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/relying#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> I am relying on you to check the final version.
 
 例句来源：逐词编写的学习例句
 
@@ -7122,6 +8915,16 @@
 - 中文释义资料：逐词编写的中文释义
 
 > We spent the remainder of the afternoon by the river.
+
+例句来源：逐词编写的学习例句
+
+## remained
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/remained#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The door remained open throughout the meeting.
 
 例句来源：逐词编写的学习例句
 
@@ -7154,12 +8957,6 @@
 > The studio plans to remake the film with a new cast.
 
 例句来源：逐词编写的学习例句
-
-## reman
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reman#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
 
 ## remand
 
@@ -7214,58 +9011,72 @@
 ## remark
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/remark#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> a biting remark
+> Her remark made everyone laugh.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## remarkable
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/remarkable#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Her remarkable skill in mathematics is better than everyone else's in the class.
+> She made remarkable progress in a short time.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## remarkably
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/remarkably#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> He performed the piece remarkably, offering novel interpretations to its nearly cliched passages.
+> The two accounts are remarkably similar.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## remarks
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/remarks#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The chair began with a few opening remarks.
+
+例句来源：逐词编写的学习例句
 
 ## remarriage
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/remarriage#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> John noticed my surprise at the news of his mother's remarriage.
+> She moved to another town after her remarriage.
 
-例句来源：[Tatoeba；作者：Hybrid；句子 #8824605；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/8824605)
+例句来源：逐词编写的学习例句
 
 ## remarry
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/remarry#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> This church will remarry widows or widowers, but not divorcés.
+> She chose to remarry several years later.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## remaster
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/remaster#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The studio remastered the album from the original tapes.
+
+例句来源：逐词编写的学习例句
 
 ## remeasure
 
@@ -7277,29 +9088,35 @@
 
 例句来源：逐词编写的学习例句
 
-## remediation
+## remedies
 
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/remediation#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/remedies#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The site required extensive environmental remediation before it could be used for other purposes.
+> The report suggests several possible remedies.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## remedy
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/remedy#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> There is no simple remedy for poor communication.
+
+例句来源：逐词编写的学习例句
 
 ## remember
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/remember#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > I remember meeting her at the station years ago.
 
 例句来源：逐词编写的学习例句
-
-> My aunt remembered me in her will, leaving me several thousand pounds.
-
-例句来源：Wiktionary 用例
 
 ## remembered
 
@@ -7321,15 +9138,21 @@
 
 例句来源：逐词编写的学习例句
 
+## remembers
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/remembers#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She remembers meeting him at the library.
+
+例句来源：逐词编写的学习例句
+
 ## remembrance
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/remembrance#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Remembrance Sunday in the UK takes place on the Sunday nearest 11 November.
-
-例句来源：[Tatoeba；作者：sundown；句子 #10492831；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/10492831)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > They planted a tree in remembrance of their teacher.
 
@@ -7338,22 +9161,52 @@
 ## remind
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/remind#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The group put up posters to remind people that noise is harmful.
+> Remind me to take the keys.
 
-例句来源：[Tatoeba；作者：CK；句子 #45445；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/45445)
+例句来源：逐词编写的学习例句
+
+## reminded
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reminded#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The photograph reminded me of our first visit.
+
+例句来源：逐词编写的学习例句
 
 ## reminder
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reminder#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> She ignored first the reminder of 80 cents. At the end, she was sentenced to pay 200 euros!
+> I set a reminder for tomorrow morning.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## reminding
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reminding#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Thanks for reminding me to bring the book.
+
+例句来源：逐词编写的学习例句
+
+## reminds
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reminds#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> This song reminds me of our school trip.
+
+例句来源：逐词编写的学习例句
 
 ## reminisce
 
@@ -7468,16 +9321,12 @@
 ## remittance
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/remittance#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > She sends a monthly remittance to her family.
 
 例句来源：逐词编写的学习例句
-
-> remittance advice
-
-例句来源：Wiktionary 用例
 
 ## remittee
 
@@ -7516,6 +9365,36 @@
 - 中文释义资料：逐词编写的中文释义
 
 > The producer remixed the track for the club release.
+
+例句来源：逐词编写的学习例句
+
+## remixed
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/remixed#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The producer remixed the track for the album.
+
+例句来源：逐词编写的学习例句
+
+## remixes
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/remixes#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The album includes two dance remixes.
+
+例句来源：逐词编写的学习例句
+
+## remixing
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/remixing#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She is remixing the track for a dance performance.
 
 例句来源：逐词编写的学习例句
 
@@ -7612,26 +9491,18 @@
 ## remorseful
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/remorseful#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > He looked remorseful after realizing how much his words had hurt her.
 
 例句来源：逐词编写的学习例句
 
-> He was so remorseful that he voluntarily paid full restitution.
-
-例句来源：Wiktionary 用例
-
 ## remorseless
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/remorseless#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> A monster of remorseless cruelty.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adj:01508086](https://wordnet.princeton.edu/)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The character remains remorseless even after seeing the damage he caused.
 
@@ -7650,12 +9521,8 @@
 ## remotely
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/remotely#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> I'm not remotely in love with you.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The system can be monitored remotely.
 
@@ -7664,16 +9531,12 @@
 ## remoteness
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/remoteness#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The remoteness of the island makes transport difficult.
 
 例句来源：逐词编写的学习例句
-
-> Timbuktu's name has become a byword of remoteness.
-
-例句来源：[Tatoeba；作者：Amastan；句子 #11206080；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/11206080)
 
 ## remotion
 
@@ -7698,12 +9561,8 @@
 ## removable
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/removable#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Stuxnet spread by infected removable drives, such as USB drives.
-
-例句来源：[Tatoeba；作者：Cangarejo；句子 #11323146；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/11323146)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The jacket has a removable lining.
 
@@ -7712,12 +9571,8 @@
 ## removal
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/removal#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> The board decided the removal of the branch manager was the best option after his misbehaviour.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The city arranged for the removal of fallen trees.
 
@@ -7730,6 +9585,36 @@
 - 中文释义资料：逐词编写的中文释义
 
 > Please remove your shoes before entering.
+
+例句来源：逐词编写的学习例句
+
+## removed
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/removed#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She removed the old label from the jar.
+
+例句来源：逐词编写的学习例句
+
+## removes
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/removes#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She removes the cover before showing us the model.
+
+例句来源：逐词编写的学习例句
+
+## removing
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/removing#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She is removing the old labels from the jars.
 
 例句来源：逐词编写的学习例句
 
@@ -7756,12 +9641,12 @@
 ## rename
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rename#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Tom bought Chuck's Bar and Grill, but he didn't rename it.
+> Please rename the file before sending it.
 
-例句来源：[Tatoeba；作者：CK；句子 #3130146；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/3130146)
+例句来源：逐词编写的学习例句
 
 ## renascence
 
@@ -7786,7 +9671,6 @@
 ## renate
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/renate#English)
-- 中文释义资料：ECDICT
 
 ## renature
 
@@ -7801,17 +9685,42 @@
 ## render
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/render#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Bacon is very fatty when raw; however, most of the fat will render during cooking.
+> The update rendered the old files unreadable.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## rendered
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rendered#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The damaged cable rendered the lamp useless.
+
+例句来源：逐词编写的学习例句
 
 ## renderer
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/renderer#English)
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The renderer calculates shadows from the scene data.
+
+例句来源：逐词编写的学习例句
+
+## rendering
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rendering#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The architect showed us a rendering of the new building.
+
+例句来源：逐词编写的学习例句
 
 ## renegade
 
@@ -7836,48 +9745,50 @@
 ## renegotiate
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/renegotiate#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Does Algeria need to renegotiate its free-trade agreement with Europe?
+> They agreed to renegotiate the delivery schedule.
 
-例句来源：[Tatoeba；作者：Amastan；句子 #9476179；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/9476179)
+例句来源：逐词编写的学习例句
 
 ## renew
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/renew#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > I renewed my library membership online.
 
 例句来源：逐词编写的学习例句
 
-> I'd like to renew these three books. Did you know that you can renew online?
-
-例句来源：Wiktionary 用例
-
 ## renewable
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/renewable#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Solar and wind power are renewable, but coal is not.
+> The job comes with a renewable annual contract.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## renewal
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/renewal#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> The Easter Bunny symbolizes fertility, birth, and the renewal of life.
-
-例句来源：[Tatoeba；作者：carlosalberto；句子 #14021420；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/14021420)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The membership renewal notice arrived by email.
+
+例句来源：逐词编写的学习例句
+
+## renewed
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/renewed#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She renewed her library membership.
 
 例句来源：逐词编写的学习例句
 
@@ -7885,11 +9796,6 @@
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/renin#English)
 - 发音资料：Wiktionary
-- 中文释义资料：ECDICT
-
-## renny
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/renny#English)
 - 中文释义资料：ECDICT
 
 ## renormalization
@@ -7935,16 +9841,12 @@
 ## renovate
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/renovate#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > They renovated the old house before moving in.
 
 例句来源：逐词编写的学习例句
-
-> This will renovate my spirits.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset verb:00024279](https://wordnet.princeton.edu/)
 
 ## renovation
 
@@ -7999,42 +9901,52 @@
 ## rent
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rent#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> A New York city taxicab license earns more than $10,000 a year in rent.
+> We rent a small flat from a local family.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## rental
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rental#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> It's just a rental, so I don't need to take very good care of it.
+> The price includes car rental for three days.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## rented
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rented#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> We rented two bicycles for the afternoon.
+
+例句来源：逐词编写的学习例句
 
 ## renter
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/renter#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> It'll be easy to find a renter for this house.
+> The survey asked renters about housing costs.
 
-例句来源：[Tatoeba；作者：CK；句子 #1452528；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/1452528)
+例句来源：逐词编写的学习例句
 
 ## renting
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/renting#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The apartments are still there and people are renting them from William.
+> We are renting a flat near the station.
 
-例句来源：[Tatoeba；作者：Amastan；句子 #11608388；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/11608388)
+例句来源：逐词编写的学习例句
 
 ## renunciation
 
@@ -8045,11 +9957,6 @@
 > The agreement included a renunciation of territorial claims.
 
 例句来源：逐词编写的学习例句
-
-## reo
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reo#English)
-- 中文释义资料：ECDICT
 
 ## reobtain
 
@@ -8064,12 +9971,12 @@
 ## reopen
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reopen#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Many countries are struggling to decide how and when to reopen schools.
+> The library will reopen after the repairs.
 
-例句来源：[Tatoeba；作者：Hybrid；句子 #8969653；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/8969653)
+例句来源：逐词编写的学习例句
 
 ## reordain
 
@@ -8104,12 +10011,12 @@
 ## reorganization
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reorganization#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The government carried out a reorganization of scientific research activities in the 1990s.
+> The reorganization brought three small teams together.
 
-例句来源：[Tatoeba；作者：Amastan；句子 #5820018；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/5820018)
+例句来源：逐词编写的学习例句
 
 ## reorganize
 
@@ -8141,35 +10048,41 @@
 
 例句来源：逐词编写的学习例句
 
+## rep
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rep#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> A sales rep will call you tomorrow.
+
+例句来源：逐词编写的学习例句
+
 ## repack
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/repack#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She repacked her suitcase to make room for the books.
+
+例句来源：逐词编写的学习例句
 
 ## repaint
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/repaint#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > We plan to repaint the bedroom this summer.
 
 例句来源：逐词编写的学习例句
 
-> to repaint a house; to repaint the ground of a picture
-
-例句来源：Wiktionary 用例
-
 ## repair
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/repair#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
+- 发音资料：核对后整理；见逐词精讲核对资料
 - 中文释义资料：逐词编写的中文释义
-
-> Please try to repair the two earbuds to each other. Place both earbuds back into the charging case, wait for four seconds, then open it and see if they have been repaired with one another.
-
-例句来源：Wiktionary 用例
 
 > The technician repaired the broken switch.
 
@@ -8178,35 +10091,42 @@
 ## repairable
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/repairable#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Luckily, the damage from the accident was repairable.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The technician confirmed that the screen was repairable.
 
 例句来源：逐词编写的学习例句
 
-## repairer
+## repaired
 
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/repairer#English)
-- 中文释义资料：ECDICT
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/repaired#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Is there a shoe repairer in town?
+> The carpenter repaired the old chair.
 
-例句来源：[Tatoeba；作者：sundown；句子 #8910451；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/8910451)
+例句来源：逐词编写的学习例句
 
 ## repairman
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/repairman#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The fridge is not empty, unless the repairman took the last beer.
+> We called a repairman to inspect the washing machine.
 
-例句来源：[Tatoeba；作者：gleki；句子 #1686013；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/1686013)
+例句来源：逐词编写的学习例句
+
+## repairs
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/repairs#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The bridge is closed for repairs.
+
+例句来源：逐词编写的学习例句
 
 ## repand
 
@@ -8281,32 +10201,62 @@
 ## repay
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/repay#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> I'll repay this wrong asap.
+> She repaid the money she had borrowed.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## repayable
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/repayable#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Japan's ODA largely consists of concessionary yen credit repayable in 30 years, carrying an interest rate of 2% or so.
+> The loan is repayable over five years.
 
-例句来源：[Tatoeba；作者：papabear；句子 #281316；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/281316)
+例句来源：逐词编写的学习例句
 
 ## repayment
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/repayment#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Student loan repayment begins next month.
+> They made the final repayment in June.
 
-例句来源：[Tatoeba；作者：joan\_LanguageProcess；句子 #12080752；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/12080752)
+例句来源：逐词编写的学习例句
+
+## repeal
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/repeal#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The council voted to repeal the old regulation.
+
+例句来源：逐词编写的学习例句
+
+## repealed
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/repealed#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The old rule was repealed after the review.
+
+例句来源：逐词编写的学习例句
+
+## repealing
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/repealing#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The committee discussed repealing the outdated rule.
+
+例句来源：逐词编写的学习例句
 
 ## repeat
 
@@ -8322,7 +10272,7 @@
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/repeatability#English)
 - 发音资料：核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 中文释义资料：逐词编写的中文释义
 
 > The instrument showed good repeatability over ten measurements.
 
@@ -8331,16 +10281,12 @@
 ## repeatable
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/repeatable#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > We need a repeatable process rather than a lucky result.
 
 例句来源：逐词编写的学习例句
-
-> What he said was not repeatable in polite company.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adj:01963958](https://wordnet.princeton.edu/)
 
 ## repeated
 
@@ -8355,12 +10301,8 @@
 ## repeatedly
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/repeatedly#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> He repeatedly violated the court order, and shall now be punished.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > I have repeatedly asked for a clearer explanation.
 
@@ -8369,14 +10311,20 @@
 ## repeater
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/repeater#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Our router is connected to a repeater in the living room.
-
-例句来源：[Tatoeba；作者：Luiaard；句子 #8463435；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/8463435)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The radio repeater helps the signal reach the other side of the valley.
+
+例句来源：逐词编写的学习例句
+
+## repeating
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/repeating#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She kept repeating the same question.
 
 例句来源：逐词编写的学习例句
 
@@ -8393,12 +10341,8 @@
 ## repellent
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/repellent#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> The mixture of whey, beetroot juice, and spirulina seems repellent to me.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > We packed insect repellent for the camping trip.
 
@@ -8487,16 +10431,12 @@
 ## repetitively
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/repetitively#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The robot moved the small parts repetitively along the line.
 
 例句来源：逐词编写的学习例句
-
-> This type of border display is used repetitively in advertising.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adv:00441173](https://wordnet.princeton.edu/)
 
 ## repetitiveness
 
@@ -8511,80 +10451,126 @@
 ## rephrase
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rephrase#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Make sure to rephrase your thesis in your conclusion.
+> Could you rephrase the question?
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## replace
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/replace#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > We replaced the old sofa with a smaller one.
 
 例句来源：逐词编写的学习例句
 
-> You can take what you need from the petty cash, but you must replace it tomorrow morning.
-
-例句来源：Wiktionary 用例
-
 ## replaceable
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/replaceable#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> He knew he was not easily replaceable at work.
+> The device has a replaceable battery.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## replaced
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/replaced#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She replaced the broken chair with a new one.
+
+例句来源：逐词编写的学习例句
 
 ## replacement
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/replacement#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The company sent a replacement for the damaged lamp.
 
 例句来源：逐词编写的学习例句
 
-> The replacement of that broken light-bulb will have to wait until I can buy a new one.
+## replaces
 
-例句来源：Wiktionary 用例
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/replaces#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The new bridge replaces the old wooden crossing.
+
+例句来源：逐词编写的学习例句
+
+## replacing
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/replacing#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> We are replacing the old chairs with lighter ones.
+
+例句来源：逐词编写的学习例句
 
 ## replant
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/replant#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Ziri needs a new pot to replant his heather.
+> They replanted the garden after the storm.
 
-例句来源：[Tatoeba；作者：Amastan；句子 #10860940；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/10860940)
+例句来源：逐词编写的学习例句
 
 ## replay
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/replay#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Show us that replay one more time.
+> The referee watched the replay.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## replayed
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/replayed#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> I replayed the message to check the address.
+
+例句来源：逐词编写的学习例句
 
 ## replaying
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/replaying#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
+- 中文释义资料：ECDICT；逐词编写的中文释义
 
 > It took several replayings before I could write down the entire recorded message.
 
 例句来源：Wiktionary 用例
+
+> The app is replaying the last ten seconds.
+
+例句来源：逐词编写的学习例句
+
+## replays
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/replays#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The broadcast included several slow-motion replays.
+
+例句来源：逐词编写的学习例句
 
 ## replenish
 
@@ -8599,12 +10585,8 @@
 ## replenishment
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/replenishment#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> My collection was in need of replenishment.
-
-例句来源：[Tatoeba；作者：AlanF\_US；句子 #10569309；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/10569309)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The shop uses weekly replenishment for items that sell slowly.
 
@@ -8673,10 +10655,30 @@
 ## replicator
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/replicator#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The technician tested the disc replicator before production.
+
+例句来源：逐词编写的学习例句
+
+## replied
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/replied#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She replied to my message that evening.
+
+例句来源：逐词编写的学习例句
+
+## replies
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/replies#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She replies to messages quickly.
 
 例句来源：逐词编写的学习例句
 
@@ -8703,16 +10705,12 @@
 ## reportable
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reportable#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The handbook explains which incidents are reportable.
 
 例句来源：逐词编写的学习例句
-
-> reportable data elements
-
-例句来源：Wiktionary 用例
 
 ## reportage
 
@@ -8724,29 +10722,45 @@
 
 例句来源：逐词编写的学习例句
 
+## reported
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reported#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Several passengers reported the broken light to the driver.
+
+例句来源：逐词编写的学习例句
+
 ## reportedly
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reportedly#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> She was reportedly his mistress for many years.
+> The museum is reportedly planning a new exhibition.
 
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adv:00200927](https://wordnet.princeton.edu/)
+例句来源：逐词编写的学习例句
 
 ## reporter
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reporter#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The reporter interviewed residents near the station.
 
 例句来源：逐词编写的学习例句
 
-> The reporters of important security bugs may be paid a bounty by the software developer.
+## reporters
 
-例句来源：Wiktionary 用例
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reporters#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Several reporters waited outside the building.
+
+例句来源：逐词编写的学习例句
 
 ## reporting
 
@@ -8758,10 +10772,20 @@
 
 例句来源：逐词编写的学习例句
 
+## reports
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reports#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The reports describe the changes made over the past year.
+
+例句来源：逐词编写的学习例句
+
 ## repose
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/repose#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
+- 发音资料：核对后整理；见逐词精讲核对资料
 - 中文释义资料：逐词编写的中文释义
 
 > The garden offered a few minutes of repose.
@@ -8791,12 +10815,8 @@
 ## repossession
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/repossession#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Taxation of the rich is repossession of stolen wealth.
-
-例句来源：[Tatoeba；作者：shekitten；句子 #11453036；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/11453036)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The letter warned the tenant about repossession of the equipment.
 
@@ -8805,12 +10825,12 @@
 ## repost
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/repost#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Maybe I should repost the FAQ for the benefit of newbies.
+> The museum reposted the photo with a clearer caption.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## reprehend
 
@@ -8825,12 +10845,8 @@
 ## reprehensible
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reprehensible#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Adultery is as reprehensible for a husband as for a wife.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adj:02035765](https://wordnet.princeton.edu/)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The report described the deliberate deception as reprehensible.
 
@@ -8839,35 +10855,92 @@
 ## represent
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/represent#English)
-- 发音资料：Wiktionary
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> video game represented as live-action television
+> She will represent the school at the conference.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## representation
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/representation#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> We are no longer happy with your representation of our company at trade events.
+> The diagram is a simplified representation of the system.
 
-例句来源：Wiktionary 用例
-
-> rates of representation to the emergency department
-
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## representational
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/representational#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Until the twentieth century, most paintings were representational. This means that artists “represented” their subjects in a way that was realistic and recognizable.
+> Her early paintings were representational, with clearly recognizable houses and trees.
 
-例句来源：[Tatoeba；作者：Cangarejo；句子 #12411752；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/12411752)
+例句来源：逐词编写的学习例句
+
+## representations
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/representations#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The exhibition compares different representations of the same city.
+
+例句来源：逐词编写的学习例句
+
+## representative
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/representative#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> A representative from each class attended the meeting.
+
+例句来源：逐词编写的学习例句
+
+## representatives
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/representatives#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Representatives from each team attended the meeting.
+
+例句来源：逐词编写的学习例句
+
+## represented
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/represented#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She represented the team at the meeting.
+
+例句来源：逐词编写的学习例句
+
+## representing
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/representing#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She is representing the team at the conference.
+
+例句来源：逐词编写的学习例句
+
+## represents
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/represents#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Each dot represents a village on the map.
+
+例句来源：逐词编写的学习例句
 
 ## repress
 
@@ -8882,22 +10955,18 @@
 ## repressed
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/repressed#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> repressed homosexuality
+> His voice revealed years of repressed anger.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## repression
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/repression#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> History shows that when governments fear the truth and increase repression, their days are limited.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The memoir describes years of censorship and repression.
 
@@ -8906,12 +10975,8 @@
 ## repressive
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/repressive#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Every dictatorship needs a strong repressive intelligence service.
-
-例句来源：[Tatoeba；作者：OsoHombre；句子 #5866454；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/5866454)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The report criticized the country’s repressive laws.
 
@@ -8937,6 +11002,36 @@
 
 例句来源：逐词编写的学习例句
 
+## reprinted
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reprinted#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The publisher reprinted the book last year.
+
+例句来源：逐词编写的学习例句
+
+## reprinting
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reprinting#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The publisher is reprinting the novel.
+
+例句来源：逐词编写的学习例句
+
+## reprints
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reprints#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The library bought several reprints of the old novel.
+
+例句来源：逐词编写的学习例句
+
 ## repristinate
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/repristinate#English)
@@ -8950,16 +11045,12 @@
 ## reprobate
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reprobate#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The novel portrays him as a charming but unreliable reprobate.
 
 例句来源：逐词编写的学习例句
-
-> The reprobate criminal sneered at me.
-
-例句来源：Wiktionary 用例
 
 ## reprobation
 
@@ -8974,38 +11065,42 @@
 ## reproducibility
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reproducibility#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The team shared its code to improve reproducibility.
+
+例句来源：逐词编写的学习例句
 
 ## reproducible
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reproducible#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Astonishingly reproducible results can be obtained.
+> The team published code to make the results reproducible.
 
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adj:01867996](https://wordnet.princeton.edu/)
+例句来源：逐词编写的学习例句
 
 ## reproduction
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reproduction#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Unauthorized reproduction of this article is prohibited.
+> The museum shop sells reproductions of famous paintings.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## reproductive
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reproductive#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The octopus exits only to look for food and for reproductive purposes.
+> The documentary explains the birds’ reproductive behaviour.
 
-例句来源：[Tatoeba；作者：marco87；句子 #1506176；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/1506176)
+例句来源：逐词编写的学习例句
 
 ## reprogram
 
@@ -9047,6 +11142,16 @@
 
 例句来源：逐词编写的学习例句
 
+## reps
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reps#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The union reps met the management team.
+
+例句来源：逐词编写的学习例句
+
 ## reptile
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reptile#English)
@@ -9060,16 +11165,12 @@
 ## reptilian
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reptilian#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The costume gave the creature a reptilian appearance.
 
 例句来源：逐词编写的学习例句
-
-> Tom's eyes are strange. I think he might be a reptilian.
-
-例句来源：[Tatoeba；作者：Ergulis；句子 #11059265；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/11059265)
 
 ## republic
 
@@ -9084,12 +11185,8 @@
 ## republican
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/republican#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> The United States shall guarantee to every state in this union a republican form of government.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adj:00716892](https://wordnet.princeton.edu/)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The historian studied the spread of republican ideas.
 
@@ -9098,8 +11195,12 @@
 ## republicanism
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/republicanism#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The lecture traced the history of republicanism.
+
+例句来源：逐词编写的学习例句
 
 ## republication
 
@@ -9114,8 +11215,12 @@
 ## republish
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/republish#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The publisher decided to republish the long-unavailable novel.
+
+例句来源：逐词编写的学习例句
 
 ## repudiate
 
@@ -9130,16 +11235,12 @@
 ## repudiation
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/repudiation#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Her statement was a clear repudiation of political violence.
 
 例句来源：逐词编写的学习例句
-
-> The young man's repudiation of the church's doctrines caused a conflict with his religious parents.
-
-例句来源：Wiktionary 用例
 
 ## repugnance
 
@@ -9164,38 +11265,38 @@
 ## repulsive
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/repulsive#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > A repulsive smell came from the abandoned fridge.
 
 例句来源：逐词编写的学习例句
 
-> a repulsive smell
-
-例句来源：Wiktionary 用例
-
 ## repurchase
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/repurchase#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She liked the product enough to repurchase it.
+
+例句来源：逐词编写的学习例句
 
 ## repurpose
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/repurpose#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The warehouse was repurposed as a community library.
+
+例句来源：逐词编写的学习例句
 
 ## reputable
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reputable#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> She was a reputable businesswoman.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The article cites several reputable sources.
 
@@ -9214,8 +11315,8 @@
 ## reputational
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reputational#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The false statement caused serious reputational damage.
 
@@ -9244,16 +11345,12 @@
 ## reputedly
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reputedly#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The garden was reputedly designed by a visiting architect.
 
 例句来源：逐词编写的学习例句
-
-> The old mansion was reputedly haunted, but few were willing to go and investigate.
-
-例句来源：Wiktionary 用例
 
 ## request
 
@@ -9265,13 +11362,43 @@
 
 例句来源：逐词编写的学习例句
 
+## requested
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/requested#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She requested more information about the course.
+
+例句来源：逐词编写的学习例句
+
 ## requester
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/requester#English)
 - 发音资料：核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 中文释义资料：逐词编写的中文释义
 
 > The system sends a confirmation email to the requester.
+
+例句来源：逐词编写的学习例句
+
+## requesting
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/requesting#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She sent an email requesting more information.
+
+例句来源：逐词编写的学习例句
+
+## requests
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/requests#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The office received several requests for more information.
 
 例句来源：逐词编写的学习例句
 
@@ -9305,19 +11432,55 @@
 
 例句来源：逐词编写的学习例句
 
+## required
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/required#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Please complete all required fields.
+
+例句来源：逐词编写的学习例句
+
 ## requirement
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/requirement#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The laptop meets the software’s minimum requirements.
 
 例句来源：逐词编写的学习例句
 
-> The requirements of life as we know it include carbon, oxygen, hydrogen, water, and energy.
+## requirements
 
-例句来源：Wiktionary 用例
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/requirements#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The course lists its entry requirements on the first page.
+
+例句来源：逐词编写的学习例句
+
+## requires
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/requires#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The job requires patience and careful attention.
+
+例句来源：逐词编写的学习例句
+
+## requiring
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/requiring#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> This is a task requiring patience and care.
+
+例句来源：逐词编写的学习例句
 
 ## requisite
 
@@ -9332,16 +11495,12 @@
 ## requisition
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/requisition#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The technician submitted a requisition for replacement parts.
 
 例句来源：逐词编写的学习例句
-
-> a requisition for clothing, troops, or money
-
-例句来源：Wiktionary 用例
 
 ## requisitive
 
@@ -9376,12 +11535,52 @@
 ## reread
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reread#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> It's a good idea to always reread email before sending it.
+> Please reread the last paragraph before answering.
 
-例句来源：[Tatoeba；作者：CK；句子 #6691467；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/6691467)
+例句来源：逐词编写的学习例句
+
+## rerecord
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rerecord#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> We need to rerecord the introduction.
+
+例句来源：逐词编写的学习例句
+
+## rerecorded
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rerecorded#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She rerecorded the vocals the next morning.
+
+例句来源：逐词编写的学习例句
+
+## rerecording
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rerecording#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The actors are rerecording the dialogue.
+
+例句来源：逐词编写的学习例句
+
+## rerecords
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rerecords#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She rerecords any section with unclear speech.
+
+例句来源：逐词编写的学习例句
 
 ## reroute
 
@@ -9396,22 +11595,22 @@
 ## rerun
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rerun#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> I'm not a fan of the new Simpsons episodes, but the old reruns have me in stitches, although I've seen them countless times.
+> We reran the test with a larger sample.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## resale
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/resale#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The resale value was high as the items were quite rare.
+> The car has a strong resale value.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## rescale
 
@@ -9426,12 +11625,12 @@
 ## reschedule
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reschedule#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> We'll have to reschedule next Monday's meeting because of the public holiday.
+> Can we reschedule the meeting for Monday?
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## rescind
 
@@ -9463,29 +11662,75 @@
 
 例句来源：逐词编写的学习例句
 
+## rescued
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rescued#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> They rescued a dog from the river.
+
+例句来源：逐词编写的学习例句
+
 ## rescuer
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rescuer#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Rescuers reached the climbers shortly before sunset.
 
 例句来源：逐词编写的学习例句
 
-> Rodrigo needs to perform his duty as a rescuer.
+## research
 
-例句来源：[Tatoeba；作者：Amastan；句子 #11776235；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/11776235)
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/research#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She does research into local history.
+
+例句来源：逐词编写的学习例句
+
+## researched
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/researched#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She researched the history of the house before writing the article.
+
+例句来源：逐词编写的学习例句
 
 ## researcher
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/researcher#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Carlos's work as a researcher requires him to have strong analytical skills.
+> The researcher compared letters from several archives.
 
-例句来源：[Tatoeba；作者：Amastan；句子 #11744159；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/11744159)
+例句来源：逐词编写的学习例句
+
+## researchers
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/researchers#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Researchers collected data from several schools.
+
+例句来源：逐词编写的学习例句
+
+## researching
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/researching#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> I am researching the history of this neighbourhood.
+
+例句来源：逐词编写的学习例句
 
 ## reselect
 
@@ -9500,28 +11745,58 @@
 ## resell
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/resell#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> They buy these goods cheaply overseas and then mark them up to resell at home.
+> He bought the desk cheaply and resold it a year later.
 
-例句来源：[Tatoeba；作者：CK；句子 #305629；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/305629)
+例句来源：逐词编写的学习例句
 
 ## reseller
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reseller#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> We bought the equipment from an authorised reseller.
+
+例句来源：逐词编写的学习例句
+
+## resellers
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/resellers#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The manufacturer supplies products to resellers across the country.
+
+例句来源：逐词编写的学习例句
+
+## reselling
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reselling#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She started a small business reselling used cameras.
+
+例句来源：逐词编写的学习例句
+
+## resells
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/resells#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The shop repairs old bicycles and resells them.
+
+例句来源：逐词编写的学习例句
 
 ## resemblance
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/resemblance#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Mars is all the more interesting for its close resemblance to our Earth.
-
-例句来源：[Tatoeba；作者：Dejo；句子 #23788；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/23788)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The sisters bear a striking resemblance to each other.
 
@@ -9540,12 +11815,12 @@
 ## resend
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/resend#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> I didn't get your email. You'll have to resend it.
+> Could you resend the attachment, please?
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## resent
 
@@ -9557,45 +11832,83 @@
 
 例句来源：逐词编写的学习例句
 
+## resented
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/resented#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> He resented being treated like a child.
+
+例句来源：逐词编写的学习例句
+
 ## resentful
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/resentful#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > He sounded resentful about the extra work.
 
 例句来源：逐词编写的学习例句
 
-> Resentful at the way he was treated.
+## resentfully
 
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adj:00116529](https://wordnet.princeton.edu/)
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/resentfully#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> He looked resentfully at the pile of extra work.
+
+例句来源：逐词编写的学习例句
+
+## resenting
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/resenting#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She found herself resenting the extra work.
+
+例句来源：逐词编写的学习例句
 
 ## resentment
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/resentment#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The unequal workload caused resentment within the team.
 
 例句来源：逐词编写的学习例句
 
-> There is a lot of distrust and resentment between Algeria and Morocco.
+## resents
 
-例句来源：[Tatoeba；作者：Amastan；句子 #7861005；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/7861005)
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/resents#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She resents being left out of the discussion.
+
+例句来源：逐词编写的学习例句
 
 ## reservation
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reservation#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> A vehicle crashed through the central reservation into the path of oncoming traffic.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > I made a reservation for Friday night.
+
+例句来源：逐词编写的学习例句
+
+## reservations
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reservations#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> We made reservations for dinner.
 
 例句来源：逐词编写的学习例句
 
@@ -9619,43 +11932,85 @@
 
 例句来源：逐词编写的学习例句
 
+## reserves
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reserves#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The region has several nature reserves.
+
+例句来源：逐词编写的学习例句
+
 ## reservist
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reservist#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> The operational reservist actively supports the armed forces during exercises or specific missions.
-
-例句来源：[Tatoeba；作者：Igider；句子 #13362864；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/13362864)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The reservists attended a training exercise.
+
+例句来源：逐词编写的学习例句
+
+## reservoir
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reservoir#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The path runs beside a large reservoir.
+
+例句来源：逐词编写的学习例句
+
+## reservoirs
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reservoirs#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The map marks three reservoirs in the hills.
 
 例句来源：逐词编写的学习例句
 
 ## reset
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reset#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Reset instruments and dials.
+> We reset the clock after the power cut.
 
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset verb:00298773](https://wordnet.princeton.edu/)
+例句来源：逐词编写的学习例句
+
+## resets
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/resets#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She resets the clock after a power cut.
+
+例句来源：逐词编写的学习例句
+
+## resetting
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/resetting#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> He was resetting the clock when I called.
+
+例句来源：逐词编写的学习例句
 
 ## resettle
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/resettle#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The family resettled in a nearby town after the flood.
 
 例句来源：逐词编写的学习例句
-
-> The immigrants had to resettle.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset verb:00415828](https://wordnet.princeton.edu/)
 
 ## resettlement
 
@@ -9670,22 +12025,22 @@
 ## reshape
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reshape#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> We do not want to discard the article but reshape it.
+> She softened the clay and reshaped the bowl.
 
-例句来源：[Tatoeba；作者：alcalino；句子 #3441312；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/3441312)
+例句来源：逐词编写的学习例句
 
 ## reshoot
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reshoot#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> They had to reshoot the scene because the explosion had made everyone jump.
+> The director decided to reshoot the final scene.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## reside
 
@@ -9700,12 +12055,8 @@
 ## residence
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/residence#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> He refused to live in the governor's residence.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset noun:04079244](https://wordnet.princeton.edu/)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The form asks for your current place of residence.
 
@@ -9714,30 +12065,22 @@
 ## residency
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/residency#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > She completed her residency at a teaching hospital.
 
 例句来源：逐词编写的学习例句
 
-> The trance DJ was keen to secure a residency in Ibiza.
-
-例句来源：Wiktionary 用例
-
 ## resident
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/resident#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Local residents asked for a safer crossing.
 
 例句来源：逐词编写的学习例句
-
-> She's a resident in neurosurgery at Mass General.
-
-例句来源：Wiktionary 用例
 
 ## residential
 
@@ -9746,6 +12089,16 @@
 - 中文释义资料：逐词编写的中文释义
 
 > The factory has been converted into residential buildings.
+
+例句来源：逐词编写的学习例句
+
+## residents
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/residents#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Local residents helped clean the park after the storm.
 
 例句来源：逐词编写的学习例句
 
@@ -9782,16 +12135,12 @@
 ## resignation
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/resignation#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > She submitted her resignation on Monday.
 
 例句来源：逐词编写的学习例句
-
-> With resignation I acknowledged that after the accident I would not be able to ski again.
-
-例句来源：Wiktionary 用例
 
 ## resigned
 
@@ -9836,12 +12185,8 @@
 ## resilience
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/resilience#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> It’s the trials that teach us resilience, not just the good times.
-
-例句来源：[Tatoeba；作者：Nuel；句子 #13647785；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/13647785)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The foam regained its shape, showing good resilience.
 
@@ -9850,12 +12195,8 @@
 ## resiliency
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/resiliency#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Nathan has also noticed the resiliency of her children.
-
-例句来源：[Tatoeba；作者：Hybrid；句子 #8653795；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/8653795)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Repeated use gradually reduced the cushion’s resiliency.
 
@@ -9864,12 +12205,8 @@
 ## resilient
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/resilient#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> As resilient as seasoned hickory.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adj:00843595](https://wordnet.princeton.edu/)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The sole is made from a light, resilient material.
 
@@ -9898,69 +12235,62 @@
 ## resistance
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/resistance#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The proposal met strong resistance from local residents.
 
 例句来源：逐词编写的学习例句
 
-> widespread resistance to the new urban development plans
-
-例句来源：Wiktionary 用例
-
 ## resistant
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/resistant#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The coating is resistant to moisture.
 
 例句来源：逐词编写的学习例句
 
-> The infection is resistant to antibiotics.
-
-例句来源：Wiktionary 用例
-
 ## resistive
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/resistive#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> He had a stubborn, resistive nature.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The heater uses resistive heating to warm the air.
 
 例句来源：逐词编写的学习例句
 
-## resistivity
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/resistivity#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
-
 ## resistor
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/resistor#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > A resistor limits the current through the indicator light.
 
 例句来源：逐词编写的学习例句
 
-> Tom is drawing the schematic for a resistor.
-
-例句来源：[Tatoeba；作者：shekitten；句子 #10049443；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/10049443)
-
 ## resize
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/resize#English)
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Resize the image before uploading it.
+
+例句来源：逐词编写的学习例句
+
+## resold
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/resold#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The book was resold to a collector a year later.
+
+例句来源：逐词编写的学习例句
 
 ## resolute
 
@@ -9975,14 +12305,40 @@
 ## resolutely
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/resolutely#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> He resolutely pushed forward from the start, overwhelming and pushing out his off-balance opponent.
-
-例句来源：[Tatoeba；作者：fcbond；句子 #329249；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/329249)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > She resolutely refused to change the figures.
+
+例句来源：逐词编写的学习例句
+
+## resoluteness
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/resoluteness#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Her calm resoluteness reassured the team.
+
+例句来源：逐词编写的学习例句
+
+## resolution
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/resolution#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The talks led to a peaceful resolution of the dispute.
+
+例句来源：逐词编写的学习例句
+
+## resolutions
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/resolutions#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She wrote down three resolutions for the new year.
 
 例句来源：逐词编写的学习例句
 
@@ -9996,15 +12352,21 @@
 
 例句来源：逐词编写的学习例句
 
+## resolved
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/resolved#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The technical issue has been resolved.
+
+例句来源：逐词编写的学习例句
+
 ## resolver
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/resolver#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> On the Internet, a DNS resolver maps domain names to IP addresses.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The DNS resolver returned the address associated with the domain name.
 
@@ -10053,10 +12415,30 @@
 ## resonator
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/resonator#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The wooden box acts as an acoustic resonator.
+
+例句来源：逐词编写的学习例句
+
+## resort
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/resort#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> They stayed at a quiet seaside resort.
+
+例句来源：逐词编写的学习例句
+
+## resorts
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/resorts#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The coast has several small beach resorts.
 
 例句来源：逐词编写的学习例句
 
@@ -10073,101 +12455,88 @@
 ## resounding
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/resounding#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The audience gave a resounding yes to the proposal.
 
 例句来源：逐词编写的学习例句
 
-> We had a resounding win against the rival team.
-
-例句来源：Wiktionary 用例
-
 ## resoundingly
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/resoundingly#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Members resoundingly rejected the proposed fee increase.
 
 例句来源：逐词编写的学习例句
 
-> The children resoundingly defeated the bully.
-
-例句来源：Wiktionary 用例
-
 ## resource
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/resource#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Time is the project’s most limited resource.
 
 例句来源：逐词编写的学习例句
 
-> a man or woman of resource
-
-例句来源：Wiktionary 用例
-
 ## resourceful
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/resourceful#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > She is resourceful enough to repair the shelter with what she finds nearby.
 
 例句来源：逐词编写的学习例句
 
-> With a resourceful use of space and a fresh coat of paint, the room became a pleasant library with a comfortable seating area.
-
-例句来源：Wiktionary 用例
-
 ## resourcefulness
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/resourcefulness#English)
 - 发音资料：核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> A man of great resourcefulness.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset noun:05155476](https://wordnet.princeton.edu/)
+- 中文释义资料：逐词编写的中文释义
 
 > Their resourcefulness kept the expedition going after the equipment failed.
+
+例句来源：逐词编写的学习例句
+
+## resources
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/resources#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The website provides free learning resources for adults.
 
 例句来源：逐词编写的学习例句
 
 ## resourcing
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/resourcing#English)
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The plan failed because of poor resourcing.
+
+例句来源：逐词编写的学习例句
 
 ## respect
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/respect#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Please respect her decision to leave early.
 
 例句来源：逐词编写的学习例句
 
-> We should respect each other's privacy.
-
-例句来源：编写的学习例句
-
 ## respectability
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/respectability#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> He has an air of respectability about him.
-
-例句来源：[Tatoeba；作者：Barra；句子 #5774728；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/5774728)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The office gave the small business an air of respectability.
 
@@ -10176,12 +12545,8 @@
 ## respectable
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/respectable#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> His accomplishments, morals, loyalty, and stature make him a respectable person.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > She built a respectable career in engineering.
 
@@ -10190,12 +12555,8 @@
 ## respectably
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/respectably#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> A respectably attired solicitor came to read the will.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The small team performed respectably in the tournament.
 
@@ -10211,15 +12572,21 @@
 
 例句来源：逐词编写的学习例句
 
+## respected
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/respected#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She is widely respected for her fairness.
+
+例句来源：逐词编写的学习例句
+
 ## respectful
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/respectful#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> It is of great importance that you act in a respectful manner towards the duke and duchess.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Please use a respectful tone during the discussion.
 
@@ -10228,40 +12595,42 @@
 ## respectfully
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/respectfully#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Might I respectfully suggest to the Town Council that they should adopt a policy of masterly inactivity?
+> The students listened respectfully to the guest.
 
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adv:00319275](https://wordnet.princeton.edu/)
+例句来源：逐词编写的学习例句
 
 ## respective
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/respective#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The students returned to their respective classrooms.
 
 例句来源：逐词编写的学习例句
 
-> They returned to their respective places of abode.
-
-例句来源：Wiktionary 用例
-
 ## respectively
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/respectively#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Mia and Leo are eight and ten, respectively.
 
 例句来源：逐词编写的学习例句
 
-> The 49th and 50th states of the United States of America are Alaska and Hawaii, respectively.
+## respects
 
-例句来源：Wiktionary 用例
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/respects#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She respects our decision to wait.
+
+例句来源：逐词编写的学习例句
 
 ## respiration
 
@@ -10276,12 +12645,8 @@
 ## respirator
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/respirator#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Any N95 respirator is designed to filter out 95 percent of particles 0.3 microns or larger.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The training compared several types of respirator.
 
@@ -10290,16 +12655,12 @@
 ## respiratory
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/respiratory#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The model shows the main parts of the respiratory system.
 
 例句来源：逐词编写的学习例句
-
-> The respiratory therapist administered breathing treatments every six hours, per the doctor's orders.
-
-例句来源：[Tatoeba；作者：Delian；句子 #3890535；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/3890535)
 
 ## respite
 
@@ -10314,12 +12675,12 @@
 ## resplendent
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/resplendent#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The peacock displayed its resplendent plumage.
+> The hall was resplendent with flowers and lights.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## respond
 
@@ -10328,6 +12689,16 @@
 - 中文释义资料：逐词编写的中文释义
 
 > Please respond to the invitation by Friday.
+
+例句来源：逐词编写的学习例句
+
+## responded
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/responded#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She responded to the invitation the same day.
 
 例句来源：逐词编写的学习例句
 
@@ -10361,17 +12732,43 @@
 
 例句来源：逐词编写的学习例句
 
+## respondents
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/respondents#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Most respondents completed the questionnaire online.
+
+例句来源：逐词编写的学习例句
+
 ## responder
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/responder#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> 911 responders arrived at the scene within five minutes after the call.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Emergency responders reached the village before dawn.
+
+例句来源：逐词编写的学习例句
+
+## responding
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/responding#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She paused before responding to the question.
+
+例句来源：逐词编写的学习例句
+
+## responds
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/responds#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She responds to questions in clear, simple language.
 
 例句来源：逐词编写的学习例句
 
@@ -10385,19 +12782,35 @@
 
 例句来源：逐词编写的学习例句
 
+## responses
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/responses#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The survey received responses from over a hundred people.
+
+例句来源：逐词编写的学习例句
+
+## responsibilities
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/responsibilities#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Her new responsibilities include training the volunteers.
+
+例句来源：逐词编写的学习例句
+
 ## responsibility
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/responsibility#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > She took responsibility for correcting the mistake.
 
 例句来源：逐词编写的学习例句
-
-> Why didn't you clean the house? That was your responsibility!
-
-例句来源：Wiktionary 用例
 
 ## responsible
 
@@ -10413,15 +12826,11 @@
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/responsibly#English)
 - 发音资料：核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 中文释义资料：逐词编写的中文释义
 
 > The club expects members to use the equipment responsibly.
 
 例句来源：逐词编写的学习例句
-
-> We must act responsibly.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adv:00106503](https://wordnet.princeton.edu/)
 
 ## responsion
 
@@ -10446,12 +12855,8 @@
 ## responsiveness
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/responsiveness#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> The responsiveness of my old PC is nearly zero!
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Users praised the responsiveness of the new interface.
 
@@ -10470,22 +12875,52 @@
 ## rest
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rest#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> It was nice to have a rest from the phone ringing when I unplugged it for a while.
+> Let’s take a rest before the next climb.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## restart
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/restart#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> After the restart of my browser, the problem went away.
+> Please save your work before restarting the computer.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## restarted
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/restarted#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She restarted the engine after a short wait.
+
+例句来源：逐词编写的学习例句
+
+## restarting
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/restarting#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The machine is restarting now.
+
+例句来源：逐词编写的学习例句
+
+## restarts
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/restarts#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The race restarts after the track is cleared.
+
+例句来源：逐词编写的学习例句
 
 ## restate
 
@@ -10500,28 +12935,52 @@
 ## restatement
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/restatement#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The final paragraph is a clear restatement of the main idea.
+
+例句来源：逐词编写的学习例句
+
+## restaurant
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/restaurant#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> We found a small restaurant beside the river.
+
+例句来源：逐词编写的学习例句
+
+## restaurants
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/restaurants#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Several restaurants on this street stay open late.
+
+例句来源：逐词编写的学习例句
 
 ## restful
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/restful#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> After a hard day, Sue found the beauty of the park especially restful.
+> We spent a restful weekend in the countryside.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## resting
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/resting#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> She fell asleep at her desk, her head resting on the keyboard.
+> The dog was resting in the shade.
 
-例句来源：[Tatoeba；作者：sundown；句子 #10191020；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/10191020)
+例句来源：逐词编写的学习例句
 
 ## restitution
 
@@ -10536,47 +12995,42 @@
 ## restless
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/restless#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> They remained restless, sitting by the window the entire night.
+> The children grew restless during the long wait.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## restlessly
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/restlessly#English)
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> He cracked his knuckles restlessly.
+> He paced restlessly outside the office.
 
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adv:00207012](https://wordnet.princeton.edu/)
+例句来源：逐词编写的学习例句
 
 ## restlessness
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/restlessness#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> She sat and fidgeted out of restlessness as she waited.
+> A sense of restlessness made him want to travel again.
 
-例句来源：Wiktionary 用例
-
-## resto
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/resto#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+例句来源：逐词编写的学习例句
 
 ## restock
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/restock#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> We will carry out a restock of the vending machine every Friday.
+> The staff restock the shelves every morning.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## restoration
 
@@ -10591,32 +13045,62 @@
 ## restorative
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/restorative#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> After a long day working in the fields Clarence took comfort in a restorative pint of beer.
+> A quiet walk felt restorative after the busy day.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## restore
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/restore#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The team restored the painting to its former brightness.
 
 例句来源：逐词编写的学习例句
 
-> to restore harmony among those who are at variance
+## restored
 
-例句来源：Wiktionary 用例
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/restored#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The old theatre was carefully restored.
+
+例句来源：逐词编写的学习例句
 
 ## restorer
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/restorer#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The art restorer cleaned the painting carefully.
+
+例句来源：逐词编写的学习例句
+
+## restores
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/restores#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The workshop restores old furniture.
+
+例句来源：逐词编写的学习例句
+
+## restoring
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/restoring#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The team is restoring a wooden bridge.
+
+例句来源：逐词编写的学习例句
 
 ## restrain
 
@@ -10671,50 +13155,42 @@
 ## restriction
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/restriction#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> The restriction of the infection to a focal area.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset noun:01148614](https://wordnet.princeton.edu/)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > There are no restrictions on how many books you can reserve.
+
+例句来源：逐词编写的学习例句
+
+## restrictions
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/restrictions#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The sign explains the parking restrictions.
 
 例句来源：逐词编写的学习例句
 
 ## restrictive
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/restrictive#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The team found the approval process too restrictive.
 
 例句来源：逐词编写的学习例句
 
-> This kind of restrictive legislation is bound to hobble the economy.
-
-例句来源：[Tatoeba；作者：PeterR；句子 #1345424；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/1345424)
-
-## restrictor
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/restrictor#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
-
-> Have you tried adjusting the faucet's flow restrictor?
-
-例句来源：[Tatoeba；作者：Amastan；句子 #11892704；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/11892704)
-
 ## restroom
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/restroom#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Could you tell me where I can find the restroom?
+> The restrooms are near the entrance.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## restructure
 
@@ -10733,6 +13209,16 @@
 - 中文释义资料：逐词编写的中文释义
 
 > The restructuring brought the two support teams together.
+
+例句来源：逐词编写的学习例句
+
+## rests
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rests#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> He rests in the garden after lunch.
 
 例句来源：逐词编写的学习例句
 
@@ -10766,6 +13252,16 @@
 
 例句来源：逐词编写的学习例句
 
+## resulted
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/resulted#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The changes resulted in shorter waiting times.
+
+例句来源：逐词编写的学习例句
+
 ## resulting
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/resulting#English)
@@ -10776,15 +13272,55 @@
 
 例句来源：逐词编写的学习例句
 
-## resumption
+## results
 
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/resumption#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/results#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> China calls for the speedy resumption of negotiations between Palestine and Israel.
+> The results will be available on Friday.
 
-例句来源：[Tatoeba；作者：Miktsoanit；句子 #12204130；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/12204130)
+例句来源：逐词编写的学习例句
+
+## resume
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/resume#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> We will resume the meeting after lunch.
+
+例句来源：逐词编写的学习例句
+
+## resumed
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/resumed#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> They resumed work after the break.
+
+例句来源：逐词编写的学习例句
+
+## resumes
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/resumes#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The meeting resumes at two o’clock.
+
+例句来源：逐词编写的学习例句
+
+## resuming
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/resuming#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> They are resuming the discussion after a short break.
+
+例句来源：逐词编写的学习例句
 
 ## resupply
 
@@ -10809,16 +13345,12 @@
 ## resurgence
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/resurgence#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > There has been a resurgence of interest in handwritten letters.
 
 例句来源：逐词编写的学习例句
-
-> We see a resurgence of the wildlife.
-
-例句来源：[Tatoeba；作者：OsoHombre；句子 #7035426；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/7035426)
 
 ## resurgent
 
@@ -10850,35 +13382,65 @@
 
 例句来源：逐词编写的学习例句
 
-## resuscitation
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/resuscitation#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
-
-> Although he was apparently drowned, resuscitation was accomplished by artificial respiration.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset noun:01048210](https://wordnet.princeton.edu/)
-
 ## retail
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/retail#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> I never pay retail for clothes.
+> She works in retail.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## retailed
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/retailed#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The model originally retailed for two hundred dollars.
+
+例句来源：逐词编写的学习例句
 
 ## retailer
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/retailer#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Walmart is a dominant retailer in the United States.
+> The online retailer expanded its delivery service.
 
-例句来源：[Tatoeba；作者：Hybrid；句子 #8383514；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/8383514)
+例句来源：逐词编写的学习例句
+
+## retailers
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/retailers#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Local retailers displayed books in their windows.
+
+例句来源：逐词编写的学习例句
+
+## retailing
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/retailing#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Online retailing has changed how many people shop.
+
+例句来源：逐词编写的学习例句
+
+## retails
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/retails#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The camera retails for about three hundred pounds.
+
+例句来源：逐词编写的学习例句
 
 ## retain
 
@@ -10890,19 +13452,35 @@
 
 例句来源：逐词编写的学习例句
 
+## retained
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/retained#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The building retained its original name.
+
+例句来源：逐词编写的学习例句
+
 ## retainer
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/retainer#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The firm pays the consultant a monthly retainer.
 
 例句来源：逐词编写的学习例句
 
-> This lawyer charges a retainer for his work.
+## retaining
 
-例句来源：Wiktionary 用例
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/retaining#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The thick walls help with retaining heat.
+
+例句来源：逐词编写的学习例句
 
 ## retainment
 
@@ -10911,6 +13489,16 @@
 - 中文释义资料：逐词编写的中文释义
 
 > The policy addresses the retainment of historical records.
+
+例句来源：逐词编写的学习例句
+
+## retains
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/retains#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The restored house retains its original wooden doors.
 
 例句来源：逐词编写的学习例句
 
@@ -10924,25 +13512,35 @@
 
 例句来源：逐词编写的学习例句
 
+## retaliate
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/retaliate#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She refused to retaliate after the insult.
+
+例句来源：逐词编写的学习例句
+
 ## retaliation
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/retaliation#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Whistleblowers alleged numerous cases of gross mismanagement, retaliation and investigations into staff that had a debilitating effect.
+> They closed the border in retaliation for the attack.
 
-例句来源：[Tatoeba；作者：shekitten；句子 #9695409；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/9695409)
+例句来源：逐词编写的学习例句
 
 ## retaliatory
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/retaliatory#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The hostile forces were at an impasse; neither could attack with enough force and still defend against the retaliatory counterattack.
+> Both sides wanted to avoid a cycle of retaliatory actions.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## retard
 
@@ -10957,8 +13555,8 @@
 ## retardant
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/retardant#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The crew applied a fire retardant around the threatened area.
 
@@ -10977,26 +13575,22 @@
 ## retarded
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/retarded#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The setting of the concrete was retarded by the additive.
 
 例句来源：逐词编写的学习例句
 
-> This kind of plant is usually of a retarded growth.
-
-例句来源：Wiktionary 用例
-
 ## retell
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/retell#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The author decided to retell the classic fairy tale with a modern twist.
+> Retell the story in your own words.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## retention
 
@@ -11021,8 +13615,12 @@
 ## retest
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/retest#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The laboratory will retest the sample tomorrow.
+
+例句来源：逐词编写的学习例句
 
 ## rethink
 
@@ -11064,15 +13662,6 @@
 
 例句来源：逐词编写的学习例句
 
-## reticulated
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reticulated#English)
-- 中文释义资料：ECDICT
-
-> reticulated polyurethane foam
-
-例句来源：Wiktionary 用例
-
 ## retina
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/retina#English)
@@ -11086,12 +13675,8 @@
 ## retinal
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/retinal#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> 3-D glasses make use of retinal disparity.
-
-例句来源：[Tatoeba；作者：DJ\_Saidez；句子 #9178604；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/9178604)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The researchers examined retinal cells under a microscope.
 
@@ -11130,8 +13715,8 @@
 ## retinol
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/retinol#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The cream’s ingredient list includes retinol.
 
@@ -11140,8 +13725,12 @@
 ## retinopathy
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/retinopathy#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The researcher studied images of retinopathy.
+
+例句来源：逐词编写的学习例句
 
 ## retinue
 
@@ -11156,58 +13745,62 @@
 ## retire
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/retire#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> I have decided to retire from football at the end of the season after the World Cup.
+> She retired from teaching last year.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## retired
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/retired#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Following Jackie Robinson's success, his uniform number, 42, became a retired number across all major league teams.
+> A retired teacher now leads the reading group.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## retiree
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/retiree#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> He has been a retiree since 2001.
+> Several retirees volunteer at the local museum.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## retirement
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/retirement#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The general lived the rest of his life peacefully after his retirement.
+> The team organised a retirement party for her.
 
-例句来源：[Tatoeba；作者：CM；句子 #46559；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/46559)
+例句来源：逐词编写的学习例句
+
+## retiring
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/retiring#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She is quiet and retiring, but very observant.
+
+例句来源：逐词编写的学习例句
 
 ## retool
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/retool#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> He decided it was time to retool last year's marketing brochure.
+> The factory retooled to make smaller engines.
 
-例句来源：Wiktionary 用例
-
-## retooling
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/retooling#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+例句来源：逐词编写的学习例句
 
 ## retort
 
@@ -11216,6 +13809,46 @@
 - 中文释义资料：逐词编写的中文释义
 
 > “You were late too,” she retorted.
+
+例句来源：逐词编写的学习例句
+
+## retrace
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/retrace#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> We had to retrace our steps to find the missing keys.
+
+例句来源：逐词编写的学习例句
+
+## retraced
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/retraced#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> We retraced our steps and found the scarf on a bench.
+
+例句来源：逐词编写的学习例句
+
+## retraces
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/retraces#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She retraces her steps whenever she loses her keys.
+
+例句来源：逐词编写的学习例句
+
+## retracing
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/retracing#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> We spent the morning retracing the route of our first walk.
 
 例句来源：逐词编写的学习例句
 
@@ -11232,42 +13865,32 @@
 ## retractable
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/retractable#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> In the summer, the retractable roof of the pool is opened.
+> The stadium has a retractable roof.
 
-例句来源：[Tatoeba；作者：DJ\_Saidez；句子 #11903514；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/11903514)
+例句来源：逐词编写的学习例句
 
 ## retraction
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/retraction#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The journal published a retraction of the article.
 
 例句来源：逐词编写的学习例句
 
-> The retraction of the landing gear.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset noun:00341695](https://wordnet.princeton.edu/)
-
-## retractor
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/retractor#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
-
 ## retrain
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/retrain#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> We must retrain the linguists who cannot find employment.
+> The company retrained staff to use the new equipment.
 
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset verb:00603822](https://wordnet.princeton.edu/)
+例句来源：逐词编写的学习例句
 
 ## retransmission
 
@@ -11292,8 +13915,22 @@
 ## retread
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/retread#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The workshop retreads tyres for commercial vehicles.
+
+例句来源：逐词编写的学习例句
+
+## retreat
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/retreat#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The hikers decided to retreat before the weather worsened.
+
+例句来源：逐词编写的学习例句
 
 ## retrench
 
@@ -11308,8 +13945,8 @@
 ## retrenchment
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/retrenchment#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The budget marks a period of retrenchment after rapid growth.
 
@@ -11318,8 +13955,12 @@
 ## retrial
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/retrial#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The judge ordered a retrial.
+
+例句来源：逐词编写的学习例句
 
 ## retribution
 
@@ -11351,6 +13992,16 @@
 
 例句来源：逐词编写的学习例句
 
+## retrievals
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/retrievals#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The log records how many document retrievals were completed.
+
+例句来源：逐词编写的学习例句
+
 ## retrieve
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/retrieve#English)
@@ -11361,19 +14012,55 @@
 
 例句来源：逐词编写的学习例句
 
+## retrieved
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/retrieved#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> I retrieved my bag from the luggage room.
+
+例句来源：逐词编写的学习例句
+
 ## retriever
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/retriever#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Their golden retriever loves carrying toys back to them.
 
 例句来源：逐词编写的学习例句
 
-> Tom has a personality like a golden retriever.
+## retrievers
 
-例句来源：[Tatoeba；作者：Miktsoanit；句子 #12346382；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/12346382)
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/retrievers#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Two golden retrievers were playing beside the lake.
+
+例句来源：逐词编写的学习例句
+
+## retrieves
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/retrieves#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The dog retrieves the ball and drops it at my feet.
+
+例句来源：逐词编写的学习例句
+
+## retrieving
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/retrieving#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The dog is retrieving the stick from the water.
+
+例句来源：逐词编写的学习例句
 
 ## retro
 
@@ -11388,12 +14075,8 @@
 ## retroactive
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/retroactive#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Retroactive jealousy is more toxic than reactive jealousy.
-
-例句来源：[Tatoeba；作者：soliloquist；句子 #10730346；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/10730346)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The pay rise was announced in March but was retroactive to January.
 
@@ -11402,26 +14085,18 @@
 ## retroactively
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/retroactively#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The allowance will be paid retroactively from the start of the year.
 
 例句来源：逐词编写的学习例句
 
-> The new legislature passed a resolution retroactively legalizing the actions of the revolutionaries that brought them to power.
-
-例句来源：Wiktionary 用例
-
 ## retrofit
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/retrofit#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> The bug was so bad that we had to retrofit our patch to the last three releases, as well as the newest release.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The council plans to retrofit older homes with better insulation.
 
@@ -11480,12 +14155,8 @@
 ## retrospect
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/retrospect#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> In retrospect, maybe I shouldn't have posted that photo in my blog.
-
-例句来源：[Tatoeba；作者：CK；句子 #953974；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/953974)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > In retrospect, the original deadline was far too ambitious.
 
@@ -11504,26 +14175,18 @@
 ## retrospective
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/retrospective#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The gallery held a retrospective of her paintings.
 
 例句来源：逐词编写的学习例句
 
-> We'll start the meeting with a retrospective look at the past year.
-
-例句来源：[Tatoeba；作者：AlanF\_US；句子 #7049458；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/7049458)
-
 ## retrospectively
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/retrospectively#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Retrospectively, he seems like a great artist.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adv:00443097](https://wordnet.princeton.edu/)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The researchers analyzed the records retrospectively.
 
@@ -11552,42 +14215,122 @@
 ## retry
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/retry#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> to retry connecting to the Internet after an error
+> Please retry the connection in a few minutes.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## return
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/return#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Although the birds fly north for the summer, they return here in winter.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Please return the book to the library by Friday.
+
+例句来源：逐词编写的学习例句
+
+## returned
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/returned#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> We returned the keys before leaving the guesthouse.
 
 例句来源：逐词编写的学习例句
 
 ## returnee
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/returnee#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The centre provides advice for overseas returnees.
+
+例句来源：逐词编写的学习例句
 
 ## returner
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/returner#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The programme supports returners to work after a career break.
+
+例句来源：逐词编写的学习例句
+
+## returning
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/returning#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The children are returning from the museum.
+
+例句来源：逐词编写的学习例句
+
+## returns
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/returns#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She returns the keys before leaving the building.
+
+例句来源：逐词编写的学习例句
 
 ## retweet
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/retweet#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She retweeted the museum’s announcement.
+
+例句来源：逐词编写的学习例句
+
+## retype
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/retype#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Please retype the address in the second box.
+
+例句来源：逐词编写的学习例句
+
+## retyped
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/retyped#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> I retyped the address after noticing a missing letter.
+
+例句来源：逐词编写的学习例句
+
+## retypes
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/retypes#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She retypes the number to check it.
+
+例句来源：逐词编写的学习例句
+
+## retyping
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/retyping#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She was retyping the list when I arrived.
+
+例句来源：逐词编写的学习例句
 
 ## reunification
 
@@ -11629,29 +14372,41 @@
 
 例句来源：逐词编写的学习例句
 
+## reunited
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reunited#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The two friends were reunited after many years.
+
+例句来源：逐词编写的学习例句
+
 ## reupload
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reupload#English)
-- 发音资料：Wiktionary
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Both of my reuploads failed.
+> She corrected the caption and reuploaded the video.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## reusability
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reusability#English)
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The design improves the reusability of the containers.
+
+例句来源：逐词编写的学习例句
 
 ## reusable
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reusable#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> I try to use reusable bags and be a more green consumer.
-
-例句来源：[Tatoeba；作者：letsgolanguages；句子 #10094052；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/10094052)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > She carries a reusable bottle to work.
 
@@ -11667,15 +14422,21 @@
 
 例句来源：逐词编写的学习例句
 
+## rev
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rev#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> There is no need to rev the engine while the car is parked.
+
+例句来源：逐词编写的学习例句
+
 ## revaluation
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/revaluation#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> After the soldiers raided her farm for supplies, she was forced to a revaluation of their benefit as protectors.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The museum arranged a revaluation of its collection for insurance purposes.
 
@@ -11711,19 +14472,35 @@
 
 例句来源：逐词编写的学习例句
 
+## revealed
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/revealed#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The old photographs revealed how much the street had changed.
+
+例句来源：逐词编写的学习例句
+
 ## revealing
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/revealing#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Her hesitation was more revealing than her answer.
 
 例句来源：逐词编写的学习例句
 
-> Her shirt is rather revealing.
+## reveals
 
-例句来源：Wiktionary 用例
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reveals#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The photograph reveals details that are hard to see from the road.
+
+例句来源：逐词编写的学习例句
 
 ## reveille
 
@@ -11758,14 +14535,12 @@
 ## revelatory
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/revelatory#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-## reveling
+> The interview was revelatory about her early career.
 
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reveling#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+例句来源：逐词编写的学习例句
 
 ## reveller
 
@@ -11787,6 +14562,16 @@
 
 例句来源：逐词编写的学习例句
 
+## revenge
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/revenge#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The novel follows a character who is consumed by a desire for revenge.
+
+例句来源：逐词编写的学习例句
+
 ## revenue
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/revenue#English)
@@ -11794,6 +14579,16 @@
 - 中文释义资料：逐词编写的中文释义
 
 > The company reported higher revenue but lower profit.
+
+例句来源：逐词编写的学习例句
+
+## revenues
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/revenues#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Advertising revenues fell during the year.
 
 例句来源：逐词编写的学习例句
 
@@ -11810,39 +14605,82 @@
 ## reverberate
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reverberate#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The drumbeat reverberated through the empty hall.
 
 例句来源：逐词编写的学习例句
 
-> The waves reverberate as far away as the end of the building.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset verb:02136533](https://wordnet.princeton.edu/)
-
 ## reverberation
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reverberation#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Like the several reverberations of the same image from two opposite looking glasses.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Thick curtains reduced the reverberation in the room.
+
+例句来源：逐词编写的学习例句
+
+## revere
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/revere#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Many former students revere her as a great teacher.
+
+例句来源：逐词编写的学习例句
+
+## reverence
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reverence#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She spoke of her mentor with reverence.
+
+例句来源：逐词编写的学习例句
+
+## reverend
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reverend#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The notice names the Reverend Anne Brown as the speaker.
+
+例句来源：逐词编写的学习例句
+
+## reverent
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reverent#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The visitors stood in reverent silence.
+
+例句来源：逐词编写的学习例句
+
+## reverential
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reverential#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The biography takes a reverential approach to its subject.
 
 例句来源：逐词编写的学习例句
 
 ## reverently
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reverently#English)
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> He gazed reverently at the handiwork.
+> She opened the old notebook reverently.
 
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adv:00443461](https://wordnet.princeton.edu/)
+例句来源：逐词编写的学习例句
 
 ## reversal
 
@@ -11864,30 +14702,35 @@
 
 例句来源：逐词编写的学习例句
 
+## reversed
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reversed#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She reversed the order of the two paragraphs.
+
+例句来源：逐词编写的学习例句
+
 ## reversibility
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reversibility#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The experiment tests the reversibility of the change.
+
+例句来源：逐词编写的学习例句
 
 ## reversible
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reversible#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> A reversible chemical reaction.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adj:00346626](https://wordnet.princeton.edu/)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The jacket is reversible, with blue on one side and grey on the other.
 
 例句来源：逐词编写的学习例句
-
-## reversibly
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reversibly#English)
-- 中文释义资料：ECDICT
 
 ## reversion
 
@@ -11922,12 +14765,8 @@
 ## reviewable
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reviewable#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Ordinarily an order allowing a claim is not reviewable on petition.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The policy states that the decision is reviewable.
 
@@ -11943,17 +14782,43 @@
 
 例句来源：逐词编写的学习例句
 
+## reviewed
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reviewed#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The team reviewed the plan before sending it out.
+
+例句来源：逐词编写的学习例句
+
 ## reviewer
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reviewer#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> The gentleman with his pipe in his mouth is a famous reviewer.
-
-例句来源：[Tatoeba；作者：Jesse；句子 #35518；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/35518)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The reviewer praised the novel’s dialogue.
+
+例句来源：逐词编写的学习例句
+
+## reviewing
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reviewing#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She is reviewing her notes before class.
+
+例句来源：逐词编写的学习例句
+
+## reviews
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reviews#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The book received several thoughtful reviews.
 
 例句来源：逐词编写的学习例句
 
@@ -11987,6 +14852,16 @@
 
 例句来源：逐词编写的学习例句
 
+## revised
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/revised#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> We revised the plan after the discussion.
+
+例句来源：逐词编写的学习例句
+
 ## revision
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/revision#English)
@@ -12010,12 +14885,8 @@
 ## revisionism
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/revisionism#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Most countries indulge in a little historical revisionism.
-
-例句来源：[Tatoeba；作者：Chrikaru；句子 #4047358；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/4047358)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The seminar examined debates about historical revisionism.
 
@@ -12024,10 +14895,20 @@
 ## revisionist
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/revisionist#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The historian offered a revisionist account of the conflict.
+
+例句来源：逐词编写的学习例句
+
+## revisions
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/revisions#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The editor requested minor revisions.
 
 例句来源：逐词编写的学习例句
 
@@ -12055,25 +14936,17 @@
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/revitalise#English)
 - 发音资料：核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 中文释义资料：逐词编写的中文释义
 
 > New members helped revitalise the debating club.
 
 例句来源：逐词编写的学习例句
 
-> We must collaborate to revitalise our relationship.
-
-例句来源：[Tatoeba；作者：Nuel；句子 #11523969；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/11523969)
-
 ## revitalization
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/revitalization#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Despite revitalization efforts, the number of speakers of the language continues to decline.
-
-例句来源：[Tatoeba；作者：mailohilohi；句子 #5922019；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/5922019)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Residents played a central role in the neighbourhood’s revitalization.
 
@@ -12082,12 +14955,8 @@
 ## revitalize
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/revitalize#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> City planners hope that new businesses will revitalize the downtown area.
-
-例句来源：[Tatoeba；作者：CarpeLanam；句子 #6150400；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/6150400)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The new library helped revitalize the town centre.
 
@@ -12096,26 +14965,12 @@
 ## revival
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/revival#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The town has seen a revival of traditional crafts.
 
 例句来源：逐词编写的学习例句
-
-> the revival of a debt barred by limitation
-
-例句来源：Wiktionary 用例
-
-## revivalist
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/revivalist#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
-
-> an Art Deco revivalist
-
-例句来源：Wiktionary 用例
 
 ## revive
 
@@ -12127,33 +14982,35 @@
 
 例句来源：逐词编写的学习例句
 
+## revived
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/revived#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The festival revived an old local tradition.
+
+例句来源：逐词编写的学习例句
+
 ## revocable
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/revocable#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The access permission is revocable by the account owner.
 
 例句来源：逐词编写的学习例句
 
-> Your promotion to manager is revocable if you do something wrong.
-
-例句来源：Wiktionary 用例
-
 ## revocation
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/revocation#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The letter confirmed the revocation of the permit.
 
 例句来源：逐词编写的学习例句
-
-> The revocation of a law.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset noun:01258852](https://wordnet.princeton.edu/)
 
 ## revoke
 
@@ -12165,41 +15022,65 @@
 
 例句来源：逐词编写的学习例句
 
+## revolt
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/revolt#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The novel describes a revolt against an unjust ruler.
+
+例句来源：逐词编写的学习例句
+
+## revolting
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/revolting#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> A revolting smell came from the old bin.
+
+例句来源：逐词编写的学习例句
+
 ## revolution
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/revolution#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> It takes 365 days for the Earth to complete one revolution around the sun.
+> The wheel makes one revolution every two seconds.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## revolutionary
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/revolutionary#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> a revolutionary new tool
+> The engineer proposed a revolutionary design.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## revolutionise
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/revolutionise#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The railway revolutionised travel between the cities.
+
+例句来源：逐词编写的学习例句
 
 ## revolutionize
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/revolutionize#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Carlos is excited about the potential of genetic engineering to revolutionize medicine.
+> The railway revolutionized travel between the cities.
 
-例句来源：[Tatoeba；作者：Amastan；句子 #11746647；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/11746647)
+例句来源：逐词编写的学习例句
 
 ## revolve
 
@@ -12214,79 +15095,222 @@
 ## revolver
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/revolver#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The museum displays a nineteenth-century revolver.
 
 例句来源：逐词编写的学习例句
 
-> Tom fired his revolver at the man who had just killed Mary.
+## revs
 
-例句来源：[Tatoeba；作者：CK；句子 #2639721；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/2639721)
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/revs#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The engine runs smoothly at low revs.
+
+例句来源：逐词编写的学习例句
+
+## revulsion
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/revulsion#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She felt revulsion at the cruelty described in the story.
+
+例句来源：逐词编写的学习例句
+
+## revved
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/revved#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The driver revved the engine, but the car did not move.
+
+例句来源：逐词编写的学习例句
+
+## revving
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/revving#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> A motorbike was revving outside the window.
+
+例句来源：逐词编写的学习例句
+
+## reward
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reward#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> They offered a reward for the return of the missing dog.
+
+例句来源：逐词编写的学习例句
+
+## rewarded
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rewarded#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Their patience was rewarded with a clear view of the mountains.
+
+例句来源：逐词编写的学习例句
+
+## rewarding
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rewarding#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Restoring the old garden was hard but rewarding work.
+
+例句来源：逐词编写的学习例句
+
+## rewards
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rewards#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The work has its own rewards.
+
+例句来源：逐词编写的学习例句
 
 ## rewatch
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rewatch#English)
-- 发音资料：Wiktionary
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> It's not the best film I've ever seen, but it probably deserves a rewatch.
+> I rewatched the episode to catch the details I missed.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## rewind
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rewind#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Let's rewind the clock to an earlier time.
+> Could you rewind the video to the start of the interview?
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## rewinding
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rewinding#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The machine is rewinding the tape.
+
+例句来源：逐词编写的学习例句
+
+## rewinds
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rewinds#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> This button rewinds the tape.
+
+例句来源：逐词编写的学习例句
 
 ## rewire
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rewire#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Today we know now that learning literacy significantly rewires and restructures the brain.
+> They hired an electrician to rewire the house.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## reword
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/reword#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> How would you reword this sentence to make it sound more natural?
+> Could you reword the question more simply?
 
-例句来源：[Tatoeba；作者：CK；句子 #1064963；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/1064963)
+例句来源：逐词编写的学习例句
 
 ## rework
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rework#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The schedule has been pushed back because of the rework.
+> We need to rework the opening paragraph.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## rewound
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rewound#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> I rewound the recording to hear the name again.
+
+例句来源：逐词编写的学习例句
 
 ## rewrite
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rewrite#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Please rewrite the opening paragraph in simpler language.
 
 例句来源：逐词编写的学习例句
 
-> She decided to rewrite the final paragraph.
+## rewrites
 
-例句来源：编写的学习例句
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rewrites#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She rewrites each paragraph until it is clear.
+
+例句来源：逐词编写的学习例句
+
+## rewriting
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rewriting#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She is rewriting the report for a wider audience.
+
+例句来源：逐词编写的学习例句
+
+## rewritten
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rewritten#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The rewritten chapter was much clearer.
+
+例句来源：逐词编写的学习例句
+
+## rewrote
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rewrote#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She rewrote the opening in plain language.
+
+例句来源：逐词编写的学习例句
 
 ## rex
 
@@ -12337,12 +15361,6 @@
 - 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
 - 中文释义资料：ECDICT
 
-## rhein
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rhein#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
-
 ## rheology
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rheology#English)
@@ -12356,14 +15374,22 @@
 ## rheopectic
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rheopectic#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The suspension showed rheopectic behaviour under the test conditions.
+
+例句来源：逐词编写的学习例句
 
 ## rheopexy
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rheopexy#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The experiment examined rheopexy in a colloidal sample.
+
+例句来源：逐词编写的学习例句
 
 ## rheostat
 
@@ -12375,15 +15401,15 @@
 
 例句来源：逐词编写的学习例句
 
-## rhetorically
+## rhetoric
 
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rhetorically#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rhetoric#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> `What can be done?' he asked rhetorically.
+> The course introduces classical rhetoric.
 
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adv:00443724](https://wordnet.princeton.edu/)
+例句来源：逐词编写的学习例句
 
 ## rheumatic
 
@@ -12419,11 +15445,7 @@
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rheumatologist#English)
 - 发音资料：核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Gail Cawkwell is a rheumatologist who treats children and young people with arthritis and fibromyalgia. She is also a Vice President at Pfizer.
-
-例句来源：[Tatoeba；作者：Cangarejo；句子 #12278659；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/12278659)
+- 中文释义资料：逐词编写的中文释义
 
 > Her doctor referred her to a rheumatologist for further assessment.
 
@@ -12432,8 +15454,8 @@
 ## rheumatology
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rheumatology#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > She works in the hospital’s rheumatology department.
 
@@ -12442,22 +15464,18 @@
 ## rhinestone
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rhinestone#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Lucinda sewed rhinestones into her scarf to add a bit of flair.
+> Her jacket was decorated with rhinestones.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## rhinitis
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rhinitis#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Every time summer ends and autumn begins, my rhinitis starts playing up.
-
-例句来源：[Tatoeba；作者：sundown；句子 #10812241；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/10812241)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The survey asked whether participants had allergic rhinitis.
 
@@ -12486,14 +15504,20 @@
 ## rhinoplasty
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rhinoplasty#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Martha wanted a rhinoplasty and lip augmentation.
-
-例句来源：[Tatoeba；作者：Amastan；句子 #11961331；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/11961331)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The article discusses both cosmetic and reconstructive rhinoplasty.
+
+例句来源：逐词编写的学习例句
+
+## rhinos
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rhinos#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The guide pointed out two rhinos in the distance.
 
 例句来源：逐词编写的学习例句
 
@@ -12640,12 +15664,8 @@
 ## rhythmic
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rhythmic#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Gustavo's footsteps echoed through the silent woods, creating a rhythmic melody.
-
-例句来源：[Tatoeba；作者：Amastan；句子 #11766553；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/11766553)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > We heard the rhythmic sound of wheels passing over the rails.
 
@@ -12654,12 +15674,8 @@
 ## rhythmical
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rhythmical#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Children learn to respond to rhythmical sounds from a very young age.
-
-例句来源：[Tatoeba；作者：CM；句子 #245910；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/245910)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The boat’s rhythmical rocking made the passengers sleepy.
 
@@ -12669,25 +15685,31 @@
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rhythmically#English)
 - 发音资料：核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 中文释义资料：逐词编写的中文释义
 
 > The children clapped rhythmically as the dancers entered.
 
 例句来源：逐词编写的学习例句
 
-> These songs are rhythmically complex.
+## rhythms
 
-例句来源：Wiktionary 用例
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rhythms#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The drummer combined several simple rhythms.
+
+例句来源：逐词编写的学习例句
 
 ## rib
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rib#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> a broken rib on the umbrella
+> The umbrella had a broken rib.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## ribavirin
 
@@ -12695,37 +15717,55 @@
 - 发音资料：Wiktionary
 - 中文释义资料：ECDICT
 
+## ribbed
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ribbed#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She wore a blue ribbed sweater.
+
+例句来源：逐词编写的学习例句
+
 ## ribbing
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ribbing#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Tom copped a fair bit of ribbing about his battered old car.
+> He took the friendly ribbing with a smile.
 
-例句来源：[Tatoeba；作者：patgfisher；句子 #3662417；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/3662417)
+例句来源：逐词编写的学习例句
 
 ## riboflavin
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/riboflavin#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-## ribosomal
+> The nutrition label lists riboflavin as vitamin B2.
 
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ribosomal#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+例句来源：逐词编写的学习例句
 
 ## ribosome
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ribosome#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The ribosome is the site of protein synthesis.
+> Ribosomes help cells make proteins.
 
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset noun:05446394](https://wordnet.princeton.edu/)
+例句来源：逐词编写的学习例句
+
+## ribs
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ribs#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The diagram shows the ribs around the chest.
+
+例句来源：逐词编写的学习例句
 
 ## rice
 
@@ -12740,144 +15780,202 @@
 ## rich
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rich#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The ETF is trading rich to NAV right now; we can arb this by selling the ETF and buying the underlying constituents.
+> The region is rich in history.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
-## rickety
+## richer
 
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rickety#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/richer#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> He hesitated about climbing such a small, rickety ladder.
+> The extra vegetables gave the soup a richer flavour.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## richest
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/richest#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The archive is our richest source of information about the old theatre.
+
+例句来源：逐词编写的学习例句
+
+## richly
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/richly#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The ceiling was richly decorated.
+
+例句来源：逐词编写的学习例句
+
+## richness
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/richness#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The novel is admired for its richness of detail.
+
+例句来源：逐词编写的学习例句
 
 ## rid
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rid#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> I’m glad to be rid of that stupid nickname.
+> We need to get rid of these empty boxes.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## ridden
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ridden#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The horse had to be broken in before it could be ridden.
+> I have never ridden a motorcycle.
 
-例句来源：[Tatoeba；作者：patgfisher；句子 #4093248；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/4093248)
-
-## ridder
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ridder#English)
-
-## ridding
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ridding#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+例句来源：逐词编写的学习例句
 
 ## riddle
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/riddle#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Here's a riddle: It's black, and white, and red all over. What is it?
+> Can you solve this riddle?
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
-## riddler
+## riddled
 
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/riddler#English)
-- 中文释义资料：ECDICT
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/riddled#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The draft was riddled with spelling mistakes.
+
+例句来源：逐词编写的学习例句
+
+## riddles
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/riddles#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The children took turns telling riddles.
+
+例句来源：逐词编写的学习例句
+
+## riddling
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/riddling#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She answered in a playful, riddling way.
+
+例句来源：逐词编写的学习例句
 
 ## ride
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ride#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> I ride to work every day and park the bike outside the office.
+> She rides her bike to work every day.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## rider
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rider#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Dispatch a royal rider with this sealed letter from the king.
+> The rider slowed down as she approached the bend.
 
-例句来源：[Tatoeba；作者：Eccles17；句子 #7030922；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/7030922)
+例句来源：逐词编写的学习例句
+
+## riders
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/riders#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The riders waited beside their bicycles.
+
+例句来源：逐词编写的学习例句
 
 ## ridership
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ridership#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The bus company was going bankrupt because their ridership was too small.
+> Bus ridership increased after fares were reduced.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## rides
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rides#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She rides her bike to work.
+
+例句来源：逐词编写的学习例句
 
 ## rideshare
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rideshare#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The neighbors decided on a rideshare to get their kids to school, so that they wouldn't each have to drive every day.
+> They arranged a rideshare to the festival.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## ridge
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ridge#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The plough threw up ridges of earth between the furrows.
+> We followed the ridge towards the next peak.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## ridged
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ridged#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The bark is light brown, red-tinged, deeply ridged, and broken into plate-like scales.
+> The lid has a ridged edge for a better grip.
 
-例句来源：[Tatoeba；作者：Cangarejo；句子 #11824101；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/11824101)
+例句来源：逐词编写的学习例句
 
 ## ridgeline
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ridgeline#English)
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> To either side there are beautiful views from the trail along the ridgeline.
+> The last sunlight touched the distant ridgeline.
 
-例句来源：Wiktionary 用例
-
-## ridgeway
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ridgeway#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
-
-> He turned into the ridgeway and drew towards the barn.
-
-例句来源：[Tatoeba；作者：books；句子 #11473158；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/11473158)
+例句来源：逐词编写的学习例句
 
 ## ridicule
 
@@ -12892,12 +15990,8 @@
 ## ridiculous
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ridiculous#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Gaines is a classic motor player with a low center of gravity and ridiculous strength.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > It is ridiculous to expect one person to finish all this by tonight.
 
@@ -12906,12 +16000,8 @@
 ## ridiculously
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ridiculously#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> I don't know much about Japanese formality, except that it's ridiculously complicated.
-
-例句来源：[Tatoeba；作者：espamatics；句子 #10042605；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/10042605)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The instructions made a simple task ridiculously complicated.
 
@@ -12920,405 +16010,532 @@
 ## ridiculousness
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ridiculousness#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Only later did we see the ridiculousness of our argument.
 
 例句来源：逐词编写的学习例句
 
-> The ridiculousness of that movie is impressive.
-
-例句来源：[Tatoeba；作者：crescat；句子 #8646166；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/8646166)
-
 ## riding
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/riding#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Two people riding on a bicycle at the same time is dangerous.
+> She enjoys horse riding on weekends.
 
-例句来源：[Tatoeba；作者：CK；句子 #264487；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/264487)
+例句来源：逐词编写的学习例句
+
+## rifle
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rifle#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The museum displays a nineteenth-century rifle.
+
+例句来源：逐词编写的学习例句
 
 ## rifleman
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rifleman#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> She was quite the rifleman and could pick off a squirrels with a .22 from across the field with amazing accuracy.
+> The archive includes letters written by a young rifleman.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## rifles
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rifles#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The museum displayed several old rifles behind glass.
+
+例句来源：逐词编写的学习例句
 
 ## rig
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rig#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The climbers each had a different rig for climbing that particular rockface.
+> They rigged up a shelter using poles and canvas.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## rigged
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rigged#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> There was a vicious rumour that the final was rigged, as the defense seemed useless.
+> The boat was fully rigged and ready to sail.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## rigger
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rigger#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The rigger checked the cables before the equipment was lifted.
+
+例句来源：逐词编写的学习例句
 
 ## rigging
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rigging#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The whistling of the wind through the rigging sounded like funereal wailings.
+> The sailors checked the rigging before departure.
 
-例句来源：[Tatoeba；作者：Hybrid；句子 #5681895；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/5681895)
+例句来源：逐词编写的学习例句
 
 ## right
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/right#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> the right side of a piece of cloth Begin this stitch on the right side.
+> You were right about the date.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## righteous
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/righteous#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Human beings should take a righteous path, and so should art. We should promote kindness and beauty through art.
+> They believed they were fighting for a righteous cause.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## righteously
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/righteously#English)
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> We should act righteously and must remember that the future will pass a harsh judgement on our actions.
+> She was righteously indignant at the unfair treatment.
 
-例句来源：[Tatoeba；作者：Zurich899；句子 #5396239；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/5396239)
+例句来源：逐词编写的学习例句
 
 ## righteousness
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/righteousness#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Education is the path to happiness, peace, righteousness, and success.
+> They believed in the righteousness of their cause.
 
-例句来源：[Tatoeba；作者：AOCinJAPAN；句子 #1008024；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/1008024)
-
-## righter
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/righter#English)
-- 中文释义资料：ECDICT
+例句来源：逐词编写的学习例句
 
 ## rightful
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rightful#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> He was restored to his rightful position.
+> The painting was returned to its rightful owner.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## rightfully
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rightfully#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Baseball rightfully is the nation's pastime.
+> The painting rightfully belongs to the museum.
 
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adv:00223000](https://wordnet.princeton.edu/)
+例句来源：逐词编写的学习例句
 
 ## rightist
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rightist#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> an animal rightist
+> The report compared leftist and rightist movements.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## rightly
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rightly#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> She was quite rightly disappointed in not being promoted.
+> She rightly pointed out that the data was incomplete.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## rightmost
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rightmost#English)
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Start with the rightmost one and work towards the left.
+> Click the rightmost button on the toolbar.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## rightness
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rightness#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Rightness of limitation is essential for growth of reality.
+> She never doubted the rightness of her decision.
 
-例句来源：[Tatoeba；作者：tijlan；句子 #2347471；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/2347471)
+例句来源：逐词编写的学习例句
+
+## rights
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rights#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The poster explains the members’ rights and responsibilities.
+
+例句来源：逐词编写的学习例句
 
 ## rightward
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rightward#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-## righty
+> The cursor moved rightward across the screen.
 
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/righty#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+例句来源：逐词编写的学习例句
 
 ## rigid
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rigid#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Despite arguments to the contrary, she remained rigid in her stand.
+> The case has a rigid outer shell.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## rigidity
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rigidity#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The metal’s rigidity made it hard to bend.
+> The frame gives the structure greater rigidity.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## rigidly
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rigidly#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The body was rigidly erect.
+> He stood rigidly beside the door.
 
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adv:00194578](https://wordnet.princeton.edu/)
+例句来源：逐词编写的学习例句
 
-## rigorously
+## rigorous
 
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rigorously#English)
-- 中文释义资料：ECDICT
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rigorous#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> He had been trained rigorously by the monks.
+> The device underwent rigorous testing before release.
 
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adv:00225410](https://wordnet.princeton.edu/)
+例句来源：逐词编写的学习例句
+
+## rile
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rile#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> He knows exactly how to rile his brother.
+
+例句来源：逐词编写的学习例句
+
+## riled
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/riled#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> He got riled up over a minor disagreement.
+
+例句来源：逐词编写的学习例句
+
+## riles
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/riles#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> What really riles me is being interrupted.
+
+例句来源：逐词编写的学习例句
+
+## riling
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/riling#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Stop riling your sister up before bedtime.
+
+例句来源：逐词编写的学习例句
 
 ## rim
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rim#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> A walking path rims the island.
+> There was a small chip on the rim of the cup.
 
-例句来源：Wiktionary 用例
-
-## rimfire
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rimfire#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
-
-> However, this prohibition does not apply if you use an air rifle, air pistol, or .22-caliber rimfire firearm for the control of listed birds.
-
-例句来源：[Tatoeba；作者：protondonor；句子 #5668065；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/5668065)
+例句来源：逐词编写的学习例句
 
 ## rimmed
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rimmed#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Do you wear rimmed or rimless glasses?
+> He wore gold-rimmed glasses.
 
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adj:02027147](https://wordnet.princeton.edu/)
-
-## rimmer
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rimmer#English)
+例句来源：逐词编写的学习例句
 
 ## ring
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ring#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> His brother gifted him a ring for the engagement.
+> She wore a silver ring on her finger.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## ringer
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ringer#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Many companies and entrepreneurs have been put through the ringer this year.
+> Turn the ringer off before the concert.
 
-例句来源：[Tatoeba；作者：lp233；句子 #9016184；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/9016184)
+例句来源：逐词编写的学习例句
+
+## ringing
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ringing#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The phone was ringing when I entered the room.
+
+例句来源：逐词编写的学习例句
 
 ## ringleader
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ringleader#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The police arrested the ringleaders of the smuggling operation.
+> The teacher asked who the ringleader of the prank was.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## ringmaster
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ringmaster#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The ringmaster introduced the next act.
+
+例句来源：逐词编写的学习例句
+
+## rings
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rings#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The phone rings while she is making dinner.
+
+例句来源：逐词编写的学习例句
 
 ## ringside
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ringside#English)
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> We got our hands on a pair of ringside tickets for the boxing match.
+> They paid extra for ringside seats.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## ringtone
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ringtone#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Her phone has a very distinctive ringtone.
 
 例句来源：逐词编写的学习例句
 
-> I set my favorite song as my ringtone.
+## ringtones
 
-例句来源：Wiktionary 用例
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ringtones#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Their phones had different ringtones.
+
+例句来源：逐词编写的学习例句
 
 ## ringworm
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ringworm#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> In superficial mycoses infection is localised to the skin, the hair, and the nails. An example is ringworm or tinea, an infection of the skin by a dermatophyte.
+> The leaflet explains that ringworm is caused by fungi.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## rinse
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rinse#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She gave the cup a quick rinse.
+
+例句来源：逐词编写的学习例句
+
+## rinsed
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rinsed#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She rinsed the cups and put them on the tray.
+
+例句来源：逐词编写的学习例句
+
+## rinses
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rinses#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She rinses the cup before putting it away.
+
+例句来源：逐词编写的学习例句
+
+## rinsing
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rinsing#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> He was rinsing the dishes at the sink.
+
+例句来源：逐词编写的学习例句
 
 ## riot
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/riot#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The protests began peacefully but turned into riots after several days.
+> A riot broke out after the match.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## rioter
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rioter#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The rioters had erected a makeshift barricade and were pelting the police with rocks from behind it.
+> The rioters damaged several parked cars.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## riotous
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/riotous#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The joke was followed by riotous laughter.
+
+例句来源：逐词编写的学习例句
+
+## riots
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/riots#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The novel describes riots in a fictional city.
+
+例句来源：逐词编写的学习例句
 
 ## rip
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rip#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> to rip a garment; to rip up a floor
+> He caught his sleeve on a nail and ripped it.
 
-例句来源：Wiktionary 用例
-
-## riparian
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/riparian#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
-
-> Riparian zones are narrow strips of land located along the banks of rivers.
-
-例句来源：[Tatoeba；作者：rafaeld4；句子 #4995866；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/4995866)
+例句来源：逐词编写的学习例句
 
 ## ripe
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ripe#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> ripe apples
+> The peaches are ripe and ready to eat.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## ripen
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ripen#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The warm sun ripened the corn.
+> The fruit ripens slowly in cool weather.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## ripeness
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ripeness#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> You can easily judge the ripeness of a banana by the color of its peel.
+> The colour alone did not reveal the fruit’s ripeness.
 
-例句来源：[Tatoeba；作者：AnneWy；句子 #1707239；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/1707239)
+例句来源：逐词编写的学习例句
 
 ## riposte
 
@@ -13330,60 +16547,115 @@
 
 例句来源：逐词编写的学习例句
 
+## ripped
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ripped#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She ripped the envelope open.
+
+例句来源：逐词编写的学习例句
+
 ## ripper
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ripper#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Jack the Ripper
+> She used a seam ripper to remove the old stitches.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## ripple
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ripple#English)
-- 发音资料：Wiktionary
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> A breeze sent ripples across the pond.
+
+例句来源：逐词编写的学习例句
+
+## rippled
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rippled#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The water rippled in the light breeze.
+
+例句来源：逐词编写的学习例句
+
+## ripples
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ripples#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Ripples spread across the pond.
+
+例句来源：逐词编写的学习例句
+
+## rippling
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rippling#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Sunlight flashed on the rippling water.
+
+例句来源：逐词编写的学习例句
 
 ## riptide
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/riptide#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> This beach suffers from a riptide that can easily sweep you out to sea.
+> The guide explained the difference between a riptide and a rip current.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## rise
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rise#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> to rise in force of expression; to rise in eloquence; a story rises in interest.
+> The water level rose after the rain.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## risen
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/risen#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> the scent of newly risen bread
+> The price has risen twice this year.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## riser
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/riser#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The choir stood on risers for the performance.
+> I’m an early riser even at weekends.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## rises
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rises#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The sun rises behind the hills.
+
+例句来源：逐词编写的学习例句
 
 ## risible
 
@@ -13395,25 +16667,45 @@
 
 例句来源：逐词编写的学习例句
 
+## rising
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rising#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Warm air was rising from the open doorway.
+
+例句来源：逐词编写的学习例句
+
 ## risk
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/risk#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Subprime mortgages are poor risks; especially for a pension scheme.
+> There is a risk of delay if the weather worsens.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## risks
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/risks#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The guide explains the risks of walking alone at night.
+
+例句来源：逐词编写的学习例句
 
 ## risky
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/risky#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Jumping on the train from the bridge to catch the terrorist was a highly risky operation.
+> Crossing the river at night would be risky.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## risotto
 
@@ -13428,28 +16720,42 @@
 ## ritual
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ritual#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> They performed the ritual lighting of the candles.
+> Making coffee had become his morning ritual.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## ritualistic
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ritualistic#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The ceremony included a series of ritualistic movements.
+
+例句来源：逐词编写的学习例句
 
 ## ritually
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ritually#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The blood libel was the antisemitic accusation that Jews ritually murdered children in order to bake their blood into Passover matzos.
+> Participants ritually washed their hands before entering.
 
-例句来源：[Tatoeba；作者：shekitten；句子 #10111873；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/10111873)
+例句来源：逐词编写的学习例句
+
+## rituals
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rituals#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The book describes traditional rituals in the village.
+
+例句来源：逐词编写的学习例句
 
 ## rituximab
 
@@ -13457,194 +16763,201 @@
 - 发音资料：Wiktionary
 - 中文释义资料：ECDICT
 
-## ritzy
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ritzy#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
-
-> Las Vegas is filled to the brim with ritzy hotels and casinos.
-
-例句来源：[Tatoeba；作者：Rawrren；句子 #8490169；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/8490169)
-
 ## rival
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rival#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Chris is my biggest rival in the 400-metre race.
+> The two companies are close rivals.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## rivalry
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rivalry#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> James and Polly have a bitter rivalry due to the latter's inclusion in the Tea Time Teaser.
+> A friendly rivalry developed between the two teams.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## rivals
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rivals#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The two shops are friendly rivals.
+
+例句来源：逐词编写的学习例句
 
 ## river
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/river#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Occasionally rivers overflow their banks and cause floods.
+> The river flows through the centre of the city.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## riverbank
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/riverbank#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Two men arrived and prepared themselves a comfortable seat on the riverbank.
+> We followed a path along the riverbank.
 
-例句来源：[Tatoeba；作者：Mithridates；句子 #7490333；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/7490333)
+例句来源：逐词编写的学习例句
 
 ## riverbed
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/riverbed#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Layers of sediment lay at the bottom of the riverbed.
+> The riverbed was exposed during the drought.
 
-例句来源：[Tatoeba；作者：CM；句子 #9518287；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/9518287)
+例句来源：逐词编写的学习例句
 
 ## riverbend
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/riverbend#English)
-- 发音资料：Wiktionary
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> A small village stood near the riverbend.
+
+例句来源：逐词编写的学习例句
 
 ## riverboat
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/riverboat#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> He's a labourer on a riverboat.
+> We boarded a riverboat for a tour of the city.
 
-例句来源：[Tatoeba；作者：Dejo；句子 #3411105；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/3411105)
-
-## riverdance
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/riverdance#English)
+例句来源：逐词编写的学习例句
 
 ## riverfront
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/riverfront#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Even in rural areas, dirt-cheap riverfront property seems to be a thing of the past.
+> The city built a park along the riverfront.
 
-例句来源：Wiktionary 用例
-
-## riverhead
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/riverhead#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+例句来源：逐词编写的学习例句
 
 ## riverine
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/riverine#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The project aims to protect riverine habitats.
+
+例句来源：逐词编写的学习例句
+
+## rivers
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rivers#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Two rivers meet just below the town.
+
+例句来源：逐词编写的学习例句
 
 ## riverside
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/riverside#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Gonna lay down my burden; Down by the riverside...
+> We walked along a riverside path.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## riverwalk
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/riverwalk#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-## riveter
+> The new riverwalk connects the market with the park.
 
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/riveter#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
-
-> Rosie the Riveter is an iconic piece of American WWII propaganda.
-
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## road
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/road#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> the road to happiness; the road to success.
+> The road leads to a small village.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## roadbed
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/roadbed#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Heavy rain damaged the railway roadbed.
+
+例句来源：逐词编写的学习例句
 
 ## roadblock
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/roadblock#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> to hit roadblocks
+> A fallen tree created a roadblock.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## roadhouse
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/roadhouse#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> We stopped at a roadhouse for lunch.
+
+例句来源：逐词编写的学习例句
 
 ## roadie
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/roadie#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> I don't know about any trails for cycling because I'm mainly a roadie.
+> He worked as a roadie before joining the band.
 
-例句来源：Wiktionary 用例
-
-## roading
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/roading#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+例句来源：逐词编写的学习例句
 
 ## roadkill
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/roadkill#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Vultures usually feed on carrion or roadkill.
+> The wildlife group records roadkill along rural roads.
 
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset noun:01759009](https://wordnet.princeton.edu/)
+例句来源：逐词编写的学习例句
 
 ## roadmap
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/roadmap#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The team published a roadmap for the next six months.
 
@@ -13653,110 +16966,272 @@
 ## roadrunner
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/roadrunner#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The roadrunner is a bird also known as the "Chaparral Cock" in Texas.
+> We spotted a roadrunner near the desert trail.
 
-例句来源：[Tatoeba；作者：Swalis；句子 #9955024；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/9955024)
+例句来源：逐词编写的学习例句
+
+## roads
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/roads#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Heavy rain made the country roads difficult to use.
+
+例句来源：逐词编写的学习例句
 
 ## roadshow
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/roadshow#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The company took its new products on a roadshow.
+
+例句来源：逐词编写的学习例句
 
 ## roadside
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/roadside#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The roadside stand did a good business just selling products to people who merely wanted directions.
+> We stopped at a roadside café.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## roadster
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/roadster#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The museum displayed a red roadster from the 1950s.
+
+例句来源：逐词编写的学习例句
 
 ## roadway
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/roadway#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Environmental and roadway factors can also contribute to single-vehicle crashes.
+> Fallen branches blocked the roadway.
 
-例句来源：[Tatoeba；作者：CM；句子 #11122049；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/11122049)
+例句来源：逐词编写的学习例句
 
 ## roadwork
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/roadwork#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The athlete needed to get home early to do his roadwork before it got too dark to be safe.
+> Roadworks delayed the bus for twenty minutes.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## roam
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/roam#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The animals are free to roam across the grassland.
+
+例句来源：逐词编写的学习例句
+
+## roamed
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/roamed#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> We roamed the city with no particular plan.
+
+例句来源：逐词编写的学习例句
+
+## roaming
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/roaming#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> We saw deer roaming near the edge of the forest.
+
+例句来源：逐词编写的学习例句
+
+## roams
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/roams#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Our cat roams around the neighbourhood during the day.
+
+例句来源：逐词编写的学习例句
+
+## roar
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/roar#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The crowd let out a roar of approval.
+
+例句来源：逐词编写的学习例句
+
+## roared
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/roared#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> They roared with laughter at the story.
+
+例句来源：逐词编写的学习例句
+
+## roaring
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/roaring#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> We warmed our hands beside a roaring fire.
+
+例句来源：逐词编写的学习例句
+
+## roars
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/roars#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The engine roars as the boat leaves the harbour.
+
+例句来源：逐词编写的学习例句
 
 ## roast
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/roast#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> I'm late home for the fourth time this week; my mate will really roast me this time.
+> They roasted vegetables for dinner.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## roasted
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/roasted#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The kitchen smelled of roasted vegetables.
+
+例句来源：逐词编写的学习例句
 
 ## roaster
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/roaster#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Having been dumped out of the mine cars, the ore then moves along a conveyor to the roaster.
+> The local roaster supplied beans to several cafés.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## roasting
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/roasting#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The day started out cool, but by noon it was roasting.
+> The smell of coffee roasting filled the room.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## roasts
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/roasts#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She roasts the vegetables with garlic.
+
+例句来源：逐词编写的学习例句
+
+## rob
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rob#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The thieves tried to rob a jewellery shop.
+
+例句来源：逐词编写的学习例句
+
+## robbed
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/robbed#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The noise robbed her of a good night’s sleep.
+
+例句来源：逐词编写的学习例句
 
 ## robber
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/robber#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Sami was trying real hard to find ways to catch the robber.
+> The bank robber wore a dark jacket.
 
-例句来源：[Tatoeba；作者：OsoHombre；句子 #7258781；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/7258781)
+例句来源：逐词编写的学习例句
+
+## robbery
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/robbery#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The detective investigated a robbery at the station.
+
+例句来源：逐词编写的学习例句
 
 ## robe
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/robe#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> While I was dreaming, a woman in a white robe appeared to me.
+> She put on a warm robe after her bath.
 
-例句来源：[Tatoeba；作者：Hybrid；句子 #3557120；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/3557120)
+例句来源：逐词编写的学习例句
 
-## robed
+## robin
 
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/robed#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/robin#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> A robin landed on the garden fence.
+
+例句来源：逐词编写的学习例句
+
+## robins
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/robins#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Two robins were searching the lawn for food.
+
+例句来源：逐词编写的学习例句
 
 ## robocop
 
@@ -13766,32 +17241,42 @@
 ## robot
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/robot#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> We have a robot in the house that does the vacuuming.
+> The factory uses robots to move heavy parts.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## robotic
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/robotic#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Among our robotic devices is a vacuum cleaner.
+> A robotic arm lifted the container.
 
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adj:02939781](https://wordnet.princeton.edu/)
+例句来源：逐词编写的学习例句
 
 ## robotics
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/robotics#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Barry, a transhumanist, has a soft robotics part which is his right arm.
+> She joined the school’s robotics club.
 
-例句来源：[Tatoeba；作者：nonong；句子 #4025217；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/4025217)
+例句来源：逐词编写的学习例句
+
+## robots
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/robots#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The students built small robots for the exhibition.
+
+例句来源：逐词编写的学习例句
 
 ## robust
 
@@ -13806,12 +17291,8 @@
 ## robustly
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/robustly#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> He was robustly built.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adv:00444386](https://wordnet.princeton.edu/)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The outdoor bench was robustly built from thick planks.
 
@@ -13821,122 +17302,171 @@
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/robustness#English)
 - 发音资料：核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 中文释义资料：逐词编写的中文释义
 
 > Repeated loading tests showed the robustness of the frame.
 
 例句来源：逐词编写的学习例句
 
-> The lack of robustness in the findings may be due to the small size of the sample.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset noun:04920000](https://wordnet.princeton.edu/)
-
 ## rock
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rock#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The captain named it Pearl Rock after the rising sun illuminated the surface of the island.
+> She gently rocked the baby to sleep.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## rocked
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rocked#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She gently rocked the baby to sleep.
+
+例句来源：逐词编写的学习例句
 
 ## rocker
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rocker#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> You don't look like a punk rocker.
+> The old rocker creaked when she sat down.
 
-例句来源：[Tatoeba；作者：CK；句子 #12118221；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/12118221)
+例句来源：逐词编写的学习例句
 
 ## rocket
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rocket#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> After spending years in obscurity, the band finally rocketed last week.
+> The rocket carried a satellite into orbit.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## rocketed
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rocketed#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The ball rocketed into the back of the net.
+
+例句来源：逐词编写的学习例句
 
 ## rocketeer
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rocketeer#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The exhibition celebrates pioneering rocketeers.
+
+例句来源：逐词编写的学习例句
+
+## rocketing
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rocketing#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Rocketing energy costs affected every household.
+
+例句来源：逐词编写的学习例句
 
 ## rocketry
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rocketry#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-## rockfish
+> The museum traces the history of rocketry.
 
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rockfish#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+例句来源：逐词编写的学习例句
+
+## rockets
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rockets#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The museum displays two old rockets.
+
+例句来源：逐词编写的学习例句
 
 ## rocking
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rocking#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The neighbors sound like they are having a rocking party; let's gatecrash!
+> She sat in a rocking chair by the window.
 
-例句来源：[Tatoeba；作者：becky82；句子 #12229168；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/12229168)
+例句来源：逐词编写的学习例句
 
-## rockland
+## rocks
 
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rockland#English)
-- 中文释义资料：ECDICT
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rocks#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> We sat on the rocks beside the river.
+
+例句来源：逐词编写的学习例句
 
 ## rockstar
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rockstar#English)
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> By 1985, Michael Jordan had become a rockstar of the NBA.
+> The documentary follows a rockstar on tour.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## rocksteady
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rocksteady#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-## rockwood
+> Her support remained rocksteady throughout the crisis.
 
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rockwood#English)
-- 中文释义资料：ECDICT
+例句来源：逐词编写的学习例句
 
 ## rocky
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rocky#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> a rocky mountain a rocky shore
+> We climbed a narrow path along the rocky coast.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## rod
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rod#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The circus strong man proved his strength by bending an iron rod, and then straightening it.
+> He carried a fishing rod down to the river.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
-## roddy
+## rode
 
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/roddy#English)
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rode#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> We rode our bikes along the river.
+
+例句来源：逐词编写的学习例句
 
 ## rodent
 
@@ -13958,21 +17488,15 @@
 
 例句来源：逐词编写的学习例句
 
-## rodman
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rodman#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
-
 ## roebuck
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/roebuck#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> A roe is a kind of deer. The male is called a roebuck, the female a doe, and their young are called fawns.
+> A roebuck stepped out from between the trees.
 
-例句来源：[Tatoeba；作者：sundown；句子 #9977544；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/9977544)
+例句来源：逐词编写的学习例句
 
 ## rogue
 
@@ -13987,21 +17511,62 @@
 ## roguelike
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/roguelike#English)
-- 发音资料：Wiktionary
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The game adds roguelike elements to a simple dungeon adventure.
+
+例句来源：逐词编写的学习例句
 
 ## roguish
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/roguish#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > He gave me a roguish grin and hid the last biscuit.
 
 例句来源：逐词编写的学习例句
 
-> He was a tall boy, with curly brown hair, roguish hazel eyes, and a mouth twisted into a teasing smile.
+## roil
 
-例句来源：[Tatoeba；作者：Hybrid；句子 #5827638；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/5827638)
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/roil#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The propellers roil the shallow water near the dock.
+
+例句来源：逐词编写的学习例句
+
+## roiled
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/roiled#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The sudden announcement roiled the markets.
+
+例句来源：逐词编写的学习例句
+
+## roiling
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/roiling#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> We watched the roiling water below the bridge.
+
+例句来源：逐词编写的学习例句
+
+## roils
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/roils#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The boat’s engine roils the water behind it.
+
+例句来源：逐词编写的学习例句
 
 ## role
 
@@ -14016,12 +17581,22 @@
 ## roleplay
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/roleplay#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> He talks like he's some scrappy bootstrap entrepreneur but he's just some old money rich kid roleplaying.
+> The students used roleplay to practise job interviews.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## roles
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/roles#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The actors changed roles during the rehearsal.
+
+例句来源：逐词编写的学习例句
 
 ## roll
 
@@ -14033,15 +17608,21 @@
 
 例句来源：逐词编写的学习例句
 
+## rolled
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rolled#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The ball rolled under the sofa.
+
+例句来源：逐词编写的学习例句
+
 ## roller
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/roller#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> He threw a beautiful roller that cut the corner perfectly and stopped just outside the circle.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Use a roller to paint the large wall.
 
@@ -14050,92 +17631,82 @@
 ## rollerball
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rollerball#English)
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> I prefer a felt-tip pen over a rollerball one.
+> She signed the card with a rollerball pen.
 
-例句来源：[Tatoeba；作者：mccarras；句子 #8985347；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/8985347)
-
-## rollie
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rollie#English)
-- 中文释义资料：ECDICT
+例句来源：逐词编写的学习例句
 
 ## rolling
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rolling#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The road crossed a landscape of rolling hills.
 
 例句来源：逐词编写的学习例句
 
-> a 90-day rolling business plan
+## rolls
 
-例句来源：Wiktionary 用例
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rolls#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-## rolly
+> We bought two rolls of wrapping paper.
 
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rolly#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+例句来源：逐词编写的学习例句
 
 ## romance
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/romance#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> She was so full of romance she would forget what she was supposed to be doing.
+> Their friendship developed into a romance.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## romantic
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/romantic#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Mary sighed, knowing her ideals were far too romantic to work in reality.
+> They had a romantic dinner by the river.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## romantically
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/romantically#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Sing romantically
+> They were romantically involved for several years.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## romanticism
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/romanticism#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> In Asia, the French language is often associated with romanticism.
+> The course examines Romanticism in poetry and painting.
 
-例句来源：[Tatoeba；作者：alsing；句子 #2737011；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/2737011)
+例句来源：逐词编写的学习例句
 
 ## romanticize
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/romanticize#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Don't romanticize this uninteresting and hard work!
+> The film romanticizes life on the road.
 
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset verb:00693172](https://wordnet.princeton.edu/)
-
-## romper
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/romper#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+例句来源：逐词编写的学习例句
 
 ## rondeau
 
@@ -14180,236 +17751,332 @@
 ## roof
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/roof#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The roof was blown off by the tornado.
+> Rain drummed on the roof.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## roofed
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/roofed#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Now and then we passed a moorland cottage, walled and roofed with stone.
+> A roofed walkway connected the two buildings.
 
-例句来源：[Tatoeba；作者：Hybrid；句子 #6606615；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/6606615)
+例句来源：逐词编写的学习例句
 
 ## roofer
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/roofer#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> A roofer had to come to repair the storm damage to the roof.
+> The roofer inspected the damaged tiles.
 
-例句来源：[Tatoeba；作者：sundown；句子 #10203278；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/10203278)
+例句来源：逐词编写的学习例句
 
 ## roofing
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/roofing#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> They chose metal roofing for the shed.
+
+例句来源：逐词编写的学习例句
 
 ## roofline
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/roofline#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The extension changed the house’s roofline.
+
+例句来源：逐词编写的学习例句
+
+## roofs
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/roofs#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Snow covered the roofs of the village houses.
+
+例句来源：逐词编写的学习例句
 
 ## rooftop
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rooftop#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The staircase leading to the rooftop is narrow, steep, and dark.
+> They grow vegetables in a rooftop garden.
 
-例句来源：[Tatoeba；作者：CK；句子 #25587；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/25587)
-
-## rooker
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rooker#English)
-
-## rookery
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rookery#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+例句来源：逐词编写的学习例句
 
 ## rookie
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rookie#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The game was going well until I made that rookie mistake.
+> I made a rookie mistake and forgot to save the file.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## room
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/room#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Some users may not be able to access the AOL room.
+> Could you make room for one more chair?
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## roomful
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/roomful#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She spoke confidently to a roomful of strangers.
+
+例句来源：逐词编写的学习例句
 
 ## roomie
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/roomie#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> My roomie left a note on the fridge.
+
+例句来源：逐词编写的学习例句
 
 ## roommate
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/roommate#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> I have a problem with my roommate. He eats all my food.
+> My roommate works at the local library.
 
-例句来源：[Tatoeba；作者：AlanF\_US；句子 #3186686；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/3186686)
+例句来源：逐词编写的学习例句
+
+## rooms
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rooms#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The hotel has two meeting rooms on the ground floor.
+
+例句来源：逐词编写的学习例句
 
 ## roomy
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/roomy#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Our new apartment is roomy enough to accommodate all our furniture.
+> The bag is roomy enough for a laptop and a change of clothes.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## roost
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/roost#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The birds roost in the old oak tree.
+
+例句来源：逐词编写的学习例句
 
 ## rooster
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rooster#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> There are about seventy hens in the henhouse, but only one rooster.
+> The rooster crowed before sunrise.
 
-例句来源：[Tatoeba；作者：Lepotdeterre；句子 #4296838；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/4296838)
+例句来源：逐词编写的学习例句
 
 ## root
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/root#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The root diameter is the minor diameter of an external thread and the major diameter of an internal one.
+> The idea took root in the community.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
-## rooter
+## rooted
 
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rooter#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rooted#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The tree was firmly rooted in the soil.
+
+例句来源：逐词编写的学习例句
 
 ## rooting
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rooting#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> These rootings may be as deep as two and a half feet, depending on how large a pig has been working.
+> The cuttings are rooting in the nursery.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## rootkit
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rootkit#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The security scan detected a rootkit.
+
+例句来源：逐词编写的学习例句
+
+## roots
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/roots#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The roots of the tree had lifted part of the path.
+
+例句来源：逐词编写的学习例句
 
 ## rootstock
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rootstock#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The orchardist grafted an apple bud onto the rootstock.
+> The label identifies the rootstock used for the tree.
 
-例句来源：[Tatoeba；作者：fcbond；句子 #328337；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/328337)
-
-## rooty
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rooty#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
-
-> The vegetable stew had an earthy, rooty flavour.
-
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## rope
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rope#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Nylon rope is usually stronger than similar rope made of plant fibers.
+> They used a rope to secure the boxes.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
-## roper
+## ropes
 
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/roper#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ropes#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Several ropes hung beside the boat.
+
+例句来源：逐词编写的学习例句
 
 ## rose
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rose#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Me after ignoring all bad reviews on a rose from Shein and it literally starts electrocuting my clih.
+> She placed a single red rose in the vase.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## rosebud
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rosebud#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> He also pursed his lips to such an extent that they resembled a rosebud in a dirty bush.
+> The first rosebud opened this morning.
 
-例句来源：[Tatoeba；作者：Cangarejo；句子 #11781072；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/11781072)
+例句来源：逐词编写的学习例句
 
 ## rosehip
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rosehip#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Red rosehips covered the bushes in autumn.
+
+例句来源：逐词编写的学习例句
+
+## rosemary
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rosemary#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> We roasted the potatoes with rosemary.
+
+例句来源：逐词编写的学习例句
+
+## roses
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/roses#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She put the roses in a vase.
+
+例句来源：逐词编写的学习例句
 
 ## rosewater
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rosewater#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The dessert had a delicate rosewater flavor.
+
+例句来源：逐词编写的学习例句
 
 ## rosewood
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rosewood#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The wood grain in Brazilian rosewood is beautiful.
+> The old desk has a rosewood veneer.
 
-例句来源：[Tatoeba；作者：Source\_VOA；句子 #681094；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/681094)
+例句来源：逐词编写的学习例句
+
+## roster
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/roster#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Check the roster to see who is working tonight.
+
+例句来源：逐词编写的学习例句
+
+## rosters
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rosters#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The manager updated the duty rosters.
+
+例句来源：逐词编写的学习例句
 
 ## rostral
 
@@ -14434,22 +18101,22 @@
 ## rosy
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rosy#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The dawn, with its rosy fingers, caresses the crowd with flowers.
+> The cold air made her cheeks rosy.
 
-例句来源：[Tatoeba；作者：carlosalberto；句子 #8806633；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/8806633)
+例句来源：逐词编写的学习例句
 
 ## rot
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rot#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Your brain will rot if you spend so much time on the computer, Tony!
+> The wooden fence had begun to rot.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## rota
 
@@ -14474,8 +18141,8 @@
 ## rotatable
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rotatable#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The lamp has a rotatable head.
 
@@ -14484,16 +18151,22 @@
 ## rotate
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rotate#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Rotate the image ninety degrees clockwise.
 
 例句来源：逐词编写的学习例句
 
-> The supermarket rotates the stock daily so that old foods don't sit around.
+## rotating
 
-例句来源：Wiktionary 用例
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rotating#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The display stands on a rotating platform.
+
+例句来源：逐词编写的学习例句
 
 ## rotation
 
@@ -14508,12 +18181,8 @@
 ## rotational
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rotational#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> A steam turbine converts heat into rotational motion.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The experiment measures rotational speed.
 
@@ -14522,16 +18191,12 @@
 ## rotator
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rotator#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The sample rotator turns the tubes slowly.
 
 例句来源：逐词编写的学习例句
-
-> What kind of pain reliever should I take for this rotator cuff injury while I'm waiting for my consultation with the orthopedic surgeon?
-
-例句来源：[Tatoeba；作者：bekindtoall；句子 #10259272；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/10259272)
 
 ## rotatory
 
@@ -14606,42 +18271,32 @@
 ## rotorcraft
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rotorcraft#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Dragonfly is a drone-like rotorcraft that would explore the prebiotic chemistry and habitability of dozens of sites on Saturn’s moon Titan.
+> The course introduces rotorcraft aerodynamics.
 
-例句来源：[Tatoeba；作者：Hybrid；句子 #6580367；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/6580367)
+例句来源：逐词编写的学习例句
 
 ## rotten
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rotten#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> If you leave a bin unattended for a few weeks, the rubbish inside will turn rotten.
+> The builders replaced the rotten wood.
 
-例句来源：Wiktionary 用例
-
-## rotter
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rotter#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
-
-> Only a rotter would do that.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset noun:10539715](https://wordnet.princeton.edu/)
+例句来源：逐词编写的学习例句
 
 ## rotting
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rotting#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The stench of rotting flesh overwhelmed us as we entered the room.
+> Rotting leaves covered the forest floor.
 
-例句来源：[Tatoeba；作者：darinmex；句子 #628091；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/628091)
+例句来源：逐词编写的学习例句
 
 ## rotula
 
@@ -14696,32 +18351,32 @@
 ## rough
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rough#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> His manners are a bit rough, but he means well.
+> The wood still feels rough.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## roughly
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/roughly#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> He was pushed roughly aside.
+> The walk takes roughly an hour.
 
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adv:00354033](https://wordnet.princeton.edu/)
+例句来源：逐词编写的学习例句
 
 ## roughshod
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/roughshod#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> A manager who rode roughshod over all opposition.
+> The manager rode roughshod over the team’s objections.
 
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adj:00788268](https://wordnet.princeton.edu/)
+例句来源：逐词编写的学习例句
 
 ## roulette
 
@@ -14783,33 +18438,15 @@
 
 例句来源：逐词编写的学习例句
 
-## rounder
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rounder#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
-
-## rounders
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rounders#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
-
-## roundhouse
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/roundhouse#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
-
 ## roundish
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/roundish#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Compared to Roman script, Japanese script seems more roundish and organic.
+> She picked up a smooth, roundish pebble.
 
-例句来源：[Tatoeba；作者：nonong；句子 #4979404；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/4979404)
+例句来源：逐词编写的学习例句
 
 ## roundlet
 
@@ -14824,28 +18461,30 @@
 ## roundly
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/roundly#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The proposal was roundly criticized by the committee.
 
 例句来源：逐词编写的学习例句
 
-> Tom's new song was roundly mocked by the Twitterati.
-
-例句来源：[Tatoeba；作者：shekitten；句子 #11148688；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/11148688)
-
 ## roundness
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/roundness#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> He gave us the results in round numbers, but their roundness didn't affect the point he was making.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset noun:05123206](https://wordnet.princeton.edu/)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The potter checked the roundness of the bowl.
+
+例句来源：逐词编写的学习例句
+
+## rounds
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rounds#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The plan went through three rounds of discussion.
 
 例句来源：逐词编写的学习例句
 
@@ -14882,30 +18521,42 @@
 ## routed
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/routed#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > All calls were routed to the reception desk during the outage.
 
 例句来源：逐词编写的学习例句
 
-> Our cause is just. The enemy will be routed. Victory shall be ours.
-
-例句来源：[Tatoeba；作者：Ooneykcall；句子 #10629656；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/10629656)
-
 ## router
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/router#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The router forwards the packet to the next network.
 
 例句来源：逐词编写的学习例句
 
-> The router was configured to forward packets outside of a certain range of IP addresses to its internet uplink port.
+## routers
 
-例句来源：Wiktionary 用例
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/routers#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The office replaced two old routers.
+
+例句来源：逐词编写的学习例句
+
+## routes
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/routes#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The map shows several walking routes.
+
+例句来源：逐词编写的学习例句
 
 ## routine
 
@@ -14920,30 +18571,32 @@
 ## routinely
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/routinely#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The laboratory routinely checks the calibration of its instruments.
 
 例句来源：逐词编写的学习例句
 
-> We routinely test the fire extinguishers but no one ever expects them to fail.
+## routines
 
-例句来源：Wiktionary 用例
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/routines#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The children soon became familiar with the classroom routines.
+
+例句来源：逐词编写的学习例句
 
 ## routing
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/routing#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The engineer updated the routing table after the network changed.
 
 例句来源：逐词编写的学习例句
-
-> the optimal routing of delivery vehicles
-
-例句来源：Wiktionary 用例
 
 ## routinization
 
@@ -14965,55 +18618,75 @@
 
 例句来源：逐词编写的学习例句
 
+## rove
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rove#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The animals are free to rove across a wide area.
+
+例句来源：逐词编写的学习例句
+
+## roved
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/roved#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> We roved through the countryside with no fixed plan.
+
+例句来源：逐词编写的学习例句
+
 ## rover
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rover#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> She is a rover and dislikes any sort of ties, physical or emotional.
+> The rover carried cameras and scientific instruments.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## roves
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/roves#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The cat roves around the neighbourhood at night.
+
+例句来源：逐词编写的学习例句
 
 ## roving
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/roving#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> His roving eyes never focused on anything specific.
+> She works as a roving reporter for the magazine.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## row
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/row#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> A row of chairs.
+> We sat in the front row.
 
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset noun:08431437](https://wordnet.princeton.edu/)
+例句来源：逐词编写的学习例句
 
 ## rowboat
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rowboat#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> I need to buy a new a pair of oars for my rowboat.
+> We rented a rowboat for an hour.
 
-例句来源：[Tatoeba；作者：CK；句子 #6340147；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/6340147)
-
-## rowed
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rowed#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
-
-> a twelve-rowed ear of corn
-
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## rowel
 
@@ -15028,12 +18701,22 @@
 ## rower
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rower#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Tom has the perfect physique for a world-class rower.
+> The rower moved smoothly across the water.
 
-例句来源：[Tatoeba；作者：Eccles17；句子 #7373946；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/7373946)
+例句来源：逐词编写的学习例句
+
+## rows
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rows#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The chairs were arranged in neat rows.
+
+例句来源：逐词编写的学习例句
 
 ## royal
 
@@ -15048,84 +18731,132 @@
 ## royalist
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/royalist#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The pamphlet defended the royalist position.
 
 例句来源：逐词编写的学习例句
 
-> Tom is a monarchist and a royalist.
-
-例句来源：[Tatoeba；作者：ddnktr；句子 #10362024；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/10362024)
-
 ## royally
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/royally#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Our hosts treated us royally throughout the visit.
 
 例句来源：逐词编写的学习例句
 
-> Unless it was decreed royally, it never got done.
+## royals
 
-例句来源：Wiktionary 用例
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/royals#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The gallery displays portraits of royals from several centuries.
+
+例句来源：逐词编写的学习例句
 
 ## royalty
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/royalty#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The reception was attended by diplomats and royalty.
 
 例句来源：逐词编写的学习例句
 
-> The wedding was attended by royalty.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset noun:08153437](https://wordnet.princeton.edu/)
-
 ## rub
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rub#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Give that lamp a good rub and see if any genies come out.
+> He rubbed his hands together to warm them.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## rubbed
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rubbed#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She rubbed the mark off the desk.
+
+例句来源：逐词编写的学习例句
 
 ## rubber
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rubber#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Jones toes the rubber and then fires to the plate.
+> The gloves are made of rubber.
 
-例句来源：Wiktionary 用例
-
-## rubbery
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rubbery#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
-
-> What a bad restaurant! The beef was so rubbery I thought I'd never finish chewing it.
-
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## rubbing
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rubbing#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Cut that out. You're just rubbing salt in the poor guy's wounds.
+> The children made leaf rubbings with crayons.
 
-例句来源：[Tatoeba；作者：dawnbreaksopen；句子 #31531；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/31531)
+例句来源：逐词编写的学习例句
+
+## rubbish
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rubbish#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Please put the rubbish in the bin.
+
+例句来源：逐词编写的学习例句
+
+## rubbished
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rubbished#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The proposal was rubbished before anyone examined the evidence.
+
+例句来源：逐词编写的学习例句
+
+## rubbishes
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rubbishes#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> He rubbishes every suggestion without offering an alternative.
+
+例句来源：逐词编写的学习例句
+
+## rubbishing
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rubbishing#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> He spent the meeting rubbishing other people’s ideas.
+
+例句来源：逐词编写的学习例句
+
+## rubble
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rubble#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The old wall collapsed into a pile of rubble.
+
+例句来源：逐词编写的学习例句
 
 ## rubella
 
@@ -15147,6 +18878,16 @@
 
 例句来源：逐词编写的学习例句
 
+## rubs
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rubs#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> He rubs his hands together to warm them.
+
+例句来源：逐词编写的学习例句
+
 ## ruby
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ruby#English)
@@ -15156,10 +18897,6 @@
 > A small ruby was set in the centre of the ring.
 
 例句来源：逐词编写的学习例句
-
-## ruckman
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ruckman#English)
 
 ## rucksack
 
@@ -15171,11 +18908,35 @@
 
 例句来源：逐词编写的学习例句
 
+## rudder
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rudder#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The rudder was damaged in the storm.
+
+例句来源：逐词编写的学习例句
+
 ## rudderless
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rudderless#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The organisation felt rudderless after the director left.
+
+例句来源：逐词编写的学习例句
+
+## ruddy
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ruddy#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The cold air left his cheeks ruddy.
+
+例句来源：逐词编写的学习例句
 
 ## rude
 
@@ -15190,30 +18951,42 @@
 ## rudely
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rudely#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > He replied rudely and turned away.
 
 例句来源：逐词编写的学习例句
 
-> They were treating me so rudely that I suddenly just lost it.
-
-例句来源：[Tatoeba；作者：CM；句子 #66825；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/66825)
-
 ## rudeness
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rudeness#English)
 - 发音资料：核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 中文释义资料：逐词编写的中文释义
 
 > She apologized for her rudeness at the meeting.
 
 例句来源：逐词编写的学习例句
 
-> The rudeness of the cabin gave it a rustic charm but little comfort.
+## ruder
 
-例句来源：Wiktionary 用例
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ruder#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> His second reply was even ruder than the first.
+
+例句来源：逐词编写的学习例句
+
+## rudest
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rudest#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> That was the rudest reply I had received all week.
+
+例句来源：逐词编写的学习例句
 
 ## rudiment
 
@@ -15225,21 +18998,11 @@
 
 例句来源：逐词编写的学习例句
 
-## rudimental
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rudimental#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
-
 ## rudimentary
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rudimentary#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> His grasp of rudimentary English allowed him at least to do the shopping.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > I have only a rudimentary knowledge of coding.
 
@@ -15255,60 +19018,105 @@
 
 例句来源：逐词编写的学习例句
 
+## rue
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rue#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> He came to rue the decision to ignore the warning.
+
+例句来源：逐词编写的学习例句
+
 ## rueful
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rueful#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Tom wrote a rueful letter to Mary from prison.
+> He gave a rueful smile when he saw his mistake.
 
-例句来源：[Tatoeba；作者：Miktsoanit；句子 #12360649；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/12360649)
+例句来源：逐词编写的学习例句
 
-## ruefully
+## ruffle
 
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ruefully#English)
-- 中文释义资料：ECDICT
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ruffle#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> He pushed his straw hat back, scratched his head, and laughed ruefully.
+> He reached over to ruffle the child’s hair.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## ruffled
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ruffled#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The bird shook out its ruffled feathers.
+
+例句来源：逐词编写的学习例句
+
+## ruffles
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ruffles#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The dress had soft ruffles along the sleeves.
+
+例句来源：逐词编写的学习例句
+
+## ruffling
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ruffling#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> A light breeze was ruffling the surface of the pond.
+
+例句来源：逐词编写的学习例句
 
 ## rugby
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rugby#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The scrum is a distinctive element of rugby.
+> She plays rugby for a local club.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## rugged
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rugged#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The area of Kherrata, in Algeria, is known for its rugged terrain.
+> The road crosses rugged terrain.
 
-例句来源：[Tatoeba；作者：Amastan；句子 #11846297；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/11846297)
+例句来源：逐词编写的学习例句
 
 ## ruggedly
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ruggedly#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The actor was ruggedly handsome.
+
+例句来源：逐词编写的学习例句
 
 ## ruggedness
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ruggedness#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The ruggedness of his exams caused half the class to fail.
+> The ruggedness of the landscape slowed their progress.
 
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset noun:04710588](https://wordnet.princeton.edu/)
+例句来源：逐词编写的学习例句
 
 ## rugose
 
@@ -15316,11 +19124,45 @@
 - 发音资料：Wiktionary
 - 中文释义资料：ECDICT
 
-## ruination
+## ruin
 
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ruination#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ruin#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The rain ruined our picnic.
+
+例句来源：逐词编写的学习例句
+
+## ruined
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ruined#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> We walked past the walls of a ruined castle.
+
+例句来源：逐词编写的学习例句
+
+## ruining
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ruining#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The rain was ruining the paper decorations.
+
+例句来源：逐词编写的学习例句
+
+## ruins
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ruins#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The path leads to the ruins of an old temple.
+
+例句来源：逐词编写的学习例句
 
 ## rule
 
@@ -15335,37 +19177,72 @@
 ## rulebook
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rulebook#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The referee checked the rulebook.
+
+例句来源：逐词编写的学习例句
+
+## ruled
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ruled#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The referee ruled that the goal did not count.
+
+例句来源：逐词编写的学习例句
 
 ## rulemaking
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rulemaking#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The report calls for a more transparent rulemaking process.
+
+例句来源：逐词编写的学习例句
 
 ## ruler
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ruler#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> The fate of the country was highly dependent on the new ruler.
-
-例句来源：[Tatoeba；作者：kayano；句子 #6534909；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/6534909)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Use a ruler to draw a straight line.
 
 例句来源：逐词编写的学习例句
 
-## rulership
+## rulers
 
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rulership#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rulers#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Wooden rulers lay on the desks.
+
+例句来源：逐词编写的学习例句
+
+## rules
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rules#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The rules are simple and easy to remember.
+
+例句来源：逐词编写的学习例句
 
 ## ruleset
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ruleset#English)
-- 发音资料：Wiktionary
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The tournament uses a revised ruleset.
+
+例句来源：逐词编写的学习例句
 
 ## ruling
 
@@ -15380,22 +19257,62 @@
 ## rum
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rum#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The Royal Navy used to issue a rum ration to sailors.
+> The cake had a mild flavour of rum.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## rumble
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rumble#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The rumble from passing trucks made it hard to sleep at night.
+> Thunder rumbled in the distance.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## rumbled
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rumbled#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Thunder rumbled beyond the hills.
+
+例句来源：逐词编写的学习例句
+
+## rumbles
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rumbles#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> My stomach rumbles when I miss breakfast.
+
+例句来源：逐词编写的学习例句
+
+## rumbling
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rumbling#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The rumbling of thunder grew louder.
+
+例句来源：逐词编写的学习例句
+
+## rumblings
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rumblings#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Distant rumblings of thunder reached us from the hills.
+
+例句来源：逐词编写的学习例句
 
 ## rumen
 
@@ -15420,12 +19337,8 @@
 ## ruminate
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ruminate#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> I didn't answer right away because I needed to ruminate first.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > She ruminated on his final remark throughout the train journey.
 
@@ -15451,60 +19364,215 @@
 
 例句来源：逐词编写的学习例句
 
+## rummage
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rummage#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> I had to rummage through my bag to find the keys.
+
+例句来源：逐词编写的学习例句
+
+## rummaged
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rummaged#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> We rummaged through the cupboard for a torch.
+
+例句来源：逐词编写的学习例句
+
+## rummages
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rummages#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> He rummages in his pockets whenever the phone rings.
+
+例句来源：逐词编写的学习例句
+
+## rummaging
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rummaging#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> I found him rummaging through a pile of old letters.
+
+例句来源：逐词编写的学习例句
+
 ## rummy
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rummy#English)
-- 发音资料：Wiktionary
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> a rummy flavour
+> We played rummy after dinner.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## rumor
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rumor#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> I heard a rumor that the café is moving.
+
+例句来源：逐词编写的学习例句
+
+## rumors
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rumors#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Rumors spread quickly through the office.
+
+例句来源：逐词编写的学习例句
+
+## rumour
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rumour#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> There is a rumour that the shop will reopen.
+
+例句来源：逐词编写的学习例句
+
+## rumours
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rumours#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Rumours of a change began to circulate.
+
+例句来源：逐词编写的学习例句
+
+## rumple
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rumple#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Packing too tightly can rumple your clothes.
+
+例句来源：逐词编写的学习例句
+
+## rumpled
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rumpled#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> He arrived in a rumpled shirt.
+
+例句来源：逐词编写的学习例句
+
+## rumples
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rumples#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The tight seat belt rumples his shirt.
+
+例句来源：逐词编写的学习例句
+
+## rumpling
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rumpling#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> He laughed, rumpling the child’s hair.
+
+例句来源：逐词编写的学习例句
 
 ## run
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/run#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Jackson got himself run in the top of the sixth for arguing a borderline strike three call.
+> She runs a small bookshop.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
-## runic
+## rung
 
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/runic#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rung#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The bell has already rung twice.
+
+例句来源：逐词编写的学习例句
 
 ## runner
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/runner#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> After the cycle completes, the runner travels back quickly to be in place for the next cycle.
+> The runners gathered at the starting line.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## runners
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/runners#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The runners gathered at the starting line.
+
+例句来源：逐词编写的学习例句
+
+## running
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/running#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Running helps me clear my head after work.
+
+例句来源：逐词编写的学习例句
 
 ## runny
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/runny#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> a runny nose
+> The sauce is too runny to stay on the spoon.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## runs
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/runs#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She runs a small bookshop near the station.
+
+例句来源：逐词编写的学习例句
 
 ## runway
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/runway#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> There is a long line of planes waiting to use the runway.
+> The aircraft waited at the end of the runway.
 
-例句来源：[Tatoeba；作者：AlanF\_US；句子 #9969621；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/9969621)
+例句来源：逐词编写的学习例句
 
 ## rupture
 
@@ -15536,21 +19604,55 @@
 
 例句来源：逐词编写的学习例句
 
-## rusher
+## rush
 
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rusher#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rush#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Don’t rush into a decision before reading the details.
+
+例句来源：逐词编写的学习例句
+
+## rushed
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rushed#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> It was a rushed decision that we later regretted.
+
+例句来源：逐词编写的学习例句
+
+## rushes
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rushes#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> He rushes out of the house without breakfast.
+
+例句来源：逐词编写的学习例句
+
+## rushing
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rushing#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Everyone was rushing to catch the last bus.
+
+例句来源：逐词编写的学习例句
 
 ## rust
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rust#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The rust on my bicycle chain made cycling to work very dangerous.
+> There was rust around the edge of the old tin.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## rustic
 
@@ -15562,72 +19664,82 @@
 
 例句来源：逐词编写的学习例句
 
-## rustler
+## rustle
 
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rustler#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rustle#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> We heard the rustle of leaves beside the path.
+
+例句来源：逐词编写的学习例句
+
+## rustled
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rustled#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The leaves rustled in the evening breeze.
+
+例句来源：逐词编写的学习例句
+
+## rustles
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rustles#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Her coat rustles as she walks.
+
+例句来源：逐词编写的学习例句
 
 ## rustling
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rustling#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> A rustling sound came from upstairs where nobody should have been.
+> The rustling of paper broke the silence.
 
-例句来源：[Tatoeba；作者：shitsurei；句子 #9012689；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/9012689)
+例句来源：逐词编写的学习例句
 
 ## rusty
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rusty#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> You get rusty if you haven't spoken English for a long time.
+> The rusty gate was difficult to open.
 
-例句来源：[Tatoeba；作者：CK；句子 #30219；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/30219)
+例句来源：逐词编写的学习例句
 
 ## ruthless
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ruthless#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> An act of ruthless ferocity.
+> The novel portrays a ruthless ruler.
 
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adj:01508086](https://wordnet.princeton.edu/)
+例句来源：逐词编写的学习例句
 
 ## ruthlessly
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ruthlessly#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The government has been urged to take immediate action to deal ruthlessly with the strikers.
+> She ruthlessly cut every sentence that repeated the same point.
 
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adv:00445763](https://wordnet.princeton.edu/)
+例句来源：逐词编写的学习例句
 
 ## ruthlessness
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ruthlessness#English)
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> This series is a long essay on human malice, brazenness, and ruthlessness.
+> The biography examines both his talent and his ruthlessness.
 
-例句来源：[Tatoeba；作者：carlosalberto；句子 #14036410；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/14036410)
-
-## rutted
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rutted#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
-
-## rutter
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/rutter#English)
-- 发音资料：Wiktionary
-
-> Wentz, who probably felt naturally his pride of football fame, became quite angry at Rutter's remark that he was being outplayed.
-
-例句来源：[Tatoeba；作者：Cangarejo；句子 #11881862；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/11881862)
+例句来源：逐词编写的学习例句

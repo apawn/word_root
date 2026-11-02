@@ -4,11 +4,12 @@
   "markdown_files": 4678,
   "svg_files": 4612,
   "evolution_svg_files": 3729,
-  "completed_lessons": 1313,
-  "fully_explained_words": 16120,
-  "authored_bilingual_examples": 32858,
-  "checked_local_links_and_anchors": 132240,
+  "completed_lessons": 4084,
+  "fully_explained_words": 33476,
+  "authored_bilingual_examples": 67894,
+  "checked_local_links_and_anchors": 177656,
   "source_rows": 1680,
-  "unique_words": 28732,
-  "errors": []
+  "unique_words": 34532,
+  "errors": [],
+  "authored_sha256": "99fdbbe13d3d06244b2c8f570342a5b2b704194bbd45e2dd2256a116ae215116"
 }

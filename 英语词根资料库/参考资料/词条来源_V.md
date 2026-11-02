@@ -35,30 +35,22 @@
 ## vacation
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/vacation#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > I’m taking a short vacation after the project ends.
 
 例句来源：逐词编写的学习例句
 
-> The Conservative Party’s vacation of the centre ground gave an opportunity to its opponents.
-
-例句来源：Wiktionary 用例
-
 ## vaccinate
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/vaccinate#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The clinic was set up to vaccinate people in the area.
 
 例句来源：逐词编写的学习例句
-
-> We vaccinate against scarlet fever.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset verb:00086835](https://wordnet.princeton.edu/)
 
 ## vaccinated
 
@@ -87,6 +79,16 @@
 - 中文释义资料：逐词编写的中文释义
 
 > The exhibition explains why the word vaccine is connected with cows.
+
+例句来源：逐词编写的学习例句
+
+## vaccines
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/vaccines#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The museum has an exhibition on the history of vaccines.
 
 例句来源：逐词编写的学习例句
 
@@ -123,16 +125,12 @@
 ## vacuous
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/vacuous#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The article replaces serious analysis with vacuous slogans.
 
 例句来源：逐词编写的学习例句
-
-> The movie was criticized for its vacuous dialogue.
-
-例句来源：Wiktionary 用例
 
 ## vacuum
 
@@ -154,12 +152,6 @@
 
 例句来源：逐词编写的学习例句
 
-## vagal
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/vagal#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
-
 ## vagary
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/vagary#English)
@@ -170,30 +162,31 @@
 
 例句来源：逐词编写的学习例句
 
+## vagina
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/vagina#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The textbook includes a diagram of the vagina and cervix.
+
+例句来源：逐词编写的学习例句
+
 ## vaginal
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/vaginal#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> You may have a vaginal birth, C-section, or surrogacy; it's up to you.
+> The diagram labels the vaginal wall.
 
-例句来源：Wiktionary 用例
-
-## vaginally
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/vaginally#English)
-- 中文释义资料：ECDICT
+例句来源：逐词编写的学习例句
 
 ## vagrancy
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/vagrancy#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> The city introduced new laws dealing with vagrancy.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The historian studies attitudes toward vagrancy in the nineteenth century.
 
@@ -222,12 +215,8 @@
 ## vaguely
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/vaguely#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> He looked vaguely around the room, as if lost.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The melody sounds vaguely familiar.
 
@@ -236,12 +225,8 @@
 ## vagueness
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/vagueness#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> The Conservative manifesto is a model of vagueness.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset noun:04824350](https://wordnet.princeton.edu/)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The vagueness of the deadline caused confusion.
 
@@ -290,12 +275,8 @@
 ## vainly
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/vainly#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> She searched vainly for her reflection in the shattered mirror.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > She vainly tried to open the door with the wrong key.
 
@@ -314,12 +295,8 @@
 ## valedictorian
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/valedictorian#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Princeton University has announced its first black valedictorian in the Ivy League school’s history.
-
-例句来源：[Tatoeba；作者：Hybrid；句子 #8757932；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/8757932)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > She was named valedictorian of her graduating class.
 
@@ -368,12 +345,8 @@
 ## valiantly
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/valiantly#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> He fought valiantly until the end.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adv:00491895](https://wordnet.princeton.edu/)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The goalkeeper fought valiantly to keep the score level.
 
@@ -392,64 +365,72 @@
 ## validate
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/validate#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Please validate your ticket before boarding.
 
 例句来源：逐词编写的学习例句
 
-> The data file cannot be imported because it doesn't validate.
-
-例句来源：Wiktionary 用例
-
 ## validation
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/validation#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The form performs validation before saving the data.
 
 例句来源：逐词编写的学习例句
 
-> Yanni says he isn't getting the validation that he needs from Skura.
+## validator
 
-例句来源：[Tatoeba；作者：Amastan；句子 #10103728；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/10103728)
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/validator#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The validator highlighted an invalid date.
+
+例句来源：逐词编写的学习例句
 
 ## validity
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/validity#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The new evidence calls the validity of the conclusion into question.
 
 例句来源：逐词编写的学习例句
 
-> The validity of gender identity disorder has become highly controversial in politics.
-
-例句来源：[Tatoeba；作者：JayRS；句子 #5914778；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/5914778)
-
 ## validly
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/validly#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> This may not validly be done.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adv:00492050](https://wordnet.princeton.edu/)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > We cannot validly infer the cause from this correlation alone.
 
 例句来源：逐词编写的学习例句
 
-## valine
+## valley
 
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/valine#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/valley#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> A narrow river runs through the valley.
+
+例句来源：逐词编写的学习例句
+
+## valleys
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/valleys#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Mist filled the valleys below us.
+
+例句来源：逐词编写的学习例句
 
 ## valor
 
@@ -484,26 +465,28 @@
 ## valuable
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/valuable#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The interview gave us valuable information about the problem.
 
 例句来源：逐词编写的学习例句
 
-> Truly valuable things have no price and cannot be bought.
+## valuables
 
-例句来源：Wiktionary 用例
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/valuables#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The room has a small safe for guests’ valuables.
+
+例句来源：逐词编写的学习例句
 
 ## valuation
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/valuation#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> He set a high valuation on friendship.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset noun:05736149](https://wordnet.princeton.edu/)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > We requested an independent valuation of the painting.
 
@@ -519,15 +502,21 @@
 
 例句来源：逐词编写的学习例句
 
+## valued
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/valued#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> A simple thank you can make people feel valued.
+
+例句来源：逐词编写的学习例句
+
 ## valueless
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/valueless#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> After the currency collapse, people found their savings suddenly valueless.
-
-例句来源：[Tatoeba；作者：rul；句子 #13573803；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/13573803)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Without a date, the measurement is almost valueless for this study.
 
@@ -536,10 +525,20 @@
 ## valuer
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/valuer#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The valuer inspected the roof before preparing the report.
+
+例句来源：逐词编写的学习例句
+
+## values
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/values#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The two friends share many of the same values.
 
 例句来源：逐词编写的学习例句
 
@@ -566,38 +565,42 @@
 ## vampire
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/vampire#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> You have to be careful what you tell her, because she's such a vampire for drama.
+> The novel tells the story of a lonely vampire.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## vampiric
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/vampiric#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The game gives the character several vampiric powers.
+
+例句来源：逐词编写的学习例句
 
 ## vampirism
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/vampirism#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Sami was attracted to the life of vampirism.
+> The essay explores vampirism in Gothic fiction.
 
-例句来源：[Tatoeba；作者：OsoHombre；句子 #5989371；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/5989371)
+例句来源：逐词编写的学习例句
 
 ## van
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/van#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> In the parking lot, Fadil noticed a van belonging to his boss.
+> The boxes arrived in a delivery van.
 
-例句来源：[Tatoeba；作者：OsoHombre；句子 #5876390；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/5876390)
+例句来源：逐词编写的学习例句
 
 ## vancomycin
 
@@ -609,11 +612,65 @@
 
 例句来源：逐词编写的学习例句
 
+## vandal
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/vandal#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Vandals broke several windows at the school.
+
+例句来源：逐词编写的学习例句
+
+## vandalise
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/vandalise#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The playground was vandalised during the night.
+
+例句来源：逐词编写的学习例句
+
+## vandalism
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/vandalism#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The park closed temporarily after an act of vandalism.
+
+例句来源：逐词编写的学习例句
+
 ## vandalize
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/vandalize#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Someone vandalized the bus shelter overnight.
+
+例句来源：逐词编写的学习例句
+
+## vandals
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/vandals#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Vandals broke the windows of the empty building.
+
+例句来源：逐词编写的学习例句
+
+## vanilla
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/vanilla#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> I chose vanilla ice cream instead of chocolate.
+
+例句来源：逐词编写的学习例句
 
 ## vanish
 
@@ -648,26 +705,18 @@
 ## vanishingly
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/vanishingly#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Only a vanishingly small fraction of the records contained that exact phrase.
 
 例句来源：逐词编写的学习例句
 
-> a vanishingly small object on the horizon
-
-例句来源：Wiktionary 用例
-
 ## vanity
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/vanity#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> It is a vanity to say that if two stones are dropped from a tower, the heavier will experience the greater acceleration.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The advertisement appealed to his vanity by promising a more impressive image.
 
@@ -766,40 +815,22 @@
 ## vaporization
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/vaporization#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The experiment measured the energy needed for vaporization.
 
 例句来源：逐词编写的学习例句
 
-> The friction that occurs during the violent vaporization process generates the flare.
-
-例句来源：[Tatoeba；作者：Cangarejo；句子 #11152976；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/11152976)
-
 ## vaporize
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/vaporize#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> The increase in support did not vaporize on polling day itself.
-
-例句来源：[Tatoeba；作者：illiterate；句子 #8312027；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/8312027)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The laser vaporized a tiny spot on the sample.
 
 例句来源：逐词编写的学习例句
-
-## vaporizer
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/vaporizer#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
-
-> Vaporizers are used in electronic cigarettes to simulate smoke.
-
-例句来源：Wiktionary 用例
 
 ## vaporous
 
@@ -814,7 +845,12 @@
 ## vaporwave
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/vaporwave#English)
-- 发音资料：Wiktionary
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The playlist includes several vaporwave tracks.
+
+例句来源：逐词编写的学习例句
 
 ## vapour
 
@@ -829,12 +865,8 @@
 ## variability
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/variability#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> The experiment showed considerable variability in the results.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > There is considerable variability in how quickly children learn to read.
 
@@ -843,26 +875,28 @@
 ## variable
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/variable#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The weather is very variable in spring.
 
 例句来源：逐词编写的学习例句
 
-> variable winds or seasons; a variable quantity; a variable resistor
+## variables
 
-例句来源：Wiktionary 用例
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/variables#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The equation has two variables.
+
+例句来源：逐词编写的学习例句
 
 ## variably
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/variably#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> It will be variably cloudy.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adv:00492269](https://wordnet.princeton.edu/)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The shells are variably colored, even within the same population.
 
@@ -871,12 +905,8 @@
 ## variance
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/variance#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Depending on the variance of the type constructor, the subtyping relation of the simple types may be either preserved, reversed, or ignored for the respective complex types.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The second data set has a larger variance.
 
@@ -889,6 +919,16 @@
 - 中文释义资料：逐词编写的中文释义
 
 > The dictionary lists a regional variant of the word.
+
+例句来源：逐词编写的学习例句
+
+## variants
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/variants#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The dictionary lists several spelling variants.
 
 例句来源：逐词编写的学习例句
 
@@ -905,24 +945,30 @@
 ## variation
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/variation#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The study found large variation in sleep duration.
 
 例句来源：逐词编写的学习例句
 
-> When the process didn't work, we tried a variation.
-
-例句来源：Wiktionary 用例
-
 ## variational
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/variational#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The lecturer introduced a variational method for finding an approximate solution.
+
+例句来源：逐词编写的学习例句
+
+## variations
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/variations#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The tiles have slight variations in colour.
 
 例句来源：逐词编写的学习例句
 
@@ -949,30 +995,42 @@
 ## variegated
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/variegated#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> I like plants with variegated leaves because solid colors are so boring.
-
-例句来源：[Tatoeba；作者：osdedicados；句子 #10065940；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/10065940)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The plant has variegated green and white leaves.
+
+例句来源：逐词编写的学习例句
+
+## varies
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/varies#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The weather varies from place to place.
 
 例句来源：逐词编写的学习例句
 
 ## varietal
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/varietal#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The study compares varietal differences in drought tolerance.
 
 例句来源：逐词编写的学习例句
 
-> The varietal Merlot has rich red color and a robust fruity taste. Cabernet Sauvignon is a varietal that descended from Cabernet Franc and Sauvignon Blanc.
+## varieties
 
-例句来源：Wiktionary 用例
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/varieties#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The farm grows several varieties of apples.
+
+例句来源：逐词编写的学习例句
 
 ## variety
 
@@ -1027,14 +1085,20 @@
 ## variously
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/variously#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> My caravan served variously as a changing room, office and bedroom.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The building has been variously described as bold, strange, and beautiful.
+
+例句来源：逐词编写的学习例句
+
+## varsity
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/varsity#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She plays on the varsity basketball team.
 
 例句来源：逐词编写的学习例句
 
@@ -1061,12 +1125,12 @@
 ## vascular
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/vascular#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Coated vascular stents didn't prove their superiority over bare metal vascular stents.
+> The lesson compares vascular tissue in different plants.
 
-例句来源：[Tatoeba；作者：sacredceltic；句子 #2271414；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/2271414)
+例句来源：逐词编写的学习例句
 
 ## vasculitis
 
@@ -1074,15 +1138,21 @@
 - 发音资料：Wiktionary
 - 中文释义资料：ECDICT
 
+## vase
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/vase#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She put the flowers in a tall glass vase.
+
+例句来源：逐词编写的学习例句
+
 ## vasectomy
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/vasectomy#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> A vasectomy is a life-changing decision.
-
-例句来源：[Tatoeba；作者：Amastan；句子 #8280417；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/8280417)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The couple asked the doctor what the word vasectomy meant.
 
@@ -1091,56 +1161,42 @@
 ## vaseline
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/vaseline#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-## vasoconstriction
+> The label used the brand name Vaseline.
 
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/vasoconstriction#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
-
-## vasodilation
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/vasodilation#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
-
-## vasopressin
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/vasopressin#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+例句来源：逐词编写的学习例句
 
 ## vast
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/vast#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> There is a vast difference between them.
+> A vast plain stretched beyond the village.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## vastly
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/vastly#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> How do you approach learning languages that have vastly different cultural contexts?
+> The two versions are vastly different.
 
-例句来源：[Tatoeba；作者：Amastan；句子 #11891864；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/11891864)
+例句来源：逐词编写的学习例句
 
 ## vastness
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/vastness#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Comments have a mysterious way of getting lost in the vastness of Tatoebastan.
+> The photograph captures the vastness of the desert.
 
-例句来源：[Tatoeba；作者：saeb；句子 #507472；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/507472)
+例句来源：逐词编写的学习例句
 
 ## vault
 
@@ -1152,25 +1208,6 @@
 
 例句来源：逐词编写的学习例句
 
-## vaulter
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/vaulter#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
-
-> The pole vaulter jumped more than seven feet.
-
-例句来源：[Tatoeba；作者：Source\_VOA；句子 #681273；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/681273)
-
-## vaunted
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/vaunted#English)
-- 中文释义资料：ECDICT
-
-> For all the city's vaunted progressivism, it has some of the highest private school enrollment numbers in the country.
-
-例句来源：[Tatoeba；作者：shekitten；句子 #9750534；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/9750534)
-
 ## vector
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/vector#English)
@@ -1181,44 +1218,155 @@
 
 例句来源：逐词编写的学习例句
 
+## veer
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/veer#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The path begins to veer left beyond the bridge.
+
+例句来源：逐词编写的学习例句
+
+## veered
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/veered#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The boat veered away from the rocks.
+
+例句来源：逐词编写的学习例句
+
+## veering
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/veering#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> We noticed the boat veering towards the shore.
+
+例句来源：逐词编写的学习例句
+
+## veers
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/veers#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The road veers towards the coast after the village.
+
+例句来源：逐词编写的学习例句
+
+## vegan
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/vegan#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The café offers several vegan dishes.
+
+例句来源：逐词编写的学习例句
+
 ## veganism
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/veganism#English)
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Demonstrators in Paris promote veganism as one way to curb greenhouse emissions.
+> The class discussed the ethical arguments behind veganism.
 
-例句来源：[Tatoeba；作者：Hybrid；句子 #7769135；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/7769135)
+例句来源：逐词编写的学习例句
+
+## vegans
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/vegans#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The café has several options for vegans.
+
+例句来源：逐词编写的学习例句
+
+## vegetable
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/vegetable#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The soup contains several kinds of vegetables.
+
+例句来源：逐词编写的学习例句
+
+## vegetables
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/vegetables#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The basket contained fresh vegetables from the garden.
+
+例句来源：逐词编写的学习例句
 
 ## vegetarian
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/vegetarian#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> I have a vegetarian brother
+> The restaurant offers several vegetarian dishes.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## vegetarianism
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/vegetarianism#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> At around 10%, Germany has the highest rate of vegetarianism in Europe.
+> The book traces the history of vegetarianism.
 
-例句来源：[Tatoeba；作者：Hybrid；句子 #6765247；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/6765247)
+例句来源：逐词编写的学习例句
+
+## vegetate
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/vegetate#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> I do not want to vegetate in front of the television all weekend.
+
+例句来源：逐词编写的学习例句
+
+## vegetation
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/vegetation#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Dense vegetation covered the hillside.
+
+例句来源：逐词编写的学习例句
 
 ## veggie
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/veggie#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Did you really order sweet potato fries to go with your veggie burger?
+> Add the chopped veggies to the pan.
 
-例句来源：[Tatoeba；作者：DJ\_Saidez；句子 #10561470；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/10561470)
+例句来源：逐词编写的学习例句
+
+## veggies
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/veggies#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The soup is full of fresh veggies.
+
+例句来源：逐词编写的学习例句
 
 ## vehemence
 
@@ -1243,16 +1391,12 @@
 ## vehemently
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/vehemently#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > He vehemently opposed the closure of the library.
 
 例句来源：逐词编写的学习例句
-
-> vehemently opposed
-
-例句来源：Wiktionary 用例
 
 ## vehicle
 
@@ -1261,6 +1405,16 @@
 - 中文释义资料：逐词编写的中文释义
 
 > No vehicles are allowed beyond this gate.
+
+例句来源：逐词编写的学习例句
+
+## vehicles
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/vehicles#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Only emergency vehicles may use this entrance.
 
 例句来源：逐词编写的学习例句
 
@@ -1277,16 +1431,12 @@
 ## veil
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/veil#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > A thin veil of mist covered the valley.
 
 例句来源：逐词编写的学习例句
-
-> an altar veil
-
-例句来源：Wiktionary 用例
 
 ## veiled
 
@@ -1301,22 +1451,32 @@
 ## vein
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/vein#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The diagram shows the veins carrying blood back towards the heart.
 
 例句来源：逐词编写的学习例句
 
-> The nurse hovered her vein finder to locate the veins in the patient's body.
+## veins
 
-例句来源：Wiktionary 用例
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/veins#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The veins stood out clearly on the leaf.
+
+例句来源：逐词编写的学习例句
 
 ## veiny
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/veiny#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> His veiny hands rested on the wooden table.
+
+例句来源：逐词编写的学习例句
 
 ## velocity
 
@@ -1375,12 +1535,8 @@
 ## velvety
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/velvety#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> The crooner had a velvety voice that made the ladies swoon.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The rose had deep red, velvety petals.
 
@@ -1393,6 +1549,16 @@
 - 中文释义资料：逐词编写的中文释义
 
 > The machine vends tickets for local buses.
+
+例句来源：逐词编写的学习例句
+
+## vended
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/vended#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The drinks were vended through machines in the lobby.
 
 例句来源：逐词编写的学习例句
 
@@ -1416,6 +1582,26 @@
 
 例句来源：逐词编写的学习例句
 
+## vendors
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/vendors#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Street vendors sold fruit and hot snacks near the station.
+
+例句来源：逐词编写的学习例句
+
+## vends
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/vends#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The machine vends snacks and cold drinks.
+
+例句来源：逐词编写的学习例句
+
 ## venerable
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/venerable#English)
@@ -1429,12 +1615,8 @@
 ## venerate
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/venerate#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Even people who don't believe in the Catholic church venerate the Pope as a symbolic leader.
-
-例句来源：[Tatoeba；作者：imjcooper；句子 #1940；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/1940)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The community venerates its ancestors through an annual ceremony.
 
@@ -1463,22 +1645,22 @@
 ## vengeance
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/vengeance#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Vengeance is mine; I will repay, saith the Lord.
+> She refused to let a desire for vengeance control her life.
 
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset noun:01235463](https://wordnet.princeton.edu/)
+例句来源：逐词编写的学习例句
 
 ## vengeful
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/vengeful#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> His chains now broken, the prisoner turned a vengeful eye toward his former captors.
+> The story follows a vengeful ruler who trusts no one.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## venison
 
@@ -1503,12 +1685,8 @@
 ## venomous
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/venomous#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> His attitude toward me is utterly venomous.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The guide identified the snake as a venomous species.
 
@@ -1517,12 +1695,8 @@
 ## venous
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/venous#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Her venous circulation was poor, leading to varicose veins.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The textbook explains the difference between arterial and venous blood flow.
 
@@ -1531,21 +1705,12 @@
 ## vent
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/vent#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Warm air escaped through a vent near the ceiling.
 
 例句来源：逐词编写的学习例句
-
-> the vent of a cask; the vent of a mould
-
-例句来源：Wiktionary 用例
-
-## venter
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/venter#English)
-- 发音资料：Wiktionary
 
 ## ventilate
 
@@ -1570,30 +1735,22 @@
 ## ventilation
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ventilation#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The renovation improved ventilation throughout the building.
 
 例句来源：逐词编写的学习例句
 
-> This toxin impairs ventilation by causing inflammation in the bronchioles.
-
-例句来源：Wiktionary 用例
-
 ## ventilator
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ventilator#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > A roof ventilator draws warm air out of the attic.
 
 例句来源：逐词编写的学习例句
-
-> The patient in room 203 is on a ventilator to assist with breathing.
-
-例句来源：[Tatoeba；作者：megamanenm；句子 #11562030；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/11562030)
 
 ## venting
 
@@ -1618,8 +1775,8 @@
 ## ventrally
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ventrally#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The mouth of the ray is located ventrally.
 
@@ -1638,8 +1795,8 @@
 ## ventricular
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ventricular#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The report describes left ventricular function.
 
@@ -1648,8 +1805,8 @@
 ## ventriloquism
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ventriloquism#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > She learned ventriloquism by practising short dialogues with a puppet.
 
@@ -1658,16 +1815,12 @@
 ## ventriloquist
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ventriloquist#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The ventriloquist made the puppet interrupt him.
 
 例句来源：逐词编写的学习例句
-
-> Tom is a much better ventriloquist than Mary.
-
-例句来源：[Tatoeba；作者：CK；句子 #8097811；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/8097811)
 
 ## venture
 
@@ -1679,6 +1832,16 @@
 
 例句来源：逐词编写的学习例句
 
+## ventures
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ventures#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The partners discussed several new ventures.
+
+例句来源：逐词编写的学习例句
+
 ## venue
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/venue#English)
@@ -1686,6 +1849,16 @@
 - 中文释义资料：逐词编写的中文释义
 
 > We booked a small venue for the concert.
+
+例句来源：逐词编写的学习例句
+
+## venues
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/venues#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The festival uses several venues across the city.
 
 例句来源：逐词编写的学习例句
 
@@ -1702,22 +1875,18 @@
 ## veracity
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/veracity#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> I want to convince myself of the veracity of this story.
+> The reporter checked the veracity of the claim.
 
-例句来源：[Tatoeba；作者：AlanF\_US；句子 #8329141；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/8329141)
+例句来源：逐词编写的学习例句
 
 ## verb
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/verb#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Kindness is a verb, not an adjective. You're only kind if you do kind things.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Underline the verb in each sentence.
 
@@ -1726,16 +1895,12 @@
 ## verbal
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/verbal#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > She gave us verbal instructions before sending the written guide.
 
 例句来源：逐词编写的学习例句
-
-> a verbal translation
-
-例句来源：Wiktionary 用例
 
 ## verbalise
 
@@ -1760,12 +1925,8 @@
 ## verbalize
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/verbalize#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Bill became tongue-tied and could not verbalize his thoughts in the presence of the girl he had a crush on.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > She found it difficult to verbalize what was bothering her.
 
@@ -1774,12 +1935,8 @@
 ## verbally
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/verbally#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Dumbstruck with joy, she was unable to express herself verbally, but the gratitude in her face was evident to all.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The instructions were explained verbally and then shown on the screen.
 
@@ -1845,27 +2002,23 @@
 
 例句来源：逐词编写的学习例句
 
-## verger
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/verger#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
-
-> The Cathedral verger conducted tourists round the building.
-
-例句来源：[Tatoeba；作者：remline；句子 #10651194；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/10651194)
-
 ## verifiable
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/verifiable#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Do you have verifiable evidence to support that claim?
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The article should rely on verifiable facts.
+
+例句来源：逐词编写的学习例句
+
+## verified
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/verified#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> We verified the figures against the original records.
 
 例句来源：逐词编写的学习例句
 
@@ -1902,12 +2055,8 @@
 ## veritable
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/veritable#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> A fair is a veritable smorgasbord.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Her tiny kitchen became a veritable bakery before the festival.
 
@@ -1986,12 +2135,8 @@
 ## versatility
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/versatility#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> The advantage of our method lies in its simplicity and versatility.
-
-例句来源：[Tatoeba；作者：carlosalberto；句子 #14081611；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/14081611)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The role gives the actor a chance to show his versatility.
 
@@ -2004,6 +2149,16 @@
 - 中文释义资料：逐词编写的中文释义
 
 > She wrote the story in verse.
+
+例句来源：逐词编写的学习例句
+
+## verses
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/verses#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> We sang the first two verses of the song.
 
 例句来源：逐词编写的学习例句
 
@@ -2020,10 +2175,20 @@
 ## versioning
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/versioning#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Versioning allows the team to recover an earlier draft.
+
+例句来源：逐词编写的学习例句
+
+## versions
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/versions#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The two versions of the document contain different dates.
 
 例句来源：逐词编写的学习例句
 
@@ -2050,30 +2215,22 @@
 ## vertebral
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/vertebral#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The diagram labels the main parts of the vertebral column.
 
 例句来源：逐词编写的学习例句
 
-> They say I have a dislocated vertebral disc.
-
-例句来源：[Tatoeba；作者：DJ\_Saidez；句子 #9169398；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/9169398)
-
 ## vertebrate
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/vertebrate#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > A frog is a vertebrate, just as a bird is.
 
 例句来源：逐词编写的学习例句
-
-> Like a typical vertebrate the human has two pairs of limbs.
-
-例句来源：[Tatoeba；作者：corvard；句子 #1510180；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/1510180)
 
 ## vertex
 
@@ -2098,16 +2255,12 @@
 ## vertically
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/vertically#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The boxes were stacked vertically to save floor space.
 
 例句来源：逐词编写的学习例句
-
-> This story needs to be read vertically to be understood correctly.
-
-例句来源：Wiktionary 用例
 
 ## vertiginous
 
@@ -2145,12 +2298,6 @@
 - 发音资料：Wiktionary
 - 中文释义资料：ECDICT
 
-## vesicular
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/vesicular#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
-
 ## vesperal
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/vesperal#English)
@@ -2160,6 +2307,26 @@
 > The pale glow of the vesperal twilight is a balm for my weary eyes.
 
 例句来源：[Tatoeba；作者：tieguy；句子 #11612747；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/11612747)
+
+## vessel
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/vessel#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The vessel carried food and medical supplies to the island.
+
+例句来源：逐词编写的学习例句
+
+## vessels
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/vessels#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The harbour can receive large vessels.
+
+例句来源：逐词编写的学习例句
 
 ## vest
 
@@ -2181,16 +2348,6 @@
 
 例句来源：逐词编写的学习例句
 
-## vestibular
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/vestibular#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
-
-> vestibular impulse
-
-例句来源：Wiktionary 用例
-
 ## vestige
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/vestige#English)
@@ -2204,12 +2361,8 @@
 ## vestigial
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/vestigial#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> The coccyx is a vestigial feature that shows the common ancestry of mankind and apes.
-
-例句来源：[Tatoeba；作者：jakov；句子 #1720363；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/1720363)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The fossil preserves vestigial hind limbs.
 
@@ -2235,6 +2388,16 @@
 
 例句来源：逐词编写的学习例句
 
+## vests
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/vests#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The children wore cotton vests under their shirts.
+
+例句来源：逐词编写的学习例句
+
 ## vet
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/vet#English)
@@ -2255,15 +2418,21 @@
 
 例句来源：逐词编写的学习例句
 
+## veterans
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/veterans#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The centre offers support to veterans and their families.
+
+例句来源：逐词编写的学习例句
+
 ## veterinarian
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/veterinarian#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> How long does it take for a veterinarian to examine a horse?
-
-例句来源：[Tatoeba；作者：Source\_VOA；句子 #680866；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/680866)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The veterinarian examined the injured owl.
 
@@ -2309,34 +2478,85 @@
 
 例句来源：逐词编写的学习例句
 
+## vex
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/vex#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Don’t let a small delay vex you.
+
+例句来源：逐词编写的学习例句
+
+## vexation
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/vexation#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She sighed in vexation when the screen froze again.
+
+例句来源：逐词编写的学习例句
+
+## vexations
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/vexations#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She tried to laugh off the small vexations of the journey.
+
+例句来源：逐词编写的学习例句
+
 ## vexatious
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/vexatious#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> a vexatious litigant
+> The new rule created a series of vexatious problems.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## vexed
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/vexed#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> She became more and more vexed as she struggled to cope with the demands of the job.
+> She looked vexed by the repeated interruptions.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## vexes
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/vexes#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> What vexes her most is the lack of a clear answer.
+
+例句来源：逐词编写的学习例句
 
 ## vexing
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/vexing#English)
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> It is vexing to have to admit you are wrong.
+> The team faced a vexing problem with no obvious solution.
 
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adj:00089550](https://wordnet.princeton.edu/)
+例句来源：逐词编写的学习例句
+
+## vexingly
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/vexingly#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The instructions were vexingly unclear.
+
+例句来源：逐词编写的学习例句
 
 ## via
 
@@ -2351,12 +2571,8 @@
 ## viability
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/viability#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Etsy is responsible for Imogen of the Internet's entire economic viability.
-
-例句来源：[Tatoeba；作者：papabear；句子 #745452；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/745452)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The team assessed the long-term viability of the project.
 
@@ -2375,67 +2591,92 @@
 ## viaduct
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/viaduct#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The train crossed the valley on a tall stone viaduct.
 
 例句来源：逐词编写的学习例句
 
-> They're building a new viaduct there.
+## vibe
 
-例句来源：[Tatoeba；作者：DJ\_Saidez；句子 #10372097；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/10372097)
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/vibe#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The café has a relaxed vibe.
+
+例句来源：逐词编写的学习例句
+
+## vibes
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/vibes#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The music gives off relaxed vibes.
+
+例句来源：逐词编写的学习例句
 
 ## vibrancy
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/vibrancy#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Without you, my days would be colorless and monotonous. You bring vibrancy and excitement to my world.
+> The market adds vibrancy to the neighbourhood.
 
-例句来源：[Tatoeba；作者：Amastan；句子 #11847042；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/11847042)
+例句来源：逐词编写的学习例句
 
 ## vibrant
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/vibrant#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> He has a vibrant personality.
+> The district has a vibrant arts scene.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## vibrantly
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/vibrantly#English)
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> In the wild, a well-fed flamingo is likely to have more vibrantly coloured plumage, which will more readily attract a mate.
+> The walls were vibrantly painted in blue and yellow.
 
-例句来源：[Tatoeba；作者：Vanilla；句子 #9013130；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/9013130)
+例句来源：逐词编写的学习例句
+
+## vibrate
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/vibrate#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> My phone vibrated in my pocket.
+
+例句来源：逐词编写的学习例句
 
 ## vibration
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/vibration#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> An alveolar ejective has voiceless phonation, meaning it is produced without vocal cord vibration.
+> We could feel the vibration through the floor.
 
-例句来源：[Tatoeba；作者：Vanilla；句子 #9013216；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/9013216)
-
-## vibrational
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/vibrational#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+例句来源：逐词编写的学习例句
 
 ## vibratory
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/vibratory#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The controller provides vibratory feedback during the game.
+
+例句来源：逐词编写的学习例句
 
 ## vicar
 
@@ -2450,8 +2691,8 @@
 ## vicarage
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/vicarage#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The old vicarage has been converted into a family home.
 
@@ -2460,30 +2701,22 @@
 ## vicarious
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/vicarious#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Her travel diary gave me the vicarious pleasure of crossing the desert.
 
 例句来源：逐词编写的学习例句
 
-> People experience vicarious pleasures through watching television.
-
-例句来源：Wiktionary 用例
-
 ## vicariously
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/vicariously#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > I travelled vicariously through my sister’s letters from abroad.
 
 例句来源：逐词编写的学习例句
-
-> She enjoyed the wedding vicariously.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adv:00492900](https://wordnet.princeton.edu/)
 
 ## vice
 
@@ -2523,22 +2756,18 @@
 ## vicinity
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/vicinity#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> There was a crackling sound in the vicinity of my right ear.
+> There are several cafés in the vicinity of the station.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## vicious
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/vicious#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Conflict escalation frequently results from a vicious circle of action and reaction.
-
-例句来源：[Tatoeba；作者：Adelpa；句子 #12421160；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/12421160)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > She faced a vicious personal attack during the debate.
 
@@ -2548,11 +2777,7 @@
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/viciously#English)
 - 发音资料：核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> He was viciously attacked.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adv:00201195](https://wordnet.princeton.edu/)
+- 中文释义资料：逐词编写的中文释义
 
 > The review attacked her character viciously instead of discussing the book.
 
@@ -2562,7 +2787,7 @@
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/viciousness#English)
 - 发音资料：核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 中文释义资料：逐词编写的中文释义
 
 > She was shocked by the viciousness of the online comments.
 
@@ -2581,51 +2806,62 @@
 ## victim
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/victim#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The victim of the robbery gave a detailed statement.
+> The victim of the theft reported the missing bag.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## victimhood
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/victimhood#English)
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Victimhood might seem easier, but it doesn’t lead to personal growth.
+> The essay explores the relationship between memory and victimhood.
 
-例句来源：[Tatoeba；作者：Nuel；句子 #13465728；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/13465728)
+例句来源：逐词编写的学习例句
 
 ## victimization
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/victimization#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Paying Blacks less and charging them more is a form of victimization.
+> The study examines repeated victimization at school.
 
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset noun:00418903](https://wordnet.princeton.edu/)
+例句来源：逐词编写的学习例句
 
 ## victimize
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/victimize#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The police are known to victimize anyone who isn't local to that town.
+> The scheme was designed to victimize inexperienced buyers.
 
-例句来源：[Tatoeba；作者：memmly；句子 #5688321；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/5688321)
+例句来源：逐词编写的学习例句
 
 ## victimless
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/victimless#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> He said that prostitution, drug trafficking, and gambling were victimless crimes.
+> The article questions whether the offence is truly victimless.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## victims
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/victims#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Volunteers brought blankets to the flood victims.
+
+例句来源：逐词编写的学习例句
 
 ## victor
 
@@ -2634,6 +2870,16 @@
 - 中文释义资料：逐词编写的中文释义
 
 > After three rounds of voting, she emerged as the victor.
+
+例句来源：逐词编写的学习例句
+
+## victories
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/victories#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The team celebrated three victories in a row.
 
 例句来源：逐词编写的学习例句
 
@@ -2650,26 +2896,18 @@
 ## victoriously
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/victoriously#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > He raised the trophy victoriously above his head.
 
 例句来源：逐词编写的学习例句
 
-> Virginia had defended her land victoriously.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adv:00199437](https://wordnet.princeton.edu/)
-
 ## victory
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/victory#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> It was a great victory on the battlefield.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The team celebrated a narrow victory over their rivals.
 
@@ -2718,41 +2956,52 @@
 ## videographer
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/videographer#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Ziri made Rima his official photographer and videographer.
+> They hired a videographer to film the wedding.
 
-例句来源：[Tatoeba；作者：Amastan；句子 #11050301；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/11050301)
+例句来源：逐词编写的学习例句
+
+## videographers
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/videographers#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The videographers filmed the performance from two angles.
+
+例句来源：逐词编写的学习例句
 
 ## videography
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/videography#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Alberto was paying Isabella for her videography and photography skills.
+> She offers wedding videography services.
 
-例句来源：[Tatoeba；作者：Amastan；句子 #11677712；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/11677712)
+例句来源：逐词编写的学习例句
+
+## videos
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/videos#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The course includes short videos explaining each step.
+
+例句来源：逐词编写的学习例句
 
 ## videotape
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/videotape#English)
 - 发音资料：核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> I promise to return this videotape within a week.
-
-例句来源：[Tatoeba；作者：CM；句子 #60610；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/60610)
+- 中文释义资料：逐词编写的中文释义
 
 > We found a videotape of the school play.
 
 例句来源：逐词编写的学习例句
-
-## vier
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/vier#English)
-- 中文释义资料：ECDICT
 
 ## view
 
@@ -2767,40 +3016,48 @@
 ## viewable
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/viewable#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> I love the scenery viewable from the Shinkansen.
-
-例句来源：[Tatoeba；作者：danieljtah；句子 #3422390；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/3422390)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The photographs are viewable online.
+
+例句来源：逐词编写的学习例句
+
+## viewed
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/viewed#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The visitors viewed the drawings in the main hall.
 
 例句来源：逐词编写的学习例句
 
 ## viewer
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/viewer#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The programme attracted millions of viewers.
 
 例句来源：逐词编写的学习例句
 
-> This image viewer can display pictures in GIF, PNG and JPG format.
+## viewers
 
-例句来源：Wiktionary 用例
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/viewers#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The programme invites viewers to send in questions.
+
+例句来源：逐词编写的学习例句
 
 ## viewership
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/viewership#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> My video channel on YouTube has a wide viewership.
-
-例句来源：[Tatoeba；作者：darinmex；句子 #2059124；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/2059124)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The programme’s viewership grew during its second season.
 
@@ -2813,6 +3070,16 @@
 - 中文释义资料：逐词编写的中文释义
 
 > She looked through the viewfinder and adjusted the frame.
+
+例句来源：逐词编写的学习例句
+
+## viewing
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/viewing#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> We spent the afternoon viewing the exhibition.
 
 例句来源：逐词编写的学习例句
 
@@ -2833,6 +3100,16 @@
 - 中文释义资料：逐词编写的中文释义
 
 > The layout changes when the viewport becomes narrower.
+
+例句来源：逐词编写的学习例句
+
+## views
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/views#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The upstairs rooms offer views of the harbour.
 
 例句来源：逐词编写的学习例句
 
@@ -2885,8 +3162,8 @@
 ## vigilantism
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/vigilantism#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The judge warned that vigilantism could harm innocent people.
 
@@ -2912,15 +3189,45 @@
 
 例句来源：逐词编写的学习例句
 
+## vigor
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/vigor#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She returned to the project with renewed vigor.
+
+例句来源：逐词编写的学习例句
+
+## vigorous
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/vigorous#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The proposal met with vigorous opposition.
+
+例句来源：逐词编写的学习例句
+
 ## vigorously
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/vigorously#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The lawyer vigorously defended her client.
+> She shook the bottle vigorously.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## vigour
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/vigour#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The young plants grew with remarkable vigour.
+
+例句来源：逐词编写的学习例句
 
 ## vile
 
@@ -2945,12 +3252,8 @@
 ## vilify
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/vilify#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> It was an unwise decision to try to vilify the beloved singer.
-
-例句来源：[Tatoeba；作者：swolesuki；句子 #6907523；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/6907523)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The article vilified the scientist without addressing her evidence.
 
@@ -2989,14 +3292,30 @@
 ## villager
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/villager#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> A villager does not rely on anyone, he is ready to face any challenge.
-
-例句来源：[Tatoeba；作者：Aghanim；句子 #11241002；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/11241002)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > A villager showed us the path to the waterfall.
+
+例句来源：逐词编写的学习例句
+
+## villagers
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/villagers#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The villagers gathered in the square.
+
+例句来源：逐词编写的学习例句
+
+## villages
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/villages#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The path connects several villages.
 
 例句来源：逐词编写的学习例句
 
@@ -3040,10 +3359,20 @@
 
 例句来源：逐词编写的学习例句
 
+## villains
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/villains#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The film gives its villains surprisingly funny dialogue.
+
+例句来源：逐词编写的学习例句
+
 ## villainy
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/villainy#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
+- 发音资料：核对后整理；见逐词精讲核对资料
 - 中文释义资料：逐词编写的中文释义
 
 > The play contrasts courage with greed and villainy.
@@ -3110,31 +3439,25 @@
 
 例句来源：逐词编写的学习例句
 
-## vindicator
+## vindicate
 
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/vindicator#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/vindicate#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The later results vindicated her decision to wait.
+
+例句来源：逐词编写的学习例句
 
 ## vindictive
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/vindictive#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> More vindictive than jealous love.
+> She described the dismissal as a vindictive act.
 
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adj:01041634](https://wordnet.princeton.edu/)
-
-## vindictiveness
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/vindictiveness#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
-
-> We never ought to allow our instincts of justice to degenerate into mere vindictiveness.
-
-例句来源：[Tatoeba；作者：Cangarejo；句子 #12115322；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/12115322)
+例句来源：逐词编写的学习例句
 
 ## vine
 
@@ -3156,25 +3479,15 @@
 
 例句来源：逐词编写的学习例句
 
-## vineland
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/vineland#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
-
 ## vineyard
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/vineyard#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Rows of vines cover the hillside vineyard.
 
 例句来源：逐词编写的学习例句
-
-> The vineyard of Château Margaux stands as the producer of one of the world's greatest and most sought-after red wines.
-
-例句来源：Wiktionary 用例
 
 ## vintage
 
@@ -3189,90 +3502,162 @@
 ## vinyl
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/vinyl#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Many DJs prefer vinyl to CDs.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The album is available on vinyl as well as digitally.
+
+例句来源：逐词编写的学习例句
+
+## viola
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/viola#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She switched from violin to viola.
+
+例句来源：逐词编写的学习例句
+
+## violas
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/violas#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The violas repeat the phrase an octave lower.
 
 例句来源：逐词编写的学习例句
 
 ## violate
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/violate#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Accessing unauthorized files violates security protocol.
+> The new policy may violate the agreement.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## violated
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/violated#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The player violated the rules of the game.
+
+例句来源：逐词编写的学习例句
+
+## violating
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/violating#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The player was penalised for violating the rules.
+
+例句来源：逐词编写的学习例句
 
 ## violation
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/violation#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Nahh saying that to bro is actually a violation 💀
+> The referee reported a violation of the rules.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## violations
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/violations#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The referee recorded three violations of the rules.
+
+例句来源：逐词编写的学习例句
 
 ## violence
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/violence#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The violence of the storm, fortunately, was more awesome than destructive.
+> The novel explores the effects of violence on a family.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## violent
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/violent#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> We would rather negotiate, but we will use violent means if necessary.
+> A violent storm struck the coast.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## violently
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/violently#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> I found myself violently disagreeing with him.
+> The boat rocked violently in the waves.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## violin
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/violin#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She began learning the violin at seven.
+
+例句来源：逐词编写的学习例句
 
 ## violinist
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/violinist#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> You run that backhoe like a concert violinist plays a concerto.
+> A young violinist opened the concert.
 
-例句来源：[Tatoeba；作者：Joseph；句子 #2654833；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/2654833)
+例句来源：逐词编写的学习例句
+
+## violinists
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/violinists#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The violinists tuned their instruments together.
+
+例句来源：逐词编写的学习例句
+
+## violins
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/violins#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The quartet includes two violins, a viola and a cello.
+
+例句来源：逐词编写的学习例句
 
 ## viral
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/viral#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The report distinguishes viral infections from bacterial infections.
 
 例句来源：逐词编写的学习例句
-
-> viral infection
-
-例句来源：Wiktionary 用例
 
 ## virality
 
@@ -3319,16 +3704,12 @@
 ## virginity
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/virginity#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The essay examines changing attitudes towards virginity.
 
 例句来源：逐词编写的学习例句
-
-> to lose one's virginity
-
-例句来源：Wiktionary 用例
 
 ## virgula
 
@@ -3370,12 +3751,8 @@
 ## virility
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/virility#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> I like this photo because it shows my virility.
-
-例句来源：[Tatoeba；作者：barb；句子 #3246494；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/3246494)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The statue was interpreted as a symbol of virility and strength.
 
@@ -3384,8 +3761,8 @@
 ## virologist
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/virologist#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > A virologist explained how the virus copies its genetic material.
 
@@ -3394,12 +3771,8 @@
 ## virology
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/virology#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> The Wuhan virology institute was only studying viruses that came directly from bats.
-
-例句来源：[Tatoeba；作者：rul；句子 #13116617；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/13116617)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The virology laboratory compared the genetic sequences of several samples.
 
@@ -3419,15 +3792,11 @@
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/virtualization#English)
 - 发音资料：核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 中文释义资料：逐词编写的中文释义
 
 > Virtualization allows the lab to run several test environments on one machine.
 
 例句来源：逐词编写的学习例句
-
-> storage virtualization
-
-例句来源：Wiktionary 用例
 
 ## virtualize
 
@@ -3452,16 +3821,12 @@
 ## virtually
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/virtually#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The two versions are virtually identical.
 
 例句来源：逐词编写的学习例句
-
-> With our Medicare supplemental insurance plan, there are virtually no claim forms to fill out. (Advertisement)
-
-例句来源：Wiktionary 用例
 
 ## virtue
 
@@ -3476,30 +3841,22 @@
 ## virtuosic
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/virtuosic#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The concerto ends with a virtuosic passage for the soloist.
 
 例句来源：逐词编写的学习例句
 
-> This piece is a virtuosic display of the composer's mastery of counterpoint and orchestration.
-
-例句来源：[Tatoeba；作者：mailohilohi；句子 #5951540；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/5951540)
-
 ## virtuosity
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/virtuosity#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The performance combined technical virtuosity with a remarkably gentle tone.
 
 例句来源：逐词编写的学习例句
-
-> This pianist is known for his virtuosity.
-
-例句来源：[Tatoeba；作者：kanlaon；句子 #5361050；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/5361050)
 
 ## virtuoso
 
@@ -3544,12 +3901,8 @@
 ## virulently
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/virulently#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> An old woman advanced a few paces to shake her fist virulently in my face.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adv:00493260](https://wordnet.princeton.edu/)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Several commentators were virulently opposed to the reform.
 
@@ -3562,6 +3915,16 @@
 - 中文释义资料：逐词编写的中文释义
 
 > The researchers studied how the virus enters a cell.
+
+例句来源：逐词编写的学习例句
+
+## viruses
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/viruses#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The textbook compares viruses with bacteria.
 
 例句来源：逐词编写的学习例句
 
@@ -3578,16 +3941,12 @@
 ## visage
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/visage#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > A smile softened his stern visage.
 
 例句来源：逐词编写的学习例句
-
-> Snowflakes fell gently across the mountain’s rugged visage.
-
-例句来源：Wiktionary 用例
 
 ## viscera
 
@@ -3613,15 +3972,11 @@
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/viscerally#English)
 - 发音资料：核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 中文释义资料：逐词编写的中文释义
 
 > She reacted viscerally to the sound of the alarm.
 
 例句来源：逐词编写的学习例句
-
-> The shock of my friend's decapitation affected me viscerally, and I became paralyzed with dread.
-
-例句来源：Wiktionary 用例
 
 ## viscoelastic
 
@@ -3632,16 +3987,12 @@
 ## viscosity
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/viscosity#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The experiment measures how viscosity changes with temperature.
 
 例句来源：逐词编写的学习例句
-
-> The oil needs to have the correct viscosity.
-
-例句来源：[Tatoeba；作者：Amastan；句子 #10011428；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/10011428)
 
 ## viscous
 
@@ -3656,16 +4007,12 @@
 ## visibility
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/visibility#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Fog reduced visibility on the road.
 
 例句来源：逐词编写的学习例句
-
-> The visibility from that angle was good.
-
-例句来源：Wiktionary 用例
 
 ## visible
 
@@ -3680,12 +4027,8 @@
 ## visibly
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/visibly#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> He was visibly upset while reading the news live on air about the school shooting.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > She was visibly relieved when the train arrived.
 
@@ -3704,16 +4047,22 @@
 ## visionary
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/visionary#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Her visionary plan transformed the old factory into a park.
 
 例句来源：逐词编写的学习例句
 
-> a visionary scheme or project
+## visions
 
-例句来源：Wiktionary 用例
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/visions#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The artists presented different visions of the future.
+
+例句来源：逐词编写的学习例句
 
 ## visit
 
@@ -3735,17 +4084,53 @@
 
 例句来源：逐词编写的学习例句
 
+## visited
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/visited#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> We visited our grandparents last Sunday.
+
+例句来源：逐词编写的学习例句
+
+## visiting
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/visiting#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> We are visiting our grandparents this weekend.
+
+例句来源：逐词编写的学习例句
+
 ## visitor
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/visitor#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Keep your Japanese etiquette for yourself. I'm just a visitor in Japan.
-
-例句来源：[Tatoeba；作者：OsoHombre；句子 #8058338；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/8058338)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Visitors must sign in at reception.
+
+例句来源：逐词编写的学习例句
+
+## visitors
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/visitors#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The museum welcomed visitors from several nearby towns.
+
+例句来源：逐词编写的学习例句
+
+## visits
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/visits#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She visits her grandparents every Sunday.
 
 例句来源：逐词编写的学习例句
 
@@ -3782,12 +4167,8 @@
 ## visualise
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/visualise#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Can you visualise how the garden will look once the flowers are in bloom?
-
-例句来源：[Tatoeba；作者：Swift；句子 #669358；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/669358)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Close your eyes and visualise a quiet beach.
 
@@ -3806,12 +4187,8 @@
 ## visualization
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/visualization#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Complex data is more easily interpreted through visualization.
-
-例句来源：[Tatoeba；作者：spesific；句子 #9927461；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/9927461)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The visualization makes the seasonal pattern easy to see.
 
@@ -3820,26 +4197,18 @@
 ## visualize
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/visualize#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Try to visualize the room before choosing the furniture.
 
 例句来源：逐词编写的学习例句
 
-> to visualize data using a chart
-
-例句来源：Wiktionary 用例
-
 ## visually
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/visually#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> The radar's detection was confirmed visually, because seeing is believing.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The two versions are visually similar.
 
@@ -3858,12 +4227,8 @@
 ## vitality
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/vitality#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> The city’s cultural vitality impressed the visitors.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The market gives the neighbourhood a sense of vitality.
 
@@ -3872,16 +4237,12 @@
 ## vitally
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/vitally#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > It is vitally important to keep a copy of the original data.
 
 例句来源：逐词编写的学习例句
-
-> This is vitally important.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adv:00090551](https://wordnet.princeton.edu/)
 
 ## vitamin
 
@@ -3942,16 +4303,12 @@
 ## vitriolic
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/vitriolic#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The proposal drew a vitriolic response from its opponents.
 
 例句来源：逐词编写的学习例句
-
-> vitriolic criticism
-
-例句来源：Wiktionary 用例
 
 ## vituperate
 
@@ -3986,12 +4343,8 @@
 ## vivacious
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/vivacious#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> A charming and vivacious hostess.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adj:02280969](https://wordnet.princeton.edu/)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Her vivacious manner put the guests at ease.
 
@@ -4000,16 +4353,12 @@
 ## vivacity
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/vivacity#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Her conversation lost none of its usual vivacity.
 
 例句来源：逐词编写的学习例句
-
-> Some secret sorrow, or the brooding spirit of some moody passion, had quenched the light and ingenuous vivacity of youth.
-
-例句来源：[Tatoeba；作者：Hybrid；句子 #7752189；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/7752189)
 
 ## vivid
 
@@ -4024,12 +4373,8 @@
 ## vividly
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/vividly#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> He described his adventures vividly.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adv:00245843](https://wordnet.princeton.edu/)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > I vividly remember the smell of fresh bread in that shop.
 
@@ -4038,8 +4383,8 @@
 ## vividness
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/vividness#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The vividness of the dream stayed with her all morning.
 
@@ -4055,13 +4400,65 @@
 
 例句来源：逐词编写的学习例句
 
+## vlog
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/vlog#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She made a vlog about her first day in the city.
+
+例句来源：逐词编写的学习例句
+
+## vlogged
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/vlogged#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She vlogged her journey across the island.
+
+例句来源：逐词编写的学习例句
+
 ## vlogger
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/vlogger#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> That Russian vlogger makes videos about the Philippines.
+> The vlogger filmed a walk through the old market.
 
-例句来源：[Tatoeba；作者：mervert1；句子 #13673975；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/13673975)
+例句来源：逐词编写的学习例句
+
+## vloggers
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/vloggers#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The festival invited vloggers from several regions.
+
+例句来源：逐词编写的学习例句
+
+## vlogging
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/vlogging#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She started vlogging to document her travels.
+
+例句来源：逐词编写的学习例句
+
+## vlogs
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/vlogs#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Her travel vlogs show everyday life in different towns.
+
+例句来源：逐词编写的学习例句
 
 ## vocable
 
@@ -4106,22 +4503,18 @@
 ## vocalist
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/vocalist#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The band is looking for a new lead vocalist.
 
 例句来源：逐词编写的学习例句
 
-> talented vocalist
-
-例句来源：Wiktionary 用例
-
 ## vocalization
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/vocalization#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The microphone captured several quiet vocalizations from the bird.
 
@@ -4130,8 +4523,8 @@
 ## vocalize
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/vocalize#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The baby began to vocalize when she saw the toy.
 
@@ -4140,14 +4533,20 @@
 ## vocally
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/vocally#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Passengers complained long and vocally about the timetable changes.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The role is vocally demanding even for an experienced singer.
+
+例句来源：逐词编写的学习例句
+
+## vocals
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/vocals#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She recorded the vocals in a small studio.
 
 例句来源：逐词编写的学习例句
 
@@ -4164,16 +4563,12 @@
 ## vocational
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/vocational#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The college offers vocational courses in cooking and electrical work.
 
 例句来源：逐词编写的学习例句
-
-> vocational program
-
-例句来源：Wiktionary 用例
 
 ## vocative
 
@@ -4188,12 +4583,8 @@
 ## vociferous
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/vociferous#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Not even the most vociferous advocates of reform were willing to go to such lengths.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The proposal met vociferous opposition at the meeting.
 
@@ -4202,10 +4593,20 @@
 ## vociferously
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/vociferously#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Residents protested vociferously against the closure of the park.
+
+例句来源：逐词编写的学习例句
+
+## vodka
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/vodka#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The label identifies the drink as vodka.
 
 例句来源：逐词编写的学习例句
 
@@ -4232,26 +4633,32 @@
 ## voiceless
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/voiceless#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The sound /s/ is a voiceless consonant.
 
 例句来源：逐词编写的学习例句
 
-> Voiceless screaming was interestingly represented through music notation by Alfred Schnittke: "silence fortissimo".
-
-例句来源：[Tatoeba；作者：shanghainese；句子 #278262；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/278262)
-
 ## voicemail
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/voicemail#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Tom listened to the message that Mary had left on his voicemail.
+> I left her a voicemail about the meeting.
 
-例句来源：[Tatoeba；作者：Hybrid；句子 #8075154；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/8075154)
+例句来源：逐词编写的学习例句
+
+## voicemails
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/voicemails#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She listened to her voicemails after the meeting.
+
+例句来源：逐词编写的学习例句
 
 ## voiceover
 
@@ -4263,17 +4670,53 @@
 
 例句来源：逐词编写的学习例句
 
+## voiceovers
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/voiceovers#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She recorded voiceovers for the museum videos.
+
+例句来源：逐词编写的学习例句
+
+## voices
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/voices#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> We heard familiar voices in the corridor.
+
+例句来源：逐词编写的学习例句
+
 ## voicing
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/voicing#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Academics are voicing alarm that creationist ideas are replacing those of evolution.
-
-例句来源：[Tatoeba；作者：Cangarejo；句子 #10901224；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/10901224)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The meeting gave staff a safe place for voicing concerns.
+
+例句来源：逐词编写的学习例句
+
+## void
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/void#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> His departure left a void in the team.
+
+例句来源：逐词编写的学习例句
+
+## voided
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/voided#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The duplicate ticket was voided before it could be used.
 
 例句来源：逐词编写的学习例句
 
@@ -4290,42 +4733,42 @@
 ## volatility
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/volatility#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The chart shows a sharp increase in price volatility.
 
 例句来源：逐词编写的学习例句
 
-> The volatility of the market drove many investors away.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset noun:04866671](https://wordnet.princeton.edu/)
-
 ## volcanic
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/volcanic#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> volcanic activity
+> The beach was covered with dark volcanic sand.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## volcanism
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/volcanism#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The rocks preserve evidence of ancient volcanism.
+
+例句来源：逐词编写的学习例句
 
 ## volcano
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/volcano#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Iceland's volcanoes are among the most active on Earth.
+> The island has an active volcano.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## volition
 
@@ -4347,31 +4790,45 @@
 
 例句来源：逐词编写的学习例句
 
+## volleyball
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/volleyball#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> We play volleyball on the beach after work.
+
+例句来源：逐词编写的学习例句
+
 ## voltage
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/voltage#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The voltage between the wires is too low to produce a spark.
+> The meter displayed the voltage across the battery.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## voltaic
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/voltaic#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> A voltaic (or galvanic) couple.
+> The students assembled a simple voltaic cell in the laboratory.
 
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adj:02827160](https://wordnet.princeton.edu/)
+例句来源：逐词编写的学习例句
 
 ## voltmeter
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/voltmeter#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The digital voltmeter displayed a steady reading.
+
+例句来源：逐词编写的学习例句
 
 ## voluble
 
@@ -4393,6 +4850,16 @@
 
 例句来源：逐词编写的学习例句
 
+## volumes
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/volumes#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The history was published in three volumes.
+
+例句来源：逐词编写的学习例句
+
 ## voluminous
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/voluminous#English)
@@ -4406,16 +4873,12 @@
 ## voluntarily
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/voluntarily#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > All participants joined the project voluntarily.
 
 例句来源：逐词编写的学习例句
-
-> He voluntarily submitted to the fingerprinting.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adv:00231765](https://wordnet.princeton.edu/)
 
 ## voluntary
 
@@ -4430,12 +4893,8 @@
 ## volunteer
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/volunteer#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> The volunteers at the nature reserve meet up ever other Sunday to help its upkeep.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Three volunteers stayed to clean the hall.
 
@@ -4464,14 +4923,20 @@
 ## volunteerism
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/volunteerism#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> His volunteerism eventually burned him out.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The program aims to encourage volunteerism among students.
+
+例句来源：逐词编写的学习例句
+
+## volunteers
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/volunteers#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Volunteers helped visitors find their way around the museum.
 
 例句来源：逐词编写的学习例句
 
@@ -4538,12 +5003,8 @@
 ## voracious
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/voracious#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> His appetite is voracious by suppertime.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The growing puppy had a voracious appetite.
 
@@ -4552,12 +5013,8 @@
 ## voraciously
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/voraciously#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Algeria taxes the corporate system voraciously.
-
-例句来源：[Tatoeba；作者：Amastan；句子 #9472781；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/9472781)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > During the summer, she read voraciously about marine life.
 
@@ -4583,12 +5040,6 @@
 
 例句来源：逐词编写的学习例句
 
-## vorticity
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/vorticity#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
-
 ## votary
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/votary#English)
@@ -4609,17 +5060,43 @@
 
 例句来源：逐词编写的学习例句
 
+## voted
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/voted#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The members voted to postpone the meeting.
+
+例句来源：逐词编写的学习例句
+
 ## voter
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/voter#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> The biggest threat to democracy in the United States is voter suppression.
-
-例句来源：[Tatoeba；作者：karloelkebekio；句子 #7550968；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/7550968)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The survey asked voters which issues mattered most to them.
+
+例句来源：逐词编写的学习例句
+
+## voters
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/voters#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Voters arrived at the hall throughout the morning.
+
+例句来源：逐词编写的学习例句
+
+## votes
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/votes#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The committee counted the votes after the meeting.
 
 例句来源：逐词编写的学习例句
 
@@ -4666,16 +5143,12 @@
 ## voucher
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/voucher#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The airline gave us meal vouchers while we waited.
 
 例句来源：逐词编写的学习例句
-
-> This voucher entitles the bearer to a 20% discount on frozen goods.
-
-例句来源：Wiktionary 用例
 
 ## vouchsafe
 
@@ -4717,15 +5190,35 @@
 
 例句来源：逐词编写的学习例句
 
+## vows
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/vows#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> They wrote their own wedding vows.
+
+例句来源：逐词编写的学习例句
+
+## voyage
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/voyage#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The ship began its voyage at dawn.
+
+例句来源：逐词编写的学习例句
+
 ## voyager
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/voyager#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Voyager 2, a space probe, passed within 4900 kilometers of Neptune in 1989.
+> The voyagers reached the island after weeks at sea.
 
-例句来源：[Tatoeba；作者：Hybrid；句子 #3957444；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/3957444)
+例句来源：逐词编写的学习例句
 
 ## voyeur
 
@@ -4740,8 +5233,8 @@
 ## voyeurism
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/voyeurism#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The critic accused the programme of encouraging voyeurism.
 
@@ -4750,8 +5243,8 @@
 ## voyeuristic
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/voyeuristic#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > She criticized the report’s voyeuristic focus on private grief.
 
@@ -4770,12 +5263,8 @@
 ## vulgarity
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/vulgarity#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> I don't mind your smoking, but I mind your vulgarity.
-
-例句来源：[Tatoeba；作者：Ergulis；句子 #8119757；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/8119757)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The critic objected to the vulgarity of the performance.
 
@@ -4794,12 +5283,8 @@
 ## vulnerability
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/vulnerability#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> The country recognized their defence vulnerability after an airplane landed in front of the central square without any consequences.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The update fixed a security vulnerability in the software.
 

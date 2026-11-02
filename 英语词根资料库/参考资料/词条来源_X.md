@@ -102,16 +102,12 @@
 ## xenon
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/xenon#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The camera uses a xenon flash to produce a brief burst of light.
 
 例句来源：逐词编写的学习例句
-
-> Xenon is the 54th chemical element. It is colorless, odorless and tasteless.
-
-例句来源：[Tatoeba；作者：Solana；句子 #11746212；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/11746212)
 
 ## xenophobia
 
@@ -126,12 +122,8 @@
 ## xenophobic
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/xenophobic#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Apropos of nothing, Tom went on an unhinged xenophobic rant.
-
-例句来源：[Tatoeba；作者：shekitten；句子 #10088871；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/10088871)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The editor removed a xenophobic remark from the article.
 
@@ -203,8 +195,8 @@
 ## xylene
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/xylene#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The report lists xylene among the solvents used at the site.
 
@@ -223,19 +215,9 @@
 ## xylophone
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/xylophone#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> All I know how to play on my xylophone is "Mary Had a Little Lamb". Would you like to hear it?
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The child struck each wooden bar of the xylophone in turn.
 
 例句来源：逐词编写的学习例句
-
-## xylose
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/xylose#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT

@@ -2,83 +2,75 @@
 
 [返回来源目录](README.md)
 
-## jabber
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/jabber#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
-
-> He spends all his time chatting online on Jabber.
-
-例句来源：[Tatoeba；作者：Scott；句子 #544629；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/544629)
-
 ## jack
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/jack#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> jack of plate
+> The mechanic placed a jack under the car.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## jackass
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/jackass#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> We men can silence the vulture within us, but not the jackass.
+> A jackass brayed behind the barn.
 
-例句来源：[Tatoeba；作者：zogwarg；句子 #11904162；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/11904162)
-
-## jackdaw
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/jackdaw#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
-
-> It's a very intelligent bird, but it's not a magpie at all; it's a jackdaw.
-
-例句来源：[Tatoeba；作者：maaster；句子 #6628774；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/6628774)
+例句来源：逐词编写的学习例句
 
 ## jacket
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/jacket#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> He's hoping to earn his jacket this year.
+> She hung her jacket by the door.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## jackets
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/jackets#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> They left their jackets on the backs of the chairs.
+
+例句来源：逐词编写的学习例句
 
 ## jackhammer
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/jackhammer#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> I could hear a jackhammer hammering in the distance.
+> Workers used a jackhammer to break up the pavement.
 
-例句来源：[Tatoeba；作者：CK；句子 #12195841；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/12195841)
-
-## jackman
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/jackman#English)
-
-## jacko
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/jacko#English)
+例句来源：逐词编写的学习例句
 
 ## jackpot
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/jackpot#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> John hit the jackpot. His efforts paid off beyond his wildest dreams.
+> She won the jackpot in the story’s lottery.
 
-例句来源：[Tatoeba；作者：CP；句子 #52545；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/52545)
+例句来源：逐词编写的学习例句
+
+## jackpots
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/jackpots#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The report listed some of the largest lottery jackpots.
+
+例句来源：逐词编写的学习例句
 
 ## jactation
 
@@ -150,93 +142,185 @@
 
 例句来源：逐词编写的学习例句
 
-## jadeite
+## Jacuzzi
 
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/jadeite#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/Jacuzzi#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-## jagger
+> The room has a large Jacuzzi bath.
 
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/jagger#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+例句来源：逐词编写的学习例句
+
+## jade
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/jade#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The museum displayed a small jade carving.
+
+例句来源：逐词编写的学习例句
+
+## jaded
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/jaded#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Even the jaded critics seemed impressed by the performance.
+
+例句来源：逐词编写的学习例句
+
+## jaguar
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/jaguar#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> A jaguar moved quietly through the forest.
+
+例句来源：逐词编写的学习例句
+
+## jaguars
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/jaguars#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The film follows two jaguars in the forest.
+
+例句来源：逐词编写的学习例句
 
 ## jail
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/jail#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> She visited her brother in jail.
+> The novel begins with the main character in jail.
 
-例句来源：Wiktionary 用例
-
-## jailbait
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/jailbait#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
-
-> My ex's new girlfriend looks like jailbait.
-
-例句来源：[Tatoeba；作者：dresisto；句子 #6031482；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/6031482)
+例句来源：逐词编写的学习例句
 
 ## jailbreak
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/jailbreak#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The film begins with a dramatic jailbreak.
+
+例句来源：逐词编写的学习例句
 
 ## jailer
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/jailer#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Conformity is the jailer of freedom and the enemy of growth.
+> The jailer locked the cell door.
 
-例句来源：[Tatoeba；作者：papabear；句子 #706980；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/706980)
+例句来源：逐词编写的学习例句
 
 ## jailhouse
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/jailhouse#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The quadruplets are only distinguishable by little jailhouse tattoos behind their ears.
+> The old jailhouse is now a museum.
 
-例句来源：[Tatoeba；作者：papabear；句子 #813095；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/813095)
+例句来源：逐词编写的学习例句
+
+## jalapeno
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/jalapeno#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She sliced a jalapeno for the salsa.
+
+例句来源：逐词编写的学习例句
+
+## jalapeño
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/jalape%C3%B1o#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> I added a sliced jalapeño to the filling.
+
+例句来源：逐词编写的学习例句
 
 ## jam
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/jam#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The pitcher's in a jam now, having walked the bases loaded with the cleanup hitter coming to bat.
+> The drawer jammed when a book slipped behind it.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## jammer
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/jammer#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> What can I say? I'm a bad mammer jammer.
+> The report identified a faulty jammer as the source of interference.
 
-例句来源：[Tatoeba；作者：slyfin；句子 #4885424；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/4885424)
+例句来源：逐词编写的学习例句
 
 ## jammy
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/jammy#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> a child's jammy fingers
+> The child left jammy fingerprints on the table.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## jangle
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/jangle#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> He gave the keys an impatient jangle.
+
+例句来源：逐词编写的学习例句
+
+## jangled
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/jangled#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> He jangled the keys impatiently.
+
+例句来源：逐词编写的学习例句
+
+## jangles
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/jangles#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The loose chain jangles against the gate.
+
+例句来源：逐词编写的学习例句
+
+## jangling
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/jangling#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The jangling of keys distracted me from my work.
+
+例句来源：逐词编写的学习例句
 
 ## janitor
 
@@ -251,12 +335,8 @@
 ## janitorial
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/janitorial#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> As a janitorial worker, Carlos keeps the office clean and tidy.
-
-例句来源：[Tatoeba；作者：Amastan；句子 #11744139；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/11744139)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The office hired a company to provide janitorial services.
 
@@ -275,12 +355,12 @@
 ## jar
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/jar#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> She refilled the jar with peanuts today evening.
+> She opened a jar of honey.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## jargon
 
@@ -295,124 +375,148 @@
 ## jarring
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/jarring#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> It's very jarring to hear uncensored songs with explicit lyrics playing in stores.
+> A jarring alarm broke the silence.
 
-例句来源：[Tatoeba；作者：AnneWy；句子 #3040188；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/3040188)
+例句来源：逐词编写的学习例句
 
-## jarry
+## jars
 
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/jarry#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/jars#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-## jaundiced
+> Glass jars stood on the shelf.
 
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/jaundiced#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
-
-> a jaundiced judgment
-
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## jaw
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/jaw#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> the jaws of a pass; the jaws of darkness; the jaws of death.
+> His jaw dropped when he saw the bill.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## jawbone
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/jawbone#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The exhibit includes the jawbone of a large animal.
+
+例句来源：逐词编写的学习例句
 
 ## jawbreaker
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/jawbreaker#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The word “callipygous” is something of a jawbreaker.
+> The shop sold colourful jawbreakers in glass jars.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## jawed
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/jawed#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The diagram compares jawed and jawless vertebrates.
+
+例句来源：逐词编写的学习例句
 
 ## jawline
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/jawline#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Sandra swooned over Pierce's manly jawline.
+> The portrait emphasised her jawline.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## jay
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/jay#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> A blue jay landed on the fence.
+
+例句来源：逐词编写的学习例句
+
+## jaywalk
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/jaywalk#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The film shows a character jaywalking across a busy road.
+
+例句来源：逐词编写的学习例句
+
+## jaywalker
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/jaywalker#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The driver slowed down when a jaywalker stepped into the road.
+
+例句来源：逐词编写的学习例句
 
 ## jaywalking
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/jaywalking#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The police have been cracking down on jaywalking in the area.
+> The class discussed jaywalking and pedestrian crossings.
 
-例句来源：[Tatoeba；作者：ddnktr；句子 #10832854；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/10832854)
+例句来源：逐词编写的学习例句
 
 ## jazz
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/jazz#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> I'm just going down to the shops and jazz.
+> A jazz band played in the courtyard.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## jazzy
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/jazzy#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> If you add sevenths to these chords, the piece suddenly sounds very jazzy.
+> The pianist played a jazzy version of the song.
 
-例句来源：[Tatoeba；作者：mailohilohi；句子 #6020424；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/6020424)
+例句来源：逐词编写的学习例句
 
 ## jealous
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/jealous#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > He was jealous of his colleague’s rapid promotion.
 
 例句来源：逐词编写的学习例句
 
-> He was jealous of his friend’s success.
-
-例句来源：Wiktionary 用例
-
 ## jealously
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/jealously#English)
 - 发音资料：核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> He looked at his friend's new car jealously.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adv:00303177](https://wordnet.princeton.edu/)
+- 中文释义资料：逐词编写的中文释义
 
 > He watched jealously as his brother opened the new bicycle box.
 
@@ -421,16 +525,82 @@
 ## jealousy
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/jealousy#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > She felt a brief pang of jealousy when she heard the news.
 
 例句来源：逐词编写的学习例句
 
-> She was mad with jealousy.
+## jeans
 
-例句来源：Wiktionary 用例
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/jeans#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> These jeans are too long for me.
+
+例句来源：逐词编写的学习例句
+
+## jeer
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/jeer#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Some spectators began to jeer at the referee.
+
+例句来源：逐词编写的学习例句
+
+## jeered
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/jeered#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The crowd jeered when the player missed an easy shot.
+
+例句来源：逐词编写的学习例句
+
+## jeering
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/jeering#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She walked past the jeering crowd without looking down.
+
+例句来源：逐词编写的学习例句
+
+## jeeringly
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/jeeringly#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> “Try again!” someone shouted jeeringly from the back.
+
+例句来源：逐词编写的学习例句
+
+## jeers
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/jeers#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> His answer was met with jeers from the crowd.
+
+例句来源：逐词编写的学习例句
+
+## jeez
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/jeez#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Jeez, that alarm was loud.
+
+例句来源：逐词编写的学习例句
 
 ## jell
 
@@ -455,7 +625,7 @@
 ## jelly
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/jelly#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
+- 发音资料：核对后整理；见逐词精讲核对资料
 - 中文释义资料：逐词编写的中文释义
 
 > She served strawberry jelly in small glass bowls.
@@ -465,22 +635,18 @@
 ## jellyfish
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/jellyfish#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> He won't go near the water because he's deathly afraid of jellyfish.
+> A jellyfish drifted past the glass of the tank.
 
-例句来源：[Tatoeba；作者：Vanilla；句子 #3154143；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/3154143)
+例句来源：逐词编写的学习例句
 
 ## jeopardize
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/jeopardize#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> I don't want to do anything to jeopardize my friendship with you.
-
-例句来源：[Tatoeba；作者：CK；句子 #1970216；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/1970216)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Ignoring the warning could jeopardize everyone’s safety.
 
@@ -499,27 +665,92 @@
 ## jerk
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/jerk#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> I finally fired him, because he was being a real jerk to his customers, even to some of the staff.
+> The bus stopped with a jerk.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
-## jerker
+## jerked
 
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/jerker#English)
-- 中文释义资料：ECDICT
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/jerked#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> He jerked his hand away from the hot handle.
+
+例句来源：逐词编写的学习例句
+
+## jerkily
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/jerkily#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The old car moved jerkily down the road.
+
+例句来源：逐词编写的学习例句
+
+## jerkiness
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/jerkiness#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The new motor reduced the jerkiness of the movement.
+
+例句来源：逐词编写的学习例句
+
+## jerking
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/jerking#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> He was jerking the rope to loosen the knot.
+
+例句来源：逐词编写的学习例句
+
+## jerks
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/jerks#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The machine jerks forward when it starts.
+
+例句来源：逐词编写的学习例句
 
 ## jerky
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/jerky#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> jerky behaviour
+> The old camera produced jerky footage.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## jersey
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/jersey#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> He wore a jersey with the number seven on the back.
+
+例句来源：逐词编写的学习例句
+
+## jerseys
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/jerseys#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The players exchanged jerseys after the match.
+
+例句来源：逐词编写的学习例句
 
 ## jest
 
@@ -534,12 +765,8 @@
 ## jester
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/jester#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> My first deed as Senator is designating you as the official jester.
-
-例句来源：[Tatoeba；作者：marcelostockle；句子 #1205681；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/1205681)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The painting shows a jester beside the king.
 
@@ -558,8 +785,22 @@
 ## jetliner
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/jetliner#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> A jetliner was approaching the runway.
+
+例句来源：逐词编写的学习例句
+
+## jets
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/jets#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The fountain sends up small jets of water.
+
+例句来源：逐词编写的学习例句
 
 ## jetsam
 
@@ -614,12 +855,8 @@
 ## jewellery
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/jewellery#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> She had more jewellery ornamented about her than any three ladies needed.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > She keeps her jewellery in a small wooden box.
 
@@ -635,41 +872,65 @@
 
 例句来源：逐词编写的学习例句
 
-## jigger
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/jigger#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
-
-> You'll have to jigger it from the original specifications to get it to work.
-
-例句来源：Wiktionary 用例
-
 ## jiggle
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/jiggle#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Give the key a jiggle and see if it opens.
+> Jiggle the key gently in the lock.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
-## jiggly
+## jiggled
 
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/jiggly#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/jiggled#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-## jiggy
+> She jiggled the key until the lock turned.
 
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/jiggy#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+例句来源：逐词编写的学习例句
 
-> He's gone completely jiggy.
+## jiggles
 
-例句来源：Wiktionary 用例
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/jiggles#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The jelly jiggles when I move the plate.
+
+例句来源：逐词编写的学习例句
+
+## jiggling
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/jiggling#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> He opened the stuck drawer by jiggling the handle.
+
+例句来源：逐词编写的学习例句
+
+## jigsaw
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/jigsaw#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> He used a jigsaw to cut a curved shape.
+
+例句来源：逐词编写的学习例句
+
+## jigsaws
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/jigsaws#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The shop sells jigsaws for children.
+
+例句来源：逐词编写的学习例句
 
 ## jihadi
 
@@ -677,112 +938,125 @@
 - 发音资料：Wiktionary
 - 中文释义资料：ECDICT
 
-## jihadism
+## jingle
 
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/jihadism#English)
-- 发音资料：Wiktionary
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/jingle#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-## jihadist
+> We heard the jingle of bells as the door opened.
 
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/jihadist#English)
-- 中文释义资料：ECDICT
+例句来源：逐词编写的学习例句
 
-> Algeria needs to prevent Libya from turning into a sanctuary for jihadist militants.
+## jingled
 
-例句来源：[Tatoeba；作者：Amastan；句子 #7859911；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/7859911)
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/jingled#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-## jingoism
+> He jingled the keys to show that he was ready to leave.
 
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/jingoism#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+例句来源：逐词编写的学习例句
 
-> It's important to distinguish between patriotism and jingoism.
+## jingles
 
-例句来源：[Tatoeba；作者：Luornu；句子 #11346599；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/11346599)
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/jingles#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The little bell jingles whenever the cat moves.
+
+例句来源：逐词编写的学习例句
+
+## jingling
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/jingling#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The jingling of bells announced their arrival.
+
+例句来源：逐词编写的学习例句
 
 ## jingoistic
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/jingoistic#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> My editorial angered both the jingoistic war hawks and the anti-war protesters.
+> The review criticizes the film’s jingoistic tone.
 
-例句来源：Wiktionary 用例
-
-## jitter
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/jitter#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
+例句来源：逐词编写的学习例句
 
 ## jitterbug
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/jitterbug#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-## jittery
+> The dancers performed a lively jitterbug.
 
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/jittery#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
-
-> Tom didn't seem to be as jittery as Mary seemed to be.
-
-例句来源：[Tatoeba；作者：CK；句子 #6667091；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/6667091)
+例句来源：逐词编写的学习例句
 
 ## job
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/job#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> I didn't speak to many coworkers for the ﬁrst year on the job.
+> She got a job at the local library.
 
-例句来源：Wiktionary 用例
-
-## jobber
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/jobber#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+例句来源：逐词编写的学习例句
 
 ## jobless
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/jobless#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> ― I’m showing him our texts with her, the liar. ― Bro, that is so jobless!
+> He remained jobless for several months.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## joblessness
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/joblessness#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Unemployment remains stubbornly high at 14.9%, while youth joblessness, for those under age 24, is the worst in Europe at 30.6%.
+> The report examines the effects of long-term joblessness.
 
-例句来源：[Tatoeba；作者：Hybrid；句子 #10504952；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/10504952)
+例句来源：逐词编写的学习例句
+
+## jobs
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/jobs#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She applied for three jobs near her home.
+
+例句来源：逐词编写的学习例句
 
 ## jobseeker
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/jobseeker#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> He wants to apply for Jobseeker's Allowance.
+> The workshop helps jobseekers prepare for interviews.
 
-例句来源：[Tatoeba；作者：sundown；句子 #1415331；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/1415331)
+例句来源：逐词编写的学习例句
 
 ## jobsite
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/jobsite#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The equipment arrived at the jobsite before sunrise.
+
+例句来源：逐词编写的学习例句
 
 ## jocular
 
@@ -794,25 +1068,65 @@
 
 例句来源：逐词编写的学习例句
 
+## jog
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/jog#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> He jogs around the park before breakfast.
+
+例句来源：逐词编写的学习例句
+
+## jogged
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/jogged#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> We jogged around the park before breakfast.
+
+例句来源：逐词编写的学习例句
+
 ## jogger
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/jogger#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> A jogger spotted something in the ravine. It was Yanni's body.
+> A jogger passed us on the riverside path.
 
-例句来源：[Tatoeba；作者：Amastan；句子 #9768598；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/9768598)
+例句来源：逐词编写的学习例句
+
+## joggers
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/joggers#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The path was busy with morning joggers.
+
+例句来源：逐词编写的学习例句
 
 ## jogging
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/jogging#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> His jogging of my memory helped me recall what happened that day.
+> She took up jogging last spring.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## jogs
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/jogs#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She jogs along the river every morning.
+
+例句来源：逐词编写的学习例句
 
 ## join
 
@@ -824,43 +1138,61 @@
 
 例句来源：逐词编写的学习例句
 
+## joined
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/joined#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She joined us for lunch after the meeting.
+
+例句来源：逐词编写的学习例句
+
 ## joiner
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/joiner#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > A local joiner built the wooden window frames.
 
 例句来源：逐词编写的学习例句
 
-> As Mary entered the joiner's workshop, the goblin became invisible.
-
-例句来源：[Tatoeba；作者：maaster；句子 #7895956；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/7895956)
-
 ## joinery
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/joinery#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Seasoned timber is better for construction and joinery.
-
-例句来源：[Tatoeba；作者：owlielovesbooks；句子 #6897472；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/6897472)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The chair is admired for its elegant joinery.
+
+例句来源：逐词编写的学习例句
+
+## joining
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/joining#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She is joining the team next month.
+
+例句来源：逐词编写的学习例句
+
+## joins
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/joins#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The bridge joins the two sides of the valley.
 
 例句来源：逐词编写的学习例句
 
 ## joint
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/joint#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> The play was a joint production between the two companies.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The two companies issued a joint statement.
 
@@ -869,26 +1201,32 @@
 ## jointed
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/jointed#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Tom is double jointed and double muscled.
+> The doll has jointed arms and legs.
 
-例句来源：[Tatoeba；作者：Eccles17；句子 #7371723；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/7371723)
+例句来源：逐词编写的学习例句
 
 ## jointly
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/jointly#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The house is jointly owned by the two sisters.
 
 例句来源：逐词编写的学习例句
 
-> They jointly raised the child, even though they were no longer married.
+## joints
 
-例句来源：Wiktionary 用例
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/joints#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The drawing shows the joints in a wooden frame.
+
+例句来源：逐词编写的学习例句
 
 ## joist
 
@@ -913,26 +1251,28 @@
 ## joker
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/joker#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > My uncle is a joker who can make everyone laugh.
 
 例句来源：逐词编写的学习例句
 
-> We used our joker as soon as the topic of sports was announced, since we are sport experts.
+## jokes
 
-例句来源：Wiktionary 用例
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/jokes#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> He told a few jokes while we waited for the bus.
+
+例句来源：逐词编写的学习例句
 
 ## jokester
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/jokester#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Our uncle is always being a jokester and cracking jokes about how much he eats and makes messes.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > She has always been the jokester in our family.
 
@@ -951,206 +1291,382 @@
 ## jokingly
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/jokingly#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > He jokingly called himself the office coffee expert.
 
 例句来源：逐词编写的学习例句
 
-> Mary jokingly commented that the kitchen staff probably farted on Tom's salad.
+## jollier
 
-例句来源：[Tatoeba；作者：Eccles17；句子 #6698564；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/6698564)
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/jollier#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The music made the whole occasion feel jollier.
+
+例句来源：逐词编写的学习例句
+
+## jollies
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/jollies#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> He gets his jollies from teasing his friends.
+
+例句来源：逐词编写的学习例句
+
+## jolliest
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/jolliest#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> He was the jolliest person at the table.
+
+例句来源：逐词编写的学习例句
+
+## jollity
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/jollity#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The room was full of laughter and jollity.
+
+例句来源：逐词编写的学习例句
 
 ## jolly
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/jolly#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The jolly crowd at the reunion.
+> He greeted us with a jolly laugh.
 
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adj:01367651](https://wordnet.princeton.edu/)
+例句来源：逐词编写的学习例句
 
 ## jolt
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/jolt#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The bus jolted its passengers at every turn.
+> The bus stopped with a sudden jolt.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## jolted
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/jolted#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The alarm jolted me awake.
+
+例句来源：逐词编写的学习例句
 
 ## jolting
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/jolting#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Just as Tom was falling asleep the train braked suddenly, jolting him back into the waking world.
+> We spent an hour jolting along the rough track.
 
-例句来源：[Tatoeba；作者：sundown；句子 #6145840；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/6145840)
+例句来源：逐词编写的学习例句
+
+## jolts
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/jolts#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The bus jolts us whenever it crosses the rough patch.
+
+例句来源：逐词编写的学习例句
 
 ## jostle
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/jostle#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> We had to jostle our way to the front of the platform.
+> Passengers jostled each other near the door.
 
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset verb:01914453](https://wordnet.princeton.edu/)
+例句来源：逐词编写的学习例句
+
+## jostled
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/jostled#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She was jostled by the crowd outside the stadium.
+
+例句来源：逐词编写的学习例句
+
+## jostles
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/jostles#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The crowd jostles us as we try to reach the exit.
+
+例句来源：逐词编写的学习例句
+
+## jostling
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/jostling#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> People were jostling for position near the entrance.
+
+例句来源：逐词编写的学习例句
+
+## joule
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/joule#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The joule is a unit of energy.
+
+例句来源：逐词编写的学习例句
+
+## joules
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/joules#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The calculation gives an answer of ten joules.
+
+例句来源：逐词编写的学习例句
 
 ## journal
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/journal#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The university's biology department subscribes to half a dozen academic journals.
+> She keeps a journal of her travels.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## journalism
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/journalism#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> I discovered a documentary on journalism in conflict zones, it was poignant.
+> He studied journalism at university.
 
-例句来源：[Tatoeba；作者：tieguy；句子 #13859927；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/13859927)
+例句来源：逐词编写的学习例句
 
 ## journalist
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/journalist#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> This journalist, whose article you were so interested in, is my neighbor.
+> The journalist interviewed several local residents.
 
-例句来源：[Tatoeba；作者：Liface；句子 #408345；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/408345)
+例句来源：逐词编写的学习例句
 
 ## journalistic
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/journalistic#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Substituting "\[expletive\]" for swear words in an article's text is a journalistic practice of sensibility.
+> The editor insisted on high journalistic standards.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## journalists
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/journalists#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Journalists from several newspapers attended the event.
+
+例句来源：逐词编写的学习例句
+
+## journals
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/journals#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She reads several academic journals.
+
+例句来源：逐词编写的学习例句
 
 ## journey
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/journey#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> We need to map out the user journey and make it more efficient.
+> The journey home took three hours.
 
-例句来源：Wiktionary 用例
-
-## journeying
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/journeying#English)
-- 中文释义资料：ECDICT
-
-> He is always writing about journeying to other planets.
-
-例句来源：[Tatoeba；作者：timmartin；句子 #66097；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/66097)
+例句来源：逐词编写的学习例句
 
 ## journeyman
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/journeyman#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Everyone must follow safety guidelines whether you're an apprentice, journeyman, or even master electrician.
+> He worked as a journeyman carpenter.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## journeys
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/journeys#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Long train journeys give her time to read.
+
+例句来源：逐词编写的学习例句
 
 ## journo
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/journo#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> A local journo asked us about the new library.
+
+例句来源：逐词编写的学习例句
 
 ## jovial
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/jovial#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> But these jovial sounds fell sadly on the ear of the ruined nobleman.
+> Our jovial host greeted everyone with a joke.
 
-例句来源：[Tatoeba；作者：Hybrid；句子 #7752531；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/7752531)
+例句来源：逐词编写的学习例句
 
 ## joy
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/joy#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> It is his joy to walk in the rain.
+> Her face lit up with joy.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## joyful
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/joyful#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The children were joyful on the first day of summer break.
+> It was a joyful reunion after years apart.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## joyfully
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/joyfully#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The children laughed joyfully as they chased each other around the playground.
+> The children greeted their grandparents joyfully.
 
-例句来源：[Tatoeba；作者：kleberlucas；句子 #13030950；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/13030950)
+例句来源：逐词编写的学习例句
+
+## joyfulness
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/joyfulness#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The joyfulness of her smile made everyone relax.
+
+例句来源：逐词编写的学习例句
 
 ## joyless
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/joyless#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Without Joy, my life is joyless!
+> The novel describes a joyless routine of work and sleep.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## joyous
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/joyous#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The wedding was a joyous occasion for both families.
+
+例句来源：逐词编写的学习例句
 
 ## joyously
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/joyously#English)
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The children laughed joyously as the dog chased its ball.
+
+例句来源：逐词编写的学习例句
+
+## joyousness
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/joyousness#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The music captured the joyousness of the celebration.
+
+例句来源：逐词编写的学习例句
 
 ## joyride
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/joyride#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Tom took his father's car for a joyride.
+> The film begins with an unauthorised joyride.
 
-例句来源：[Tatoeba；作者：Hybrid；句子 #6310246；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/6310246)
+例句来源：逐词编写的学习例句
 
 ## joystick
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/joystick#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> It's no use trying to find people to play Street Fighter with when you can't explain double quarter-circle joystick motions.
+> The simulator is controlled with a joystick.
 
-例句来源：[Tatoeba；作者：papabear；句子 #712275；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/712275)
+例句来源：逐词编写的学习例句
+
+## joysticks
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/joysticks#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The museum displayed old joysticks.
+
+例句来源：逐词编写的学习例句
 
 ## judge
 
@@ -1172,11 +1688,35 @@
 
 例句来源：逐词编写的学习例句
 
+## judgement
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/judgement#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She showed good judgement under pressure.
+
+例句来源：逐词编写的学习例句
+
+## judges
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/judges#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The judges gave each performance a score.
+
+例句来源：逐词编写的学习例句
+
 ## judgeship
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/judgeship#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She was appointed to a judgeship.
+
+例句来源：逐词编写的学习例句
 
 ## judging
 
@@ -1191,39 +1731,32 @@
 ## judgment
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/judgment#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > I trust your judgment on practical matters.
 
 例句来源：逐词编写的学习例句
 
-> a man of judgment / a man of good judgment
-
-例句来源：Wiktionary 用例
-
 ## judgmental
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/judgmental#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Her reply sounded judgmental even though she meant to help.
 
 例句来源：逐词编写的学习例句
 
-> I think that she is too judgmental to be a good therapist.
+## judgments
 
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adj:00648977](https://wordnet.princeton.edu/)
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/judgments#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-## judgy
+> We should avoid making quick judgments about strangers.
 
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/judgy#English)
-- 发音资料：Wiktionary
-
-> Some religious people can be very judgy.
-
-例句来源：[Tatoeba；作者：Airvian；句子 #4986148；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/4986148)
+例句来源：逐词编写的学习例句
 
 ## judicial
 
@@ -1238,8 +1771,8 @@
 ## judicially
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/judicially#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The dispute was judicially determined after years of proceedings.
 
@@ -1269,11 +1802,7 @@
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/judiciously#English)
 - 发音资料：核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Let's use these intelligence tests judiciously.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adv:00384783](https://wordnet.princeton.edu/)
+- 中文释义资料：逐词编写的中文释义
 
 > The editor cut the introduction judiciously without losing its main point.
 
@@ -1292,62 +1821,52 @@
 ## juggler
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/juggler#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > A street juggler entertained the crowd.
 
 例句来源：逐词编写的学习例句
 
-> The juggler wowed the crowd by keeping ten oranges up in the air.
-
-例句来源：[Tatoeba；作者：darinmex；句子 #643275；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/643275)
-
 ## juggling
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/juggling#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Learning juggling takes patience and practice.
 
 例句来源：逐词编写的学习例句
 
-> Would you like me to dance a jig while juggling rubber ducks?
-
-例句来源：[Tatoeba；作者：Ahha；句子 #12030777；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/12030777)
-
-## jughead
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/jughead#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
-
 ## jugular
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/jugular#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> It was vicious; he went for the jugular.
+> The diagram shows the jugular vein in the neck.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## juice
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/juice#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Squeeze the orange and some juice will come out.
+> Add a little lemon juice to the sauce.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## juiced
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/juiced#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
+- 中文释义资料：ECDICT；逐词编写的中文释义
+
+> Put the juiced lemon halves in the compost bin.
+
+例句来源：逐词编写的学习例句
 
 > The whole school is juiced about tonight's game.
 
@@ -1356,42 +1875,62 @@
 ## juicer
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/juicer#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> A keen juicer, she has tried all kinds of fruits and vegetables.
+> She used a citrus juicer to squeeze the oranges.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## juicy
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/juicy#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> I do not keep up with all the latest juicy rumors.
+> The peaches were sweet and juicy.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## jukebox
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/jukebox#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Tom and Mary are sitting at a table over near the jukebox.
+> An old jukebox stood in the corner of the diner.
 
-例句来源：[Tatoeba；作者：CK；句子 #1874236；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/1874236)
+例句来源：逐词编写的学习例句
+
+## jukeboxes
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/jukeboxes#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The museum restored two old jukeboxes.
+
+例句来源：逐词编写的学习例句
+
+## July
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/July#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The new gallery is due to open in July.
+
+例句来源：逐词编写的学习例句
 
 ## jumble
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/jumble#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> I tried to study, but in my half-awake state, all of the concepts seemed to jumble together.
+> The drawer was a jumble of cables and old keys.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## jumbotron
 
@@ -1401,52 +1940,78 @@
 ## jump
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/jump#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Share prices jumped by 10% after the company announced record profits.
+> The dog jumped over the fence.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## jumped
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/jumped#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The child jumped over the puddle.
+
+例句来源：逐词编写的学习例句
 
 ## jumper
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/jumper#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> As the jumper neared the ground he lost control.
+> She wore a warm woollen jumper.
 
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset noun:10226993](https://wordnet.princeton.edu/)
+例句来源：逐词编写的学习例句
+
+## jumping
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/jumping#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The children were jumping up and down with excitement.
+
+例句来源：逐词编写的学习例句
+
+## jumps
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/jumps#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The dog jumps over the small stream.
+
+例句来源：逐词编写的学习例句
 
 ## jumpsuit
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/jumpsuit#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The next time you see Tom, he'll be in an orange jumpsuit.
+> She wore a black jumpsuit to the party.
 
-例句来源：[Tatoeba；作者：CK；句子 #8023662；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/8023662)
+例句来源：逐词编写的学习例句
 
 ## jumpy
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/jumpy#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Tom and Mary seemed a little jumpy, didn't they?
+> The loud noises made the cat jumpy.
 
-例句来源：[Tatoeba；作者：CT；句子 #6510451；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/6510451)
+例句来源：逐词编写的学习例句
 
 ## junction
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/junction#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Their collaboration formed a fruitful junction of ideas.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Turn left at the next junction.
 
@@ -1459,6 +2024,36 @@
 - 中文释义资料：逐词编写的中文释义
 
 > At this juncture, we need more information.
+
+例句来源：逐词编写的学习例句
+
+## June
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/June#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The school exhibition takes place in June.
+
+例句来源：逐词编写的学习例句
+
+## jungle
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/jungle#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The path disappeared into dense jungle.
+
+例句来源：逐词编写的学习例句
+
+## jungles
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/jungles#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The documentary follows animals in tropical jungles.
 
 例句来源：逐词编写的学习例句
 
@@ -1475,47 +2070,42 @@
 ## junk
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/junk#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The student put down junk for answers just to finish his homework more quickly.
+> The shed was full of old tools and other junk.
 
-例句来源：Wiktionary 用例
-
-## junker
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/junker#English)
-- 发音资料：Wiktionary
+例句来源：逐词编写的学习例句
 
 ## junkie
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/junkie#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> English people are travel junkies, but Americans hardly ever leave their state.
+> He calls himself a news junkie and reads several papers every morning.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## junky
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/junky#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> We really need to clear out the junky basement.
+> They replaced the junky chairs with sturdy wooden ones.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## junkyard
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/junkyard#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Janos allowed the kids to come into the junkyard and look for scraps.
+> He found a replacement door at a junkyard.
 
-例句来源：[Tatoeba；作者：Amastan；句子 #12033643；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/12033643)
+例句来源：逐词编写的学习例句
 
 ## junta
 
@@ -1540,21 +2130,12 @@
 ## juridical
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/juridical#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The article examines the juridical status of the organization.
 
 例句来源：逐词编写的学习例句
-
-> The lawyer drew upon a repertory of juridical precedents to strengthen her argument.
-
-例句来源：[Tatoeba；作者：rul；句子 #13562121；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/13562121)
-
-## juried
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/juried#English)
-- 中文释义资料：ECDICT
 
 ## jurisdiction
 
@@ -1565,16 +2146,6 @@
 > The court said the dispute was outside its jurisdiction.
 
 例句来源：逐词编写的学习例句
-
-## jurisdictional
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/jurisdictional#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
-
-> The jurisdictional limits of a state.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adj:02408793](https://wordnet.princeton.edu/)
 
 ## jurisprudence
 
@@ -1626,6 +2197,16 @@
 
 例句来源：逐词编写的学习例句
 
+## justices
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/justices#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The justices asked several questions during the hearing.
+
+例句来源：逐词编写的学习例句
+
 ## justifiable
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/justifiable#English)
@@ -1635,12 +2216,6 @@
 > Her concern about the missing data was entirely justifiable.
 
 例句来源：逐词编写的学习例句
-
-## justifiably
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/justifiably#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
 
 ## justification
 
@@ -1652,15 +2227,21 @@
 
 例句来源：逐词编写的学习例句
 
+## justified
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/justified#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The evidence justified her concern.
+
+例句来源：逐词编写的学习例句
+
 ## justify
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/justify#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> She felt no need to justify herself for deciding not to invite him.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The time saved may justify the extra cost.
 
@@ -1669,16 +2250,12 @@
 ## justly
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/justly#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Everyone deserves to be treated justly.
 
 例句来源：逐词编写的学习例句
-
-> Humour has justly been regarded as the finest perfection of poetic genius.
-
-例句来源：[Tatoeba；作者：carlosalberto；句子 #3133124；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/3133124)
 
 ## juvenile
 
@@ -1693,12 +2270,8 @@
 ## juvie
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/juvie#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Have you ever been in juvie?
-
-例句来源：[Tatoeba；作者：Amastan；句子 #11887644；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/11887644)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > In the film, he spends several months in juvie.
 

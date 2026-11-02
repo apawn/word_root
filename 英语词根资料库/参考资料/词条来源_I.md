@@ -15,62 +15,52 @@
 ## ice
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ice#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> He said, “Where we’re at right now was back in 2008 all covered with ice. From here to there at the side, the glacier shrank about 20 to 30 meters.”
+> She put a few ice cubes in the glass.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## icebox
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/icebox#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> I moved here from the icebox of the upper Midwest.
+> The museum displays a wooden icebox from an old kitchen.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## icebreaker
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/icebreaker#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The new college hallmates were awkward with each other at first, but after a game of charades as an icebreaker, they were laughing like old friends.
+> An icebreaker opened a path through the frozen sea.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## iced
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/iced#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> I'd like an iced tea.
+> She ordered an iced coffee.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## icehouse
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/icehouse#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-## iceland
+> The estate’s icehouse is open to visitors.
 
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/iceland#English)
-
-> I do not need a residence permit because I am from Iceland.
-
-例句来源：[Tatoeba；作者：IceGirl；句子 #2926241；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/2926241)
-
-## iceman
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/iceman#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+例句来源：逐词编写的学习例句
 
 ## ichthyology
 
@@ -97,12 +87,32 @@
 ## icicle
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/icicle#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Just as Tom looked up, an icicle fell from overhang of roof.
+> Long icicles hung from the roof.
 
-例句来源：[Tatoeba；作者：Eccles17；句子 #6696156；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/6696156)
+例句来源：逐词编写的学习例句
+
+## icon
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/icon#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Click the folder icon to open the files.
+
+例句来源：逐词编写的学习例句
+
+## iconic
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/iconic#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The bridge is one of the city’s most iconic landmarks.
+
+例句来源：逐词编写的学习例句
 
 ## iconoclast
 
@@ -117,32 +127,42 @@
 ## iconoclastic
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/iconoclastic#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Her iconoclastic essay questioned several long accepted assumptions.
 
 例句来源：逐词编写的学习例句
 
-> Many of Thomas Hardy's works were considered iconoclastic in his day.
-
-例句来源：Wiktionary 用例
-
 ## iconographic
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/iconographic#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The historian examined the painting’s iconographic details.
+
+例句来源：逐词编写的学习例句
 
 ## iconography
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/iconography#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> the iconography of the ancients
+> The guide explained the iconography of the altar painting.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## icons
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/icons#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The icons on the desktop were arranged in rows.
+
+例句来源：逐词编写的学习例句
 
 ## icosagon
 
@@ -186,12 +206,12 @@
 ## icy
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/icy#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Roads and trees glazed with an icy film.
+> The road became icy after sunset.
 
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adj:01120242](https://wordnet.princeton.edu/)
+例句来源：逐词编写的学习例句
 
 ## idea
 
@@ -206,12 +226,8 @@
 ## ideal
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ideal#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> An ideal triangle in the hyperbolic disk is one bounded by three geodesics that meet precisely on the circle.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The quiet room is ideal for recording interviews.
 
@@ -220,40 +236,28 @@
 ## idealism
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/idealism#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Her idealism kept the volunteers motivated through a difficult year.
 
 例句来源：逐词编写的学习例句
 
-> His wide-eyed idealism is really starting to get on my nerves.
-
-例句来源：[Tatoeba；作者：Luornu；句子 #11131626；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/11131626)
-
 ## idealist
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/idealist#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > He is an idealist who still believes the system can become fairer.
 
 例句来源：逐词编写的学习例句
 
-> Hooray! We have another dreamy, starry-eyed idealist to disenfranchise and oppress!
-
-例句来源：[Tatoeba；作者：papabear；句子 #817013；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/817013)
-
 ## idealistic
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/idealistic#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Outsiders tend to scoff at Esperanto as an idealistic waste of time.
-
-例句来源：[Tatoeba；作者：al\_ex\_an\_der；句子 #3610729；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/3610729)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The idealistic volunteers wanted every child to have access to books.
 
@@ -262,26 +266,18 @@
 ## idealization
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/idealization#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The essay challenges the idealization of life before the internet.
 
 例句来源：逐词编写的学习例句
 
-> The idealization of rural life was very misleading.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset noun:01219075](https://wordnet.princeton.edu/)
-
 ## idealize
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/idealize#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> A sociopath would idealize you one minute and demonize you the next minute.
-
-例句来源：[Tatoeba；作者：Amastan；句子 #9793878；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/9793878)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > People sometimes idealize a childhood they barely remember.
 
@@ -300,30 +296,42 @@
 ## ideally
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ideally#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Ideally, we would have one textbook per student, but unfortunately some of you will have to share.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Ideally, we would test the form with a few users first.
+
+例句来源：逐词编写的学习例句
+
+## ideals
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ideals#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The group was united by shared ideals.
+
+例句来源：逐词编写的学习例句
+
+## ideas
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ideas#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> We shared ideas for making the room more useful.
 
 例句来源：逐词编写的学习例句
 
 ## ideation
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ideation#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > We began with an ideation session before choosing a design.
 
 例句来源：逐词编写的学习例句
-
-> suicidal ideation
-
-例句来源：Wiktionary 用例
 
 ## idempotence
 
@@ -348,72 +356,112 @@
 ## identical
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/identical#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> My car is identical with the one my mom has just bought.
+> The two boxes looked identical from the outside.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## identically
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/identically#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> It was hard to tell the twins apart: they even spoke identically.
+> The twins were dressed identically for the photograph.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## identifiable
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/identifiable#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> I don't know where he was from because he had no identifiable accent.
+> The building is easily identifiable by its red roof.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## identification
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/identification#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Much education and experience is required for proper identification of bird species.
+> Please show some identification at the entrance.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## identified
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/identified#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She identified the bird by its call.
+
+例句来源：逐词编写的学习例句
 
 ## identifier
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/identifier#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Arab is rather used as a cultural rather than an ethnic or racial identifier.
+> Each order has a unique identifier.
 
-例句来源：[Tatoeba；作者：Amastan；句子 #8159209；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/8159209)
+例句来源：逐词编写的学习例句
+
+## identifies
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/identifies#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The guide identifies each bird by its markings.
+
+例句来源：逐词编写的学习例句
 
 ## identify
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/identify#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> It was hard to identify the shoplifter because the CCTV records didn't have a clear image.
+> Can you identify the bird in this photograph?
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## identifying
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/identifying#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The guide helps visitors with identifying local birds.
+
+例句来源：逐词编写的学习例句
+
+## identities
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/identities#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The characters keep their real identities secret.
+
+例句来源：逐词编写的学习例句
 
 ## identity
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/identity#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> In this show, the competitor's identity will remain secret until after the vote.
+> The officer asked her to confirm her identity.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## ideogram
 
@@ -428,26 +476,18 @@
 ## ideological
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ideological#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The coalition brought together groups with major ideological differences.
 
 例句来源：逐词编写的学习例句
 
-> The regime, ideological in governance, continued its agenda despite experts’ criticism.
-
-例句来源：Wiktionary 用例
-
 ## ideologically
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ideologically#English)
 - 发音资料：核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Ideologically, we do not see eye to eye.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adv:00361337](https://wordnet.princeton.edu/)
+- 中文释义资料：逐词编写的中文释义
 
 > The two groups are ideologically opposed but share some practical concerns.
 
@@ -466,12 +506,8 @@
 ## ideology
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ideology#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> A dictatorship bans things, that do not conform to its ideology, to secure its reign.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The historian examined the ideology behind the reform movement.
 
@@ -500,12 +536,8 @@
 ## idiocy
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/idiocy#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> The administrators, growing tired of such idiocy, put a new policy in place.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The article exposes the idiocy of ignoring repeated warnings.
 
@@ -554,8 +586,8 @@
 ## idiopathic
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/idiopathic#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The condition was classified as idiopathic because no cause had been identified.
 
@@ -584,16 +616,12 @@
 ## idiosyncratic
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/idiosyncratic#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Her idiosyncratic drawings are easy to recognize.
 
 例句来源：逐词编写的学习例句
-
-> We all have our own idiosyncratic gestures.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adj:00493820](https://wordnet.princeton.edu/)
 
 ## idiot
 
@@ -608,52 +636,102 @@
 ## idiotic
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/idiotic#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Leaving the only copy on a broken laptop was an idiotic mistake.
 
 例句来源：逐词编写的学习例句
 
-> Please don't come to me with any more of your idiotic ideas.
+## idiots
 
-例句来源：[Tatoeba；作者：frpzzd；句子 #13271074；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/13271074)
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/idiots#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> We felt like idiots when we found the missing key in the door.
+
+例句来源：逐词编写的学习例句
 
 ## idle
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/idle#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> My computer hibernates after it has been idle for 30 minutes.
+> The factory’s machines stood idle for a month.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## idled
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/idled#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The taxi idled outside the station.
+
+例句来源：逐词编写的学习例句
 
 ## idleness
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/idleness#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Idleness is the home of illness, illness is the home of death.
+> The closure forced the workers into weeks of idleness.
 
-例句来源：[Tatoeba；作者：sabretou；句子 #2570779；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/2570779)
+例句来源：逐词编写的学习例句
 
 ## idler
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/idler#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> He disliked being called an idler.
+
+例句来源：逐词编写的学习例句
+
+## idlers
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/idlers#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The novel describes a group of wealthy idlers.
+
+例句来源：逐词编写的学习例句
+
+## idles
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/idles#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The engine idles quietly while the driver checks the map.
+
+例句来源：逐词编写的学习例句
+
+## idling
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/idling#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> We could hear an engine idling outside.
+
+例句来源：逐词编写的学习例句
 
 ## idly
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/idly#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> I idly played with the paper, not even realizing I was folding it into a paper airplane.
+> She idly turned the pages of the magazine.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## idol
 
@@ -678,12 +756,8 @@
 ## idolatrous
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/idolatrous#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> An idolatrous veneration for antiquity.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The preacher condemned the ceremony as idolatrous.
 
@@ -692,12 +766,8 @@
 ## idolatry
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/idolatry#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Abrahamic religions differ in terms of what they consider idolatry.
-
-例句来源：[Tatoeba；作者：shekitten；句子 #10538177；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/10538177)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The historian explains why the reformers accused the practice of idolatry.
 
@@ -706,16 +776,12 @@
 ## idolize
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/idolize#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > As a child, he idolized his older sister and copied everything she did.
 
 例句来源：逐词编写的学习例句
-
-> Many young fans idolize pop stars.
-
-例句来源：Wiktionary 用例
 
 ## idyll
 
@@ -730,34 +796,12 @@
 ## idyllic
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/idyllic#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> The novel Heidi evokes a romantic and idyllic image of Switzerland.
-
-例句来源：[Tatoeba；作者：sundown；句子 #12907555；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/12907555)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > They rented a cottage in an idyllic setting beside the river.
 
 例句来源：逐词编写的学习例句
-
-## iffy
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/iffy#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
-
-> That potato salad smells a bit iffy. Don't chance it — it's not worth salmonellosis.
-
-例句来源：Wiktionary 用例
-
-## iggy
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/iggy#English)
-
-> Sniper, I'm putting you on iggy until you stop posting all those song lyrics.
-
-例句来源：Wiktionary 用例
 
 ## igneous
 
@@ -789,11 +833,7 @@
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/igniter#English)
 - 发音资料：核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> The gas stove's igniter became damaged.
-
-例句来源：[Tatoeba；作者：sangelo；句子 #10614496；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/10614496)
+- 中文释义资料：逐词编写的中文释义
 
 > The technician replaced the faulty igniter.
 
@@ -862,16 +902,12 @@
 ## ignorantly
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ignorantly#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > He spoke ignorantly about a culture he had never studied.
 
 例句来源：逐词编写的学习例句
-
-> They lived ignorantly in their own small world.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adv:00362134](https://wordnet.princeton.edu/)
 
 ## ignore
 
@@ -916,12 +952,12 @@
 ## ill
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ill#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> I've been ill with the flu for the past few days.
+> He was too ill to attend the meeting.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## illegal
 
@@ -936,26 +972,18 @@
 ## illegality
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/illegality#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The judgment addressed the illegality of the search.
 
 例句来源：逐词编写的学习例句
 
-> When sued for refusing to pay for services provided by a prostitute, the customer raised the defense of illegality.
-
-例句来源：Wiktionary 用例
-
 ## illegally
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/illegally#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> He received a ticket for illegally parking next to a fire hydrant.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The investigation found that the waste had been dumped illegally.
 
@@ -984,8 +1012,8 @@
 ## illegitimacy
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/illegitimacy#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The essay examines claims of illegitimacy surrounding the new authority.
 
@@ -1024,8 +1052,8 @@
 ## illicitly
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/illicitly#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The gallery returned artworks that had been illicitly obtained.
 
@@ -1054,12 +1082,8 @@
 ## illiterate
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/illiterate#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> About half of the population in Ethiopia is illiterate.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > He was illiterate until he joined an adult reading class.
 
@@ -1078,22 +1102,28 @@
 ## illness
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/illness#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Many working days this year have been lost through illness.
+> She returned to work after a long illness.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## illnesses
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/illnesses#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The biography mentions several illnesses during his childhood.
+
+例句来源：逐词编写的学习例句
 
 ## illogical
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/illogical#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> I received an illogical reply and that left me standing there feeling confused.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > It would be illogical to blame the new rule for a problem that began last year.
 
@@ -1112,12 +1142,8 @@
 ## illuminate
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/illuminate#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Men of genius are meteors destined to burn in order to illuminate their century.
-
-例句来源：[Tatoeba；作者：Scott；句子 #391771；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/391771)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Small lamps illuminated the path through the garden.
 
@@ -1126,26 +1152,18 @@
 ## illuminating
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/illuminating#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The comparison was especially illuminating for new readers.
 
 例句来源：逐词编写的学习例句
 
-> The warm light of the sunset is illuminating the landscape.
-
-例句来源：[Tatoeba；作者：sundown；句子 #8855742；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/8855742)
-
 ## illumination
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/illumination#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> The philosopher’s work gave intellectual illumination to many.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The room needs better illumination for detailed work.
 
@@ -1154,8 +1172,12 @@
 ## illuminator
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/illuminator#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The camera uses an infrared illuminator in low light.
+
+例句来源：逐词编写的学习例句
 
 ## illusion
 
@@ -1167,29 +1189,15 @@
 
 例句来源：逐词编写的学习例句
 
-## illusionary
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/illusionary#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
-
-> What if we all are brains in vats and every sensory perception is illusionary?
-
-例句来源：[Tatoeba；作者：Ooneykcall；句子 #4427155；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/4427155)
-
 ## illusionist
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/illusionist#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The illusionist made a large cabinet appear to vanish.
 
 例句来源：逐词编写的学习例句
-
-> You experienced the same situation as Mr Bean when the illusionist addressed him.
-
-例句来源：[Tatoeba；作者：anzart；句子 #12677996；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/12677996)
 
 ## illusory
 
@@ -1204,48 +1212,92 @@
 ## illustrate
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/illustrate#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> We illustrate our definitions by including quotations or simple examples.
+> This example illustrates why the rule matters.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## illustrated
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/illustrated#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The guide is illustrated with simple diagrams.
+
+例句来源：逐词编写的学习例句
+
+## illustrates
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/illustrates#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> This example illustrates the difference between the two words.
+
+例句来源：逐词编写的学习例句
+
+## illustration
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/illustration#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The book opens with an illustration of the old harbour.
+
+例句来源：逐词编写的学习例句
+
+## illustrations
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/illustrations#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The book contains beautiful colour illustrations.
+
+例句来源：逐词编写的学习例句
 
 ## illustrative
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/illustrative#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> This latest incident is illustrative of his continued bad behavior.
+> The figures are included for illustrative purposes.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## illustrator
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/illustrator#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Mary is one of the best illustrators of children's books in the country.
+> The illustrator gave each character a distinctive shape.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## illustrators
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/illustrators#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The illustrators drew scenes from the story.
+
+例句来源：逐词编写的学习例句
 
 ## illustrious
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/illustrious#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Our illustrious leader wrote those words before he rose to power.
+> The award marked the end of an illustrious career.
 
-例句来源：[Tatoeba；作者：AlanF\_US；句子 #9032601；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/9032601)
-
-## illy
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/illy#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+例句来源：逐词编写的学习例句
 
 ## image
 
@@ -1260,8 +1312,8 @@
 ## imager
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/imager#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The thermal imager revealed warm pipes behind the panel.
 
@@ -1277,15 +1329,21 @@
 
 例句来源：逐词编写的学习例句
 
+## images
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/images#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The images are stored on a separate drive.
+
+例句来源：逐词编写的学习例句
+
 ## imaginable
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/imaginable#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Killing people while they pray is the most despicable thing imaginable.
-
-例句来源：[Tatoeba；作者：shekitten；句子 #7811288；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/7811288)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The shop sells ribbons in every imaginable colour.
 
@@ -1294,30 +1352,22 @@
 ## imaginary
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/imaginary#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The child introduced us to her imaginary dragon.
 
 例句来源：逐词编写的学习例句
 
-> Unicorns are imaginary.
-
-例句来源：Wiktionary 用例
-
 ## imagination
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/imagination#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The children turned the empty box into a spaceship with a little imagination.
 
 例句来源：逐词编写的学习例句
-
-> You think someone's been following you? That's just your imagination.
-
-例句来源：Wiktionary 用例
 
 ## imaginative
 
@@ -1332,12 +1382,8 @@
 ## imaginatively
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/imaginatively#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Ever since my childhood I have liked to imaginatively experience the situations and histories of other people.
-
-例句来源：[Tatoeba；作者：dgibbons；句子 #1885205；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/1885205)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The teacher used simple household objects imaginatively in the lesson.
 
@@ -1416,12 +1462,12 @@
 ## imbalance
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/imbalance#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The growing imbalances between the rich and poor first lead to more crime.
+> The report highlights an imbalance between supply and demand.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## imbibe
 
@@ -1461,31 +1507,22 @@
 ## imitate
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/imitate#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Beloved, don’t imitate that which is evil, but that which is good.
+> The bird can imitate human speech.
 
-例句来源：[Tatoeba；作者：ddnktr；句子 #11840880；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/11840880)
+例句来源：逐词编写的学习例句
 
 ## imitator
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/imitator#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> I have entered on an enterprise which is without precedent, and will have no imitator.
+> The successful design attracted many imitators.
 
-例句来源：[Tatoeba；作者：Scott；句子 #412881；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/412881)
-
-## immaculately
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/immaculately#English)
-- 中文释义资料：ECDICT
-
-> Gone was the casually dressed Canadian she had thought a backwoodsman--this man was immaculately tailored.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adv:00364030](https://wordnet.princeton.edu/)
+例句来源：逐词编写的学习例句
 
 ## immanence
 
@@ -1510,12 +1547,22 @@
 ## immaterial
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/immaterial#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Objection, your Honour! The defendant’s criminal record is immaterial to this case.
+> The colour is immaterial to the experiment.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## immature
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/immature#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The guide distinguishes immature plants from fully grown ones.
+
+例句来源：逐词编写的学习例句
 
 ## immeasurable
 
@@ -1530,26 +1577,18 @@
 ## immeasurably
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/immeasurably#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The garden looks immeasurably better after a week of work.
 
 例句来源：逐词编写的学习例句
 
-> The sky seems immeasurably large at night.
-
-例句来源：Wiktionary 用例
-
 ## immediacy
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/immediacy#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> The immediacy of television coverage.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset noun:04918767](https://wordnet.princeton.edu/)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The letters give the story a sense of immediacy.
 
@@ -1558,12 +1597,8 @@
 ## immediate
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/immediate#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Computer users these days expect immediate results when they click on a link.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The problem requires immediate attention.
 
@@ -1572,12 +1607,8 @@
 ## immediately
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/immediately#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> I hope we can begin immediately.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Please call me immediately if the plan changes.
 
@@ -1606,26 +1637,18 @@
 ## immensely
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/immensely#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > I enjoyed the concert immensely.
 
 例句来源：逐词编写的学习例句
 
-> This question is immensely difficult.
-
-例句来源：Wiktionary 用例
-
 ## immensity
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/immensity#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Crossing the Sahara, she felt so small before the golden immensity of the desert.
-
-例句来源：[Tatoeba；作者：samir\_t；句子 #12969523；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/12969523)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The photograph captures the immensity of the desert.
 
@@ -1694,12 +1717,8 @@
 ## immersive
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/immersive#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> An immersive art installation in New York City has visitors captivated.
-
-例句来源：[Tatoeba；作者：Hybrid；句子 #8485538；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/8485538)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Sound and lighting made the exhibition more immersive.
 
@@ -1712,6 +1731,16 @@
 - 中文释义资料：逐词编写的中文释义
 
 > The archive contains letters written by recent immigrants.
+
+例句来源：逐词编写的学习例句
+
+## immigrants
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/immigrants#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The library offers language classes for recent immigrants.
 
 例句来源：逐词编写的学习例句
 
@@ -1728,12 +1757,8 @@
 ## immigration
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/immigration#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> It took ages to get through immigration last time.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The museum traces the city’s history of immigration.
 
@@ -1762,8 +1787,8 @@
 ## imminently
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/imminently#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The final report is expected imminently.
 
@@ -1822,12 +1847,8 @@
 ## immobility
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/immobility#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Immobility is a big problem for many people who can't afford a car.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The machine’s immobility puzzled the engineer.
 
@@ -1836,22 +1857,18 @@
 ## immobilization
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/immobilization#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The broken bones were able to heal, thanks to the immobilization of her leg in a cast.
+> The device allows temporary immobilization of the vehicle.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## immobilize
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/immobilize#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> It is best to immobilize the injury until a doctor can examine it.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The heavy snow immobilized several vehicles.
 
@@ -1930,12 +1947,8 @@
 ## immortality
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/immortality#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> In Greek mythology, Tithonus was granted immortality but not eternal youth.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The legend describes a journey in search of immortality.
 
@@ -1944,12 +1957,8 @@
 ## immortalize
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/immortalize#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> The exploiting classes try to immortalize false worldviews to affirm and strengthen their domination.
-
-例句来源：[Tatoeba；作者：dgibbons；句子 #1885268；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/1885268)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The poet immortalized her hometown in a series of poems.
 
@@ -1958,127 +1967,102 @@
 ## immune
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/immune#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> As a diplomat, you are immune from prosecution.
+> No organization is immune to criticism.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## immunisation
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/immunisation#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The leaflet explains the school immunisation programme.
+
+例句来源：逐词编写的学习例句
 
 ## immunity
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/immunity#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Superbugs are bacteria that develop an immunity to antibiotics.
+> The chapter compares different forms of immunity.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## immunization
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/immunization#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Immunization against influenza is important for all child-care workers.
+> The school asked parents for their children’s immunization records.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## immunize
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/immunize#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> It is important to immunize children against polio.
+> The campaign aimed to immunize children against measles.
 
-例句来源：[Tatoeba；作者：orcrist；句子 #2451747；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/2451747)
-
-## immunoassay
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/immunoassay#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+例句来源：逐词编写的学习例句
 
 ## immunocompromised
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/immunocompromised#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Immunocompromised patients are at greater risk of a fungal infection.
+> The study included immunocompromised patients.
 
-例句来源：[Tatoeba；作者：shekitten；句子 #10268253；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/10268253)
+例句来源：逐词编写的学习例句
 
 ## immunodeficiency
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/immunodeficiency#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> I am genetically predisposed to immunodeficiency.
+> The chapter explains the term immunodeficiency.
 
-例句来源：[Tatoeba；作者：canonrebel；句子 #12699555；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/12699555)
-
-## immunofluorescence
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/immunofluorescence#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
-
-## immunogenicity
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/immunogenicity#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+例句来源：逐词编写的学习例句
 
 ## immunoglobulin
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/immunoglobulin#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The textbook introduces the main classes of immunoglobulin.
 
 例句来源：逐词编写的学习例句
 
-## immunohistochemical
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/immunohistochemical#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
-
-## immunohistochemistry
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/immunohistochemistry#English)
-- 中文释义资料：ECDICT
-
 ## immunological
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/immunological#English)
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-## immunologist
+> The paper describes an immunological mechanism.
 
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/immunologist#English)
-- 中文释义资料：ECDICT
-
-> America's chief immunologist since 1984, Fauci has served under five presidents.
-
-例句来源：[Tatoeba；作者：Hybrid；句子 #8655714；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/8655714)
+例句来源：逐词编写的学习例句
 
 ## immunology
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/immunology#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She took an introductory course in immunology.
+
+例句来源：逐词编写的学习例句
 
 ## immunosuppressant
 
@@ -2093,8 +2077,8 @@
 ## immunosuppression
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/immunosuppression#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The lecture explains the meaning of immunosuppression.
 
@@ -2103,14 +2087,18 @@
 ## immunosuppressive
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/immunosuppressive#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The article describes the drug’s immunosuppressive effects.
+
+例句来源：逐词编写的学习例句
 
 ## immunotherapy
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/immunotherapy#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The article explains how immunotherapy helps the immune system attack cancer.
 
@@ -2186,19 +2174,25 @@
 
 例句来源：逐词编写的学习例句
 
+## impacted
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/impacted#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The delay impacted the exhibition schedule.
+
+例句来源：逐词编写的学习例句
+
 ## impactful
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/impactful#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > One personal story made the speech more impactful.
 
 例句来源：逐词编写的学习例句
-
-> There's nothing really impactful about this commercial, but I remember it well.
-
-例句来源：[Tatoeba；作者：end；句子 #11040293；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/11040293)
 
 ## impaction
 
@@ -2210,15 +2204,35 @@
 
 例句来源：逐词编写的学习例句
 
+## impacts
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/impacts#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The study compares the impacts of two designs.
+
+例句来源：逐词编写的学习例句
+
+## impair
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/impair#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Lack of sleep can impair judgement.
+
+例句来源：逐词编写的学习例句
+
 ## impairment
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/impairment#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> visual impairment
+> The device helps people with hearing impairment.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## impale
 
@@ -2244,11 +2258,7 @@
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/impaler#English)
 - 发音资料：核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> How did Vlad the Impaler get his epithet?
-
-例句来源：[Tatoeba；作者：shekitten；句子 #10104639；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/10104639)
+- 中文释义资料：逐词编写的中文释义
 
 > The guide explained why the ruler was known as the Impaler.
 
@@ -2297,30 +2307,22 @@
 ## impartially
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/impartially#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > All applications will be assessed impartially.
 
 例句来源：逐词编写的学习例句
 
-> He smiled at them both impartially.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adv:00364359](https://wordnet.princeton.edu/)
-
 ## impassable
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/impassable#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Heavy snow made the mountain road impassable.
 
 例句来源：逐词编写的学习例句
-
-> In the winter, the road becomes impassable, and is groomed for cross-country skiing.
-
-例句来源：[Tatoeba；作者：CM；句子 #11127066；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/11127066)
 
 ## impasse
 
@@ -2365,12 +2367,8 @@
 ## impassioned
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/impassioned#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Addressing the delegates, the president made an impassioned appeal for concrete action to achieve the goals of sustainable development and the eradication of poverty.
-
-例句来源：[Tatoeba；作者：Cangarejo；句子 #12031276；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/12031276)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > She made an impassioned appeal to save the old theatre.
 
@@ -2449,16 +2447,12 @@
 ## impatiently
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/impatiently#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > He tapped his foot impatiently while the page loaded.
 
 例句来源：逐词编写的学习例句
-
-> Stella was waiting impatiently for the delivery to come.
-
-例句来源：Wiktionary 用例
 
 ## impeach
 
@@ -2473,8 +2467,8 @@
 ## impeachable
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/impeachable#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The seminar examined what the phrase impeachable offence means.
 
@@ -2483,12 +2477,8 @@
 ## impeachment
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/impeachment#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> I call for the impeachment of the President of the United States of America.
-
-例句来源：[Tatoeba；作者：al\_ex\_an\_der；句子 #6086475；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/6086475)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The class compared impeachment with removal from office.
 
@@ -2507,12 +2497,8 @@
 ## impeccably
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/impeccably#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Although English is not his first language, he speaks it impeccably.
-
-例句来源：[Tatoeba；作者：Objectivesea；句子 #1507514；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/1507514)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > He arrived impeccably dressed in a simple dark suit.
 
@@ -2531,8 +2517,8 @@
 ## impedance
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/impedance#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The manual lists the nominal impedance of each speaker.
 
@@ -2581,12 +2567,8 @@
 ## impending
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/impending#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> I have no time right now because of an impending paper submission deadline.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The dark clouds suggested an impending storm.
 
@@ -2642,49 +2624,21 @@
 
 例句来源：逐词编写的学习例句
 
-## imperceptibly
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/imperceptibly#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
-
-> No one noticed that he had moved imperceptibly backwards.
-
-例句来源：Wiktionary 用例
-
-## imperfectly
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/imperfectly#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
-
-> The lobe was imperfectly developed.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adv:00010047](https://wordnet.princeton.edu/)
-
 ## imperial
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/imperial#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The former imperial palace is now a museum.
 
 例句来源：逐词编写的学习例句
 
-> The imperial gallon was standardized legally throughout the British Empire.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adj:02747036](https://wordnet.princeton.edu/)
-
 ## imperialism
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/imperialism#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Heart of Darkness raises important questions about imperialism, as well as racism.
-
-例句来源：[Tatoeba；作者：Hybrid；句子 #4232516；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/4232516)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The course examines the economic motives behind imperialism.
 
@@ -2693,36 +2647,22 @@
 ## imperialist
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/imperialist#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The historian describes him as an imperialist who supported overseas expansion.
 
 例句来源：逐词编写的学习例句
 
-> Their pseudo-scientific rhetoric serves as justification for America's imperialist foreign policy.
-
-例句来源：[Tatoeba；作者：APagano；句子 #2838714；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/2838714)
-
 ## imperialistic
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/imperialistic#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Europe wants its imperialistic borders to be south of the Sahara.
+> The historian examines imperialistic policies of the period.
 
-例句来源：[Tatoeba；作者：Amastan；句子 #11066867；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/11066867)
-
-## imperiled
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/imperiled#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
-
-> The wildlife management plan was focused on helping the reproductive needs of imperiled species.
-
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## imperious
 
@@ -2787,41 +2727,32 @@
 ## impersonal
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/impersonal#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> She sounded impersonal as she gave her report of the Nazi death camps.
+> The automatic reply felt cold and impersonal.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## impersonate
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/impersonate#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The conman managed to impersonate several executives.
+> The comedian can impersonate several famous singers.
 
-例句来源：Wiktionary 用例
-
-## impersonation
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/impersonation#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
-
-> I was doing an impersonation of my boss when he showed up.
-
-例句来源：[Tatoeba；作者：Dreamk33；句子 #2144754；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/2144754)
+例句来源：逐词编写的学习例句
 
 ## impersonator
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/impersonator#English)
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Ryan Chen is a gifted Chinese Trump impersonator.
+> The show featured a talented Elvis impersonator.
 
-例句来源：[Tatoeba；作者：Adelpa；句子 #13573769；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/13573769)
+例句来源：逐词编写的学习例句
 
 ## impertinence
 
@@ -2916,16 +2847,12 @@
 ## impingement
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/impingement#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The engineer studied jet impingement on the heated surface.
 
 例句来源：逐词编写的学习例句
-
-> We shall not tolerate an impingement on human rights.
-
-例句来源：[Tatoeba；作者：Nylez；句子 #8958502；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/8958502)
 
 ## impious
 
@@ -2936,16 +2863,6 @@
 > The priest condemned the joke as impious.
 
 例句来源：逐词编写的学习例句
-
-## impish
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/impish#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
-
-> That impish man over there is my ex-husband.
-
-例句来源：[Tatoeba；作者：Miktsoanit；句子 #12338132；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/12338132)
 
 ## implacable
 
@@ -2966,12 +2883,6 @@
 > The residents were implacably opposed to the demolition plan.
 
 例句来源：逐词编写的学习例句
-
-## implantable
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/implantable#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
 
 ## implausibility
 
@@ -3016,14 +2927,20 @@
 ## implementation
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/implementation#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Now that the requirements are complete we can move on to implementation.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The policy is simple, but its implementation will require careful training.
+
+例句来源：逐词编写的学习例句
+
+## implemented
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/implemented#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The school implemented the new timetable in September.
 
 例句来源：逐词编写的学习例句
 
@@ -3037,15 +2954,21 @@
 
 例句来源：逐词编写的学习例句
 
+## implementing
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/implementing#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The school is implementing a new reading programme.
+
+例句来源：逐词编写的学习例句
+
 ## implicate
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/implicate#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> The evidence implicates involvement of top management in the scheme.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The messages appeared to implicate a second employee.
 
@@ -3054,14 +2977,20 @@
 ## implication
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/implication#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Dumping waste in the river will have serious implications for the environment.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > What are the implications of the change for small businesses?
+
+例句来源：逐词编写的学习例句
+
+## implications
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/implications#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> We discussed the practical implications of the change.
 
 例句来源：逐词编写的学习例句
 
@@ -3079,15 +3008,31 @@
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/implicitly#English)
 - 发音资料：核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 中文释义资料：逐词编写的中文释义
 
 > By continuing the discussion, they implicitly accepted the new agenda.
 
 例句来源：逐词编写的学习例句
 
-> He was punished for asking for answers implicitly during the exam.
+## implied
 
-例句来源：Wiktionary 用例
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/implied#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Her tone implied that she was not convinced.
+
+例句来源：逐词编写的学习例句
+
+## implies
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/implies#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The title implies that the story is about a journey.
+
+例句来源：逐词编写的学习例句
 
 ## implode
 
@@ -3142,12 +3087,12 @@
 ## impolite
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/impolite#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Because of his impolite reply, she got angry and slapped his face.
+> It is impolite to interrupt someone repeatedly.
 
-例句来源：[Tatoeba；作者：CK；句子 #1427955；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/1427955)
+例句来源：逐词编写的学习例句
 
 ## impolitic
 
@@ -3182,26 +3127,18 @@
 ## important
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/important#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > This decision is important to everyone on the team.
 
 例句来源：逐词编写的学习例句
 
-> We thought it important for there to be a fire escape at the back of every building.
-
-例句来源：Wiktionary 用例
-
 ## importantly
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/importantly#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> For centuries jellies have figured importantly among English desserts, particularly upon festive occasion.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adv:00367682](https://wordnet.princeton.edu/)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The plan is affordable and, more importantly, practical.
 
@@ -3210,28 +3147,40 @@
 ## importation
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/importation#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> The importation of rare wild animals to this country is strictly prohibited.
-
-例句来源：[Tatoeba；作者：CK；句子 #20611；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/20611)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The museum studies the importation of ceramics during that period.
+
+例句来源：逐词编写的学习例句
+
+## imported
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/imported#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The shop sells imported cheese.
 
 例句来源：逐词编写的学习例句
 
 ## importer
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/importer#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> The data importer has crashed. Did we receive a corrupted file?
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The importer supplies coffee to local shops.
+
+例句来源：逐词编写的学习例句
+
+## imports
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/imports#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The shop imports pottery from several countries.
 
 例句来源：逐词编写的学习例句
 
@@ -3245,29 +3194,41 @@
 
 例句来源：逐词编写的学习例句
 
+## imposed
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/imposed#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The organisers imposed a limit on the number of entries.
+
+例句来源：逐词编写的学习例句
+
+## imposing
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/imposing#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> An imposing gate stood at the entrance to the park.
+
+例句来源：逐词编写的学习例句
+
 ## impossibility
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/impossibility#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Being in two cities at exactly the same time is a physical impossibility.
 
 例句来源：逐词编写的学习例句
 
-> Meeting the deadline is an impossibility; there is no way we can be ready in time.
-
-例句来源：Wiktionary 用例
-
 ## impossible
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/impossible#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Sarah thinks that nothing is impossible because things can always somehow happen.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Without the key, it was impossible to open the cabinet.
 
@@ -3276,12 +3237,8 @@
 ## impossibly
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/impossibly#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Impossibly, after the water receded, the cat was found asleep on a chair jammed in a tree.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The instructions were printed in impossibly small letters.
 
@@ -3320,18 +3277,12 @@
 ## impound
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/impound#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> His car was impounded after he parked it illegally.
+> The authorities impounded the abandoned vehicle.
 
-例句来源：Wiktionary 用例
-
-## impoundment
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/impoundment#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+例句来源：逐词编写的学习例句
 
 ## impracticable
 
@@ -3346,12 +3297,8 @@
 ## impractical
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/impractical#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Refloating the ship proved impractical because of the expense.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adj:01836350](https://wordnet.princeton.edu/)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > White shoes are impractical for walking through muddy fields.
 
@@ -3380,7 +3327,7 @@
 ## impregnable
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/impregnable#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
+- 发音资料：核对后整理；见逐词精讲核对资料
 - 中文释义资料：逐词编写的中文释义
 
 > The fortress was thought to be impregnable.
@@ -3390,12 +3337,8 @@
 ## impregnate
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/impregnate#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Impregnate the cloth with alcohol.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset verb:00497705](https://wordnet.princeton.edu/)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The manufacturer impregnates the fabric with resin.
 
@@ -3424,12 +3367,8 @@
 ## impression
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/impression#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> I have the impression that he's already left for Paris.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > My first impression was that the office was very welcoming.
 
@@ -3438,12 +3377,8 @@
 ## impressionable
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/impressionable#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Sami was a young and impressionable teenager back then.
-
-例句来源：[Tatoeba；作者：OsoHombre；句子 #7146533；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/7146533)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The story made a strong impact on me at an impressionable age.
 
@@ -3472,12 +3407,8 @@
 ## impressionistic
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/impressionistic#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> A surprisingly impressionistic review bearing marks of hasty composition.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adj:02747667](https://wordnet.princeton.edu/)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The essay gives an impressionistic account of life in the city.
 
@@ -3486,26 +3417,18 @@
 ## impressive
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/impressive#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The students made impressive progress in six weeks.
 
 例句来源：逐词编写的学习例句
 
-> an impressive speech
-
-例句来源：Wiktionary 用例
-
 ## impressively
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/impressively#English)
 - 发音资料：核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> The students progressed impressively fast.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adv:00213524](https://wordnet.princeton.edu/)
+- 中文释义资料：逐词编写的中文释义
 
 > The team performed impressively despite the difficult conditions.
 
@@ -3534,12 +3457,32 @@
 ## imprinted
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/imprinted#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> I may tread a land never before imprinted by the foot of man.
+> The cloth was imprinted with a simple pattern.
 
-例句来源：[Tatoeba；作者：Hybrid；句子 #5941910；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/5941910)
+例句来源：逐词编写的学习例句
+
+## imprinting
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/imprinting#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The machine was imprinting names on the cards.
+
+例句来源：逐词编写的学习例句
+
+## imprints
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/imprints#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The wet sand held the imprints of small feet.
+
+例句来源：逐词编写的学习例句
 
 ## imprison
 
@@ -3551,25 +3494,31 @@
 
 例句来源：逐词编写的学习例句
 
+## imprisoned
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/imprisoned#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> In the fairy tale, the prince was imprisoned in a tower.
+
+例句来源：逐词编写的学习例句
+
 ## imprisonment
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/imprisonment#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The joy was indescribably great when Tom was released from political imprisonment.
+> The sentence included a period of imprisonment.
 
-例句来源：[Tatoeba；作者：Objectivesea；句子 #9594279；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/9594279)
+例句来源：逐词编写的学习例句
 
 ## improbability
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/improbability#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Impossibility should never be confused with improbability.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset noun:04758452](https://wordnet.princeton.edu/)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The improbability of the coincidence made us check the records again.
 
@@ -3588,8 +3537,8 @@
 ## improbably
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/improbably#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Improbably, the tiny shop became an international success.
 
@@ -3608,12 +3557,12 @@
 ## improperly
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/improperly#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> He checked whether the wound had healed improperly.
+> The shelf had been improperly installed.
 
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adv:00196056](https://wordnet.princeton.edu/)
+例句来源：逐词编写的学习例句
 
 ## impropriety
 
@@ -3628,18 +3577,62 @@
 ## improve
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/improve#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Painting the woodwork will improve this house.
+> The new handle improves the design.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## improved
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/improved#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The new layout improved the flow of people through the building.
+
+例句来源：逐词编写的学习例句
+
+## improvement
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/improvement#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> There has been a clear improvement in her writing.
+
+例句来源：逐词编写的学习例句
+
+## improvements
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/improvements#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The new design includes several small improvements.
+
+例句来源：逐词编写的学习例句
 
 ## improver
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/improver#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The swimming class is suitable for beginners and improvers.
+
+例句来源：逐词编写的学习例句
+
+## improves
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/improves#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The new window improves the view from the room.
+
+例句来源：逐词编写的学习例句
 
 ## improvidence
 
@@ -3661,15 +3654,21 @@
 
 例句来源：逐词编写的学习例句
 
+## improving
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/improving#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Her writing is improving with regular practice.
+
+例句来源：逐词编写的学习例句
+
 ## improvisation
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/improvisation#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> He played a quick improvisation on the keyboard.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The performance included several minutes of improvisation.
 
@@ -3765,35 +3764,25 @@
 
 例句来源：逐词编写的学习例句
 
-## impulsively
+## impulsive
 
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/impulsively#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/impulsive#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> He often acts impulsively and later regrets it.
+> It was an impulsive decision to book the trip.
 
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adv:00366778](https://wordnet.princeton.edu/)
-
-## impulsiveness
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/impulsiveness#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
-
-> In a moment of impulsiveness, Rodrigo decided to squeeze the bothersome pimple on his forehead.
-
-例句来源：[Tatoeba；作者：Amastan；句子 #11777134；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/11777134)
+例句来源：逐词编写的学习例句
 
 ## impulsivity
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/impulsivity#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Abusing drugs can lead to impulsivity and aggression.
+> The study measured impulsivity using several tasks.
 
-例句来源：[Tatoeba；作者：OsoHombre；句子 #6324266；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/6324266)
+例句来源：逐词编写的学习例句
 
 ## impune
 
@@ -3828,16 +3817,12 @@
 ## impurity
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/impurity#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The filter removes some impurities from the water.
 
 例句来源：逐词编写的学习例句
-
-> With his cheating, lying and stealing, he epitomised the impurity of humanity.
-
-例句来源：Wiktionary 用例
 
 ## imputation
 
@@ -3872,12 +3857,12 @@
 ## inaccessible
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/inaccessible#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Much of the archive remains inaccessible to the public.
+> The village became inaccessible after the bridge collapsed.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## inaccuracy
 
@@ -3902,16 +3887,12 @@
 ## inaccurately
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/inaccurately#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The location was inaccurately marked on the map.
 
 例句来源：逐词编写的学习例句
-
-> This student works rather inaccurately and sloppily.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adv:00204643](https://wordnet.princeton.edu/)
 
 ## inaction
 
@@ -3926,42 +3907,38 @@
 ## inactivate
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/inactivate#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The treatment inactivated the enzyme.
+
+例句来源：逐词编写的学习例句
 
 ## inactivation
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/inactivation#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The experiment measured enzyme inactivation over time.
 
 例句来源：逐词编写的学习例句
 
-> The gene inactivation system.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset noun:13496771](https://wordnet.princeton.edu/)
-
 ## inactive
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/inactive#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Synthetic glycine is optically inactive as it contains equal amounts of the d- and l- form.
+> The club reviewed its list of inactive members.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## inactivity
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/inactivity#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Now I'm trying to make up for my 5-year-long inactivity on Tatoeba.
-
-例句来源：[Tatoeba；作者：Tomwtom；句子 #6276845；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/6276845)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The screen locks after ten minutes of inactivity.
 
@@ -3970,31 +3947,32 @@
 ## inadequacy
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/inadequacy#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The report exposed the inadequacy of existing regulations.
+> The review exposed several inadequacies in the system.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## inadequate
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/inadequate#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> inadequate representation
+> The lighting was inadequate for detailed work.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## inadequately
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/inadequately#English)
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The temporary camps were inadequately equipped.
+> The instructions were inadequately explained.
 
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adv:00369869](https://wordnet.princeton.edu/)
+例句来源：逐词编写的学习例句
 
 ## inadmissibility
 
@@ -4029,16 +4007,12 @@
 ## inadvertently
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/inadvertently#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > I inadvertently sent the unfinished draft to everyone.
 
 例句来源：逐词编写的学习例句
-
-> They claimed that my name had been inadvertently eliminated from the voter registration list.
-
-例句来源：[Tatoeba；作者：darinmex；句子 #2024732；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/2024732)
 
 ## inadvisable
 
@@ -4083,12 +4057,8 @@
 ## inanimate
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/inanimate#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> The inorganic world is inanimate.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adj:00118238](https://wordnet.princeton.edu/)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The story gives voices to inanimate objects.
 
@@ -4114,24 +4084,25 @@
 
 例句来源：逐词编写的学习例句
 
-## inappropriately
+## inappropriate
 
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/inappropriately#English)
-- 中文释义资料：ECDICT
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/inappropriate#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> inappropriately dressed
+> That joke was inappropriate for a formal meeting.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## inarticulate
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/inarticulate#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Remained stupidly inarticulate and saying something noncommittal.
+> He was inarticulate with anger.
 
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adj:00151105](https://wordnet.princeton.edu/)
+例句来源：逐词编写的学习例句
 
 ## inattention
 
@@ -4216,12 +4187,22 @@
 ## inbox
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/inbox#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The kids, my ex, my parents, the job, bills — my inbox is full.
+> Please check your inbox for the confirmation email.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## inboxes
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/inboxes#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The team members checked their inboxes after lunch.
+
+例句来源：逐词编写的学习例句
 
 ## incalculable
 
@@ -4232,10 +4213,6 @@
 > The fire caused incalculable damage to the historic collection.
 
 例句来源：逐词编写的学习例句
-
-## incall
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/incall#English)
 
 ## incandescence
 
@@ -4280,28 +4257,28 @@
 ## incapacitate
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/incapacitate#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The injury incapacitated him for several weeks.
+
+例句来源：逐词编写的学习例句
 
 ## incapacity
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/incapacity#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Angst is the fear of our own incapacity for peace.
+> The report described his temporary incapacity for work.
 
-例句来源：[Tatoeba；作者：Dejo；句子 #3010018；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/3010018)
+例句来源：逐词编写的学习例句
 
 ## incarcerate
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/incarcerate#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> If we incarcerate these old men, we can take control.
-
-例句来源：[Tatoeba；作者：Eccles17；句子 #6479125；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/6479125)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The report examines why the state incarcerates so many people.
 
@@ -4320,12 +4297,8 @@
 ## incarceration
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/incarceration#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> His ignominious incarceration in the local jail.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset noun:13999206](https://wordnet.princeton.edu/)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The study follows people after a period of incarceration.
 
@@ -4334,12 +4307,8 @@
 ## incarnate
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/incarnate#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> A monarch...regarded as a god incarnate.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adj:00628201](https://wordnet.princeton.edu/)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > On stage, she seemed confidence incarnate.
 
@@ -4388,14 +4357,20 @@
 ## incentive
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/incentive#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Management offered the sales team a $500 incentive for each car sold.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The discount gives customers an incentive to return.
+
+例句来源：逐词编写的学习例句
+
+## incentives
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/incentives#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The game gives players small incentives to explore.
 
 例句来源：逐词编写的学习例句
 
@@ -4412,12 +4387,8 @@
 ## incentivize
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/incentivize#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> The US government seeks to incentivize home ownership through a favorable tax system.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The scheme incentivizes households to reduce electricity use.
 
@@ -4433,16 +4404,6 @@
 
 例句来源：逐词编写的学习例句
 
-## incessantly
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/incessantly#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
-
-> He jabbered incessantly and annoyed everyone.
-
-例句来源：Wiktionary 用例
-
 ## incest
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/incest#English)
@@ -4456,12 +4417,8 @@
 ## incestuous
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/incestuous#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> If you engaged in an incestuous relationship with a family member, that would make you an inbreeder.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The play centres on an incestuous relationship in a royal family.
 
@@ -4474,6 +4431,16 @@
 - 中文释义资料：逐词编写的中文释义
 
 > Leave an inch of space between the frame and the shelf.
+
+例句来源：逐词编写的学习例句
+
+## inches
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/inches#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The shelf is twelve inches deep.
 
 例句来源：逐词编写的学习例句
 
@@ -4500,12 +4467,8 @@
 ## incidental
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/incidental#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> That character, though colorful, is incidental to the overall plot.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The grant covers travel and incidental expenses.
 
@@ -4514,14 +4477,20 @@
 ## incidentally
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/incidentally#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Incidentally, did you hear anything new from your brother yesterday?
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Incidentally, your umbrella is still in my car.
+
+例句来源：逐词编写的学习例句
+
+## incidents
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/incidents#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The journey was mostly quiet, apart from a few minor incidents.
 
 例句来源：逐词编写的学习例句
 
@@ -4538,8 +4507,8 @@
 ## incineration
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/incineration#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The report compares incineration with other methods of waste treatment.
 
@@ -4548,12 +4517,8 @@
 ## incinerator
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/incinerator#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> I plan to dump the garbage into the incinerator.
-
-例句来源：[Tatoeba；作者：Aphima；句子 #11380968；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/11380968)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The old incinerator was taken out of service.
 
@@ -4652,16 +4617,12 @@
 ## incitement
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/incitement#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The article distinguishes criticism from incitement to violence.
 
 例句来源：逐词编写的学习例句
-
-> The sheriff was constantly goading me into shooting trespassers, which should surely count as incitement at the very least.
-
-例句来源：Wiktionary 用例
 
 ## incivility
 
@@ -4676,16 +4637,12 @@
 ## inclination
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/inclination#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > She had little inclination to discuss work during the holiday.
 
 例句来源：逐词编写的学习例句
-
-> The inclination of his head increased and he awoke with a start.
-
-例句来源：Wiktionary 用例
 
 ## incline
 
@@ -4700,16 +4657,12 @@
 ## inclined
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/inclined#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > I am inclined to accept the offer, but I need another day to decide.
 
 例句来源：逐词编写的学习例句
-
-> The take-off ramp was inclined at 20 degrees.
-
-例句来源：Wiktionary 用例
 
 ## include
 
@@ -4718,6 +4671,36 @@
 - 中文释义资料：逐词编写的中文释义
 
 > The ticket price includes a guided tour.
+
+例句来源：逐词编写的学习例句
+
+## included
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/included#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Breakfast is included in the room price.
+
+例句来源：逐词编写的学习例句
+
+## includes
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/includes#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The price includes breakfast and a bus ticket.
+
+例句来源：逐词编写的学习例句
+
+## including
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/including#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Six people joined us, including two neighbours.
 
 例句来源：逐词编写的学习例句
 
@@ -4734,35 +4717,32 @@
 ## inclusive
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/inclusive#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The price is inclusive of delivery.
 
 例句来源：逐词编写的学习例句
 
-> The pronoun in "If you want, we could go back to my place for coffee" is an inclusive "we".
-
-例句来源：Wiktionary 用例
-
 ## inclusiveness
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/inclusiveness#English)
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Another student comments that Martin Luther King's message of inclusiveness made him feel better about his Hispanic heritage.
+> The organisers worked to improve the event’s inclusiveness.
 
-例句来源：[Tatoeba；作者：Cangarejo；句子 #12133255；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/12133255)
+例句来源：逐词编写的学习例句
 
 ## inclusivity
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/inclusivity#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Instead of being an advocate for inclusivity, the English teacher reinforced linguistic barriers.
+> The school places an emphasis on inclusivity.
 
-例句来源：[Tatoeba；作者：Amastan；句子 #11768586；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/11768586)
+例句来源：逐词编写的学习例句
 
 ## incognito
 
@@ -4797,26 +4777,42 @@
 ## incoherently
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/incoherently#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > He muttered incoherently before falling asleep.
 
 例句来源：逐词编写的学习例句
 
-> He talked incoherently when he drank too much.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adv:00286518](https://wordnet.princeton.edu/)
-
 ## income
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/income#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> A man of wealth has to pay a lot of income tax.
+> Rent is her main source of income.
 
-例句来源：[Tatoeba；作者：CM；句子 #263566；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/263566)
+例句来源：逐词编写的学习例句
+
+## incomes
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/incomes#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The study compares household incomes across the region.
+
+例句来源：逐词编写的学习例句
+
+## incoming
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/incoming#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The screen shows incoming messages.
+
+例句来源：逐词编写的学习例句
 
 ## incommensurable
 
@@ -4851,31 +4847,18 @@
 ## incomparable
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/incomparable#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> An incomparable week of rest and pleasure.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adj:00504592](https://wordnet.princeton.edu/)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The guide praised the valley’s incomparable beauty.
 
 例句来源：逐词编写的学习例句
 
-## incomparably
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/incomparably#English)
-- 中文释义资料：ECDICT
-
-> She is incomparably gifted.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adv:00370421](https://wordnet.princeton.edu/)
-
 ## incompatibility
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/incompatibility#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The error was caused by an incompatibility between two plug-ins.
 
@@ -4904,12 +4887,8 @@
 ## incompetent
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/incompetent#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> The charged was judged incompetent to stand trial, at least until his medication started working.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The review criticized the project’s incompetent management.
 
@@ -4928,12 +4907,8 @@
 ## incomplete
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/incomplete#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> He considers that his life would be incomplete if not for his children.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The address is incomplete because the house number is missing.
 
@@ -4942,12 +4917,8 @@
 ## incompletely
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/incompletely#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> A form filled out incompletely.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adv:00157811](https://wordnet.princeton.edu/)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The causes of the change are still incompletely understood.
 
@@ -4957,15 +4928,11 @@
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/incompleteness#English)
 - 发音资料：核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 中文释义资料：逐词编写的中文释义
 
 > The incompleteness of the records makes comparison difficult.
 
 例句来源：逐词编写的学习例句
-
-> The study was criticized for incompleteness of data but it stimulated further research.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset noun:14462193](https://wordnet.princeton.edu/)
 
 ## incompressible
 
@@ -5010,26 +4977,12 @@
 ## inconsistent
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/inconsistent#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> His account of the evening was inconsistent with the security-camera footage.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The team’s inconsistent performance made the final result hard to predict.
 
 例句来源：逐词编写的学习例句
-
-## inconsistently
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/inconsistently#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
-
-> Elves are depicted very inconsistently across fictional universes.
-
-例句来源：[Tatoeba；作者：shekitten；句子 #11376704；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/11376704)
 
 ## inconsolable
 
@@ -5161,16 +5114,6 @@
 
 例句来源：逐词编写的学习例句
 
-## inconveniently
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/inconveniently#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
-
-> He arrived at an inconveniently late hour.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adv:00197561](https://wordnet.princeton.edu/)
-
 ## incoordinate
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/incoordinate#English)
@@ -5211,6 +5154,16 @@
 
 例句来源：逐词编写的学习例句
 
+## incorporating
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/incorporating#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> We are incorporating your comments into the next draft.
+
+例句来源：逐词编写的学习例句
+
 ## incorporation
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/incorporation#English)
@@ -5224,12 +5177,8 @@
 ## incorporeal
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/incorporeal#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Maybe in another universe, sentient beings, as well as their very environment, are incorporeal.
-
-例句来源：[Tatoeba；作者：nonong；句子 #1466046；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/1466046)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The novel describes an incorporeal presence in the room.
 
@@ -5268,12 +5217,8 @@
 ## incorrectly
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/incorrectly#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> I lost a few marks in the test for spelling words incorrectly.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Several boxes were incorrectly labelled.
 
@@ -5339,29 +5284,45 @@
 
 例句来源：逐词编写的学习例句
 
+## increased
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/increased#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Attendance increased from thirty to forty people.
+
+例句来源：逐词编写的学习例句
+
+## increases
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/increases#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The chart shows increases in demand over five years.
+
+例句来源：逐词编写的学习例句
+
 ## increasing
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/increasing#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The library faces increasing demand for quiet study space.
 
 例句来源：逐词编写的学习例句
 
-> steadily increasing demand
-
-例句来源：Wiktionary 用例
-
 ## increasingly
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/increasingly#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> She became increasingly depressed.
+> The task became increasingly difficult.
 
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adv:00059854](https://wordnet.princeton.edu/)
+例句来源：逐词编写的学习例句
 
 ## incredible
 
@@ -5376,12 +5337,8 @@
 ## incredibly
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/incredibly#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Incredibly, when he died they found he had left a million dollars to the Poetry Foundation.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The instructions were incredibly easy to follow.
 
@@ -5390,12 +5347,8 @@
 ## incredulity
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/incredulity#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> An appeal to common sense is a type of argument from incredulity, a logical fallacy.
-
-例句来源：[Tatoeba；作者：rul；句子 #13412780；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/13412780)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > He stared at the bill with incredulity.
 
@@ -5414,12 +5367,8 @@
 ## incredulously
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/incredulously#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> The woman looked up at her incredulously.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adv:00296425](https://wordnet.princeton.edu/)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > “You finished all of it today?” she asked incredulously.
 
@@ -5428,12 +5377,8 @@
 ## increment
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/increment#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Every time you go through the cycle, you increment the counter by one.
-
-例句来源：[Tatoeba；作者：Tangobango；句子 #8449253；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/8449253)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Raise the temperature in increments of two degrees.
 
@@ -5442,61 +5387,32 @@
 ## incremental
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/incremental#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Incremental improvement is fine as long as the increments are large enough to see.
+> The team made incremental improvements each week.
 
-例句来源：[Tatoeba；作者：AlanF\_US；句子 #5723291；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/5723291)
-
-## incrementally
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/incrementally#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
-
-> Do it incrementally. Don't try to get it all done at once.
-
-例句来源：[Tatoeba；作者：AlanF\_US；句子 #4130104；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/4130104)
+例句来源：逐词编写的学习例句
 
 ## incriminate
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/incriminate#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> We have all sorts of evidence which incriminates you.
+> The documents could incriminate several officials.
 
-例句来源：Wiktionary 用例
-
-## incriminating
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/incriminating#English)
-- 中文释义资料：ECDICT
-
-> The flirtatious text messages served as further incriminating evidence of his secret affair.
-
-例句来源：[Tatoeba；作者：Rawrren；句子 #8490143；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/8490143)
-
-## incrimination
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/incrimination#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+例句来源：逐词编写的学习例句
 
 ## incubate
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/incubate#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The bird returned to the nest to incubate its eggs.
 
 例句来源：逐词编写的学习例句
-
-> You should incubate your bacterial culture at 37 degrees.
-
-例句来源：[Tatoeba；作者：Jesse；句子 #5257465；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/5257465)
 
 ## incubation
 
@@ -5511,26 +5427,12 @@
 ## incubator
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/incubator#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Sami got me pregnant but I don't want to be his human incubator.
-
-例句来源：[Tatoeba；作者：OsoHombre；句子 #6396723；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/6396723)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The eggs were kept in an incubator until they hatched.
 
 例句来源：逐词编写的学习例句
-
-## inculcate
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/inculcate#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
-
-> Inculcate values into the young generation.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset verb:00606600](https://wordnet.princeton.edu/)
 
 ## incult
 
@@ -5555,8 +5457,12 @@
 ## incumbency
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/incumbency#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The candidate benefited from the advantages of incumbency.
+
+例句来源：逐词编写的学习例句
 
 ## incumbent
 
@@ -5601,12 +5507,8 @@
 ## indebtedness
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/indebtedness#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Favors should be done freely and not out of a sense of indebtedness.
-
-例句来源：[Tatoeba；作者：rul；句子 #12635199；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/12635199)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The study examines changes in household indebtedness.
 
@@ -5615,21 +5517,12 @@
 ## indecent
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/indecent#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> indecent comment
+> The editor removed the indecent language from the children’s edition.
 
-例句来源：Wiktionary 用例
-
-## indecently
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/indecently#English)
-- 中文释义资料：ECDICT
-
-> She was rather indecently dressed.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adv:00247326](https://wordnet.princeton.edu/)
+例句来源：逐词编写的学习例句
 
 ## indecision
 
@@ -5654,16 +5547,12 @@
 ## indecisiveness
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/indecisiveness#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Her indecisiveness over small details slowed the preparations.
 
 例句来源：逐词编写的学习例句
-
-> Some analysts say the opposition party's indecisiveness cost it in the March elections.
-
-例句来源：[Tatoeba；作者：Cangarejo；句子 #12200591；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/12200591)
 
 ## indecorous
 
@@ -5698,22 +5587,22 @@
 ## indefinite
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/indefinite#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Your account will be suspended for an indefinite period of time.
+> The event was postponed for an indefinite period.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## indefinitely
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/indefinitely#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> an indefinitely determined fossil
+> The concert has been postponed indefinitely.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## indelible
 
@@ -5729,15 +5618,11 @@
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/indelibly#English)
 - 发音资料：核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 中文释义资料：逐词编写的中文释义
 
 > The serial number is indelibly marked on the metal case.
 
 例句来源：逐词编写的学习例句
-
-> This tradition has left its mark indelibly upon the social, political, educational and industrial fabric of this country.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adv:00371651](https://wordnet.princeton.edu/)
 
 ## indemnification
 
@@ -5752,16 +5637,12 @@
 ## indemnify
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/indemnify#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The agreement requires one party to indemnify the other for specified losses.
 
 例句来源：逐词编写的学习例句
-
-> The insurer will indemnify the policyholder against loss of or damage to the motor car.
-
-例句来源：[Tatoeba；作者：dincogan；句子 #2032355；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/2032355)
 
 ## indemnity
 
@@ -5786,30 +5667,22 @@
 ## indentation
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/indentation#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The editor changed the indentation of the numbered list.
 
 例句来源：逐词编写的学习例句
 
-> the indentations of a leaf
-
-例句来源：Wiktionary 用例
-
 ## indented
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/indented#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The indented quotation stands out from the rest of the page.
 
 例句来源：逐词编写的学习例句
-
-> an indented border or ordinary
-
-例句来源：Wiktionary 用例
 
 ## indenture
 
@@ -5824,26 +5697,18 @@
 ## indentured
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/indentured#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The exhibition documents the experiences of indentured workers.
 
 例句来源：逐词编写的学习例句
 
-> indentured servitude
-
-例句来源：Wiktionary 用例
-
 ## independence
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/independence#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> In 1947, India gained independence from the British Empire.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Learning to travel alone gave him a new sense of independence.
 
@@ -5852,40 +5717,22 @@
 ## independent
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/independent#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > She wants to become financially independent.
 
 例句来源：逐词编写的学习例句
 
-> a man of an independent mind
-
-例句来源：Wiktionary 用例
-
 ## independently
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/independently#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Both teams worked out the answers independently.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Students are expected to complete the final task independently.
 
 例句来源：逐词编写的学习例句
-
-## indescribably
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/indescribably#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
-
-> The joy was indescribably great when Tom was released from political imprisonment.
-
-例句来源：[Tatoeba；作者：Objectivesea；句子 #9594279；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/9594279)
 
 ## indestructibility
 
@@ -5920,28 +5767,132 @@
 ## index
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/index#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The index of a book lists words or expressions and the pages of the book upon which they are to be found.
+> Look up the name in the index.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## indexed
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/indexed#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The collection has been fully indexed.
+
+例句来源：逐词编写的学习例句
 
 ## indexer
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/indexer#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> A professional indexer prepared the book’s index.
+
+例句来源：逐词编写的学习例句
+
+## indexes
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/indexes#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The books have detailed indexes.
+
+例句来源：逐词编写的学习例句
+
+## indexing
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/indexing#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The library was indexing the new collection.
+
+例句来源：逐词编写的学习例句
 
 ## indicate
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/indicate#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Marked weakness unresponsive to dietary change and exercise may indicate an underlying neurologic or metabolic problem.
+> The arrow indicates the entrance.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## indicated
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/indicated#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The arrow indicated the path to the beach.
+
+例句来源：逐词编写的学习例句
+
+## indicates
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/indicates#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The arrow indicates the way to the exit.
+
+例句来源：逐词编写的学习例句
+
+## indicating
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/indicating#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The map has an arrow indicating the entrance.
+
+例句来源：逐词编写的学习例句
+
+## indication
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/indication#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The long queue was an indication of the café’s popularity.
+
+例句来源：逐词编写的学习例句
+
+## indicator
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/indicator#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> A clear explanation is one indicator of understanding.
+
+例句来源：逐词编写的学习例句
+
+## indicators
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/indicators#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The report compares several indicators of progress.
+
+例句来源：逐词编写的学习例句
+
+## indices
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/indices#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The chart compares price indices from several years.
+
+例句来源：逐词编写的学习例句
 
 ## indict
 
@@ -5952,16 +5903,6 @@
 > The official was indicted on charges of fraud.
 
 例句来源：逐词编写的学习例句
-
-## indictable
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/indictable#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
-
-> In a dictatorship laughing can be an indictable offense.
-
-例句来源：[Tatoeba；作者：Dejo；句子 #1485107；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/1485107)
 
 ## indictment
 
@@ -5976,12 +5917,12 @@
 ## indie
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/indie#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> an indie video game
+> She directed a small indie film.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## indifference
 
@@ -6006,12 +5947,8 @@
 ## indifferently
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/indifferently#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> One sadness more, one joy less... And life takes us along indifferently.
-
-例句来源：[Tatoeba；作者：carlosalberto；句子 #12947449；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/12947449)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > “Either is fine,” she said indifferently.
 
@@ -6020,16 +5957,12 @@
 ## indigenous
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/indigenous#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Several plants in the garden are indigenous to this region.
 
 例句来源：逐词编写的学习例句
-
-> The Ainu are the indigenous ethnic group of Japan's Hokkaido Island.
-
-例句来源：Wiktionary 用例
 
 ## indigestible
 
@@ -6051,25 +5984,15 @@
 
 例句来源：逐词编写的学习例句
 
-## indignantly
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/indignantly#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
-
-> Miss Burney protested indignantly, her long thin nose turning pink with mortification at this irreverent piece of mimicry.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adv:00372455](https://wordnet.princeton.edu/)
-
 ## indignity
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/indignity#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> He suffered the indignity of being ignored.
+> They endured the indignity of being ignored.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## indirect
 
@@ -6084,12 +6007,8 @@
 ## indirectly
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/indirectly#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> His alcoholism had a direct effect on his health, and indirectly caused problems for others.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > I heard about the decision indirectly through a colleague.
 
@@ -6128,22 +6047,12 @@
 ## indiscriminate
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/indiscriminate#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> How can anyone be so indiscriminate in making friends as he is?
+> The study warns against indiscriminate use of the technique.
 
-例句来源：Wiktionary 用例
-
-## indiscriminately
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/indiscriminately#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
-
-> The special forces team arrived and started to shoot at the inmates indiscriminately.
-
-例句来源：[Tatoeba；作者：Amastan；句子 #11620423；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/11620423)
+例句来源：逐词编写的学习例句
 
 ## indispensable
 
@@ -6168,12 +6077,8 @@
 ## indisputably
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/indisputably#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> It's indisputably the best short story that has been published this year.
-
-例句来源：[Tatoeba；作者：Miktsoanit；句子 #12382157；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/12382157)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The new bridge is indisputably longer than the old one.
 
@@ -6182,30 +6087,22 @@
 ## indistinct
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/indistinct#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Only an indistinct outline of the hill was visible through the mist.
 
 例句来源：逐词编写的学习例句
 
-> indistinct consonant sound
-
-例句来源：Wiktionary 用例
-
 ## indistinctly
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/indistinctly#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Someone spoke indistinctly at the back of the room.
 
 例句来源：逐词编写的学习例句
-
-> The old man muttered something indistinctly and fell silent.
-
-例句来源：[Tatoeba；作者：AlanF\_US；句子 #10650070；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/10650070)
 
 ## indistinguishable
 
@@ -6220,12 +6117,8 @@
 ## individual
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/individual#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> He is an unusual individual.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The teacher gave each student individual feedback.
 
@@ -6234,12 +6127,8 @@
 ## individualism
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/individualism#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Art is the most intense mode of individualism that the world has known.
-
-例句来源：[Tatoeba；作者：inastar；句子 #1786883；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/1786883)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The book explores the tension between individualism and community life.
 
@@ -6248,44 +6137,32 @@
 ## individualist
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/individualist#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > As an individualist, she preferred to develop her own style.
 
 例句来源：逐词编写的学习例句
 
-> Sheena took time to get used to the individualist culture of the West.
-
-例句来源：[Tatoeba；作者：sabretou；句子 #8682872；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/8682872)
-
 ## individualistic
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/individualistic#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > His individualistic approach produced an unusual design.
 
 例句来源：逐词编写的学习例句
 
-> The artist has an individualistic style of painting.
-
-例句来源：[Tatoeba；作者：al\_ex\_an\_der；句子 #49192；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/49192)
-
 ## individuality
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/individuality#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The school encourages students to express their individuality.
 
 例句来源：逐词编写的学习例句
-
-> Within his marriage, he must keep his individuality and freedom of action.
-
-例句来源：[Tatoeba；作者：Nuel；句子 #11483984；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/11483984)
 
 ## individualization
 
@@ -6310,16 +6187,22 @@
 ## individually
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/individually#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The chocolates are individually wrapped.
 
 例句来源：逐词编写的学习例句
 
-> rate the group individually
+## individuals
 
-例句来源：Wiktionary 用例
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/individuals#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The room can be booked by groups or individuals.
+
+例句来源：逐词编写的学习例句
 
 ## individuate
 
@@ -6364,12 +6247,8 @@
 ## indoctrinate
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/indoctrinate#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> The Moonies indoctrinate their disciples.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset verb:00605086](https://wordnet.princeton.edu/)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The regime used compulsory lessons to indoctrinate the recruits.
 
@@ -6378,12 +6257,8 @@
 ## indoctrination
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/indoctrination#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Critics accused the organization of religious indoctrination.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The novel depicts a school where repetition replaces discussion and becomes indoctrination.
 
@@ -6406,6 +6281,16 @@
 - 中文释义资料：逐词编写的中文释义
 
 > He spent an indolent afternoon on the balcony.
+
+例句来源：逐词编写的学习例句
+
+## indolently
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/indolently#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> He lay indolently in the hammock.
 
 例句来源：逐词编写的学习例句
 
@@ -6442,12 +6327,22 @@
 ## indoor
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/indoor#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> These fireworks are not for indoor use!
+> The hotel has an indoor swimming pool.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## indoors
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/indoors#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> It was raining, so we stayed indoors.
+
+例句来源：逐词编写的学习例句
 
 ## indubitable
 
@@ -6462,12 +6357,8 @@
 ## indubitably
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/indubitably#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> It was immediately and indubitably apparent that I had interrupted a scene of lovers.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adv:00373216](https://wordnet.princeton.edu/)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The two documents are indubitably connected.
 
@@ -6483,11 +6374,21 @@
 
 例句来源：逐词编写的学习例句
 
+## induced
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/induced#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The announcement induced a change in the schedule.
+
+例句来源：逐词编写的学习例句
+
 ## inducement
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/inducement#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Free training was an inducement to join the company.
 
@@ -6496,8 +6397,8 @@
 ## inducer
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/inducer#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The researchers added an inducer to activate the system.
 
@@ -6506,121 +6407,132 @@
 ## inducible
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/inducible#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The researchers tested whether the response was inducible.
 
 例句来源：逐词编写的学习例句
 
-> inducible factor — inducible gene — inducible expression — inducible protein — inducible promoter — inducible enzyme
+## induct
 
-例句来源：Wiktionary 用例
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/induct#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-## inductance
+> The club inducted three new members.
 
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/inductance#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
-
-> What is the inductance of that power supply's main inductor?
-
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## inductee
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/inductee#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The new inductees attended an orientation session.
+
+例句来源：逐词编写的学习例句
 
 ## induction
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/induction#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > All new staff attend an induction course.
 
 例句来源：逐词编写的学习例句
 
-> He was ordered to report for induction into the army.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset noun:07453195](https://wordnet.princeton.edu/)
-
-## inductively
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/inductively#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
-
 ## industrial
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/industrial#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Handicraft is less standardized then industrial products, hence less artistic or rather flawless.
+> The town grew around a large industrial area.
 
-例句来源：Wiktionary 用例
-
-## industrialised
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/industrialised#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
-
-> Among the industrialised nations, only Japan has an older demographic than Italy.
-
-例句来源：[Tatoeba；作者：sundown；句子 #10309403；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/10309403)
+例句来源：逐词编写的学习例句
 
 ## industrialist
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/industrialist#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The industrialist of today is more powerful than the emperor of yesterday.
+> The museum was funded by a local industrialist.
 
-例句来源：[Tatoeba；作者：sabretou；句子 #8683052；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/8683052)
+例句来源：逐词编写的学习例句
 
 ## industrialization
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/industrialization#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Industrialization had a great influence on the development of the economy in Japan.
+> Industrialization changed the city’s population and jobs.
 
-例句来源：[Tatoeba；作者：CM；句子 #240731；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/240731)
+例句来源：逐词编写的学习例句
+
+## industrialize
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/industrialize#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The region industrialized rapidly during that period.
+
+例句来源：逐词编写的学习例句
 
 ## industrialized
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/industrialized#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> It seems a tendency that more industrialized societies create science fiction.
+> The region became industrialized during the nineteenth century.
 
-例句来源：[Tatoeba；作者：nonong；句子 #10573400；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/10573400)
+例句来源：逐词编写的学习例句
 
 ## industrially
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/industrially#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> This reaction is used industrially to convert toluene to phenol.
+> The material is now produced industrially.
 
-例句来源：[Tatoeba；作者：dincogan；句子 #3943725；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/3943725)
+例句来源：逐词编写的学习例句
 
-## indy
+## industries
 
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/indy#English)
-- 中文释义资料：ECDICT
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/industries#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Tom met his future wife Mary at the Indy 500.
+> The town depends on several different industries.
 
-例句来源：[Tatoeba；作者：Miktsoanit；句子 #12294946；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/12294946)
+例句来源：逐词编写的学习例句
+
+## industrious
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/industrious#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She was an industrious student who revised her work carefully.
+
+例句来源：逐词编写的学习例句
+
+## industry
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/industry#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She works in the tourism industry.
+
+例句来源：逐词编写的学习例句
 
 ## inedible
 
@@ -6665,7 +6577,12 @@
 ## ineffectiveness
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ineffectiveness#English)
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The report highlights the ineffectiveness of the measure.
+
+例句来源：逐词编写的学习例句
 
 ## ineffectual
 
@@ -6697,35 +6614,25 @@
 
 例句来源：逐词编写的学习例句
 
-## inefficiently
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/inefficiently#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
-
-> He dealt inefficiently with the crisis.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adv:00236020](https://wordnet.princeton.edu/)
-
 ## inelastic
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/inelastic#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> perfectly inelastic supply
+> The chart illustrates relatively inelastic demand.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## inelegant
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/inelegant#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Was my sentence incorrect? Or inelegant? Or both? Or neither one nor the other?
+> The workaround is inelegant, but it works.
 
-例句来源：[Tatoeba；作者：Rawrren；句子 #5545278；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/5545278)
+例句来源：逐词编写的学习例句
 
 ## ineligibility
 
@@ -6750,12 +6657,8 @@
 ## inequality
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/inequality#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> The inequality in living standards led to a civil war as the have-nots rebelled.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The report compares income inequality across the three regions.
 
@@ -6804,22 +6707,32 @@
 ## inertial
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/inertial#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The calculation assumes an inertial frame of reference.
 
 例句来源：逐词编写的学习例句
 
-> The inertial measurement unit contains accelerometers, which—just like the accelerometers within the inclinometer—can be used to estimate the initial attitude.
+## inertly
 
-例句来源：[Tatoeba；作者：Cangarejo；句子 #12061474；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/12061474)
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/inertly#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-## inescapably
+> The fallen branch lay inertly across the path.
 
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/inescapably#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+例句来源：逐词编写的学习例句
+
+## inertness
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/inertness#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The material was chosen for its chemical inertness.
+
+例句来源：逐词编写的学习例句
 
 ## inevident
 
@@ -6834,32 +6747,32 @@
 ## inevitability
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/inevitability#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Humans worship choices. Alpha doesn't choose. It executes inevitability.
+> The novel creates a strong sense of inevitability.
 
-例句来源：[Tatoeba；作者：carlosalberto；句子 #13514435；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/13514435)
+例句来源：逐词编写的学习例句
 
 ## inevitable
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/inevitable#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> We were going so fast that the collision was inevitable.
+> Some delay was inevitable because the bridge was closed.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## inevitably
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/inevitably#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The inevitably long line of customers queued for the latest 'Harry Potter'.
+> The road closure inevitably caused delays.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## inexhaustible
 
@@ -6884,16 +6797,12 @@
 ## inexorably
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/inexorably#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The tide rose slowly but inexorably.
 
 例句来源：逐词编写的学习例句
-
-> We watched as the storm clouds advanced inexorably closer to us.
-
-例句来源：Wiktionary 用例
 
 ## inexpedient
 
@@ -6908,12 +6817,8 @@
 ## inexpensive
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/inexpensive#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Everyone says the food in this restaurant is both delicious and inexpensive.
-
-例句来源：[Tatoeba；作者：aeriph；句子 #395916；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/395916)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > We found an inexpensive hotel near the station.
 
@@ -6923,25 +6828,11 @@
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/inexpensively#English)
 - 发音资料：核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> We could easily and inexpensively jettison the old, stupid structures.
-
-例句来源：[Tatoeba；作者：LK；句子 #8291272；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/8291272)
+- 中文释义资料：逐词编写的中文释义
 
 > You can eat inexpensively at the market stalls.
 
 例句来源：逐词编写的学习例句
-
-## inexplicably
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/inexplicably#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
-
-> The spacecraft encountered several hardware anomalies, many of which inexplicably fixed themselves.
-
-例句来源：[Tatoeba；作者：Hybrid；句子 #6558301；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/6558301)
 
 ## inexpressible
 
@@ -6962,15 +6853,6 @@
 > Assume that the string is light and inextensible.
 
 例句来源：逐词编写的学习例句
-
-## inextricably
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/inextricably#English)
-- 中文释义资料：ECDICT
-
-> Motives inspired by Mammon were often inextricably blended with things pertaining to Caesar and to God.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adv:00373855](https://wordnet.princeton.edu/)
 
 ## infallibility
 
@@ -7016,7 +6898,7 @@
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/infamously#English)
 - 发音资料：核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 中文释义资料：逐词编写的中文释义
 
 > The train service is infamously unreliable in winter.
 
@@ -7035,12 +6917,8 @@
 ## infancy
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/infancy#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Space tourism is still in its infancy.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The photographs show her brother from infancy to adolescence.
 
@@ -7059,16 +6937,12 @@
 ## infantile
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/infantile#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > His infantile jokes annoyed everyone at the meeting.
 
 例句来源：逐词编写的学习例句
-
-> infantile paralysis
-
-例句来源：Wiktionary 用例
 
 ## infantry
 
@@ -7083,40 +6957,32 @@
 ## infantryman
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/infantryman#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> The infantryman had the rare opportunity to break his head against a tree.
-
-例句来源：[Tatoeba；作者：astynk；句子 #2860843；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/2860843)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The young infantryman carried a letter from home in his pocket.
 
 例句来源：逐词编写的学习例句
 
-## infarction
+## infants
 
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/infarction#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/infants#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> A heart attack, also called a myocardial infarction, happens when a part of the heart muscle doesn’t get enough blood.
+> The exhibition includes portraits of infants and young children.
 
-例句来源：[Tatoeba；作者：Cangarejo；句子 #11045641；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/11045641)
+例句来源：逐词编写的学习例句
 
 ## infatuated
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/infatuated#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > He was infatuated with a classmate he barely knew.
 
 例句来源：逐词编写的学习例句
-
-> Tom was infatuated with the girl next door when he was a kid.
-
-例句来源：[Tatoeba；作者：patgfisher；句子 #3371984；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/3371984)
 
 ## infatuation
 
@@ -7148,31 +7014,55 @@
 
 例句来源：逐词编写的学习例句
 
+## infected
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/infected#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The study compared infected cells with unaffected cells.
+
+例句来源：逐词编写的学习例句
+
 ## infection
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/infection#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The government didn't take appropriate measures to prevent the infection from spreading.
+> The textbook distinguishes bacterial and viral infections.
 
-例句来源：[Tatoeba；作者：CK；句子 #271458；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/271458)
+例句来源：逐词编写的学习例句
+
+## infections
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/infections#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The textbook compares several types of infections.
+
+例句来源：逐词编写的学习例句
+
+## infectious
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/infectious#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The chapter introduces the study of infectious diseases.
+
+例句来源：逐词编写的学习例句
 
 ## infective
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/infective#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Viruses and other infective agents.
+> The study examined how long the virus remained infective.
 
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adj:02114746](https://wordnet.princeton.edu/)
-
-## infectivity
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/infectivity#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+例句来源：逐词编写的学习例句
 
 ## infelicitous
 
@@ -7197,22 +7087,18 @@
 ## inference
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/inference#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Her silence alone does not justify that inference.
 
 例句来源：逐词编写的学习例句
 
-> Type inference has three outputs whereas checking only has two.
-
-例句来源：[Tatoeba；作者：xrchz；句子 #1360819；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/1360819)
-
 ## inferential
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/inferential#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The detective’s argument was inferential rather than based on a confession.
 
@@ -7228,25 +7114,25 @@
 
 例句来源：逐词编写的学习例句
 
+## inferior
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/inferior#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The cheaper material is inferior in quality.
+
+例句来源：逐词编写的学习例句
+
 ## inferiority
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/inferiority#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Despite Algeria's military inferiority, it managed to kick France out in 1962.
+> The team overcame its numerical inferiority.
 
-例句来源：[Tatoeba；作者：Amastan；句子 #10101273；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/10101273)
-
-## infernal
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/infernal#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
-
-> Infernal instruments of war.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adj:01132515](https://wordnet.princeton.edu/)
+例句来源：逐词编写的学习例句
 
 ## infertile
 
@@ -7268,15 +7154,25 @@
 
 例句来源：逐词编写的学习例句
 
+## infest
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/infest#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Mice had infested the old warehouse.
+
+例句来源：逐词编写的学习例句
+
 ## infestation
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/infestation#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Ziri and Rima are having a rat infestation in their mansion.
+> The house had an infestation of mice.
 
-例句来源：[Tatoeba；作者：Amastan；句子 #11116392；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/11116392)
+例句来源：逐词编写的学习例句
 
 ## infidel
 
@@ -7291,68 +7187,72 @@
 ## infidelity
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/infidelity#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The novel explores the effects of infidelity on a marriage.
 
 例句来源：逐词编写的学习例句
 
-> Tom is finding it hard to come to terms with Mary's infidelity.
-
-例句来源：[Tatoeba；作者：patgfisher；句子 #3156604；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/3156604)
-
 ## infield
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/infield#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> They covered the infield with a tarp when it started to rain.
+> The ball rolled across the infield.
 
-例句来源：Wiktionary 用例
-
-## infielder
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/infielder#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
-
-> The infielder run in to field the bunt.
-
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## infighting
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/infighting#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Stop this infighting! I took you in when no one else would.
+> The project was delayed by infighting within the team.
 
-例句来源：[Tatoeba；作者：Objectivesea；句子 #1642346；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/1642346)
+例句来源：逐词编写的学习例句
 
 ## infill
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/infill#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> In urban planning, infill is the use of land within a built-up area for further construction.
+> The plan encourages infill housing near the station.
 
-例句来源：[Tatoeba；作者：al\_ex\_an\_der；句子 #2666501；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/2666501)
+例句来源：逐词编写的学习例句
+
+## infiltrate
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/infiltrate#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Rainwater infiltrates the soil through small pores.
+
+例句来源：逐词编写的学习例句
 
 ## infiltration
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/infiltration#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The study measures water infiltration after heavy rain.
+
+例句来源：逐词编写的学习例句
 
 ## infiltrator
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/infiltrator#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The novel follows an infiltrator inside a criminal organisation.
+
+例句来源：逐词编写的学习例句
 
 ## infinite
 
@@ -7367,32 +7267,22 @@
 ## infinitely
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/infinitely#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> He is infinitely more capable than John.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > This explanation is infinitely easier to follow.
 
 例句来源：逐词编写的学习例句
 
-## infinitesimal
+## infinity
 
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/infinitesimal#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/infinity#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Do you ever get the feeling that you are but an infinitesimal speck, swallowed by the vastness of the universe and beyond?
+> The lines seem to stretch to infinity.
 
-例句来源：Wiktionary 用例
-
-## infinitesimally
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/infinitesimally#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+例句来源：逐词编写的学习例句
 
 ## infirm
 
@@ -7417,46 +7307,48 @@
 ## infirmity
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/infirmity#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> He bore the weight of old age and physical infirmity.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Physical infirmity made long journeys difficult for him.
+
+例句来源：逐词编写的学习例句
+
+## inflame
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/inflame#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The remarks inflamed tensions between the groups.
 
 例句来源：逐词编写的学习例句
 
 ## inflammation
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/inflammation#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> He tried to calm those who were in a state of extreme inflammation.
+> The report describes inflammation around the joint.
 
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset noun:14037011](https://wordnet.princeton.edu/)
+例句来源：逐词编写的学习例句
 
 ## inflammatory
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/inflammatory#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Sam posted an inflammatory comment to the newsgroup.
+> The editor removed the inflammatory remarks from the article.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## inflatable
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/inflatable#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> One problem with inflatable boats is that they sometimes spring leaks.
-
-例句来源：[Tatoeba；作者：CK；句子 #11633836；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/11633836)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > We packed an inflatable mattress for the camping trip.
 
@@ -7475,12 +7367,8 @@
 ## inflation
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/inflation#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Due to inflation, the monthly gym fee is rising by 10% from January.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The pay rise did not keep pace with inflation.
 
@@ -7489,16 +7377,12 @@
 ## inflationary
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/inflationary#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Higher shipping costs added to inflationary pressures.
 
 例句来源：逐词编写的学习例句
-
-> The rapid influx of precious metals from the new mines had an inflationary effect on the specie based economy.
-
-例句来源：Wiktionary 用例
 
 ## inflect
 
@@ -7543,12 +7427,8 @@
 ## inflectional
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/inflectional#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Like Austro-Bavarian and other Upper German dialects, Yiddish has no inflectional past.
-
-例句来源：[Tatoeba；作者：rul；句子 #14016744；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/14016744)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The course distinguishes inflectional endings from derivational suffixes.
 
@@ -7567,8 +7447,8 @@
 ## inflexibility
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/inflexibility#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The inflexibility of the booking system frustrated customers.
 
@@ -7604,6 +7484,16 @@
 
 例句来源：逐词编写的学习例句
 
+## inflicted
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/inflicted#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The storm inflicted serious damage on the old pier.
+
+例句来源：逐词编写的学习例句
+
 ## infliction
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/infliction#English)
@@ -7617,12 +7507,12 @@
 ## inflow
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/inflow#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The inflow of air.
+> Heavy rain increased the inflow of water into the reservoir.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## influence
 
@@ -7634,19 +7524,55 @@
 
 例句来源：逐词编写的学习例句
 
+## influenced
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/influenced#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Her early teachers influenced her approach to art.
+
+例句来源：逐词编写的学习例句
+
 ## influencer
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/influencer#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The brand worked with a travel influencer to introduce the product.
 
 例句来源：逐词编写的学习例句
 
-> Tom Jackson is an influencer and provocateur paying by the government.
+## influences
 
-例句来源：[Tatoeba；作者：maaster；句子 #11045269；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/11045269)
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/influences#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Travel influences the way she writes.
+
+例句来源：逐词编写的学习例句
+
+## influential
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/influential#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Her work was influential in the development of the field.
+
+例句来源：逐词编写的学习例句
+
+## influenza
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/influenza#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The report discusses the history of influenza.
+
+例句来源：逐词编写的学习例句
 
 ## influx
 
@@ -7655,6 +7581,16 @@
 - 中文释义资料：逐词编写的中文释义
 
 > The town prepared for an influx of summer visitors.
+
+例句来源：逐词编写的学习例句
+
+## info
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/info#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Thanks for the useful info.
 
 例句来源：逐词编写的学习例句
 
@@ -7681,69 +7617,58 @@
 ## informal
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/informal#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > We had an informal chat over coffee.
 
 例句来源：逐词编写的学习例句
 
-> an informal get-together
-
-例句来源：Wiktionary 用例
-
 ## informality
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/informality#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The meeting had an air of informality.
+> She liked the informality of the small office.
 
-例句来源：[Tatoeba；作者：sundown；句子 #10478168；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/10478168)
+例句来源：逐词编写的学习例句
 
 ## informally
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/informally#English)
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> informally dressed
+> We met informally before the main discussion.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## informant
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/informant#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > An informant told investigators where the documents were kept.
 
 例句来源：逐词编写的学习例句
 
-> The death of this informant could compromise the success of this operation.
-
-例句来源：[Tatoeba；作者：Miktsoanit；句子 #12302178；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/12302178)
-
 ## informatics
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/informatics#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> "Forensic Informatics Engineering" means "Wağungwûîyat Tençmenwûs" in al Bakiyye language.
+> She studies informatics and is interested in how people use data.
 
-例句来源：[Tatoeba；作者：jungnet；句子 #10096124；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/10096124)
+例句来源：逐词编写的学习例句
 
 ## information
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/information#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> For your information, I did this because I wanted to.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The website provides information about train services.
 
@@ -7752,22 +7677,18 @@
 ## informational
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/informational#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The subway map was quite informational, allowing us to determine the most efficient route to our destination.
+> The library prepared an informational leaflet for new members.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## informative
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/informative#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> I read a very informative newspaper article on that subject last week.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The guide gave an informative explanation of the building.
 
@@ -7776,26 +7697,22 @@
 ## informed
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/informed#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> An informed young man delivered a lecture on the history of modern art.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Clear labels help shoppers make informed choices.
 
 例句来源：逐词编写的学习例句
 
-## informer
+## infotainment
 
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/informer#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/infotainment#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The police relied on an informer to catch the gang.
+> The programme mixes serious interviews with infotainment.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## infracostal
 
@@ -7820,8 +7737,12 @@
 ## infralabial
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/infralabial#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The description records eight infralabial scales on each side.
+
+例句来源：逐词编写的学习例句
 
 ## infraorder
 
@@ -7836,16 +7757,12 @@
 ## infrared
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/infrared#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The remote control sends an infrared signal to the television.
 
 例句来源：逐词编写的学习例句
-
-> They could sense radiation in the infrared.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset noun:05056811](https://wordnet.princeton.edu/)
 
 ## infrasonic
 
@@ -7880,12 +7797,8 @@
 ## infrastructural
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/infrastructural#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> The ongoing conflict in Afghanistan has led to widespread displacement, economic hardship, and infrastructural damage.
-
-例句来源：[Tatoeba；作者：always；句子 #12580069；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/12580069)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The region faces serious infrastructural constraints.
 
@@ -7904,22 +7817,12 @@
 ## infrequent
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/infrequent#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Infrequent outbursts of temper.
+> His visits became increasingly infrequent.
 
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adj:01067193](https://wordnet.princeton.edu/)
-
-## infrequently
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/infrequently#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
-
-> In your 1850 church you not infrequently find a dramatic contrast between the sumptuous appointments of the building itself and the inhuman barrack-like living conditions in the church room.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adv:00374520](https://wordnet.princeton.edu/)
+例句来源：逐词编写的学习例句
 
 ## infringe
 
@@ -7934,22 +7837,18 @@
 ## infringement
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/infringement#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The publisher investigated a complaint of copyright infringement.
 
 例句来源：逐词编写的学习例句
 
-> Your thinking about my book is an infringement on my copyright.
-
-例句来源：[Tatoeba；作者：DJ\_Saidez；句子 #10705357；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/10705357)
-
 ## infringer
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/infringer#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The letter asked the alleged infringer to stop selling the design.
 
@@ -7958,12 +7857,8 @@
 ## infringing
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/infringing#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Piper filed a bill to enjoin Brown from infringing two patents.
-
-例句来源：[Tatoeba；作者：hecko2；句子 #10776254；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/10776254)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The platform removed the infringing copies after the review.
 
@@ -7972,27 +7867,52 @@
 ## infuriate
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/infuriate#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> In a packed bus, it would infuriate me to miss my stop on account of other passengers.
+> The unfair decision infuriated the team.
 
-例句来源：[Tatoeba；作者：Serveto；句子 #3168527；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/3168527)
+例句来源：逐词编写的学习例句
+
+## infuriated
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/infuriated#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The repeated delays infuriated her.
+
+例句来源：逐词编写的学习例句
+
+## infuriates
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/infuriates#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> It infuriates me when people take credit for someone else’s work.
+
+例句来源：逐词编写的学习例句
 
 ## infuriating
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/infuriating#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Everyone gets angry, and some things are infuriating.
+> The constant delays were infuriating.
 
-例句来源：[Tatoeba；作者：shekitten；句子 #12128893；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/12128893)
+例句来源：逐词编写的学习例句
 
 ## infuriatingly
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/infuriatingly#English)
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> He remained infuriatingly calm throughout the argument.
+
+例句来源：逐词编写的学习例句
 
 ## infuse
 
@@ -8007,8 +7927,8 @@
 ## infuser
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/infuser#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > She filled the infuser with loose tea leaves.
 
@@ -8034,10 +7954,6 @@
 
 例句来源：Wiktionary 用例
 
-## ingame
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ingame#English)
-
 ## ingenious
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ingenious#English)
@@ -8051,12 +7967,8 @@
 ## ingeniously
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ingeniously#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> A Hampshire farmer had fowls of different breeds, including Dorkings, and he discriminated ingeniously between the `dark ones' and the `white ones'.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adv:00374804](https://wordnet.princeton.edu/)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The desk is ingeniously designed to fold into the wall.
 
@@ -8125,16 +8037,12 @@
 ## ingrained
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ingrained#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Checking every figure twice had become an ingrained habit.
 
 例句来源：逐词编写的学习例句
-
-> Ingrained habits of a lifetime.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adj:01635633](https://wordnet.princeton.edu/)
 
 ## ingrate
 
@@ -8186,6 +8094,26 @@
 
 例句来源：逐词编写的学习例句
 
+## ingredient
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ingredient#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Flour is the main ingredient in this bread.
+
+例句来源：逐词编写的学习例句
+
+## ingredients
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ingredients#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Check the ingredients before you start cooking.
+
+例句来源：逐词编写的学习例句
+
 ## ingress
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ingress#English)
@@ -8199,18 +8127,22 @@
 ## ingroup
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ingroup#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> People sometimes favor members of their ingroup.
+
+例句来源：逐词编写的学习例句
 
 ## ingrown
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ingrown#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> an ingrown toenail
+> The article explained what an ingrown hair is.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## inhabile
 
@@ -8235,12 +8167,8 @@
 ## inhabitable
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/inhabitable#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Northern Algeria is the inhabitable portion of the country.
-
-例句来源：[Tatoeba；作者：Amastan；句子 #10107482；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/10107482)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The upper floor is now inhabitable after months of repair.
 
@@ -8253,6 +8181,16 @@
 - 中文释义资料：逐词编写的中文释义
 
 > The island has fewer than two hundred inhabitants.
+
+例句来源：逐词编写的学习例句
+
+## inhabitants
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/inhabitants#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The island has only a few inhabitants.
 
 例句来源：逐词编写的学习例句
 
@@ -8289,12 +8227,8 @@
 ## inhalation
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/inhalation#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> The kitten was treated for smoke inhalation.
-
-例句来源：[Tatoeba；作者：Eccles17；句子 #5794416；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/5794416)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The report linked the incident to the inhalation of smoke.
 
@@ -8313,16 +8247,12 @@
 ## inhaler
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/inhaler#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > She keeps her inhaler in the front pocket of her bag.
 
 例句来源：逐词编写的学习例句
-
-> Stuck without an inhaler, the only thing he could do was wheeze.
-
-例句来源：[Tatoeba；作者：User82312；句子 #8785574；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/8785574)
 
 ## inherent
 
@@ -8337,16 +8267,12 @@
 ## inherently
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/inherently#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Predicting individual choices is inherently difficult.
 
 例句来源：逐词编写的学习例句
-
-> The subject matter is sexual activity of any overt kind, which is depicted as inherently desirable and exciting.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adv:00375163](https://wordnet.princeton.edu/)
 
 ## inherit
 
@@ -8361,16 +8287,12 @@
 ## inheritance
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/inheritance#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > She received an inheritance from her grandfather.
 
 例句来源：逐词编写的学习例句
-
-> The Indo-European languages share various similarities as a result of their inheritance from a common ancestor.
-
-例句来源：Wiktionary 用例
 
 ## inherited
 
@@ -8385,14 +8307,20 @@
 ## inheritor
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/inheritor#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Being an only child, he was the sole inheritor.
-
-例句来源：[Tatoeba；作者：sundown；句子 #293709；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/293709)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > He became the inheritor of a large collection of manuscripts.
+
+例句来源：逐词编写的学习例句
+
+## inherits
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/inherits#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> In the story, she inherits a small house beside the river.
 
 例句来源：逐词编写的学习例句
 
@@ -8419,12 +8347,8 @@
 ## inhibition
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/inhibition#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> A medical inhibition of alcoholic beverages.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset noun:00201923](https://wordnet.princeton.edu/)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The children sang without inhibition.
 
@@ -8433,12 +8357,8 @@
 ## inhibitor
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/inhibitor#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> I found daily meditation to be a useful inhibitor of negative thoughts.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The test compared the reaction with and without the inhibitor.
 
@@ -8447,16 +8367,12 @@
 ## inhibitory
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/inhibitory#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The substance had an inhibitory effect on the reaction.
 
 例句来源：逐词编写的学习例句
-
-> the inhibitory action of the pneumogastric on the respiratory center
-
-例句来源：Wiktionary 用例
 
 ## inhomogeneous
 
@@ -8498,15 +8414,21 @@
 
 例句来源：逐词编写的学习例句
 
+## inhumane
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/inhumane#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The article condemns inhumane treatment of animals.
+
+例句来源：逐词编写的学习例句
+
 ## inhumanity
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/inhumanity#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Inhumanity is one of the signal and characteristic qualities of humanity.
-
-例句来源：[Tatoeba；作者：carlosalberto；句子 #3149105；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/3149105)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The testimony exposed the inhumanity of the prison system.
 
@@ -8531,8 +8453,8 @@
 ## iniquitous
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/iniquitous#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The campaign condemned the iniquitous use of forced labour.
 
@@ -8551,62 +8473,92 @@
 ## initial
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/initial#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Our initial admiration for their efficiency gave way to disgust about their methods.
+> My initial reaction was to refuse.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## initialization
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/initialization#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Mutable objects can be changed after initialization; immutable objects cannot.
+> The initialization takes only a few seconds.
 
-例句来源：[Tatoeba；作者：shekitten；句子 #12029326；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/12029326)
+例句来源：逐词编写的学习例句
 
 ## initialize
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/initialize#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Before you can use them, you first need to initialize the variables.
+> The program initializes the counter to zero.
 
-例句来源：[Tatoeba；作者：sabretou；句子 #8681115；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/8681115)
+例句来源：逐词编写的学习例句
 
 ## initially
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/initially#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Initially, I found city life incredibly difficult, but now I'm used to it.
+> Initially, I thought the task would be easy.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## initiate
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/initiate#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> You shouldn't wait for changes to come – you should initiate them yourself.
+> The council initiated a review of the plan.
 
-例句来源：[Tatoeba；作者：althead；句子 #13532093；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/13532093)
+例句来源：逐词编写的学习例句
+
+## initiated
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/initiated#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The students initiated a discussion about the library.
+
+例句来源：逐词编写的学习例句
 
 ## initiation
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/initiation#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> initiation into literature
+> The initiation of the project was delayed.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## initiative
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/initiative#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She took the initiative and arranged the first meeting.
+
+例句来源：逐词编写的学习例句
+
+## initiatives
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/initiatives#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The group supports local environmental initiatives.
+
+例句来源：逐词编写的学习例句
 
 ## inject
 
@@ -8621,26 +8573,32 @@
 ## injectable
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/injectable#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The medicine is available in an injectable form.
+
+例句来源：逐词编写的学习例句
+
+## injected
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/injected#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> In the demonstration, coloured water was injected into the clear container.
 
 例句来源：逐词编写的学习例句
 
 ## injection
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/injection#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The nurse prepared the injection.
 
 例句来源：逐词编写的学习例句
-
-> The troubled business received a much-needed cash injection.
-
-例句来源：Wiktionary 用例
 
 ## injective
 
@@ -8655,16 +8613,12 @@
 ## injector
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/injector#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The mechanic replaced a faulty fuel injector.
 
 例句来源：逐词编写的学习例句
-
-> Tom carries an epinephrine injector at all times.
-
-例句来源：[Tatoeba；作者：Hybrid；句子 #6608784；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/6608784)
 
 ## injudicious
 
@@ -8706,15 +8660,31 @@
 
 例句来源：逐词编写的学习例句
 
+## injured
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/injured#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The injured player left the field.
+
+例句来源：逐词编写的学习例句
+
+## injuries
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/injuries#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The report records injuries from the accident.
+
+例句来源：逐词编写的学习例句
+
 ## injurious
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/injurious#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> The report contends the current system is injurious to mental well-being and violates the human rights of patients.
-
-例句来源：[Tatoeba；作者：Cangarejo；句子 #11994805；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/11994805)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The report describes conditions that are injurious to workers’ health.
 
@@ -8723,16 +8693,12 @@
 ## injury
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/injury#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > A knee injury kept her out of the final.
 
 例句来源：逐词编写的学习例句
-
-> The passenger sustained a severe injury in the car accident.
-
-例句来源：Wiktionary 用例
 
 ## injustice
 
@@ -8747,168 +8713,202 @@
 ## ink
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ink#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The TSA has been getting a lot of ink lately.
+> The pen ran out of ink halfway through the letter.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## inked
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/inked#English)
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> He showed us the freshly inked design on his arm.
+
+例句来源：逐词编写的学习例句
+
+## inking
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/inking#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The artist was inking the outlines of the drawing.
+
+例句来源：逐词编写的学习例句
 
 ## inkjet
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/inkjet#English)
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Inkjets aren't as expensive as they used to be.
+> The photographs were printed on an inkjet printer.
 
-例句来源：Wiktionary 用例
-
-## inkling
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/inkling#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
-
-> He had no inkling what was about to happen.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset noun:05916306](https://wordnet.princeton.edu/)
+例句来源：逐词编写的学习例句
 
 ## inky
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/inky#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Arroz negro tastes inky because it's made with squid ink.
+> She wiped her inky fingers on a cloth.
 
-例句来源：[Tatoeba；作者：papabear；句子 #718015；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/718015)
+例句来源：逐词编写的学习例句
 
 ## inland
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/inland#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> an inland bill of exchange
+> The town lies several kilometres inland.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## inlay
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/inlay#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The maple table had a beautiful walnut inlay, forming a floral pattern.
+> The box has a delicate wooden inlay.
 
-例句来源：[Tatoeba；作者：Auride；句子 #10649693；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/10649693)
+例句来源：逐词编写的学习例句
 
 ## inlet
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/inlet#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> We hit a bad chop at the inlet.
+> Keep the air inlet clear of dust.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## inmate
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/inmate#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Dan asked fellow inmate Matt to supply him with a fork.
+> The report includes interviews with prison inmates.
 
-例句来源：[Tatoeba；作者：Amastan；句子 #3930799；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/3930799)
+例句来源：逐词编写的学习例句
+
+## inmates
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/inmates#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The prison library was used by many inmates.
+
+例句来源：逐词编写的学习例句
 
 ## inn
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/inn#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> the Inns of Court the Inns of Chancery Serjeants’ Inns
+> We stayed at a small inn near the river.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## innate
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/innate#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Children often show an innate curiosity about their surroundings.
 
 例句来源：逐词编写的学习例句
 
-> an innate anther
-
-例句来源：Wiktionary 用例
-
 ## innately
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/innately#English)
 - 发音资料：核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Fish innately know how to swim, they don't go to school to learn it.
-
-例句来源：Wiktionary 用例
+- 中文释义资料：逐词编写的中文释义
 
 > The speaker argued that children are innately curious.
+
+例句来源：逐词编写的学习例句
+
+## inner
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/inner#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Keep the passport in an inner pocket.
 
 例句来源：逐词编写的学习例句
 
 ## innermost
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/innermost#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Phelps thrust away the precious document into the innermost pocket of his coat.
+> The innermost layer of the box was lined with cloth.
 
-例句来源：[Tatoeba；作者：Hybrid；句子 #7414244；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/7414244)
+例句来源：逐词编写的学习例句
 
 ## innervate
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/innervate#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The diagram shows the nerves that innervate each muscle.
 
 例句来源：逐词编写的学习例句
 
-> The parasympathetic nerves of a developing salivary gland innervate the salivary gland epithelium which is essential for organogenesis.
-
-例句来源：[Tatoeba；作者：Cangarejo；句子 #10957269；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/10957269)
-
 ## innervation
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/innervation#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The textbook maps the sensory innervation of the hand.
+
+例句来源：逐词编写的学习例句
+
+## inning
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/inning#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The team scored in the first inning.
+
+例句来源：逐词编写的学习例句
+
+## innings
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/innings#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The baseball game lasted nine innings.
 
 例句来源：逐词编写的学习例句
 
 ## innkeeper
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/innkeeper#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Ten minutes later, the innkeeper slipped into the room, his eyes bright with excitement.
+> The innkeeper showed us to our room.
 
-例句来源：[Tatoeba；作者：CM；句子 #11127224；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/11127224)
+例句来源：逐词编写的学习例句
 
 ## innocence
 
@@ -8933,12 +8933,8 @@
 ## innocently
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/innocently#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> She smiled at him innocently.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adv:00375810](https://wordnet.princeton.edu/)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > “Why is everyone angry?” she asked innocently.
 
@@ -8957,26 +8953,18 @@
 ## innovate
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/innovate#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Small teams can innovate quickly when they can test ideas freely.
 
 例句来源：逐词编写的学习例句
 
-> to innovate a word or an act
-
-例句来源：Wiktionary 用例
-
 ## innovation
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/innovation#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Innovation makes the difference between those who lead and those who obey.
-
-例句来源：[Tatoeba；作者：LimeGreenTeknii；句子 #10264980；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/10264980)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The company encourages innovation in everyday work.
 
@@ -8992,15 +8980,21 @@
 
 例句来源：逐词编写的学习例句
 
+## innovations
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/innovations#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The exhibition presents several innovations in furniture design.
+
+例句来源：逐词编写的学习例句
+
 ## innovative
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/innovative#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Is British industry innovative enough?
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adj:01876261](https://wordnet.princeton.edu/)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The school adopted an innovative approach to teaching science.
 
@@ -9009,16 +9003,12 @@
 ## innovator
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/innovator#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > She became an innovator in accessible design.
 
 例句来源：逐词编写的学习例句
-
-> Tom is the best innovator at our company.
-
-例句来源：[Tatoeba；作者：Ergulis；句子 #12112280；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/12112280)
 
 ## innovatory
 
@@ -9073,26 +9063,18 @@
 ## inoculate
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/inoculate#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The records show that the children were inoculated against smallpox.
 
 例句来源：逐词编写的学习例句
 
-> to inoculate the bud of one tree or plant into another
-
-例句来源：Wiktionary 用例
-
 ## inoculation
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/inoculation#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Inoculation was invented in the 1800s.
-
-例句来源：[Tatoeba；作者：frzzl；句子 #10734479；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/10734479)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The archive contains records of smallpox inoculation.
 
@@ -9101,16 +9083,12 @@
 ## inoffensive
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/inoffensive#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > It was an inoffensive joke about the weather.
 
 例句来源：逐词编写的学习例句
-
-> an inoffensive plant
-
-例句来源：Wiktionary 用例
 
 ## inofficious
 
@@ -9135,8 +9113,8 @@
 ## inoperative
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/inoperative#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The alarm was inoperative during the power cut.
 
@@ -9156,7 +9134,7 @@
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/inordinately#English)
 - 发音资料：核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 中文释义资料：逐词编写的中文释义
 
 > The repair took inordinately long.
 
@@ -9182,12 +9160,6 @@
 
 例句来源：逐词编写的学习例句
 
-## inositol
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/inositol#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
-
 ## inotrope
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/inotrope#English)
@@ -9211,12 +9183,22 @@
 ## input
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/input#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> You can provide input via this form.
+> The form checks user input before saving it.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## inputs
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/inputs#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The diagram shows the inputs and outputs of the system.
+
+例句来源：逐词编写的学习例句
 
 ## inquest
 
@@ -9271,10 +9253,20 @@
 ## inquirer
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/inquirer#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The librarian directed the inquirer to the local history section.
+
+例句来源：逐词编写的学习例句
+
+## inquiries
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/inquiries#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The office received several inquiries about the course.
 
 例句来源：逐词编写的学习例句
 
@@ -9361,8 +9353,8 @@
 ## inquisitorial
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/inquisitorial#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Her inquisitorial tone made the conversation uncomfortable.
 
@@ -9401,12 +9393,8 @@
 ## insanely
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/insanely#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Disney has some insanely fun roller coasters.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The tickets were insanely expensive.
 
@@ -9415,12 +9403,8 @@
 ## insanity
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/insanity#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> The defendant pleaded insanity in the hope of getting a reduced sentence.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Trying to finish all of that in one night would be insanity.
 
@@ -9473,6 +9457,16 @@
 - 中文释义资料：逐词编写的中文释义
 
 > The label identifies the product as an insecticide.
+
+例句来源：逐词编写的学习例句
+
+## insects
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/insects#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Many insects visit the flowers in summer.
 
 例句来源：逐词编写的学习例句
 
@@ -9530,15 +9524,11 @@
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/insensitivity#English)
 - 发音资料：核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 中文释义资料：逐词编写的中文释义
 
 > She was upset by his insensitivity to her concerns.
 
 例句来源：逐词编写的学习例句
-
-> The English teacher's mocking behavior showcased his own ignorance and insensitivity.
-
-例句来源：[Tatoeba；作者：Amastan；句子 #11768434；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/11768434)
 
 ## inseparable
 
@@ -9570,15 +9560,21 @@
 
 例句来源：逐词编写的学习例句
 
+## inserted
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/inserted#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She inserted a bookmark between the pages.
+
+例句来源：逐词编写的学习例句
+
 ## insertion
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/insertion#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> The insertion of new text changed the meaning of the document.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The insertion of one word changed the meaning of the sentence.
 
@@ -9587,32 +9583,32 @@
 ## inset
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/inset#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> a map of the whole state with city maps as insets
+> An inset map shows the island’s location.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## inside
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/inside#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The car in front drifted wide on the bend, so I darted up the inside to take the lead.
+> The keys are inside the drawer.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## insider
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/insider#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The insider trading scandal put a lot of people out of business.
+> An industry insider explained how the process works.
 
-例句来源：[Tatoeba；作者：CK；句子 #65749；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/65749)
+例句来源：逐词编写的学习例句
 
 ## insidious
 
@@ -9627,36 +9623,42 @@
 ## insidiously
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/insidiously#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The habit insidiously undermined her confidence.
 
 例句来源：逐词编写的学习例句
 
-> These drugs act insidiously.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adv:00378212](https://wordnet.princeton.edu/)
-
 ## insight
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/insight#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Lately I read the book that changed my insight into many things.
+> The interview gave us insight into how the team works.
 
-例句来源：[Tatoeba；作者：astyng；句子 #2946772；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/2946772)
+例句来源：逐词编写的学习例句
 
 ## insightful
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/insightful#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> I found Duncan's comments to be insightful and thought-provoking.
+> Her insightful question changed the direction of the discussion.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## insights
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/insights#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The interviews gave us new insights into the problem.
+
+例句来源：逐词编写的学习例句
 
 ## insigne
 
@@ -9711,16 +9713,12 @@
 ## insinuate
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/insinuate#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Are you insinuating that I changed the figures?
 
 例句来源：逐词编写的学习例句
-
-> Are you trying to insinuate that a woman could never be as intelligent as a man?!
-
-例句来源：[Tatoeba；作者：Rawrren；句子 #8466839；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/8466839)
 
 ## insinuating
 
@@ -9762,19 +9760,25 @@
 
 例句来源：逐词编写的学习例句
 
+## insisted
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/insisted#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She insisted that the door had been locked.
+
+例句来源：逐词编写的学习例句
+
 ## insistence
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/insistence#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > At her insistence, we checked the figures once more.
 
 例句来源：逐词编写的学习例句
-
-> The insistence of their hunger.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset noun:14451349](https://wordnet.princeton.edu/)
 
 ## insistent
 
@@ -9789,12 +9793,8 @@
 ## insistently
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/insistently#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> But then the dogs were howling pointedly, insistently toward the south.
-
-例句来源：[Tatoeba；作者：Cangarejo；句子 #12377234；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/12377234)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The child asked insistently when the train would arrive.
 
@@ -9853,12 +9853,12 @@
 ## insolvency
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/insolvency#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The company faces insolvency.
+> Falling sales pushed the company towards insolvency.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## insolvent
 
@@ -9873,12 +9873,8 @@
 ## insomnia
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/insomnia#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> My mother suffers from insomnia.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The survey asked participants about insomnia and daytime tiredness.
 
@@ -9887,16 +9883,12 @@
 ## insomniac
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/insomniac#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The novel follows an insomniac who walks through the city at night.
 
 例句来源：逐词编写的学习例句
-
-> Yanni has been a bit of an insomniac lately.
-
-例句来源：[Tatoeba；作者：Amastan；句子 #8818037；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/8818037)
 
 ## insouciance
 
@@ -9921,14 +9913,30 @@
 ## inspect
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/inspect#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> An engineer will inspect the bridge before it reopens.
-
-例句来源：编写的学习例句
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Please inspect the parcel for damage.
+
+例句来源：逐词编写的学习例句
+
+## inspected
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/inspected#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> We inspected the roof after the storm.
+
+例句来源：逐词编写的学习例句
+
+## inspecting
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/inspecting#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The mechanic is inspecting the engine.
 
 例句来源：逐词编写的学习例句
 
@@ -9942,15 +9950,21 @@
 
 例句来源：逐词编写的学习例句
 
+## inspections
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/inspections#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The museum schedules regular inspections of the storage rooms.
+
+例句来源：逐词编写的学习例句
+
 ## inspector
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/inspector#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> The general inspector of the national police oversees regional or central directorates.
-
-例句来源：[Tatoeba；作者：Igider；句子 #13362901；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/13362901)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The inspector checked the emergency exits.
 
@@ -9959,16 +9973,32 @@
 ## inspectorate
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/inspectorate#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The inspectorate published its annual report.
 
 例句来源：逐词编写的学习例句
 
-> Ziri reported his toxic boss to the labor inspectorate.
+## inspectors
 
-例句来源：[Tatoeba；作者：Amastan；句子 #10856492；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/10856492)
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/inspectors#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The inspectors examined the building and wrote a report.
+
+例句来源：逐词编写的学习例句
+
+## inspects
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/inspects#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The mechanic inspects the brakes before every trip.
+
+例句来源：逐词编写的学习例句
 
 ## inspeximus
 
@@ -9993,16 +10023,12 @@
 ## inspirational
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/inspirational#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The coach ended with an inspirational message.
 
 例句来源：逐词编写的学习例句
-
-> Tom wrote an inspirational quote on the chalkboard.
-
-例句来源：[Tatoeba；作者：Hybrid；句子 #7264443；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/7264443)
 
 ## inspire
 
@@ -10047,26 +10073,62 @@
 ## install
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/install#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> I haven't installed the new operating system yet because of all the bugs.
+> They installed new lights in the kitchen.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## installation
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/installation#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The installation took less than an hour.
+
+例句来源：逐词编写的学习例句
+
+## installations
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/installations#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The museum has three interactive installations.
+
+例句来源：逐词编写的学习例句
+
+## installed
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/installed#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She installed the new software on her laptop.
+
+例句来源：逐词编写的学习例句
 
 ## installer
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/installer#English)
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Tom ran the game installer and waited for the game to finish installing.
+> The installer checked that every window closed properly.
 
-例句来源：[Tatoeba；作者：sabretou；句子 #6167974；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/6167974)
+例句来源：逐词编写的学习例句
 
 ## installment
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/installment#English)
-- 发音资料：Wiktionary
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> They paid for the furniture in six installments.
+
+例句来源：逐词编写的学习例句
 
 ## instance
 
@@ -10075,6 +10137,16 @@
 - 中文释义资料：逐词编写的中文释义
 
 > Some birds, for instance owls, hunt at night.
+
+例句来源：逐词编写的学习例句
+
+## instances
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/instances#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The report lists several instances of equipment failure.
 
 例句来源：逐词编写的学习例句
 
@@ -10088,20 +10160,11 @@
 
 例句来源：逐词编写的学习例句
 
-## instantaneously
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/instantaneously#English)
-- 中文释义资料：ECDICT
-
-> When the input exceeds a certain threshold, an output signal is instantaneously released.
-
-例句来源：[Tatoeba；作者：marcelostockle；句子 #1256544；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/1256544)
-
 ## instantiation
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/instantiation#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The example shows the instantiation of a new object.
 
@@ -10110,21 +10173,12 @@
 ## instantly
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/instantly#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > I recognized her voice instantly.
 
 例句来源：逐词编写的学习例句
-
-> When the neighbours' dog barked, ours instantly replied with a howl.
-
-例句来源：Wiktionary 用例
-
-## instar
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/instar#English)
-- 发音资料：Wiktionary
 
 ## instate
 
@@ -10136,25 +10190,45 @@
 
 例句来源：逐词编写的学习例句
 
+## instead
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/instead#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> We had tea instead of coffee.
+
+例句来源：逐词编写的学习例句
+
 ## instep
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/instep#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The boot pressed uncomfortably against his instep.
+> These shoes are tight across the instep.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## instigate
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/instigate#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> to instigate someone to a crime
+> The complaint instigated an investigation.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## instil
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/instil#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> A patient teacher can instil confidence in a hesitant student.
+
+例句来源：逐词编写的学习例句
 
 ## instill
 
@@ -10169,12 +10243,8 @@
 ## instinct
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/instinct#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Debbie's instinct was to distrust John.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > My first instinct was to protect the child from the crowd.
 
@@ -10183,36 +10253,38 @@
 ## instinctive
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/instinctive#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > She made an instinctive move to catch the falling glass.
 
 例句来源：逐词编写的学习例句
 
-> When approached by a stranger, Jared clenched his fists in an instinctive manner.
-
-例句来源：Wiktionary 用例
-
 ## instinctively
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/instinctively#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Fish instinctively know how to swim; most humans don't.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > She instinctively stepped back when the door swung open.
+
+例句来源：逐词编写的学习例句
+
+## instincts
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/instincts#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Her first instincts were to listen and ask questions.
 
 例句来源：逐词编写的学习例句
 
 ## instinctual
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/instinctual#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The essay explores instinctual drives and the rules that restrain them.
 
@@ -10228,15 +10300,21 @@
 
 例句来源：逐词编写的学习例句
 
+## institutes
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/institutes#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The project connects research institutes in several cities.
+
+例句来源：逐词编写的学习例句
+
 ## institution
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/institution#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> The institution of marriage is present in many cultures but its details vary widely across them.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The museum is one of the city’s oldest cultural institutions.
 
@@ -10245,64 +10323,52 @@
 ## institutional
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/institutional#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The project cannot continue without institutional support.
 
 例句来源：逐词编写的学习例句
 
-> institutional ruling
-
-例句来源：Wiktionary 用例
-
 ## institutionalization
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/institutionalization#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The chapter traces the institutionalization of public consultation.
 
 例句来源：逐词编写的学习例句
 
-> The government began the institutionalization of background checks for internet users.
-
-例句来源：Wiktionary 用例
-
 ## institutionalize
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/institutionalize#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The agreement aims to institutionalize regular dialogue between the two teams.
 
 例句来源：逐词编写的学习例句
 
-> We need to institutionalize the testing of organic products.
-
-例句来源：[Tatoeba；作者：Eccles17；句子 #6582622；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/6582622)
-
 ## institutionally
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/institutionally#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Institutionally, a major restraint is the copyright problem.
+> The project is institutionally supported by the university.
 
-例句来源：[Tatoeba；作者：fcbond；句子 #329514；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/329514)
+例句来源：逐词编写的学习例句
 
-## instore
+## institutions
 
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/instore#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/institutions#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> They are playing an instore tomorrow.
+> Several educational institutions share the library.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## instruct
 
@@ -10314,15 +10380,21 @@
 
 例句来源：逐词编写的学习例句
 
+## instructed
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/instructed#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The guide instructed us to wait by the entrance.
+
+例句来源：逐词编写的学习例句
+
 ## instruction
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/instruction#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Instruction will be provided on how to handle difficult customers.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Read the instructions before assembling the shelf.
 
@@ -10331,40 +10403,38 @@
 ## instructional
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/instructional#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > She made an instructional video about repairing bicycle brakes.
 
 例句来源：逐词编写的学习例句
 
-> There are 33 instructional resignations tonight, double the amount at this time last year.
+## instructions
 
-例句来源：Wiktionary 用例
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/instructions#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Read the instructions before assembling the shelf.
+
+例句来源：逐词编写的学习例句
 
 ## instructive
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/instructive#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Comparing the two drafts was surprisingly instructive.
 
 例句来源：逐词编写的学习例句
 
-> Well, that was an instructive lesson.
-
-例句来源：Wiktionary 用例
-
 ## instructor
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/instructor#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> I cannot understand the Arabic Level 5 instructor. He speaks too fast!
-
-例句来源：[Tatoeba；作者：DostKaplan；句子 #3647753；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/3647753)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > My driving instructor taught me how to park on a hill.
 
@@ -10373,53 +10443,72 @@
 ## instrument
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/instrument#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The scientist recorded the temperature with a thermometer, but wished he had a more accurate instrument.
+> She plays several musical instruments.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## instrumental
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/instrumental#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> He was instrumental in conducting the business.
+> Her advice was instrumental in saving the project.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## instrumentalist
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/instrumentalist#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The concert featured three young instrumentalists.
+
+例句来源：逐词编写的学习例句
 
 ## instrumentality
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/instrumentality#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The agreement was reached through the instrumentality of a mediator.
+
+例句来源：逐词编写的学习例句
 
 ## instrumentally
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/instrumentally#English)
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> an instrumentally accompanied song
+> The melody was performed instrumentally, without vocals.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## instrumentation
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/instrumentation#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The car's instrumentation included fuel, temperature, voltimeter and oil pressure gauges, along with a speedometer and tachometer.
+> The laboratory upgraded its instrumentation.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## instruments
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/instruments#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The children tried several musical instruments.
+
+例句来源：逐词编写的学习例句
 
 ## insubordinate
 
@@ -10481,16 +10570,6 @@
 
 例句来源：逐词编写的学习例句
 
-## insufficiently
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/insufficiently#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
-
-> The machine was decommissioned because it was producing widgets insufficiently.
-
-例句来源：Wiktionary 用例
-
 ## insular
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/insular#English)
@@ -10504,8 +10583,8 @@
 ## insularity
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/insularity#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > International exchanges helped reduce the department’s insularity.
 
@@ -10514,12 +10593,8 @@
 ## insulate
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/insulate#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Ceramic can be used to insulate power lines.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The new material helps insulate the room against outside noise.
 
@@ -10538,40 +10613,28 @@
 ## insulation
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/insulation#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The house needs better roof insulation.
 
 例句来源：逐词编写的学习例句
 
-> The insulation of England was preserved by the English Channel.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset noun:14415518](https://wordnet.princeton.edu/)
-
 ## insulator
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/insulator#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Rubber can act as an electrical insulator.
 
 例句来源：逐词编写的学习例句
 
-> To isolate electrical wires from the pylons supporting them, one often uses glass insulators.
-
-例句来源：Wiktionary 用例
-
 ## insulin
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/insulin#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Mommy said that Grandma's diabetes happened because her body stopped making its own insulin.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The diagram explains how insulin helps regulate blood glucose.
 
@@ -10640,8 +10703,8 @@
 ## insurable
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/insurable#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The textbook distinguishes insurable risks from other uncertainties.
 
@@ -10650,12 +10713,8 @@
 ## insurance
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/insurance#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> The sky was clear, but I took my umbrella for insurance.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The ticket price does not include travel insurance.
 
@@ -10671,15 +10730,21 @@
 
 例句来源：逐词编写的学习例句
 
+## insured
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/insured#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The van was insured before the trip.
+
+例句来源：逐词编写的学习例句
+
 ## insurer
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/insurer#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> After the accident I contacted the insurer who paid for the repairs.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > She contacted the insurer to update her address.
 
@@ -10688,16 +10753,12 @@
 ## insurgency
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/insurgency#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The border region experienced a prolonged insurgency.
 
 例句来源：逐词编写的学习例句
-
-> suppress the insurgency by isolating the rebels from the rest of the population
-
-例句来源：Wiktionary 用例
 
 ## insurgent
 
@@ -10789,12 +10850,6 @@
 
 例句来源：逐词编写的学习例句
 
-## integrable
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/integrable#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
-
 ## integral
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/integral#English)
@@ -10808,8 +10863,8 @@
 ## integrally
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/integrally#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The town’s economy is integrally linked to the port.
 
@@ -10818,12 +10873,8 @@
 ## integrate
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/integrate#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> President Eisenhower had to call out the National Guard to integrate Little Rock Central High School.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The team integrated the booking tool into its website.
 
@@ -10842,36 +10893,28 @@
 ## integration
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/integration#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Integration with the old database took several weeks.
 
 例句来源：逐词编写的学习例句
 
-> Our AcmePay integration allows the accounting ledger to receive details of customer payments automatically.
-
-例句来源：Wiktionary 用例
-
 ## integrative
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/integrative#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The course takes an integrative approach to language and culture.
 
 例句来源：逐词编写的学习例句
 
-> an integrative approach
-
-例句来源：Wiktionary 用例
-
 ## integrator
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/integrator#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The company hired a systems integrator to connect its factory software.
 
@@ -10904,6 +10947,16 @@
 - 中文释义资料：逐词编写的中文释义
 
 > The lesson covers the skin and other parts of the integumentary system.
+
+例句来源：逐词编写的学习例句
+
+## intel
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/intel#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Do you have any intel on the new project?
 
 例句来源：逐词编写的学习例句
 
@@ -10940,12 +10993,8 @@
 ## intellectualism
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/intellectualism#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Criticism of "elitism" is often a veiled attack on intellectualism.
-
-例句来源：[Tatoeba；作者：mailohilohi；句子 #5933910；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/5933910)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The essay questions intellectualism detached from experience.
 
@@ -10965,11 +11014,7 @@
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/intellectually#English)
 - 发音资料：核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Although it leaves much to be desired artistically, intellectually it's very stimulating.
-
-例句来源：[Tatoeba；作者：DJ\_Saidez；句子 #10473131；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/10473131)
+- 中文释义资料：逐词编写的中文释义
 
 > The course is intellectually demanding.
 
@@ -10988,8 +11033,8 @@
 ## intelligencer
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/intelligencer#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The minister relied on an intelligencer at the port.
 
@@ -11009,11 +11054,7 @@
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/intelligently#English)
 - 发音资料：核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> She acted intelligently in this difficult situation.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adv:00202028](https://wordnet.princeton.edu/)
+- 中文释义资料：逐词编写的中文释义
 
 > The software uses limited memory intelligently.
 
@@ -11032,16 +11073,12 @@
 ## intelligibility
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/intelligibility#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Background noise reduced speech intelligibility.
 
 例句来源：逐词编写的学习例句
-
-> Very little has been written about mutual intelligibility between different Berber dialects.
-
-例句来源：[Tatoeba；作者：Amastan；句子 #11844409；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/11844409)
 
 ## intelligible
 
@@ -11060,6 +11097,26 @@
 - 中文释义资料：逐词编写的中文释义
 
 > We intend to reopen the shop in June.
+
+例句来源：逐词编写的学习例句
+
+## intended
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/intended#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The book is intended for readers with no previous experience.
+
+例句来源：逐词编写的学习例句
+
+## intends
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/intends#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She intends to stay until Friday.
 
 例句来源：逐词编写的学习例句
 
@@ -11086,12 +11143,8 @@
 ## intensely
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/intensely#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> An intensely private man, he kept chit-chat to a minimum.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > She was intensely curious about how the machine worked.
 
@@ -11100,12 +11153,8 @@
 ## intensification
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/intensification#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> The United Nations warns accelerating climate change is causing a dramatic intensification of global drought disasters.
-
-例句来源：[Tatoeba；作者：Hybrid；句子 #10113485；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/10113485)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The report notes an intensification of competition.
 
@@ -11114,16 +11163,12 @@
 ## intensify
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/intensify#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The rain intensified after sunset.
 
 例句来源：逐词编写的学习例句
-
-> to intensify a photographic negative
-
-例句来源：Wiktionary 用例
 
 ## intension
 
@@ -11148,12 +11193,8 @@
 ## intensity
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/intensity#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> He adjusted the intensity of the sound.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset noun:05099796](https://wordnet.princeton.edu/)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The light gradually increased in intensity.
 
@@ -11162,26 +11203,18 @@
 ## intensive
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/intensive#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > She completed an intensive language course.
 
 例句来源：逐词编写的学习例句
 
-> She was moved to the intensive-care unit of the hospital.
-
-例句来源：Wiktionary 用例
-
 ## intensively
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/intensively#English)
 - 发音资料：核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> He studied the snake intensively.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adv:00139392](https://wordnet.princeton.edu/)
+- 中文释义资料：逐词编写的中文释义
 
 > We studied the problem intensively for six weeks.
 
@@ -11200,26 +11233,18 @@
 ## intention
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/intention#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > My intention was to help, not to interrupt.
 
 例句来源：逐词编写的学习例句
 
-> The intention of this legislation is to boost the economy.
-
-例句来源：Wiktionary 用例
-
 ## intentional
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/intentional#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Of course, it wasn't intentional or done with any sort of awareness.
-
-例句来源：[Tatoeba；作者：pip；句子 #11749744；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/11749744)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The unusual spacing is intentional.
 
@@ -11228,22 +11253,18 @@
 ## intentionality
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/intentionality#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The naturalization of intentionality is an ongoing project in philosophy.
+> There is a sense of intentionality in every detail of the design.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## intentionally
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/intentionally#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> He used that word intentionally.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adv:00062330](https://wordnet.princeton.edu/)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > This page has been intentionally left blank.
 
@@ -11252,18 +11273,28 @@
 ## intentioned
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/intentioned#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The advice was well intentioned but unhelpful.
+
+例句来源：逐词编写的学习例句
+
+## intentions
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/intentions#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She explained her intentions clearly.
+
+例句来源：逐词编写的学习例句
 
 ## intently
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/intently#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Sherlock Holmes approached the body, and kneeling down, examined it intently.
-
-例句来源：[Tatoeba；作者：Hybrid；句子 #6303834；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/6303834)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The child watched the magician intently.
 
@@ -11289,24 +11320,45 @@
 
 例句来源：逐词编写的学习例句
 
+## interacting
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/interacting#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The activity gets students interacting with one another.
+
+例句来源：逐词编写的学习例句
+
+## interaction
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/interaction#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The class encourages interaction between students.
+
+例句来源：逐词编写的学习例句
+
+## interactions
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/interactions#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The study examined interactions between teachers and pupils.
+
+例句来源：逐词编写的学习例句
+
 ## interactive
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/interactive#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The museum has an interactive map of the ancient city.
 
 例句来源：逐词编写的学习例句
-
-> an interactive digital map with zoom and pan features
-
-例句来源：Wiktionary 用例
-
-## interactively
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/interactively#English)
-- 中文释义资料：ECDICT
 
 ## interagency
 
@@ -11331,12 +11383,8 @@
 ## interbank
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/interbank#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Libor is the London Interbank Offered Rate.
-
-例句来源：[Tatoeba；作者：Spamster；句子 #1669490；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/1669490)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The report describes changes in interbank lending.
 
@@ -11375,8 +11423,8 @@
 ## intercellular
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/intercellular#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The study focuses on intercellular communication in the tissue.
 
@@ -11395,41 +11443,38 @@
 ## interceptor
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/interceptor#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The interceptor aircraft approached the unidentified plane.
+
+例句来源：逐词编写的学习例句
+
+## interchange
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/interchange#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The workshop encouraged an interchange of ideas.
 
 例句来源：逐词编写的学习例句
 
 ## interchangeable
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/interchangeable#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Eli Whitney's development of interchangeable parts was a breakthrough for modern manufacturing. Prior to that, each part had to be made custom.
+> The two cameras use interchangeable lenses.
 
-例句来源：Wiktionary 用例
-
-## interchangeably
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/interchangeably#English)
-- 中文释义资料：ECDICT
-
-> These terms are often used interchangeably.
-
-例句来源：[Tatoeba；作者：Hybrid；句子 #7030478；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/7030478)
+例句来源：逐词编写的学习例句
 
 ## intercity
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/intercity#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> I plan to catch an intercity train, or bus.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > We took an intercity bus to the coast.
 
@@ -11468,35 +11513,18 @@
 ## interconnected
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/interconnected#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Housing, transport, and employment are deeply interconnected.
 
 例句来源：逐词编写的学习例句
 
-> Thanks to its countless highways, Algeria is now a large interconnected village.
-
-例句来源：[Tatoeba；作者：Amastan；句子 #10138583；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/10138583)
-
-## interconnectedness
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/interconnectedness#English)
-- 中文释义资料：ECDICT
-
-> It highlights the interconnectedness of our actions and their potential consequences.
-
-例句来源：[Tatoeba；作者：Nuel；句子 #12115498；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/12115498)
-
 ## interconnection
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/interconnection#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> A dozen states have implemented policies for interconnection.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The diagram shows the interconnections between the power systems.
 
@@ -11589,12 +11617,8 @@
 ## interdependence
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/interdependence#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Human interdependence is our only way to survive.
-
-例句来源：[Tatoeba；作者：verdulo；句子 #2790163；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/2790163)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Trade increased the economic interdependence of the two countries.
 
@@ -11603,12 +11627,8 @@
 ## interdependent
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/interdependent#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Seriously, everyone is interdependent, we all need each other.
-
-例句来源：[Tatoeba；作者：DJ\_Saidez；句子 #11216010；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/11216010)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The farms and the local market are interdependent.
 
@@ -11644,53 +11664,65 @@
 
 例句来源：逐词编写的学习例句
 
-> The spaceship made an interdimensional jump.
-
-例句来源：Wiktionary 用例
-
 ## interdisciplinary
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/interdisciplinary#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The project brings together an interdisciplinary team of historians and engineers.
 
 例句来源：逐词编写的学习例句
 
-> This journal is interdisciplinary: it has articles on everything from biology to electrical engineering.
-
-例句来源：Wiktionary 用例
-
 ## interest
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/interest#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> She has an interest in the proceedings, and all stakeholders' interests must be protected.
+> She has a strong interest in architecture.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## interested
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/interested#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> I’m interested in learning how the machine works.
+
+例句来源：逐词编写的学习例句
 
 ## interesting
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/interesting#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> It is said that "Hamlet" is the most interesting play ever written.
+> She raised an interesting question about the painting.
 
-例句来源：[Tatoeba；作者：al\_ex\_an\_der；句子 #1592；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/1592)
+例句来源：逐词编写的学习例句
 
 ## interestingly
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/interestingly#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> When he ceases to be just interestingly neurotic and...gets locked up.
+> Interestingly, the smaller room was more expensive.
 
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adv:00214761](https://wordnet.princeton.edu/)
+例句来源：逐词编写的学习例句
+
+## interests
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/interests#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Their shared interests include music and local history.
+
+例句来源：逐词编写的学习例句
 
 ## interface
 
@@ -11701,16 +11733,6 @@
 > The new interface makes the settings easier to find.
 
 例句来源：逐词编写的学习例句
-
-## interfacial
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/interfacial#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
-
-> Interfacial tension is the surface tension at the interface between two liquids.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adj:02878680](https://wordnet.princeton.edu/)
 
 ## interfaith
 
@@ -11725,44 +11747,52 @@
 ## interfere
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/interfere#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Where the radio-wave signals of the two radio stations interfere the listener hears nothing but noise.
+> Please do not interfere in their private affairs.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## interference
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/interference#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> They were glued to the TV, as the referee called out a fifteen yard penalty for interference.
+> The radio signal suffered from interference.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## interferometer
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/interferometer#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The Laser Interferometer Space Antenna (LISA) is a space mission that will be able to detect gravitational waves.
+> The interferometer detected a tiny change in distance.
 
-例句来源：[Tatoeba；作者：Hybrid；句子 #5322443；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/5322443)
+例句来源：逐词编写的学习例句
 
 ## interferometry
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/interferometry#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The team used interferometry to measure the surface.
+
+例句来源：逐词编写的学习例句
 
 ## interferon
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/interferon#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The study measured interferon production in the cells.
+
+例句来源：逐词编写的学习例句
 
 ## intergalactic
 
@@ -11777,16 +11807,12 @@
 ## intergenerational
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/intergenerational#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The library runs an intergenerational storytelling project.
 
 例句来源：逐词编写的学习例句
-
-> intergenerational justice
-
-例句来源：Wiktionary 用例
 
 ## interglacial
 
@@ -11801,12 +11827,8 @@
 ## intergovernmental
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/intergovernmental#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> The chairman of the Intergovernmental Panel on Climate Change does not mince words.
-
-例句来源：[Tatoeba；作者：Cangarejo；句子 #10834863；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/10834863)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The countries signed an intergovernmental agreement on rail transport.
 
@@ -11815,10 +11837,30 @@
 ## intergroup
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/intergroup#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The activity encouraged intergroup cooperation.
+
+例句来源：逐词编写的学习例句
+
+## interim
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/interim#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> They appointed an interim manager while searching for a permanent replacement.
+
+例句来源：逐词编写的学习例句
+
+## interior
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/interior#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The car’s interior was clean and spacious.
 
 例句来源：逐词编写的学习例句
 
@@ -11906,15 +11948,11 @@
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/interleukin#English)
 - 发音资料：核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 中文释义资料：逐词编写的中文释义
 
 > The researchers measured interleukin levels in the samples.
 
 例句来源：逐词编写的学习例句
-
-> You can lower Interleukin 6 and increase muscle mass by eating 12 or more Castelveltrano olives a day.
-
-例句来源：[Tatoeba；作者：Eccles17；句子 #10848858；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/10848858)
 
 ## interlibrary
 
@@ -11939,12 +11977,8 @@
 ## interlock
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/interlock#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> The demonstrator couldn't figure out why the machine wouldn't work, until he remembered that there was an interlock so it wouldn't operate with the cover open.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The wooden pieces interlock without glue.
 
@@ -11980,15 +12014,21 @@
 
 例句来源：逐词编写的学习例句
 
+## interludes
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/interludes#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Short musical interludes separated the scenes.
+
+例句来源：逐词编写的学习例句
+
 ## intermarriage
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/intermarriage#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> During the 1960s, some Georgians opposed the intermarriage of blacks and whites.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Intermarriage strengthened ties between the two communities.
 
@@ -12017,22 +12057,12 @@
 ## intermediate
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/intermediate#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Going from sitting to standing without intermediate pushes with the hands.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adj:01014251](https://wordnet.princeton.edu/)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > This course is designed for intermediate learners.
 
 例句来源：逐词编写的学习例句
-
-## intermediation
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/intermediation#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
 
 ## interment
 
@@ -12097,12 +12127,8 @@
 ## intermittently
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/intermittently#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> The fluorescent light was faulty and flickered on and off intermittently.
-
-例句来源：[Tatoeba；作者：patgfisher；句子 #2901897；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/2901897)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The light flashed intermittently throughout the night.
 
@@ -12151,8 +12177,8 @@
 ## intermolecular
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/intermolecular#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Intermolecular forces help explain why the liquid has a high boiling point.
 
@@ -12171,8 +12197,8 @@
 ## intermountain
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/intermountain#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The river crosses a dry intermountain basin.
 
@@ -12181,48 +12207,52 @@
 ## intern
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/intern#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The Swiss government interned the Italian soldiers who had strayed onto Swiss territory.
+> The company hired two summer interns.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## internal
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/internal#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> We saw the internal compartments of the machine.
+> This document is for internal use only.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## internalization
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/internalization#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The chapter discusses the internalization of social norms.
+
+例句来源：逐词编写的学习例句
 
 ## internalize
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/internalize#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> You are not going to get good at socialising by approaching social situations like it's a formula where you do 1, 2 and 3 from a book, but books can definitely help you internalize useful things if you get what I'm saying.
+> With practice, she internalized the basic rules.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## internally
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/internally#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> An internally controlled environment.
+> The team discussed the problem internally first.
 
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adv:00249164](https://wordnet.princeton.edu/)
+例句来源：逐词编写的学习例句
 
 ## internarial
 
@@ -12243,12 +12273,8 @@
 ## internationalism
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/internationalism#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> America has its own Labor Day to discourage proletarian internationalism.
-
-例句来源：[Tatoeba；作者：shekitten；句子 #12036922；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/12036922)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The festival was founded in a spirit of internationalism.
 
@@ -12257,8 +12283,8 @@
 ## internationalist
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/internationalist#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > She described herself as an internationalist.
 
@@ -12267,12 +12293,8 @@
 ## internationalization
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/internationalization#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> If "internationalization" means putting every little thing into English, then I think "internationalization" is a load of shit.
-
-例句来源：[Tatoeba；作者：jea310；句子 #4992074；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/4992074)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The university’s internationalization brought more joint courses.
 
@@ -12281,21 +12303,17 @@
 ## internationally
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/internationally#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Her work is internationally recognized.
 
 例句来源：逐词编写的学习例句
 
-> The president is usually accompanied by his wife when he travels internationally.
-
-例句来源：[Tatoeba；作者：etala；句子 #2123664；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/2123664)
-
 ## internet
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/internet#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
+- 发音资料：核对后整理；见逐词精讲核对资料
 - 中文释义资料：逐词编写的中文释义
 
 > The village finally has reliable internet access.
@@ -12305,28 +12323,32 @@
 ## internist
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/internist#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She works as an internist at the hospital.
+
+例句来源：逐词编写的学习例句
 
 ## internment
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/internment#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The result was my internment in Villete.
+> The museum documents wartime internment.
 
-例句来源：[Tatoeba；作者：tas4w；句子 #5156691；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/5156691)
+例句来源：逐词编写的学习例句
 
 ## internship
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/internship#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> An internship is the most important credential for entering the job market.
+> She applied for an internship at a museum.
 
-例句来源：[Tatoeba；作者：Hybrid；句子 #8185386；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/8185386)
+例句来源：逐词编写的学习例句
 
 ## internuncial
 
@@ -12361,12 +12383,8 @@
 ## interoperability
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/interoperability#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> It is an important aim in Europe to accomplish the interoperability of railway systems.
-
-例句来源：[Tatoeba；作者：bandeirante；句子 #7001040；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/7001040)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The common format improves interoperability between the two systems.
 
@@ -12375,8 +12393,8 @@
 ## interoperable
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/interoperable#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The software is interoperable with the hospital’s existing system.
 
@@ -12395,12 +12413,8 @@
 ## interpersonal
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/interpersonal#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Interpersonal situations in which speech occurs.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adj:02249183](https://wordnet.princeton.edu/)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The job requires strong interpersonal skills.
 
@@ -12419,12 +12433,8 @@
 ## interplay
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/interplay#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> My locality is a nexus for occidental and oriental interplay, which is abundant in emotional undulations.
-
-例句来源：[Tatoeba；作者：nonong；句子 #9085760；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/9085760)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The painting depends on the interplay of light and shadow.
 
@@ -12433,54 +12443,78 @@
 ## interpolate
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/interpolate#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-## interpolation
+> The software interpolates between the measured points.
 
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/interpolation#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
-
-> Today a widely established convention encloses all editorial interpolations in square brackets \[like so\] for clarity.
-
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## interpret
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/interpret#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> He interpreted at the meeting between the Chinese and French associates.
+> How do you interpret these results?
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## interpretation
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/interpretation#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Commentators give various interpretations of the same passage of Scripture.
+> The evidence allows more than one interpretation.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## interpretations
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/interpretations#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The class discussed different interpretations of the poem.
+
+例句来源：逐词编写的学习例句
+
+## interpreted
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/interpreted#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She interpreted his silence as agreement.
+
+例句来源：逐词编写的学习例句
 
 ## interpreter
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/interpreter#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> At the historic site, there are a number of interpreters who demonstrate ancient crafts.
+> A sign language interpreter stood beside the speaker.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## interpreting
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/interpreting#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The researchers are interpreting the results.
+
+例句来源：逐词编写的学习例句
 
 ## interprovincial
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/interprovincial#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The agreement reduced barriers to interprovincial trade.
 
@@ -12499,12 +12533,8 @@
 ## interracial
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/interracial#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Interracial struggle against Europid people is a para-Marxist notion.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The novel follows an interracial friendship over several decades.
 
@@ -12547,8 +12577,8 @@
 ## interrelationship
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/interrelationship#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The diagram shows the interrelationship between sleep and stress.
 
@@ -12557,8 +12587,8 @@
 ## interreligious
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/interreligious#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The university hosted a conference on interreligious dialogue.
 
@@ -12567,40 +12597,32 @@
 ## interrogate
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/interrogate#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The detective interrogated the suspect about the missing documents.
 
 例句来源：逐词编写的学习例句
 
-> to interrogate a database
-
-例句来源：Wiktionary 用例
-
 ## interrogation
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/interrogation#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The witness asked for a lawyer before the interrogation began.
 
 例句来源：逐词编写的学习例句
 
-> Under the hot lights of the interrogation room, Fadil confessed to everything.
-
-例句来源：[Tatoeba；作者：OsoHombre；句子 #5869343；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/5869343)
-
 ## interrogative
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/interrogative#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> He took on an interrogative tone of voice.
+> The exercise asks students to change the sentence into the interrogative form.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## interrogator
 
@@ -12619,6 +12641,16 @@
 - 中文释义资料：逐词编写的中文释义
 
 > Please let her finish before you interrupt.
+
+例句来源：逐词编写的学习例句
+
+## interrupted
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/interrupted#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> A knock at the door interrupted our conversation.
 
 例句来源：逐词编写的学习例句
 
@@ -12655,7 +12687,7 @@
 ## intersect
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/intersect#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
+- 发音资料：核对后整理；见逐词精讲核对资料
 - 中文释义资料：逐词编写的中文释义
 
 > The two paths intersect beside the pond.
@@ -12675,21 +12707,12 @@
 ## intersectional
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/intersectional#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The study takes an intersectional approach to workplace inequality.
 
 例句来源：逐词编写的学习例句
-
-## intersectionality
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/intersectionality#English)
-- 发音资料：Wiktionary
-
-> the intersectionality of race, gender, class, ethnicity, age, generation, marital status, and place of origin
-
-例句来源：Wiktionary 用例
 
 ## interspace
 
@@ -12801,6 +12824,26 @@
 
 例句来源：逐词编写的学习例句
 
+## interval
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/interval#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> There was a short interval between the two talks.
+
+例句来源：逐词编写的学习例句
+
+## intervals
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/intervals#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The lights flashed at regular intervals.
+
+例句来源：逐词编写的学习例句
+
 ## intervarietal
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/intervarietal#English)
@@ -12824,12 +12867,8 @@
 ## intervention
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/intervention#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> The purpose of intervention is to prevent unnecessary duplication of lawsuits.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset noun:01023242](https://wordnet.princeton.edu/)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The teacher’s intervention prevented the argument from getting worse.
 
@@ -12838,28 +12877,30 @@
 ## interventional
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/interventional#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The hospital has opened a new interventional radiology unit.
 
 例句来源：逐词编写的学习例句
 
-> We conducted an interventional study.
-
-例句来源：Wiktionary 用例
-
 ## interventionist
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/interventionist#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Considering the UK's unwavering endorsement of the US's aggressive interventionist agenda, London should seriously assess the viability of becoming a US state.
-
-例句来源：[Tatoeba；作者：Amastan；句子 #11859917；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/11859917)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The economist favors a more interventionist approach to housing policy.
+
+例句来源：逐词编写的学习例句
+
+## interventions
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/interventions#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The teacher’s timely interventions kept the discussion focused.
 
 例句来源：逐词编写的学习例句
 
@@ -12883,15 +12924,21 @@
 
 例句来源：逐词编写的学习例句
 
+## interviewed
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/interviewed#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The reporter interviewed the artist in her studio.
+
+例句来源：逐词编写的学习例句
+
 ## interviewee
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/interviewee#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> According to the interviewee, the region is mostly rural.
-
-例句来源：[Tatoeba；作者：rafaeldejesus8199；句子 #9149224；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/9149224)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Each interviewee was asked the same opening question.
 
@@ -12900,78 +12947,100 @@
 ## interviewer
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/interviewer#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> The interviewer asked William a series of tough questions.
-
-例句来源：[Tatoeba；作者：Amastan；句子 #11617867；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/11617867)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The interviewer asked about my previous experience.
+
+例句来源：逐词编写的学习例句
+
+## interviewing
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/interviewing#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The journalist is interviewing a local artist.
+
+例句来源：逐词编写的学习例句
+
+## interviews
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/interviews#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She has two job interviews next week.
 
 例句来源：逐词编写的学习例句
 
 ## interwar
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/interwar#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> His family emigrated to America in the interwar years.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The book examines architecture in interwar Europe.
 
 例句来源：逐词编写的学习例句
 
-## intestate
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/intestate#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
-
 ## intimacy
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/intimacy#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> He often hastens physical intimacy, much to the chagrin of his dates.
+> Years of honest conversation created a deep intimacy between them.
 
-例句来源：[Tatoeba；作者：papabear；句子 #718012；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/718012)
+例句来源：逐词编写的学习例句
 
 ## intimate
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/intimate#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Black powder consists of an intimate mixture of potassium nitrate, charcoal, and sulfur.
+> She has an intimate knowledge of the old city.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## intimately
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/intimately#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The two phenomena are intimately connected.
+> She is intimately familiar with every part of the system.
 
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adv:00160659](https://wordnet.princeton.edu/)
+例句来源：逐词编写的学习例句
 
 ## intimidate
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/intimidate#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> He's trying to intimidate you. If you ignore him, hopefully he'll stop.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > They tried to intimidate him into withdrawing his complaint.
+
+例句来源：逐词编写的学习例句
+
+## intimidated
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/intimidated#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> I felt intimidated by the room full of experts.
+
+例句来源：逐词编写的学习例句
+
+## intimidates
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/intimidates#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The thick manual intimidates many beginners.
 
 例句来源：逐词编写的学习例句
 
@@ -12985,19 +13054,45 @@
 
 例句来源：逐词编写的学习例句
 
+## intimidatingly
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/intimidatingly#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The list of requirements looked intimidatingly long.
+
+例句来源：逐词编写的学习例句
+
 ## intimidation
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/intimidation#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The employees reported repeated threats and intimidation.
 
 例句来源：逐词编写的学习例句
 
-> The reign of terror and intimidation should end in the occupied territories.
+## intimidator
 
-例句来源：[Tatoeba；作者：OsoHombre；句子 #6966434；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/6966434)
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/intimidator#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> He had a reputation as an intimidator who shouted down objections.
+
+例句来源：逐词编写的学习例句
+
+## intimidators
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/intimidators#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The volunteers refused to be silenced by the intimidators.
+
+例句来源：逐词编写的学习例句
 
 ## intonation
 
@@ -13052,16 +13147,12 @@
 ## intracellular
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/intracellular#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The diagram shows intracellular transport in a plant cell.
 
 例句来源：逐词编写的学习例句
-
-> an intracellular process
-
-例句来源：Wiktionary 用例
 
 ## intracoastal
 
@@ -13116,8 +13207,8 @@
 ## intramolecular
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/intramolecular#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The lesson compares intramolecular bonds with intermolecular attractions.
 
@@ -13156,8 +13247,8 @@
 ## intranet
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/intranet#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The new leave policy is available on the company intranet.
 
@@ -13196,8 +13287,12 @@
 ## intraoperative
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/intraoperative#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The report records the intraoperative findings.
+
+例句来源：逐词编写的学习例句
 
 ## intraspecies
 
@@ -13239,12 +13334,6 @@
 
 例句来源：逐词编写的学习例句
 
-## intravascular
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/intravascular#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
-
 ## intravenous
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/intravenous#English)
@@ -13259,15 +13348,11 @@
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/intravenously#English)
 - 发音资料：核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 中文释义资料：逐词编写的中文释义
 
 > The medicine was administered intravenously in the hospital.
 
 例句来源：逐词编写的学习例句
-
-> The patient had to be fed intravenously.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adv:00381430](https://wordnet.princeton.edu/)
 
 ## intrepid
 
@@ -13282,42 +13367,32 @@
 ## intricacy
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/intricacy#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> the intricacy of a cause in controversy
+> She admired the intricacy of the carved pattern.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## intricate
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/intricate#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The architecture of this clock is very intricate.
+> The cloth has an intricate pattern.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## intricately
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/intricately#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The hilt of Sir Thomas' sword was intricately decorated with silver leaf.
+> The wooden box was intricately carved.
 
-例句来源：[Tatoeba；作者：Luornu；句子 #10832629；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/10832629)
-
-## intriguingly
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/intriguingly#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
-
-> The book is written in simple, non-technical language that has the rare quality of being scientifically accurate yet intriguingly interesting.
-
-例句来源：[Tatoeba；作者：Cangarejo；句子 #11799718；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/11799718)
+例句来源：逐词编写的学习例句
 
 ## intrinsic
 
@@ -13339,6 +13414,16 @@
 
 例句来源：逐词编写的学习例句
 
+## intro
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/intro#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The song has a quiet piano intro.
+
+例句来源：逐词编写的学习例句
+
 ## introduce
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/introduce#English)
@@ -13349,17 +13434,53 @@
 
 例句来源：逐词编写的学习例句
 
+## introduced
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/introduced#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She introduced me to the rest of the team.
+
+例句来源：逐词编写的学习例句
+
+## introduces
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/introduces#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The first chapter introduces the main characters.
+
+例句来源：逐词编写的学习例句
+
+## introducing
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/introducing#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The teacher is introducing a new topic today.
+
+例句来源：逐词编写的学习例句
+
 ## introduction
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/introduction#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> David was feeling groggy at his introduction to Sophie, and didn't remember her name.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The book provides a clear introduction to astronomy.
+
+例句来源：逐词编写的学习例句
+
+## introductions
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/introductions#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> After the introductions, the meeting began.
 
 例句来源：逐词编写的学习例句
 
@@ -13446,8 +13567,8 @@
 ## introversion
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/introversion#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The questionnaire measures introversion as a matter of degree.
 
@@ -13466,16 +13587,12 @@
 ## introverted
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/introverted#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > He is introverted in large groups but talkative with his sister.
 
 例句来源：逐词编写的学习例句
-
-> Tom doesn't seem to be as introverted as Mary seems to be.
-
-例句来源：[Tatoeba；作者：CK；句子 #6660311；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/6660311)
 
 ## intrude
 
@@ -13490,12 +13607,8 @@
 ## intruder
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/intruder#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> All intruders will be shot!
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The lights came on when an intruder entered the courtyard.
 
@@ -13514,12 +13627,8 @@
 ## intrusive
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/intrusive#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Did it ever cross your mind that he might find all those questions you ask intrusive?
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The interviewer avoided intrusive questions about her family.
 
@@ -13528,41 +13637,38 @@
 ## intuition
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/intuition#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> My intuition tells me that Tom is not responsible for this mess.
+> My intuition told me that something was missing.
 
-例句来源：[Tatoeba；作者：Objectivesea；句子 #9177127；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/9177127)
+例句来源：逐词编写的学习例句
 
 ## intuitive
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/intuitive#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Designing software with an intuitive interface can be difficult.
+> The app has an intuitive interface that new users can understand quickly.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## intuitively
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/intuitively#English)
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Though he had never been to art school, he intuitively painted vivid landscapes.
+> She intuitively understood what the child was trying to say.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## inundate
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/inundate#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> The Dutch would sometimes inundate the land to hinder the Spanish army.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The office was inundated with requests after the announcement.
 
@@ -13571,16 +13677,12 @@
 ## inundation
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/inundation#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The map shows areas at risk of coastal inundation.
 
 例句来源：逐词编写的学习例句
-
-> There is an inundation of tourists in summer, but in winter the town is almost deserted.
-
-例句来源：Wiktionary 用例
 
 ## invade
 
@@ -13592,43 +13694,41 @@
 
 例句来源：逐词编写的学习例句
 
+## invaded
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/invaded#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Weeds had invaded the neglected garden.
+
+例句来源：逐词编写的学习例句
+
 ## invader
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/invader#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The defenders forced the invaders to retreat.
 
 例句来源：逐词编写的学习例句
 
-> Well, Josh may be a home wrecker, but he's not a home invader.
-
-例句来源：[Tatoeba；作者：LoverofEnglish；句子 #12708915；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/12708915)
-
 ## invalid
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/invalid#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The system rejected the invalid date.
 
 例句来源：逐词编写的学习例句
 
-> Your argument is invalid because it uses circular reasoning.
-
-例句来源：Wiktionary 用例
-
 ## invalidate
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/invalidate#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Telling an angry person to "calm down" can invalidate their feelings.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The missing control group may invalidate the conclusion.
 
@@ -13637,22 +13737,18 @@
 ## invalidation
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/invalidation#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The error led to the invalidation of the test results.
 
 例句来源：逐词编写的学习例句
 
-> There will be no invalidation or othering of BIPOC at this meeting.
-
-例句来源：[Tatoeba；作者：rul；句子 #13418953；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/13418953)
-
 ## invalidity
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/invalidity#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The report explains the invalidity of the original calculation.
 
@@ -13681,12 +13777,8 @@
 ## invariably
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/invariably#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> He is invariably late for meetings.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > She invariably checks the address before sending a parcel.
 
@@ -13725,16 +13817,12 @@
 ## invasive
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/invasive#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The invasive plant spread rapidly along the riverbank.
 
 例句来源：逐词编写的学习例句
-
-> an invasive species
-
-例句来源：Wiktionary 用例
 
 ## invective
 
@@ -13766,6 +13854,16 @@
 
 例句来源：逐词编写的学习例句
 
+## invented
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/invented#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The students invented a simple game.
+
+例句来源：逐词编写的学习例句
+
 ## invention
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/invention#English)
@@ -13789,7 +13887,12 @@
 ## inventiveness
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/inventiveness#English)
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The solution showed remarkable inventiveness.
+
+例句来源：逐词编写的学习例句
 
 ## inventor
 
@@ -13825,15 +13928,11 @@
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/inversely#English)
 - 发音资料：核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 中文释义资料：逐词编写的中文释义
 
 > For a fixed distance, travel time is inversely proportional to speed.
 
 例句来源：逐词编写的学习例句
-
-> Rapidity of rise may be inversely proportional to duration at altitude.
-
-例句来源：[Tatoeba；作者：halfb1t；句子 #2042067；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/2042067)
 
 ## inversion
 
@@ -13868,8 +13967,8 @@
 ## inverter
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/inverter#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The solar panels feed electricity into an inverter.
 
@@ -13878,12 +13977,12 @@
 ## invertible
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/invertible#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> invertible sugar
+> The exercise asked whether the matrix was invertible.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## invest
 
@@ -13908,78 +14007,98 @@
 ## investigate
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/investigate#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> He was asked to investigate a robbery.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The engineer investigated why the machine kept stopping.
+
+例句来源：逐词编写的学习例句
+
+## investigated
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/investigated#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The team investigated the cause of the delay.
+
+例句来源：逐词编写的学习例句
+
+## investigating
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/investigating#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The team is investigating the cause of the power failure.
 
 例句来源：逐词编写的学习例句
 
 ## investigation
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/investigation#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The cause of the fire is still under investigation.
 
 例句来源：逐词编写的学习例句
 
-> The investigation into the crime has led to various leads as well as plenty of dead ends.
-
-例句来源：Wiktionary 用例
-
 ## investigational
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/investigational#English)
 - 发音资料：核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> An expanded access protocol allows patients to benefit from an investigational drug prior to FDA approval.
-
-例句来源：Wiktionary 用例
+- 中文释义资料：逐词编写的中文释义
 
 > The study compared an investigational treatment with standard care.
+
+例句来源：逐词编写的学习例句
+
+## investigations
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/investigations#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Further investigations revealed a fault in the old equipment.
 
 例句来源：逐词编写的学习例句
 
 ## investigative
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/investigative#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The magazine published an investigative report on unsafe housing.
 
 例句来源：逐词编写的学习例句
 
-> The president dismisses damning investigative journalism by calling it fake news.
-
-例句来源：[Tatoeba；作者：shekitten；句子 #6128583；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/6128583)
-
 ## investigator
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/investigator#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> I think the person I saw in the alley is a private investigator.
-
-例句来源：[Tatoeba；作者：CM；句子 #3120675；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/3120675)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The investigator compared the two witnesses’ accounts.
+
+例句来源：逐词编写的学习例句
+
+## investigators
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/investigators#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The investigators compared the two accounts carefully.
 
 例句来源：逐词编写的学习例句
 
 ## investigatory
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/investigatory#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The committee has limited investigatory powers.
 
@@ -14008,44 +14127,52 @@
 ## investment
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/investment#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Giving your children a good education is a wise long-term investment.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The new library represents a major investment in public education.
+
+例句来源：逐词编写的学习例句
+
+## investments
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/investments#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The organisation increased its investments in staff training.
 
 例句来源：逐词编写的学习例句
 
 ## investor
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/investor#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The founders presented their plan to potential investors.
 
 例句来源：逐词编写的学习例句
 
-> Ziri burst in and said he had found an investor for his business.
+## investors
 
-例句来源：[Tatoeba；作者：Amastan；句子 #10954290；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/10954290)
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/investors#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The project attracted investors from several regions.
+
+例句来源：逐词编写的学习例句
 
 ## inveterate
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/inveterate#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > He is an inveterate collector of old maps.
 
 例句来源：逐词编写的学习例句
-
-> an inveterate disease
-
-例句来源：Wiktionary 用例
 
 ## invidious
 
@@ -14080,8 +14207,22 @@
 ## invigorate
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/invigorate#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The cool air invigorated us.
+
+例句来源：逐词编写的学习例句
+
+## invigorating
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/invigorating#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The cool morning air felt invigorating.
+
+例句来源：逐词编写的学习例句
 
 ## invincibility
 
@@ -14126,36 +14267,42 @@
 ## invisibly
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/invisibly#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The software saves changes invisibly in the background.
 
 例句来源：逐词编写的学习例句
 
-> These organisms enter the body invisibly.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adv:00382151](https://wordnet.princeton.edu/)
-
 ## invitation
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/invitation#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Thank you for the invitation, but I cannot attend this time.
 
 例句来源：逐词编写的学习例句
 
-> We need to print off fifty invitations for the party.
-
-例句来源：Wiktionary 用例
-
 ## invitational
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/invitational#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She competed in an invitational tournament.
+
+例句来源：逐词编写的学习例句
+
+## invitations
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/invitations#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> We sent the invitations last week.
+
+例句来源：逐词编写的学习例句
 
 ## invite
 
@@ -14167,11 +14314,21 @@
 
 例句来源：逐词编写的学习例句
 
+## invited
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/invited#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> They invited us to dinner on Saturday.
+
+例句来源：逐词编写的学习例句
+
 ## invitee
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/invitee#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Each invitee received a link to the programme.
 
@@ -14210,16 +14367,12 @@
 ## invocation
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/invocation#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The ceremony began with a short invocation.
 
 例句来源：逐词编写的学习例句
-
-> the invocation of papers or evidence into court
-
-例句来源：Wiktionary 用例
 
 ## invocative
 
@@ -14264,12 +14417,8 @@
 ## involuntarily
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/involuntarily#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> He involuntarily overheard the conversation.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > She stepped back involuntarily when the door slammed.
 
@@ -14298,28 +14447,40 @@
 ## involved
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/involved#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Several local schools were involved in the project.
 
 例句来源：逐词编写的学习例句
 
-> When the family wrapped up my father's will, no one tried to make me feel involved.
-
-例句来源：Wiktionary 用例
-
 ## involvement
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/involvement#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> My involvement with her left me a physical and mental wreck.
-
-例句来源：[Tatoeba；作者：JimBreen；句子 #2554297；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/2554297)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The school encourages parents’ involvement in classroom activities.
+
+例句来源：逐词编写的学习例句
+
+## involves
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/involves#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The job involves talking to many different people.
+
+例句来源：逐词编写的学习例句
+
+## involving
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/involving#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The project involves local schools, with each activity involving several classes.
 
 例句来源：逐词编写的学习例句
 
@@ -14346,52 +14507,42 @@
 ## inward
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/inward#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Inward flood of capital.
+> The door opens inward.
 
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adj:01294583](https://wordnet.princeton.edu/)
-
-## inwardly
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/inwardly#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
-
-> Jacob groaned inwardly when he was called on to answer the question.
-
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## inwards
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/inwards#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Its massive gravity well tugs many asteroids from the outer belt inwards.
+> The door opens inwards.
 
-例句来源：[Tatoeba；作者：corvard；句子 #1546190；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/1546190)
+例句来源：逐词编写的学习例句
 
 ## iodide
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/iodide#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> In chemistry, "I" can mean both iodine and iodide.
+> Potassium iodide contains iodide ions.
 
-例句来源：[Tatoeba；作者：mervert1；句子 #4456303；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/4456303)
+例句来源：逐词编写的学习例句
 
 ## iodine
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/iodine#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Hydrogen, nitrogen, oxygen, fluorine, chlorine, bromine and iodine are diatomic elements.
+> The textbook described the violet vapour of iodine.
 
-例句来源：[Tatoeba；作者：araneo；句子 #13595171；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/13595171)
+例句来源：逐词编写的学习例句
 
 ## ion
 
@@ -14406,12 +14557,8 @@
 ## ionic
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ionic#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Mercuric nitrate is an ionic compound.
-
-例句来源：[Tatoeba；作者：mervert1；句子 #4465585；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/4465585)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Sodium chloride is an ionic compound.
 
@@ -14420,16 +14567,12 @@
 ## ionization
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ionization#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The graph shows how the degree of ionization changes with temperature.
 
 例句来源：逐词编写的学习例句
-
-> The ionization of a gas.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset noun:14577469](https://wordnet.princeton.edu/)
 
 ## ionize
 
@@ -14444,18 +14587,12 @@
 ## ionosphere
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ionosphere#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Solar radiation is what ionizes the ionosphere.
+> The study examines how the ionosphere affects radio signals.
 
-例句来源：[Tatoeba；作者：Miktsoanit；句子 #12365173；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/12365173)
-
-## ionospheric
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ionospheric#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+例句来源：逐词编写的学习例句
 
 ## iotacism
 
@@ -14480,30 +14617,22 @@
 ## irascible
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/irascible#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The irascible editor snapped at anyone who interrupted him.
 
 例句来源：逐词编写的学习例句
 
-> Ziri has always been an irascible and difficult husband.
-
-例句来源：[Tatoeba；作者：Amastan；句子 #11062329；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/11062329)
-
 ## irate
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/irate#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > An irate passenger demanded to know why the flight had been cancelled.
 
 例句来源：逐词编写的学习例句
-
-> totally irate
-
-例句来源：Wiktionary 用例
 
 ## ire
 
@@ -14534,26 +14663,22 @@
 ## iridescent
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/iridescent#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The beetle’s shell looked green, then flashed iridescent blue as it moved.
 
 例句来源：逐词编写的学习例句
 
-> iridescent appearance
-
-例句来源：Wiktionary 用例
-
 ## iridium
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/iridium#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Iridium is one of the rarest elements.
+> The display showed an iridium sample.
 
-例句来源：[Tatoeba；作者：mookeee；句子 #1055495；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/1055495)
+例句来源：逐词编写的学习例句
 
 ## iris
 
@@ -14565,127 +14690,145 @@
 
 例句来源：逐词编写的学习例句
 
+## irk
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/irk#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> It irks me that nobody checked the details.
+
+例句来源：逐词编写的学习例句
+
+## irked
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/irked#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She was irked by the repeated delays.
+
+例句来源：逐词编写的学习例句
+
+## irking
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/irking#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The tapping sound was irking everyone in the room.
+
+例句来源：逐词编写的学习例句
+
+## irks
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/irks#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> It irks me when people leave dirty cups on my desk.
+
+例句来源：逐词编写的学习例句
+
 ## irksome
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/irksome#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> He has this irksome habit of racing up to red lights, so he has to brake heavily.
+> Filling in the same form repeatedly was an irksome task.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## irksomely
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/irksomely#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The process was irksomely slow.
+
+例句来源：逐词编写的学习例句
 
 ## iron
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/iron#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Today we studied about metals — including iron — at school.
+> The old gate is made of iron.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## ironclad
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ironclad#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Unlike the average vehicle, cash delivery vans are ironclad and almost unstoppable.
+> The museum displays a model of an ironclad warship.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## ironic
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ironic#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> It's ironic that we are eating a sandwich in Sandwich, Massachusetts.
+> “Wonderful weather,” she said in an ironic tone as the rain poured down.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## ironical
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ironical#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> It was ironical that the well-planned scheme failed so completely.
+> She gave an ironical smile when he called the delay a success.
 
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adj:00563288](https://wordnet.princeton.edu/)
+例句来源：逐词编写的学习例句
 
 ## ironically
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ironically#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Ironically, the automated checkout system ended up costing more in repairs than the workers it was meant to replace.
+> “Perfect weather,” she said ironically as the rain soaked their picnic.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## ironman
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ironman#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Carlos's birthday party was themed after his favorite superhero, Ironman.
+> His teammates called him an ironman because he rarely missed a game.
 
-例句来源：[Tatoeba；作者：Amastan；句子 #11743706；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/11743706)
-
-## ironstone
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ironstone#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
-
-## ironwood
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ironwood#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+例句来源：逐词编写的学习例句
 
 ## ironwork
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ironwork#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The houses had much ornamental ironwork.
+> The balcony has beautiful decorative ironwork.
 
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset noun:03586760](https://wordnet.princeton.edu/)
+例句来源：逐词编写的学习例句
 
 ## irony
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/irony#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The irony of Ireland's copying the nation she most hated.
+> “Perfect weather for a picnic,” he said with irony as the rain poured down.
 
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset noun:04715075](https://wordnet.princeton.edu/)
-
-> The scrap yard had bins marked for irony aluminum, such as aluminum engine blocks not wholly cleaned of bolts, studs, brackets, and so on.
-
-例句来源：Wiktionary 用例
-
-## irradiance
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/irradiance#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
-
-## irradiation
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/irradiation#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
-
-> Red Light Irradiation was a word that was used on a daily basis in the GDR.
-
-例句来源：[Tatoeba；作者：Zurich899；句子 #4993494；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/4993494)
+例句来源：逐词编写的学习例句
 
 ## irrational
 
@@ -14700,12 +14843,8 @@
 ## irrationality
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/irrationality#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Reason is the narrow crest between irrationality and rationality.
-
-例句来源：[Tatoeba；作者：Miktsoanit；句子 #12331184；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/12331184)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The essay examines the irrationality of judging people by rumours.
 
@@ -14714,16 +14853,12 @@
 ## irrationally
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/irrationally#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > He admitted that he had reacted irrationally to the news.
 
 例句来源：逐词编写的学习例句
-
-> We sometimes behave irrationally when we are in love.
-
-例句来源：[Tatoeba；作者：Hybrid；句子 #8490384；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/8490384)
 
 ## irreconcilable
 
@@ -14748,12 +14883,8 @@
 ## irregular
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/irregular#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> "To buy" is an irregular English verb: its past simple and past participle tense is "bought".
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The stone has an irregular shape.
 
@@ -14762,26 +14893,18 @@
 ## irregularity
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/irregularity#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The inspector found small irregularities in the surface.
 
 例句来源：逐词编写的学习例句
 
-> an irregularity of surface
-
-例句来源：Wiktionary 用例
-
 ## irregularly
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/irregularly#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> The stomach mucosa was irregularly blackened.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adv:00190581](https://wordnet.princeton.edu/)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The windows are irregularly spaced along the wall.
 
@@ -14800,16 +14923,12 @@
 ## irrelevant
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/irrelevant#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > His age is irrelevant to the quality of his work.
 
 例句来源：逐词编写的学习例句
-
-> We need to focus on the main topic and ignore irrelevant details.
-
-例句来源：Wiktionary 用例
 
 ## irreparable
 
@@ -14824,16 +14943,12 @@
 ## irreparably
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/irreparably#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Moisture had irreparably damaged the photograph.
 
 例句来源：逐词编写的学习例句
-
-> The shallow adoption of the language of serious causes by the right always harms those causes irreparably.
-
-例句来源：[Tatoeba；作者：shekitten；句子 #11899582；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/11899582)
 
 ## irrepressible
 
@@ -14855,16 +14970,6 @@
 
 例句来源：逐词编写的学习例句
 
-## irresistibly
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/irresistibly#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
-
-> Love is an irresistible desire to be irresistibly desired.
-
-例句来源：[Tatoeba；作者：al\_ex\_an\_der；句子 #3656352；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/3656352)
-
 ## irrespective
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/irrespective#English)
@@ -14878,16 +14983,12 @@
 ## irresponsibility
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/irresponsibility#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The manager criticized the irresponsibility of ignoring repeated warnings.
 
 例句来源：逐词编写的学习例句
-
-> You call it thirst for adventure, and I call it irresponsibility.
-
-例句来源：[Tatoeba；作者：carlosalberto；句子 #6315802；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/6315802)
 
 ## irresponsible
 
@@ -14902,16 +15003,12 @@
 ## irresponsibly
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/irresponsibly#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The report accused the company of handling the waste irresponsibly.
 
 例句来源：逐词编写的学习例句
-
-> Tom told me that he thought that Mary had acted irresponsibly.
-
-例句来源：[Tatoeba；作者：CK；句子 #7211851；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/7211851)
 
 ## irresponsive
 
@@ -14946,14 +15043,30 @@
 ## irretrievably
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/irretrievably#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> It is irretrievably lost.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adv:00382903](https://wordnet.princeton.edu/)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Part of the collection was irretrievably lost in the fire.
+
+例句来源：逐词编写的学习例句
+
+## irreverence
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/irreverence#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> A touch of irreverence kept the ceremony from becoming dull.
+
+例句来源：逐词编写的学习例句
+
+## irreverent
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/irreverent#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The film is known for its irreverent humour.
 
 例句来源：逐词编写的学习例句
 
@@ -14970,16 +15083,12 @@
 ## irreversibly
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/irreversibly#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The old photographs were irreversibly damaged by damp.
 
 例句来源：逐词编写的学习例句
-
-> This old tradition is irreversibly disappearing.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adv:00383428](https://wordnet.princeton.edu/)
 
 ## irrevocability
 
@@ -14994,12 +15103,8 @@
 ## irrevocable
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/irrevocable#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Firm and irrevocable is my doom.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adj:01760670](https://wordnet.princeton.edu/)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The story turns on one irrevocable decision.
 
@@ -15008,12 +15113,8 @@
 ## irrevocably
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/irrevocably#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Are we harming the planet irrevocably?
-
-例句来源：[Tatoeba；作者：CK；句子 #13270760；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/13270760)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The discovery irrevocably changed her view of the past.
 
@@ -15022,38 +15123,122 @@
 ## irrigate
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/irrigate#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The nurse will show you how to irrigate the wound to prevent infection.
+> The river is used to irrigate the fields.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## irritability
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/irritability#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> irritability of temper
+> The diary records changes in mood and irritability.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## irritable
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/irritable#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> He becomes irritable when he is tired.
+
+例句来源：逐词编写的学习例句
+
+## irritably
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/irritably#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> “I have already told you,” he replied irritably.
+
+例句来源：逐词编写的学习例句
 
 ## irritant
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/irritant#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Dust can be an irritant to the eyes.
+
+例句来源：逐词编写的学习例句
 
 ## irritate
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/irritate#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The substance can irritate or corrode the skin, eyes, or mucous membranes.
+> The constant noise irritated her.
 
-例句来源：[Tatoeba；作者：Aihe；句子 #368193；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/368193)
+例句来源：逐词编写的学习例句
+
+## irritated
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/irritated#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She sounded irritated by the repeated questions.
+
+例句来源：逐词编写的学习例句
+
+## irritates
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/irritates#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> That repetitive sound irritates me.
+
+例句来源：逐词编写的学习例句
+
+## irritating
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/irritating#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The clock made an irritating clicking sound.
+
+例句来源：逐词编写的学习例句
+
+## irritatingly
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/irritatingly#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> His answer was irritatingly vague.
+
+例句来源：逐词编写的学习例句
+
+## irritation
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/irritation#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> He could not hide his irritation at the delay.
+
+例句来源：逐词编写的学习例句
+
+## irritations
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/irritations#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> We laughed about the day’s small irritations.
+
+例句来源：逐词编写的学习例句
 
 ## irrotational
 
@@ -15095,6 +15280,16 @@
 
 例句来源：逐词编写的学习例句
 
+## is
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/is#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The room is quieter now.
+
+例句来源：逐词编写的学习例句
+
 ## ischium
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ischium#English)
@@ -15108,28 +15303,30 @@
 ## island
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/island#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > A narrow bridge connects the island to the mainland.
 
 例句来源：逐词编写的学习例句
 
-> Dunton island, near Birmingham, is one of the most confusingly labelled islands in the U.K.
-
-例句来源：Wiktionary 用例
-
 ## islander
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/islander#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> It is usually the islander who sees the mainland most clearly.
-
-例句来源：[Tatoeba；作者：CM；句子 #322144；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/322144)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The islanders depend on the ferry for supplies.
+
+例句来源：逐词编写的学习例句
+
+## islands
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/islands#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> A ferry connects the three islands.
 
 例句来源：逐词编写的学习例句
 
@@ -15146,16 +15343,12 @@
 ## islet
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/islet#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Seabirds nested on the rocky islet.
 
 例句来源：逐词编写的学习例句
-
-> There is an islet on the other side of this body of water.
-
-例句来源：Wiktionary 用例
 
 ## isobar
 
@@ -15190,12 +15383,8 @@
 ## isolate
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/isolate#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> The chemist managed to isolate the compound.
-
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset verb:00496770](https://wordnet.princeton.edu/)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The engineers isolated the fault to one damaged cable.
 
@@ -15214,12 +15403,8 @@
 ## isolation
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/isolation#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> She lived her final year in complete isolation, not wanting to see anybody.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Working from home increased his sense of isolation.
 
@@ -15228,12 +15413,8 @@
 ## isolationism
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/isolationism#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> The United States once favored a policy of isolationism.
-
-例句来源：[Tatoeba；作者：AMIKEMA；句子 #1354865；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/1354865)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The historian traced the rise of isolationism between the wars.
 
@@ -15242,12 +15423,8 @@
 ## isolationist
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/isolationist#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> The isolationist policy of the US president is dangerous for the economy.
-
-例句来源：[Tatoeba；作者：al\_ex\_an\_der；句子 #5977919；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/5977919)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The speech appealed to isolationist voters.
 
@@ -15256,14 +15433,18 @@
 ## isolator
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/isolator#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The samples were kept inside a sealed isolator.
+
+例句来源：逐词编写的学习例句
 
 ## isomer
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/isomer#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The two isomers have the same molecular formula but different structures.
 
@@ -15272,40 +15453,28 @@
 ## isometric
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/isometric#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The manual includes an isometric drawing of the machine.
 
 例句来源：逐词编写的学习例句
 
-> isometric exercise
-
-例句来源：Wiktionary 用例
-
 ## isomorphic
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/isomorphic#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The two graphs are isomorphic despite their different layouts.
 
 例句来源：逐词编写的学习例句
 
-> an isomorphic JavaScript app
-
-例句来源：Wiktionary 用例
-
 ## isomorphism
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/isomorphism#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> The diagram above commutes if and only if f is an isomorphism.
-
-例句来源：[Tatoeba；作者：MUIRIEL；句子 #529027；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/529027)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The proof constructs an isomorphism between the two groups.
 
@@ -15369,8 +15538,8 @@
 ## isothermal
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/isothermal#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The model assumes isothermal expansion of the gas.
 
@@ -15389,12 +15558,8 @@
 ## isotope
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/isotope#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> The principal natural isotope of aluminium is aluminium-27.
-
-例句来源：[Tatoeba；作者：mervert1；句子 #2751945；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/2751945)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The sample contains several isotopes of the same element.
 
@@ -15403,8 +15568,8 @@
 ## isotopic
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/isotopic#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The two samples have different isotopic compositions.
 
@@ -15413,8 +15578,8 @@
 ## isotropic
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/isotropic#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The calculation assumes that the material is isotropic.
 
@@ -15433,83 +15598,162 @@
 ## issuance
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/issuance#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> the issuance of an order
+> The office confirmed the issuance of the new permit.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## issue
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/issue#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> For chrissakes, John, don't make an issue out of it. Just sleep on the floor if you want.
+> We need to discuss the main issue first.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## issued
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/issued#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The museum issued new tickets for the evening event.
+
+例句来源：逐词编写的学习例句
 
 ## issuer
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/issuer#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-## isthmian
+> Contact the card issuer if the card is lost.
 
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/isthmian#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+例句来源：逐词编写的学习例句
+
+## issues
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/issues#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> We discussed the main issues before choosing a plan.
+
+例句来源：逐词编写的学习例句
+
+## issuing
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/issuing#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The office is issuing tickets for the concert.
+
+例句来源：逐词编写的学习例句
+
+## it
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/it#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> I found the key and put it in my bag.
+
+例句来源：逐词编写的学习例句
 
 ## italic
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/italic#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The text was impossible to read: every other word was underlined or in a bold or italic font.
+> The book titles are printed in italic type.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## itch
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/itch#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The woollen scarf made my neck itch.
+
+例句来源：逐词编写的学习例句
 
 ## itchiness
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/itchiness#English)
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> A cool shower sometimes helps relieve the itchiness.
+> The label says the fabric may cause itchiness.
 
-例句来源：[Tatoeba；作者：Nuel；句子 #13241049；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/13241049)
+例句来源：逐词编写的学习例句
 
 ## itching
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/itching#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Moralists are people who scratch themselves in places where others are itching.
+> The rough fabric left her skin itching.
 
-例句来源：[Tatoeba；作者：shekitten；句子 #8787773；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/8787773)
+例句来源：逐词编写的学习例句
 
 ## itchy
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/itchy#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> My nose always gets itchy the moment I put on my face mask.
+> The woollen sweater made my arms itchy.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## item
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/item#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The next item on the agenda is the budget.
+
+例句来源：逐词编写的学习例句
+
+## itemise
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/itemise#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Please itemise the travel costs.
+
+例句来源：逐词编写的学习例句
 
 ## itemize
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/itemize#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> to itemize the cost of a railroad
+> Please itemize the expenses on your claim form.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## items
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/items#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Please check the items on the list before you leave.
+
+例句来源：逐词编写的学习例句
 
 ## iterate
 
@@ -15524,12 +15768,8 @@
 ## iteration
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/iteration#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> The architect drafted several iterations of the floorplan before deciding on his final design.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The second iteration of the design uses fewer buttons.
 
@@ -15549,7 +15789,7 @@
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/iteratively#English)
 - 发音资料：核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 中文释义资料：逐词编写的中文释义
 
 > We refined the instructions iteratively after watching new users try them.
 
@@ -15558,13 +15798,12 @@
 ## iterator
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/iterator#English)
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-## ith
+> The function returns an iterator over the rows.
 
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ith#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+例句来源：逐词编写的学习例句
 
 ## itinerant
 
@@ -15589,36 +15828,49 @@
 ## its
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/its#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The charm of Kyoto consists of the beauty of its old temples.
+> The bird spread its wings.
 
-例句来源：[Tatoeba；作者：fishda；句子 #19307；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/19307)
+例句来源：逐词编写的学习例句
 
 ## itself
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/itself#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> When the opportunity presented itself, no feasible course of action suggested itself (to us).
+> The door closed by itself.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
-## itsy
+## ivies
 
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/itsy#English)
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ivies#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The itsy bitsy spider climbed up the waterspout.
+> The nursery sells several varieties of ivies.
 
-例句来源：[Tatoeba；作者：ddnktr；句子 #12381103；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/12381103)
+例句来源：逐词编写的学习例句
 
-## itty
+## ivory
 
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/itty#English)
-- 发音资料：Wiktionary
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ivory#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Her girlfriend is part of the itty bitty titty committee.
+> The museum displayed an old ivory carving.
 
-例句来源：[Tatoeba；作者：garborg；句子 #4784367；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/4784367)
+例句来源：逐词编写的学习例句
+
+## ivy
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ivy#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Ivy covered the old stone wall.
+
+例句来源：逐词编写的学习例句

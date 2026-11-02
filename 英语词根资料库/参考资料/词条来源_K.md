@@ -5,7 +5,12 @@
 ## kaboom
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/kaboom#English)
-- 发音资料：Wiktionary
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> “Kaboom!” flashed across the comic panel.
+
+例句来源：逐词编写的学习例句
 
 ## kakistocracy
 
@@ -20,49 +25,76 @@
 ## kaleidoscope
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/kaleidoscope#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > She turned the kaleidoscope and watched the pattern change.
 
 例句来源：逐词编写的学习例句
 
-> This kaleidoscope is giving me a headache.
-
-例句来源：[Tatoeba；作者：letsgolanguages；句子 #11536019；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/11536019)
-
 ## kaleidoscopic
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/kaleidoscopic#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Kaleidoscopic prints saturate my blank mind, creating vital memories and burning thoughts.
-
-例句来源：[Tatoeba；作者：carlosalberto；句子 #3242417；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/3242417)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The lights cast kaleidoscopic patterns across the ceiling.
+
+例句来源：逐词编写的学习例句
+
+## kangaroo
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/kangaroo#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> A kangaroo hopped across the track.
+
+例句来源：逐词编写的学习例句
+
+## kangaroos
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/kangaroos#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> A group of kangaroos grazed near the trees.
+
+例句来源：逐词编写的学习例句
+
+## karaoke
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/karaoke#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> We sang karaoke after dinner.
+
+例句来源：逐词编写的学习例句
+
+## karma
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/karma#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The course compares ideas about karma in different traditions.
 
 例句来源：逐词编写的学习例句
 
 ## karmic
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/karmic#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> I will defeat my adversaries with karmic forces.
+> The book discusses karmic consequences within that tradition.
 
-例句来源：[Tatoeba；作者：Eccles17；句子 #6578642；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/6578642)
+例句来源：逐词编写的学习例句
 
 ## Karpos
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/Karpos#English)
-
-## karting
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/karting#English)
-- 中文释义资料：ECDICT
 
 ## karyotype
 
@@ -94,131 +126,115 @@
 
 例句来源：逐词编写的学习例句
 
-## kayaker
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/kayaker#English)
-- 中文释义资料：ECDICT
-
-> The skilled kayaker executed a perfect roll in the rough water.
-
-例句来源：[Tatoeba；作者：always；句子 #12652731；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/12652731)
-
-## kayaking
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/kayaking#English)
-- 中文释义资料：ECDICT
-
-> The only one here who doesn't want to go kayaking is Tom.
-
-例句来源：[Tatoeba；作者：CK；句子 #6338535；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/6338535)
-
-## keeler
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/keeler#English)
-- 发音资料：Wiktionary
-
-## keely
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/keely#English)
-- 中文释义资料：ECDICT
-
 ## keen
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/keen#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> “Do you want to go on holiday with me?” “Yes, I’m keen.”
+> She is keen to learn how the machine works.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## keener
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/keener#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> A dog's sense of smell is much keener than a human's.
+> The exercise helped her develop a keener eye for errors.
 
-例句来源：[Tatoeba；作者：darinmex；句子 #615281；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/615281)
+例句来源：逐词编写的学习例句
 
 ## keenly
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/keenly#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> watch something keenly
+> She was keenly aware of the time limit.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## keenness
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/keenness#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Tom acted the fool but, in reality, had an education and keenness of mind second to none.
+> Her keenness to help was obvious.
 
-例句来源：[Tatoeba；作者：sundown；句子 #6373748；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/6373748)
+例句来源：逐词编写的学习例句
 
 ## keep
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/keep#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> I only meant to lend him the shirt at first, but it looked better on him than me, so I told him to keep it.
+> Keep the receipt in case you need to return the shoes.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## keeper
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/keeper#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Finders keepers; losers weepers.
+> The keeper checked the animals every morning.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## keeping
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/keeping#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The original documents are in her keeping.
+
+例句来源：逐词编写的学习例句
+
+## keeps
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/keeps#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She keeps a spare key in her desk.
+
+例句来源：逐词编写的学习例句
 
 ## keepsake
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/keepsake#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> This is a keepsake from when I was a soldier.
+> She kept the ticket as a keepsake.
 
-例句来源：[Tatoeba；作者：rul；句子 #13740998；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/13740998)
+例句来源：逐词编写的学习例句
 
-## kemper
+## kept
 
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/kemper#English)
-- 中文释义资料：ECDICT
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/kept#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-## kenner
+> She kept her promise.
 
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/kenner#English)
-- 中文释义资料：ECDICT
-
-> Calling them “silver tongued pundits,” Kenner says their job is to simplify and manipulate arcane scientific data for public consumption.
-
-例句来源：[Tatoeba；作者：Cangarejo；句子 #11218211；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/11218211)
+例句来源：逐词编写的学习例句
 
 ## keratin
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/keratin#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Hair and nails contain keratin.
 
 例句来源：逐词编写的学习例句
-
-> Keratin is one of a family of fibrous structural proteins known as scleroproteins.
-
-例句来源：[Tatoeba；作者：LinaTamazight；句子 #8767541；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/8767541)
 
 ## kerchief
 
@@ -233,12 +249,12 @@
 ## kerfuffle
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/kerfuffle#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Tom caused a kerfuffle at the dinner last night.
+> There was a kerfuffle over the new seating plan.
 
-例句来源：[Tatoeba；作者：Hybrid；句子 #6050920；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/6050920)
+例句来源：逐词编写的学习例句
 
 ## kern
 
@@ -253,12 +269,12 @@
 ## kernel
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/kernel#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The Dirichlet kernel convolved with a function yields its Fourier series approximation.
+> Remove the kernels from the corn cob.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## kerning
 
@@ -273,307 +289,492 @@
 ## kerosene
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/kerosene#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The kerosene lasted all winter, so the furnace kept us always warm.
+> A kerosene lamp stood on the wooden table.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
-## ketoacidosis
+## ketchup
 
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ketoacidosis#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ketchup#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Would you like ketchup with your fries?
+
+例句来源：逐词编写的学习例句
 
 ## ketogenic
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ketogenic#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The ketogenic diet appears to be a very effective treatment for epilepsy.
+> The textbook explains why the diet is described as ketogenic.
 
-例句来源：[Tatoeba；作者：JFMorais；句子 #4264794；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/4264794)
+例句来源：逐词编写的学习例句
 
 ## ketosis
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ketosis#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The chapter explains the metabolic state called ketosis.
+
+例句来源：逐词编写的学习例句
 
 ## kettlebell
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/kettlebell#English)
-- 发音资料：Wiktionary
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The trainer placed the kettlebell on the floor.
+
+例句来源：逐词编写的学习例句
 
 ## key
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/key#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The key to his proposal is that he thinks this company is dying and needs radical change.
+> Clear communication is the key to a successful project.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## keyboard
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/keyboard#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Keyboarding is the part of this job I hate the most.
+> She typed the address on the keyboard.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## keyboardist
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/keyboardist#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> I have been a keyboardist at a local band for three years.
+> Our keyboardist created the opening sound.
 
-例句来源：[Tatoeba；作者：nickyeow；句子 #1326606；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/1326606)
+例句来源：逐词编写的学习例句
+
+## keyboards
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/keyboards#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The classroom has new computer keyboards.
+
+例句来源：逐词编写的学习例句
 
 ## keychain
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/keychain#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Tom keeps multiple 20-sided dice on his keychain.
+> He bought a keychain as a souvenir.
 
-例句来源：[Tatoeba；作者：rul；句子 #13708074；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/13708074)
+例句来源：逐词编写的学习例句
 
 ## keyhole
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/keyhole#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> laser keyhole welding
+> The key would not fit into the keyhole.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## keyholes
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/keyholes#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The old doors had large keyholes.
+
+例句来源：逐词编写的学习例句
 
 ## keyless
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/keyless#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> A keyless lock operated by a series of pushbuttons.
+> The car comes with keyless entry.
 
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adj:01371911](https://wordnet.princeton.edu/)
+例句来源：逐词编写的学习例句
 
 ## keynote
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/keynote#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Innovation was the keynote of the company’s presentation.
+> She will deliver the keynote at the conference.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## keypad
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/keypad#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Many laptop computers have special function keys which turn part of the alphabetical keyboard into a numeric keypad.
+> Enter your code on the keypad beside the door.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## keypads
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/keypads#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The machines have simple numeric keypads.
+
+例句来源：逐词编写的学习例句
 
 ## keyring
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/keyring#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> I have a keyring with a snap hook with a dynamo lamp.
+> She attached the spare key to her keyring.
 
-例句来源：[Tatoeba；作者：QuentiBc；句子 #13320922；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/13320922)
+例句来源：逐词编写的学习例句
+
+## keyrings
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/keyrings#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The shop sold postcards and keyrings.
+
+例句来源：逐词编写的学习例句
+
+## keys
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/keys#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She left her keys on the kitchen table.
+
+例句来源：逐词编写的学习例句
 
 ## keystone
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/keystone#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The keystone of campaign reform was the ban on soft money.
+> Trust is the keystone of their partnership.
 
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset noun:05694232](https://wordnet.princeton.edu/)
+例句来源：逐词编写的学习例句
 
 ## keystroke
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/keystroke#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> You can close the window with a single keystroke.
+
+例句来源：逐词编写的学习例句
 
 ## keyword
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/keyword#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> You can use a keyword to help you remember complicated topics.
+> Choose a few keywords before searching the archive.
 
-例句来源：[Tatoeba；作者：evan10593；句子 #6143139；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/6143139)
+例句来源：逐词编写的学习例句
+
+## khaki
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/khaki#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> He wore khaki trousers and a white shirt.
+
+例句来源：逐词编写的学习例句
 
 ## kick
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/kick#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> He enjoyed the simple pleasure of watching the kickline kick.
+> He kicked the ball over the fence.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## kickball
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/kickball#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> That day, Edmundo and his friends were going to play kickball.
+> The children played kickball after lunch.
 
-例句来源：[Tatoeba；作者：Amastan；句子 #11754137；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/11754137)
+例句来源：逐词编写的学习例句
 
 ## kickboxing
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/kickboxing#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> All in all, the game of leapfrog is very easy compared to kickboxing.
+> She takes a kickboxing class twice a week.
 
-例句来源：[Tatoeba；作者：AmarMecheri；句子 #11017540；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/11017540)
+例句来源：逐词编写的学习例句
+
+## kicked
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/kicked#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She kicked the ball across the field.
+
+例句来源：逐词编写的学习例句
 
 ## kicker
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/kicker#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Tuition is free; the kicker is that mandatory room and board costs twice as much as at other colleges.
+> The team signed a new kicker this season.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## kicking
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/kicking#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The children were kicking a ball in the yard.
+
+例句来源：逐词编写的学习例句
+
+## kicks
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/kicks#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She kicks the ball towards the goal.
+
+例句来源：逐词编写的学习例句
 
 ## kickstand
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/kickstand#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> He lowered the kickstand before getting off the bike.
+
+例句来源：逐词编写的学习例句
 
 ## kid
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/kid#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> He treated the oxen like they didn't exist, but he treated the goat kid like a puppy.
+> The kids are playing in the garden.
 
-例句来源：Wiktionary 用例
-
-## kidder
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/kidder#English)
-- 中文释义资料：ECDICT
+例句来源：逐词编写的学习例句
 
 ## kiddie
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/kiddie#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The kiddie pool was shallow so the children would be safe, which meant it was much warmer than the adult pool.
+> The children splashed in the kiddie pool.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## kidding
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/kidding#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> I am only kidding; you can keep the book.
+
+例句来源：逐词编写的学习例句
 
 ## kiddo
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/kiddo#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Okay, kiddo, I gotta run.
+> “Good morning, kiddo,” her grandfather said.
 
-例句来源：Wiktionary 用例
-
-## kiddy
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/kiddy#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+例句来源：逐词编写的学习例句
 
 ## kidnap
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/kidnap#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> You thought you were going to kidnap the kid, didn't you?
+> The novel begins with a businessman being kidnapped.
 
-例句来源：[Tatoeba；作者：ajje；句子 #8238578；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/8238578)
+例句来源：逐词编写的学习例句
 
-## kidnapper
+## kidnapped
 
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/kidnapper#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/kidnapped#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Santiago bluffed, telling the kidnapper that the cops were on their way.
+> In the story, a traveller is kidnapped.
 
-例句来源：[Tatoeba；作者：Amastan；句子 #11785951；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/11785951)
+例句来源：逐词编写的学习例句
+
+## kidnapping
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/kidnapping#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The novel opens with a kidnapping.
+
+例句来源：逐词编写的学习例句
+
+## kidney
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/kidney#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The model shows a kidney and the blood vessels connected to it.
+
+例句来源：逐词编写的学习例句
+
+## kidneys
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/kidneys#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The diagram shows the position of the kidneys.
+
+例句来源：逐词编写的学习例句
+
+## kids
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/kids#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The kids made a small tent from blankets.
+
+例句来源：逐词编写的学习例句
 
 ## kill
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/kill#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> He killed the engine and turned off the headlights, but remained in the car, waiting.
+> We played cards to kill time before the train arrived.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## killed
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/killed#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The sudden noise killed the relaxed mood in the room.
+
+例句来源：逐词编写的学习例句
 
 ## killer
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/killer#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The final hill in the race course was a killer.
+> The novel reveals the killer only in the final chapter.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## killers
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/killers#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The detective tries to identify the killers in the novel.
+
+例句来源：逐词编写的学习例句
 
 ## killing
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/killing#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> He made a killing on the stock market.
+> The detective investigated a killing in a quiet village.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## killings
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/killings#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The documentary examines the killings and their aftermath.
+
+例句来源：逐词编写的学习例句
 
 ## killjoy
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/killjoy#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Altan never misses a chance to be a killjoy.
+> I don’t want to be a killjoy, but the last bus leaves in ten minutes.
 
-例句来源：[Tatoeba；作者：soliloquist；句子 #9419607；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/9419607)
+例句来源：逐词编写的学习例句
 
-## killy
+## kills
 
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/killy#English)
-- 中文释义资料：ECDICT
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/kills#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> A hard frost kills these young plants.
+
+例句来源：逐词编写的学习例句
 
 ## kiln
 
@@ -602,6 +803,16 @@
 - 中文释义资料：逐词编写的中文释义
 
 > The plain text file is only a few kilobytes in size.
+
+例句来源：逐词编写的学习例句
+
+## kilobytes
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/kilobytes#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The text file is only a few kilobytes in size.
 
 例句来源：逐词编写的学习例句
 
@@ -665,6 +876,16 @@
 
 例句来源：逐词编写的学习例句
 
+## kilometers
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/kilometers#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The hotel is two kilometers from the station.
+
+例句来源：逐词编写的学习例句
+
 ## kilometre
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/kilometre#English)
@@ -675,117 +896,171 @@
 
 例句来源：逐词编写的学习例句
 
+## kilometres
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/kilometres#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The village is five kilometres from here.
+
+例句来源：逐词编写的学习例句
+
+## kilos
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/kilos#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The suitcase weighs twelve kilos.
+
+例句来源：逐词编写的学习例句
+
 ## kilowatt
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/kilowatt#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The heater draws two kilowatts while operating at full power.
 
 例句来源：逐词编写的学习例句
 
-## kimberlite
+## kilowatts
 
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/kimberlite#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/kilowatts#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The heater is rated at two kilowatts.
+
+例句来源：逐词编写的学习例句
+
+## kimono
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/kimono#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She wore a silk kimono for the ceremony.
+
+例句来源：逐词编写的学习例句
 
 ## kin
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/kin#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> the starfish and its kin the sea urchin
+> The form asks for the name of your next of kin.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## kinase
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/kinase#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> A kinase is an enzyme which phosphorylates other proteins.
+> The diagram shows a kinase adding a phosphate group to a protein.
 
-例句来源：[Tatoeba；作者：haukie；句子 #8110006；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/8110006)
+例句来源：逐词编写的学习例句
 
 ## kind
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/kind#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The kind of any primitive data type is \*, corresponding to a nullary constructor.
+> There are several kinds of bread on the table.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## kinda
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/kinda#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> I am kinda tired after the trip.
+
+例句来源：逐词编写的学习例句
 
 ## kindhearted
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/kindhearted#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> A generous and kindhearted teacher.
+> A kindhearted neighbor offered to look after the cat.
 
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adj:01373545](https://wordnet.princeton.edu/)
+例句来源：逐词编写的学习例句
 
 ## kindle
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/kindle#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Will you buy a Kindle, a Nook or a Kobo eReader?
+> The story kindled her interest in astronomy.
 
-例句来源：[Tatoeba；作者：Scott；句子 #1256157；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/1256157)
+例句来源：逐词编写的学习例句
 
 ## kindling
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/kindling#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Go and collect some kindling.
+> A basket of dry kindling stood beside the fireplace.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## kindly
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/kindly#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> A kindly old man sits on the park bench every afternoon feeding pigeons.
+> She spoke kindly to the frightened child.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## kindness
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/kindness#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> i'm going to turn a blind eye to this misdemeanour, out of the kindness of my heart.
+> Thank you for your kindness.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## kindred
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/kindred#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> the kindred relationship between neuroscience and neurology
+> They soon discovered that they were kindred spirits.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## kinds
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/kinds#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The shop sells several kinds of bread.
+
+例句来源：逐词编写的学习例句
 
 ## kinematics
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/kinematics#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The first chapter introduces the basic equations of kinematics.
 
@@ -794,12 +1069,8 @@
 ## kinesiology
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/kinesiology#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Kinesiology is the study of movement.
-
-例句来源：[Tatoeba；作者：DuosDragonPolyglot；句子 #13900510；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/13900510)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > She is studying kinesiology at university.
 
@@ -838,126 +1109,132 @@
 ## kinfolk
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/kinfolk#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She returned every summer to visit her kinfolk.
+
+例句来源：逐词编写的学习例句
 
 ## king
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/king#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Charles the third became the new king of England from 2022.
+> The king appears only in the final chapter of the story.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## kingdom
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/kingdom#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> the kingdom of the dead
+> The fairy tale is set in a distant kingdom.
 
-例句来源：Wiktionary 用例
-
-## kingfish
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/kingfish#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+例句来源：逐词编写的学习例句
 
 ## kingfisher
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/kingfisher#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Most species of kingfisher are found in tropical regions.
+> A kingfisher perched above the stream.
 
-例句来源：[Tatoeba；作者：shekitten；句子 #10676905；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/10676905)
+例句来源：逐词编写的学习例句
 
 ## kingly
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/kingly#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The murder of his kingly guest.
+> The actor gave the character a kingly dignity.
 
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset adj:01591699](https://wordnet.princeton.edu/)
+例句来源：逐词编写的学习例句
 
 ## kingmaker
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/kingmaker#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The Earl of Warwick was the first kingmaker.
+> The small party became a kingmaker after the close election.
 
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset noun:10233248](https://wordnet.princeton.edu/)
+例句来源：逐词编写的学习例句
 
 ## kingpin
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/kingpin#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The documentary examines the rise of an industry kingpin.
+
+例句来源：逐词编写的学习例句
+
+## kings
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/kings#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The museum displays portraits of several kings.
+
+例句来源：逐词编写的学习例句
 
 ## kingship
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/kingship#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-## kingslayer
+> The historian studies ideas of kingship in medieval Europe.
 
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/kingslayer#English)
-- 发音资料：Wiktionary
+例句来源：逐词编写的学习例句
 
-## kingsman
+## kink
 
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/kingsman#English)
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/kink#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-## kingwood
+> A kink in the hose was blocking the water.
 
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/kingwood#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+例句来源：逐词编写的学习例句
 
 ## kinky
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/kinky#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> kinky hair
+> The artist carefully painted her naturally kinky hair.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## kinship
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/kinship#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Felt a deep kinship with the other students.
+> The story explores the strength of kinship ties.
 
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset noun:13811410](https://wordnet.princeton.edu/)
+例句来源：逐词编写的学习例句
 
 ## kinsman
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/kinsman#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> And he let his kinsman depart: and he returned and went into his own country.
+> A distant kinsman arrived with news from home.
 
-例句来源：[Tatoeba；作者：carlosalberto；句子 #8081988；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/8081988)
-
-## kipper
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/kipper#English)
-- 发音资料：Wiktionary
+例句来源：逐词编写的学习例句
 
 ## kirk
 
@@ -982,117 +1259,142 @@
 ## kiss
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/kiss#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The nearside of the car just kissed a parked truck as he took the corner at high speed.
+> She kissed the child on the forehead.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## kissed
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/kissed#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> He kissed her on the cheek.
+
+例句来源：逐词编写的学习例句
 
 ## kisser
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/kisser#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> She's a great kisser!
+> The novel describes him as a good kisser.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## kisses
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/kisses#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The children blew kisses from the window.
+
+例句来源：逐词编写的学习例句
 
 ## kissing
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/kissing#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Kissing one's spouse in public is considered acceptable behavior in some countries.
+> The film includes a brief kissing scene.
 
-例句来源：[Tatoeba；作者：CK；句子 #941310；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/941310)
-
-## kissy
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/kissy#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
-
-> We sat behind an obnoxiously kissy couple in the cinema.
-
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## kit
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/kit#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Always carry a good first-aid kit.
+> Keep a first aid kit in the car.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## kitchen
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/kitchen#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> We cook in the kitchen.
+> The kitchen opens onto the garden.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## kitchenette
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/kitchenette#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The studio apartment has a small kitchenette.
+
+例句来源：逐词编写的学习例句
+
+## kitchens
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/kitchens#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The student residence has two shared kitchens.
+
+例句来源：逐词编写的学习例句
 
 ## kitchenware
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/kitchenware#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The new chef reorganized the space where we keep the pots, pans, and other kitchenware.
+> The shop sells kitchenware and tableware.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## kitesurfing
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/kitesurfing#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-## kitschy
+> The beach hosted a kitesurfing event.
 
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/kitschy#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+例句来源：逐词编写的学习例句
 
-> This show is terribly kitschy. But I'm into it!
+## kits
 
-例句来源：[Tatoeba；作者：rul；句子 #12926745；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/12926745)
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/kits#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The shop sells repair kits for bicycles.
+
+例句来源：逐词编写的学习例句
 
 ## kitten
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/kitten#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> But if you put the kitten between the whales, he'll be warm.
+> A tiny kitten was hiding under the sofa.
 
-例句来源：[Tatoeba；作者：FeuDRenais；句子 #507731；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/507731)
-
-## kittle
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/kittle#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
+例句来源：逐词编写的学习例句
 
 ## kitty
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/kitty#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> He said there was a beast with fangs in the alley, but it turned out to be a cute little kitty.
+> The little kitty slept beside the window.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## kleenex
 
@@ -1111,12 +1413,8 @@
 ## kleptocracy
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/kleptocracy#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> Mugabe's regime did not so much slide as plunge headlong into kleptocracy.
-
-例句来源：[Tatoeba；作者：halfb1t；句子 #2047269；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/2047269)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The novel depicts a kleptocracy that diverts public funds into private accounts.
 
@@ -1132,6 +1430,16 @@
 
 例句来源：逐词编写的学习例句
 
+## knackered
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/knackered#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> I was completely knackered after moving all those boxes.
+
+例句来源：逐词编写的学习例句
+
 ## knapsack
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/knapsack#English)
@@ -1142,215 +1450,375 @@
 
 例句来源：逐词编写的学习例句
 
+## knead
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/knead#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Knead the dough until it feels smooth.
+
+例句来源：逐词编写的学习例句
+
+## kneaded
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/kneaded#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She kneaded the dough for several minutes.
+
+例句来源：逐词编写的学习例句
+
 ## kneading
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/kneading#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Tom has spent the past fifteen minutes kneading dough.
+> He was kneading dough at the kitchen table.
 
-例句来源：[Tatoeba；作者：sundown；句子 #6404894；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/6404894)
+例句来源：逐词编写的学习例句
+
+## kneads
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/kneads#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The baker kneads the dough by hand.
+
+例句来源：逐词编写的学习例句
 
 ## knee
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/knee#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Penny was wearing a miniskirt, so she skinned her exposed knees when she fell.
+> He rested the book on his knees.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## kneecap
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/kneecap#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> If these muscles are weak, they cannot hold the kneecap in the correct position.
+> The diagram showed the position of the kneecap.
 
-例句来源：[Tatoeba；作者：asys；句子 #2282428；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/2282428)
-
-## kneed
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/kneed#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
-
-> a kneed biped; a knobbly-kneed boy
-
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## kneel
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/kneel#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> In church you have to kneel during parts of the service.
+> She knelt beside the child to tie his shoelaces.
 
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset verb:01545649](https://wordnet.princeton.edu/)
+例句来源：逐词编写的学习例句
+
+## kneeled
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/kneeled#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She kneeled beside the bed to retrieve the book.
+
+例句来源：逐词编写的学习例句
 
 ## kneeling
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/kneeling#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Sherlock Holmes approached the body, and kneeling down, examined it intently.
+> He was kneeling on the floor, looking for the key.
 
-例句来源：[Tatoeba；作者：Hybrid；句子 #6303834；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/6303834)
+例句来源：逐词编写的学习例句
+
+## kneels
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/kneels#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> He kneels beside the child to look at the drawing.
+
+例句来源：逐词编写的学习例句
+
+## knees
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/knees#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She rested the notebook on her knees.
+
+例句来源：逐词编写的学习例句
+
+## knelt
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/knelt#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> He knelt to look under the sofa.
+
+例句来源：逐词编写的学习例句
+
+## knew
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/knew#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> I knew the answer but stayed quiet.
+
+例句来源：逐词编写的学习例句
 
 ## knife
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/knife#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> He was looking for a knife to chop some steak.
+> The bread knife is in the drawer.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## knifed
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/knifed#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Tom was knifed by a fellow gang member.
+> The report said that the man had been knifed.
 
-例句来源：[Tatoeba；作者：CK；句子 #11935978；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/11935978)
+例句来源：逐词编写的学习例句
 
 ## knight
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/knight#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> King Arthur and the Knights of the Round Table
+> The knight in the painting carries a shield.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## knighthood
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/knighthood#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> He's got an OBE and MBE, and his recent work should entitle him to a knighthood.
+> The biography describes how he received a knighthood.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## knightly
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/knightly#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> knightly combat
+> The hall displayed knightly armor and shields.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## knights
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/knights#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The museum displays armour worn by medieval knights.
+
+例句来源：逐词编写的学习例句
 
 ## knit
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/knit#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The first generation knitted to order; the second still knits for its own use; the next leaves knitting to industrial manufacturers.
+> She knitted a scarf for her brother.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## knitted
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/knitted#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She knitted a scarf for her brother.
+
+例句来源：逐词编写的学习例句
 
 ## knitter
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/knitter#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The pattern is suitable for beginner knitters.
+
+例句来源：逐词编写的学习例句
 
 ## knitting
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/knitting#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> She put down her knitting and went to answer the phone.
+> She took her knitting on the train.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## knitwear
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/knitwear#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Fashion company Betabrand saw that knitwear was a hot style in sneakers and wanted to quickly jump on the trend.
+> The shop has a new collection of knitwear.
 
-例句来源：[Tatoeba；作者：Hybrid；句子 #7006055；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/7006055)
+例句来源：逐词编写的学习例句
 
-## knobby
+## knives
 
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/knobby#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/knives#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The knives and forks are in the top drawer.
+
+例句来源：逐词编写的学习例句
 
 ## knock
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/knock#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> He played a slow but sure knock of 35.
+> Someone knocked on the door.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## knockdown
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/knockdown#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The shop sold the remaining stock at knockdown prices.
+
+例句来源：逐词编写的学习例句
+
+## knocked
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/knocked#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She knocked on the door and waited.
+
+例句来源：逐词编写的学习例句
 
 ## knocker
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/knocker#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Open the door and see who the knocker is.
+> The old door had a brass knocker.
 
-例句来源：[WordNet 3.0；Princeton University；WordNet 3.0；synset noun:10239761](https://wordnet.princeton.edu/)
+例句来源：逐词编写的学习例句
 
-## knockers
+## knocking
 
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/knockers#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/knocking#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Someone is knocking on the front door.
+
+例句来源：逐词编写的学习例句
+
+## knockoff
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/knockoff#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The watch turned out to be a cheap knockoff.
+
+例句来源：逐词编写的学习例句
+
+## knockout
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/knockout#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The cup uses a knockout format.
+
+例句来源：逐词编写的学习例句
+
+## knocks
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/knocks#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> We heard three knocks at the door.
+
+例句来源：逐词编写的学习例句
 
 ## knot
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/knot#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Climbers must make sure that all knots are both secure and of types that will not weaken the rope.
+> She tied a knot in the end of the rope.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
+
+## knots
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/knots#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The rope had several tight knots in it.
+
+例句来源：逐词编写的学习例句
 
 ## knotty
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/knotty#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> a knotty problem
+> The carpenter examined a piece of knotty wood.
 
-例句来源：Wiktionary 用例
+例句来源：逐词编写的学习例句
 
 ## knotweed
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/knotweed#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The botanist identified the plant as Japanese knotweed.
+
+例句来源：逐词编写的学习例句
 
 ## know
 
@@ -1365,116 +1833,116 @@
 ## knowable
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/knowable#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The exact date is knowable because the original records survive.
 
 例句来源：逐词编写的学习例句
 
-> The proto-language of Afroasiatic is not well understood, and it's not clear how knowable it is at all.
-
-例句来源：[Tatoeba；作者：shekitten；句子 #10193534；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/10193534)
-
 ## knowing
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/knowing#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > She gave me a knowing smile when he mentioned the surprise.
 
 例句来源：逐词编写的学习例句
 
-> a knowing rascal
-
-例句来源：Wiktionary 用例
-
 ## knowingly
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/knowingly#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > He denied knowingly giving anyone false information.
 
 例句来源：逐词编写的学习例句
 
-> She would never knowingly pour any pollutant down the drain.
-
-例句来源：Wiktionary 用例
-
 ## knowledge
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/knowledge#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > Her knowledge of local history made the walk much more interesting.
 
 例句来源：逐词编写的学习例句
 
-> Knowledge consists in recognizing the difference between good and bad decisions.
-
-例句来源：Wiktionary 用例
-
 ## knowledgeable
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/knowledgeable#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > The guide was knowledgeable about the region’s wildlife.
 
 例句来源：逐词编写的学习例句
 
-> a knowledgeable man
-
-例句来源：Wiktionary 用例
-
 ## known
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/known#English)
-- 发音资料：Wiktionary；核对后整理；见逐词精讲核对资料
-- 中文释义资料：ECDICT；逐词编写的中文释义
-
-> He was a known pickpocket.
-
-例句来源：Wiktionary 用例
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
 > This is a known problem, and the team is working on a fix.
 
 例句来源：逐词编写的学习例句
 
-## knuckled
+## knows
 
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/knuckled#English)
-- 发音资料：ECDICT（原库未逐词标明方言；规范化了重音及长度符号）
-- 中文释义资料：ECDICT
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/knows#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-## knucklehead
+> She knows how to repair the old radio.
 
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/knucklehead#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+例句来源：逐词编写的学习例句
 
-> Don't stick that screwdriver into the live electrical outlet, you knucklehead!
+## knuckle
 
-例句来源：Wiktionary 用例
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/knuckle#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> He bent his finger slowly at the knuckle.
+
+例句来源：逐词编写的学习例句
+
+## knuckles
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/knuckles#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> She knocked on the door with her knuckles.
+
+例句来源：逐词编写的学习例句
+
+## koala
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/koala#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> A koala rested in the fork of a tree.
+
+例句来源：逐词编写的学习例句
+
+## koalas
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/koalas#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> We spotted two koalas high in the trees.
+
+例句来源：逐词编写的学习例句
 
 ## koinophilia
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/koinophilia#English)
-
-## kooky
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/kooky#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
-
-> His kooky behavior seemed charming at first, but soon got on our nerves.
-
-例句来源：Wiktionary 用例
 
 ## kritarchy
 
@@ -1489,22 +1957,22 @@
 ## krypton
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/krypton#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> Krypton is an element 36 on the periodic table with symbol Kr.
+> Krypton is present in the atmosphere in small amounts.
 
-例句来源：[Tatoeba；作者：LinaTamazight；句子 #8767543；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/8767543)
+例句来源：逐词编写的学习例句
 
 ## kryptonite
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/kryptonite#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
 
-> The feelings of others are like kryptonite for Tom.
+> In the story, green kryptonite weakens Superman.
 
-例句来源：[Tatoeba；作者：shekitten；句子 #11944802；CC BY 2.0 FR](https://tatoeba.org/en/sentences/show/11944802)
+例句来源：逐词编写的学习例句
 
 ## ktetic
 
@@ -1513,12 +1981,6 @@
 ## ktetor
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ktetor#English)
-
-## kth
-
-- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/kth#English)
-- 发音资料：Wiktionary
-- 中文释义资料：ECDICT
 
 ## kudos
 
