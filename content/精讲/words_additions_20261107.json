@@ -1,0 +1,168 @@
+[
+  {
+    "word": "protestor",
+    "ipa": "英 /prəˈtes.tə(r)/；美 /ˈproʊ.tes.tɚ/（同 protester）",
+    "meaning": "抗议者；提出反对的人〔protester 的另一种拼写〕",
+    "sense": "把对某个决定的不满公开表达出来的人：可以举牌，也可以发言或写信。",
+    "split": "现代按 protest + 表示人的 -or 理解；protester 用 -er，protestor 用 -or。两者都是词典收录的拼写，不表示两类不同的人。更早的 protest 来自拉丁 prōtestārī：pro- 有“向外、在前”的意思，testārī 是“作证、声明”。",
+    "history": [
+      [
+        "拉丁 testis → testārī",
+        "见证人 → 作证、声明"
+      ],
+      [
+        "拉丁 pro- + testārī → prōtestārī；经法语进入英语 protest",
+        "向外、在前公开声明；后来用于表达反对"
+      ],
+      [
+        "英语 protest → protester / protestor",
+        "抗议 → 做出抗议的人；两种拼写指同一种角色"
+      ]
+    ],
+    "explanation": "公开声明自己的立场，逐渐发展出“表达反对”的常用义。pro- 在这条词源中不是现代 pro-democracy 中“支持”的意思；也不能把整词解释成“支持考试的人”。这个名词本身不说明抗议者的立场、诉求或行为是否暴力。",
+    "usage": "a peaceful protestor 和平抗议者；a student protestor 学生抗议者；a protestor against the closure 反对关闭措施的抗议者。",
+    "contrast": "protestor = protester；protestors = protesters。activist 强调持续推动某项事业的人，demonstrator 强调参与示威的人，含义可能重合但不完全相同。Protestant 通常指新教徒，不是普通的抗议者。",
+    "examples": [
+      [
+        "A protestor held a sign calling for the library to stay open.",
+        "一名抗议者举着标语牌，呼吁图书馆继续开放。"
+      ],
+      [
+        "The protestor explained her objections at the public meeting.",
+        "这名抗议者在公开会议上说明了自己的反对理由。"
+      ]
+    ],
+    "sources": [
+      "https://dictionary.cambridge.org/dictionary/english/protester",
+      "https://www.etymonline.com/word/protest"
+    ]
+  },
+  {
+    "word": "protestors",
+    "ipa": "英 /prəˈtes.təz/；美 /ˈproʊ.tes.tɚz/（复数 -s 读 /z/）",
+    "meaning": "抗议者们；示威者〔protestor 的复数，同 protesters〕",
+    "sense": "把镜头从一个表达反对的人移到一群人：他们可能聚集在楼外、举牌，或共同要求改变某项决定。",
+    "split": "protest + -or → protestor（抗议者），protestor + -s → protestors（复数）。先识别整个词基 protest，再理解人员后缀与复数；不要把字母串硬拆成 pro + 英语 test“考试”。另一种拼写链是 protest + -er + -s → protesters。",
+    "history": [
+      [
+        "拉丁 testis → testārī",
+        "见证人 → 作证、声明"
+      ],
+      [
+        "拉丁 pro- + testārī → prōtestārī；经法语进入英语 protest",
+        "向外、在前公开声明；后来用于表达反对"
+      ],
+      [
+        "英语 protest → protester / protestor",
+        "抗议 → 做出抗议的人；两种拼写指同一种角色"
+      ],
+      [
+        "protestor + -s → protestors",
+        "从一位抗议者变成多位抗议者；同 protesters"
+      ]
+    ],
+    "explanation": "protestors 和 protesters 意思相同，都指表达反对的人。复数后缀 -s 不改变核心意思；这里读 /z/，不用多加一个音节。句中可作主语或宾语：The protestors were outside. 用复数 were；the protestors’ signs 中撇号放在 s 后，表示这些抗议者的标语牌。",
+    "usage": "peaceful protestors 和平抗议者；a group of protestors 一群抗议者；protestors against the decision 反对该决定的抗议者。",
+    "contrast": "protestors/protesters 是人；protests 可指抗议活动的复数，也可作动词第三人称单数。不要把 protestors 误改成 protests，也不要把 protestors 当成表示宗教身份的 Protestants。",
+    "examples": [
+      [
+        "The protestors gathered outside the town hall to oppose the closure.",
+        "抗议者聚集在市政厅外，反对这项关闭决定。"
+      ],
+      [
+        "Several protestors asked the council to hold a public hearing.",
+        "几名抗议者要求议会举行公开听证会。"
+      ]
+    ],
+    "sources": [
+      "https://dictionary.cambridge.org/dictionary/english/protester",
+      "https://www.etymonline.com/word/protest"
+    ]
+  },
+  {
+    "word": "inept",
+    "ipa": "英、美 /ɪˈnept/",
+    "meaning": "不称职的；笨拙的；处理不当的",
+    "sense": "任务需要某种本领，做事的人却总是安排失当、说错话或把事情弄糟。这种“能力与任务不相称”的状态，就是 inept。",
+    "split": "英语经法语 inepte 或直接从拉丁 ineptus 借入；更早由 in-（不）与 aptus（适合）构成。apt- 在这条拉丁复合词中呈现 ept- 的形式，这是历史词形变化，不是现代英语把所有 apt 都改成 ept。不能按 in“在里面”来理解。",
+    "history": [
+      [
+        "拉丁 aptus",
+        "适合的、合用的"
+      ],
+      [
+        "否定前缀 in- + aptus → ineptus",
+        "不适合、不妥当；笨拙、不胜任"
+      ],
+      [
+        "法语 inepte／拉丁 ineptus → 英语 inept",
+        "不合适 → 缺乏技巧、不能妥善处理"
+      ]
+    ],
+    "explanation": "inept at organizing 强调不擅长组织；inept handling 强调处理方式很糟。它是明显的负面评价，比单纯 inexperienced“经验不足”更重；既可指工作能力，也可指社交中笨拙、不懂得体应对。",
+    "usage": "inept at handling complaints 不善于处理投诉；politically inept 政治上缺乏手腕；an inept response 应对失当。",
+    "contrast": "inept 是形容词，ineptitude 是名词。inexperienced 只说经验少，不一定做得差；inept 强调表现笨拙或不称职。apt 与 inept 有历史联系，但不要把 aptitude“天资、能力倾向”当成 attitude“态度”。",
+    "examples": [
+      [
+        "The team was inept at organizing the evacuation.",
+        "这支队伍组织疏散的能力很差。"
+      ],
+      [
+        "An inept response made a small misunderstanding worse.",
+        "一次失当的回应让一个小误会变得更严重。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/inept",
+      "https://dictionary.cambridge.org/us/dictionary/english/inept"
+    ]
+  },
+  {
+    "word": "ineptitude",
+    "ipa": "英 /ɪˈnep.tɪ.tʃuːd/；美 /ˌɪnˈep.tə.tuːd/；主重音落在 ept",
+    "meaning": "无能；不称职；笨拙的处理或表现",
+    "sense": "人坐在负责的位置上，却不会安排、不会协调，连本该办好的事也办不好。ineptitude 说的是这种做事无方、不能胜任的表现，不只是一次不走运。",
+    "split": "可用 inept（不称职的）+ -itude（性质、状态名词材料）记忆。历史上英语借自法语 ineptitude，后者来自拉丁 ineptitudo，是 ineptus 的性质名词；更深一层是 in-（不）+ aptus（适合），在复合词中出现 ept-。这是完整借词的来路，不能说是英语临时把 aptitude 的 a 改成 e。",
+    "history": [
+      [
+        "拉丁 aptus",
+        "适合的、合用的"
+      ],
+      [
+        "否定前缀 in- + aptus → ineptus",
+        "不适合、不妥当；笨拙、不胜任"
+      ],
+      [
+        "拉丁 ineptus → ineptitudo → 法语 ineptitude",
+        "把不适合、笨拙的性质作为名词来谈"
+      ],
+      [
+        "英语 ineptitude",
+        "不称职、无能；做事笨拙或应对失当"
+      ]
+    ],
+    "explanation": "常作不可数名词，强调缺乏能力或技巧造成的差劲表现。书中 politicians’ corruption and ineptitude 可理解为“政客的腐败与无能”：corruption 侧重以权谋私等不廉洁行为，ineptitude 侧重不会办事、治理无方。两者可以同时存在，但一个词不能替另一个；ineptitude 本身也不等于恶意或不诚实。",
+    "usage": "administrative ineptitude 行政无能；political ineptitude 政治上的无能或手腕欠缺；sheer ineptitude 十足的无能；display ineptitude 表现得很不称职；ineptitude in handling a crisis 处理危机时的无能。",
+    "contrast": "incompetence 与 ineptitude 都可指不胜任，ineptitude 常突出笨拙、失当的表现；inefficiency 是效率低，不一定完全没有能力。aptitude 是某方面的天赋或能力倾向，attitude 是态度。不要把 ineptitude 误记成“坏态度”，也不要看到 -itude 就机械译成“程度”。",
+    "examples": [
+      [
+        "Administrative ineptitude delayed the delivery of emergency supplies.",
+        "行政上的无能延误了应急物资的运送。"
+      ],
+      [
+        "The report criticized the committee’s ineptitude in handling complaints.",
+        "报告批评了委员会在处理投诉方面的无能。"
+      ],
+      [
+        "The failure reflected ineptitude rather than deliberate dishonesty.",
+        "这次失败反映的是能力不足，而不是蓄意的不诚实行为。"
+      ]
+    ],
+    "sources": [
+      "https://www.etymonline.com/word/ineptitude",
+      "https://www.etymonline.com/word/inept",
+      "https://dictionary.cambridge.org/dictionary/english/ineptitude",
+      "https://dictionary.cambridge.org/us/pronunciation/english/ineptitude"
+    ]
+  }
+]

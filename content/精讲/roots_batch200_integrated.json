@@ -12565,7 +12565,7 @@
     "core": "把两边放平，或让一个状态不大起大落",
     "image": "equal 是两边一样多；equilibrium 像天平稳住；equanimity 是心里稳住；equity 则问安排是否公道。",
     "intro": "拉丁 aequus 既说平、相等，也说公道、平稳。不同分支不是互相随便替换：equal 比数量，equity 讲公平或财产权益，equilibrium 讲作用的平衡，equanimity 讲人的镇定。先看正在比较什么，再理解这条“平”的线索。",
-    "forms": "equ-／equi- 常代表 aequus；equal- 来自 aequalis；equit- 接 aequitas 的词干；iniqu- 是拉丁 in- 与 aequus 结合后的词形。注意 equine、equestrian 的 equ- 来自 equus“马”，不是本页的 aequus。\n\nequation 经法语、拉丁 aequatio 使相等的名词材料，远连 aequus 相等、平。现代复数常数方程、等式，不把所有数学表达式都叫 equations。\n\nequal 接拉丁 aequalis、aequus 相等、平，现代名词可说同等者，动词可说等于。加 -s，/l/ 后读 /z/；形容词本身不因名词复数变成 equals。",
+    "forms": "equ-／equi- 常代表 aequus；equal- 来自 aequalis；equit- 接 aequitas 的词干；iniqu- 是拉丁 in- 与 aequus 结合后的词形。注意 equine、equestrian 的 equ- 来自 equus“马”，不是本页的 aequus。\n\nequation 经法语、拉丁 aequatio 使相等的名词材料，远连 aequus 相等、平。现代复数常数方程、等式，不把所有数学表达式都叫 equations。\n\nequal 接拉丁 aequalis、aequus 相等、平，现代名词可说同等者，动词可说等于。加 -s，/l/ 后读 /z/；形容词本身不因名词复数变成 equals。\n\nadequate 来自拉丁 adaequatus，远接 ad- 与 aequus“相等”：与需要相当，因而足够、合用。它与 equate 同源，但不是现代英语 equate 的直接派生；形容词末尾读 /ət/。",
     "branches": [
       [
         "相等与调整",
@@ -12594,6 +12594,10 @@
       [
         "equ- 平、相等 → equal → equals",
         "equals"
+      ],
+      [
+        "与需要相当、达到标准",
+        "adequate"
       ]
     ],
     "contrasts": "equal 是相等，equitable 是公平，equable 是平稳。inequality 可描述差距，inequity 指不公平，iniquity 往往重到罪恶、不义。equator 是赤道，equinox 是分日；名称含“等”，并不证明各地实际昼夜精确等长。equivocal 的多义支线接拉丁“同样的声音／称呼”，并非现代 equal 直接变成含糊。",
@@ -12640,7 +12644,8 @@
       "unequally",
       "equable",
       "equations",
-      "equals"
+      "equals",
+      "adequate"
     ],
     "sources": [
       "https://www.etymonline.com/word/equal",
@@ -14836,7 +14841,7 @@
     "core": "TEST = WITNESS",
     "image": "想象一个见证人站出来：“这件事我知道，我愿意说明。”公开声明变成 protest，双方争辩变成 contest；为事实作证则是 testify、attest。",
     "intro": "本页接拉丁 testis“见证人”和 testārī“作证”。熟悉的英语 test“测试”却主要来自检验金属用的容器 testum，不应因为拼写一样就硬并成这条词族。",
-    "forms": "pro- 把声明公开表达；ad- 在 attest 中同化为 at-；con- 在 contest 中连接共同作证、争辩的历史。testify 的 -fy 接 facere“做”，不是 test 后随便加字母。\n\n拉丁 protestari 的公开作证，经法语到英语，名词、动词重音分别标。\n\nprotest 加完整 er 成人员名，较早拉丁作证、声明词族经法语进入。\n\ntestify 经法语接拉丁 testificari 作证、显示等材料。辅音字母 + y 改 i，加完整 -ed → testified，末尾 /faɪd/；不编造宣誓仪式的词源传说。\n\ncontest 经法语接拉丁 contestari 招来见证、争辩的词族，含 con- 与 testis 见证者材料。加 -ed，/t/ 后读 /ɪd/，可说竞争、争取或对某事提出异议。\n\nprotest 经法语、拉丁 protestari 公开声明、作证，后来常说反对、抗议。现代加 -ing 原词不改，语气、句式决定是坚持声称还是表达反对。\n\ncontest 经法语、拉丁 contestari 召证争辩，后说竞争、比赛。现代 -s，名词通常前重音，动词后重音，词尾 /sts/。",
+    "forms": "pro- 把声明公开表达；ad- 在 attest 中同化为 at-；con- 在 contest 中连接共同作证、争辩的历史。testify 的 -fy 接 facere“做”，不是 test 后随便加字母。\n\n拉丁 protestari 的公开作证，经法语到英语，名词、动词重音分别标。\n\nprotest 加完整 er 成人员名，较早拉丁作证、声明词族经法语进入。\n\ntestify 经法语接拉丁 testificari 作证、显示等材料。辅音字母 + y 改 i，加完整 -ed → testified，末尾 /faɪd/；不编造宣誓仪式的词源传说。\n\ncontest 经法语接拉丁 contestari 招来见证、争辩的词族，含 con- 与 testis 见证者材料。加 -ed，/t/ 后读 /ɪd/，可说竞争、争取或对某事提出异议。\n\nprotest 经法语、拉丁 protestari 公开声明、作证，后来常说反对、抗议。现代加 -ing 原词不改，语气、句式决定是坚持声称还是表达反对。\n\ncontest 经法语、拉丁 contestari 召证争辩，后说竞争、比赛。现代 -s，名词通常前重音，动词后重音，词尾 /sts/。\n\nprotester 与 protestor 是同义拼写；复数分别为 protesters 与 protestors。人员后缀 -er / -or 和复数 -s 分开理解，不能按现代 test“考试”反推词源。",
     "branches": [
       [
         "陈述与证明",
@@ -14894,6 +14899,8 @@
       "detestable",
       "protests",
       "protesters",
+      "protestor",
+      "protestors",
       "testified",
       "contested",
       "protesting",

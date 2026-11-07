@@ -189179,6 +189179,11 @@
         "depth": 0,
         "evidence": "逐词词源核对"
       },
+      "adequate": {
+        "via": null,
+        "depth": 0,
+        "evidence": "Oxford：拉丁 adaequatus < adaequare < ad- + aequus；与 equ- 同源"
+      },
       "equilibrium": {
         "via": null,
         "depth": 0,
@@ -189324,7 +189329,8 @@
       "equable": 37,
       "equinoctial": 38,
       "equidistance": 39,
-      "equanimous": 40
+      "equanimous": 40,
+      "adequate": 43
     }
   },
   {
@@ -199933,6 +199939,16 @@
         "depth": 0,
         "evidence": "逐词词源核对"
       },
+      "protestor": {
+        "via": "protester",
+        "depth": 2,
+        "evidence": "Cambridge 收录的另一种拼写；与 protester 同义"
+      },
+      "protestors": {
+        "via": "protestor",
+        "depth": 3,
+        "evidence": "protestor 的规则复数"
+      },
       "testimony": {
         "via": null,
         "depth": 0,
@@ -199992,7 +200008,9 @@
       "attest": 7,
       "protester": 8,
       "detest": 9,
-      "detestable": 10
+      "detestable": 10,
+      "protestor": 17,
+      "protestors": 18
     }
   },
   {
@@ -263183,6 +263201,16 @@
         "depth": 0,
         "evidence": "逐词词源核对"
       },
+      "inept": {
+        "via": "apt",
+        "depth": 1,
+        "evidence": "拉丁 in- + aptus → ineptus；历史同源联系"
+      },
+      "ineptitude": {
+        "via": "inept",
+        "depth": 2,
+        "evidence": "法语 ineptitude < 拉丁 ineptitudo（ineptus 的性质名词）"
+      },
       "multitude": {
         "via": "-itude",
         "depth": 1,
@@ -263210,7 +263238,9 @@
       "apt": 4,
       "multitude": 1,
       "aptitude": 5,
-      "servitude": 2
+      "servitude": 2,
+      "inept": 7,
+      "ineptitude": 8
     }
   },
   {

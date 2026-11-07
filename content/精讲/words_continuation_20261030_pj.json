@@ -1011,23 +1011,31 @@
   },
   {
     "word": "culminate",
-    "ipa": "/ˈkʌlmɪneɪt/",
-    "meaning": "达到高潮；最终以……告终",
-    "sense": "前面一连串事情像沿坡往上走，最后抵达最突出的一幕或最终结果，就是 culminate。结局可以好，也可以坏。",
-    "split": "接中世纪拉丁 culminatus，来自 culminare，与拉丁 culmen 顶点、culmin- 词干相关；不是用现代英文 cull、min 拼起来。",
+    "ipa": "英、美 /ˈkʌlmɪneɪt/；重音在首音节，动词末尾 -ate 读 /eɪt/",
+    "meaning": "达到高潮或顶点；最终发展为、以……告终",
+    "sense": "像沿着山坡一路向上走，前面的每一步把你带到最后的山顶。culminate 让人把一段积累、变化或冲突，与它最终达到的关键结果联系起来；这个“高点”不一定是令人高兴的成功。",
+    "split": "记忆时看 culmin-（顶点）+ -ate（动词词尾）。culmin- 来自拉丁 culmen“顶点、山峰”的词干：属格是 culminis，因此词干中出现 -min-。英语词经晚期拉丁 culminare、其过去分词 culminatus 而来，有完整借词历史；不能拆成 cull + min，也不能把 -min- 解释成 minimum 的“小”。",
     "history": [
       [
-        "拉丁 culmen、culmin- 顶点、山峰 → culminare",
-        "到达最高点、登顶的材料"
+        "拉丁 culmen（属格 culminis），词干 culmin-",
+        "顶点、山峰、屋顶"
       ],
       [
-        "英语 culminate、culmination",
-        "到达高潮或最终结果；这一终点、成果"
+        "晚期拉丁 culminare → culminatus / culminat-",
+        "使到顶、冠于顶部；升至高处"
+      ],
+      [
+        "17 世纪英语 culminate 的天文学用法",
+        "天体到达中天；与到达高点的画面相连"
+      ],
+      [
+        "英语引申用法：culminate in / with",
+        "一段发展到达高潮，最终形成某个结果或以某事件收尾"
       ]
     ],
-    "explanation": "culminate in something 最终发展为某结果；culminate with an event 以某事件达到高潮或结束。常前有一段累积过程。",
-    "usage": "culminate in；culminate with。",
-    "contrast": "culminate 比普通 end 更突出前面过程汇聚到一个顶点、结果；不保证这是快乐的成功。",
+    "explanation": "常见句型是“过程或一连串事件 + culminate in + 结果”：主语可用 years of work、a dispute、a series of changes。in 后接名词、名词短语或动名词，不接 to do。culminate with 常把焦点放在最后举行的活动或压轴环节。新闻、历史叙述中，culminated in a crisis 应理解为“最终酿成危机”，不能机械译成“成功达到危机”。",
+    "usage": "culminate in a decision 最终形成一项决定；culminate in success 最终取得成功；culminate in conflict 最终演变为冲突；culminate with a concert 以音乐会达到高潮或收尾。过去式 culminated；现在分词 culminating；名词 culmination 表示顶点、高潮或最终成果。",
+    "contrast": "end 只说明结束；result in 强调产生结果；culminate in 还突出前面一段发展汇聚到终点或高点。peak 强调达到最高水平，之后可能回落；culminate 更常带出使整个过程收束的事件。常用学习句型是不及物的 X culminates in Y，不要漏掉 in 写成 X culminates Y。它与 accumulate“积累”拼写接近，但词源和意思不能混为一谈。",
     "examples": [
       [
         "Months of rehearsal culminated in a successful performance.",
@@ -1036,10 +1044,16 @@
       [
         "The dispute culminated in the director’s resignation.",
         "争议最终以主管辞职告终。"
+      ],
+      [
+        "The week-long festival will culminate with an outdoor concert.",
+        "为期一周的艺术节将以一场户外音乐会作为压轴。"
       ]
     ],
     "sources": [
-      "https://en.wiktionary.org/wiki/culminate#English"
+      "https://www.oxfordlearnersdictionaries.com/definition/english/culminate",
+      "https://www.etymonline.com/word/culminate",
+      "https://dictionary.cambridge.org/dictionary/english/culminate"
     ]
   },
   {

@@ -102254,6 +102254,9 @@
           "equatorial"
         ],
         [
+          "adequate"
+        ],
+        [
           "equilibrium",
           "disequilibrium"
         ],
@@ -111302,7 +111305,9 @@
           "protestant",
           "protesting",
           "protester",
-          "protesters"
+          "protesters",
+          "protestor",
+          "protestors"
         ],
         [
           "testimony"
@@ -111358,6 +111363,14 @@
         "detestable": {
           "base": "detest",
           "basis": "正文拆分与词形对应"
+        },
+        "protestor": {
+          "base": "protester",
+          "basis": "词典确认的拼写变体"
+        },
+        "protestors": {
+          "base": "protestor",
+          "basis": "规则复数"
         }
       }
     },
@@ -202405,7 +202418,9 @@
           "apt",
           "attitude",
           "attitudes",
-          "aptitude"
+          "aptitude",
+          "inept",
+          "ineptitude"
         ],
         [
           "multitude"
@@ -202426,6 +202441,14 @@
         "aptitude": {
           "base": "apt",
           "basis": "补充学习对应"
+        },
+        "inept": {
+          "base": "apt",
+          "basis": "拉丁 aptus 同源学习联系，不指现代英语直接派生"
+        },
+        "ineptitude": {
+          "base": "inept",
+          "basis": "形容词与性质名词对应"
         }
       }
     },

@@ -105,8 +105,8 @@
     "meaning": "拉丁性质、状态名词材料，随整词固定下来",
     "core": "-ITUDE：把一种性质或关系，当成状态来谈",
     "image": "multitude 看数量众多；servitude 看受支配、奴役状态。",
-    "intro": "两词不靠中文统一成一个模糊的度。前半指出多或受役关系，词尾帮助形成状态、集合等名词。",
-    "forms": "拉丁 -tudo、-itudo 等名词材料，经法语等进入英语 -itude 形式；不少是整体借入，不是现代英语任意加尾。\n\naptitude 接拉丁 aptitudo 适合；attitude 经意大利语、法语借入，同族材料在姿态、心理倾向方向分化；现代拼写不同，不能随意互换。\n\n意大利、法语艺术姿态用语借入后扩展到心态，较早接适合词族。",
+    "intro": "这组词把不同性质或关系当作名词来谈：multitude 说众多，servitude 说受役，aptitude 说能力倾向，ineptitude 说不胜任。不能把不同词都硬译成一种模糊的“度”。",
+    "forms": "拉丁 -tudo、-itudo 等名词材料，经法语等进入英语 -itude 形式；不少是整体借入，不是现代英语任意加尾。\n\naptitude 接拉丁 aptitudo 适合；attitude 经意大利语、法语借入，同族材料在姿态、心理倾向方向分化；现代拼写不同，不能随意互换。\n\n意大利、法语艺术姿态用语借入后扩展到心态，较早接适合词族。\n\nineptitude 经法语接拉丁 ineptitudo，属于 ineptus（不适合、不妥当）的词族；更早连接 in-（不）与 aptus（适合）。ept- 是这条历史词形中的形式，现代可借 inept + -itude 记忆。",
     "branches": [
       [
         "众多与受役状态",
@@ -119,6 +119,10 @@
       [
         "attitude → attitudes：身体姿态到心理态度",
         "attitude · attitudes"
+      ],
+      [
+        "不适合、不胜任的性质",
+        "apt · inept · ineptitude"
       ]
     ],
     "contrasts": "multitude 常可指一大群、许多，servitude 指受役状态；不是所有 -itude 都能按同一种可测量尺度理解。",
@@ -129,7 +133,9 @@
       "apt",
       "aptitude",
       "attitude",
-      "attitudes"
+      "attitudes",
+      "inept",
+      "ineptitude"
     ],
     "exclude": {}
   },

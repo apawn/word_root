@@ -676,6 +676,8 @@
 | inelegant | [elegant](../02_英语词基/2712_elegant_B3969.md) |
 | ineligibility | [leg-, lect-](../01_古典词根/0143_leg_C0659.md) |
 | ineligible | [leg-, lect-](../01_古典词根/0143_leg_C0659.md) |
+| inept | [-itude](../03_词缀与组合形式/1492_itude_A1822.md) |
+| ineptitude | [-itude](../03_词缀与组合形式/1492_itude_A1822.md) |
 | inequality | [-ity](../03_词缀与组合形式/0087_ity_A1675.md)、[equ-, -iqu-](../01_古典词根/0769_equ_C0381.md) |
 | inequitable | [equ-, -iqu-](../01_古典词根/0769_equ_C0381.md) |
 | inequity | [equ-, -iqu-](../01_古典词根/0769_equ_C0381.md) |

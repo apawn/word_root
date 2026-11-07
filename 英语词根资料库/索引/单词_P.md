@@ -2658,6 +2658,8 @@
 | protester | [test-](../01_古典词根/0852_test_C1499.md) |
 | protesters | [test-](../01_古典词根/0852_test_C1499.md) |
 | protesting | [test-](../01_古典词根/0852_test_C1499.md) |
+| protestor | [test-](../01_古典词根/0852_test_C1499.md) |
+| protestors | [test-](../01_古典词根/0852_test_C1499.md) |
 | protests | [test-](../01_古典词根/0852_test_C1499.md) |
 | prothesis | [the- (ΘΕ)](../01_古典词根/0762_the_C1509.md) |
 | prothetic | [the- (ΘΕ)](../01_古典词根/0762_the_C1509.md) |

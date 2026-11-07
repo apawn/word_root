@@ -420,7 +420,7 @@
 | adenovirus | [vir-](../01_古典词根/1639_vir_C1644.md)、[adeno-](../03_词缀与组合形式/3922_adeno_A2164.md) |
 | adept | [ad-, a-, ac-, af-, ag-, al-, am-, an-, ap-, ar-, as-, at-](../03_词缀与组合形式/0173_ad_C0015.md) |
 | adequacy | [-acy](../03_词缀与组合形式/0614_acy_A2367.md) |
-| adequate | [-ly](../03_词缀与组合形式/0023_ly_A1740.md)、[-ate](../03_词缀与组合形式/0200_ate_A1904.md)、[-acy](../03_词缀与组合形式/0614_acy_A2367.md) |
+| adequate | [equ-, -iqu-](../01_古典词根/0769_equ_C0381.md)、[-ly](../03_词缀与组合形式/0023_ly_A1740.md)、[-ate](../03_词缀与组合形式/0200_ate_A1904.md)、[-acy](../03_词缀与组合形式/0614_acy_A2367.md) |
 | adequately | [-ly](../03_词缀与组合形式/0023_ly_A1740.md) |
 | adhere | [here-, hes-](../01_古典词根/1729_here_C0540.md) |
 | adherence | [here-, hes-](../01_古典词根/1729_here_C0540.md) |
