@@ -5,7 +5,7 @@
     "core": "-OUS：某种特点落到了人、物或事情上",
     "image": "caution 谨慎 → cautious 谨慎的；peril 危险 → perilous 危险的；melody 旋律 → melodious 悦耳的。后缀提示形容词，具体评价由整词决定。",
     "intro": "先看它描写的是什么。humorous story 是有趣的故事，treacherous road 是危险难信赖的路，advantageous agreement 是有利协议。不要把“充满”当成唯一答案：路不是真的充满背叛，协议也不是把优势倒进了容器。",
-    "forms": "主要经法语 -ous、-eux 接拉丁 -osus 等材料，英语又继续形成相应形容词；形似的 -ious、-eous 等还可能包含不同的词干和借入历史。caution／cautious、melody／melodious、mucus／mucous 等都有词干对应，不是原词不动地一律加 ous。-ous 通常弱读，整词重音要单查：advantage 与 advantageous 重音、元音会变。humorous 的旧义与体液观念有关，现代主要说幽默；luscious 的确切词源有分歧，不硬造唯一短词。\n\ncancer 医学词经拉丁螃蟹、肿瘤旧名称等历史进入英语；cancer + -ous → cancerous，现代义按细胞、组织的癌性理解。旧形状比喻不是病因解释。\n\n法语 avantage 接 avant 在前，英语 d 后来按拉丁化理解加入。\n\nfury 经法语接拉丁 furia，furious 经另一相关借入形式，不只英语名词临时加 ous。\n\n希腊 melos 与 oide 组合后经拉丁、法语进入英语；复数只改变数目，不另造一次曲调来源。\n\nprestige 接法语、拉丁幻象词族，后来发展出令人仰慕的声望。prestigious 的早期魔术、迷惑义先于现代 prestige 正面义，学习排序不等于历史出现顺序。\n\n经法语邪恶、罪行词族，更远来源有争议。felony 名词、felon 人与 felonious 形容词对照；felony 变 y 为 i 加完整 -ous → felonious；各地区的法律分类不能统一按某一刑期定义。\n\nfrivolity 借法语 frivolité，远接拉丁 frivolus；与 frivolous 对应，但历史上不是把完整 frivolous 再直接加 -ity。\n\noblivion 经法语、拉丁 oblivio、oblivionem；oblivious 接拉丁 obliviosus，其中 -osus 对应 -ous。不是现代英语把完整 oblivion 再加 -ous；oblivisci 更远来源不定，不把抹平比喻定为事实。",
+    "forms": "主要经法语 -ous、-eux 接拉丁 -osus 等材料，英语又继续形成相应形容词；形似的 -ious、-eous 等还可能包含不同的词干和借入历史。caution／cautious、melody／melodious、mucus／mucous 等都有词干对应，不是原词不动地一律加 ous。-ous 通常弱读，整词重音要单查：advantage 与 advantageous 重音、元音会变。humorous 的旧义与体液观念有关，现代主要说幽默；luscious 的确切词源有分歧，不硬造唯一短词。\n\ncancer 医学词经拉丁螃蟹、肿瘤旧名称等历史进入英语；cancer + -ous → cancerous，现代义按细胞、组织的癌性理解。旧形状比喻不是病因解释。\n\n法语 avantage 接 avant 在前，英语 d 后来按拉丁化理解加入。\n\nfury 经法语接拉丁 furia，furious 经另一相关借入形式，不只英语名词临时加 ous。\n\n希腊 melos 与 oide 组合后经拉丁、法语进入英语；复数只改变数目，不另造一次曲调来源。\n\nprestige 接法语、拉丁幻象词族，后来发展出令人仰慕的声望。prestigious 的早期魔术、迷惑义先于现代 prestige 正面义，学习排序不等于历史出现顺序。\n\n经法语邪恶、罪行词族，更远来源有争议。felony 名词、felon 人与 felonious 形容词对照；felony 变 y 为 i 加完整 -ous → felonious；各地区的法律分类不能统一按某一刑期定义。\n\nfrivolity 借法语 frivolité，远接拉丁 frivolus；与 frivolous 对应，但历史上不是把完整 frivolous 再直接加 -ity。\n\noblivion 经法语、拉丁 oblivio、oblivionem；oblivious 接拉丁 obliviosus，其中 -osus 对应 -ous。不是现代英语把完整 oblivion 再加 -ous；oblivisci 更远来源不定，不把抹平比喻定为事实。\n\nperilous + -ly → perilously：副词说明动作或程度的危险，如 perilously low on food。peril—perilous—perilously 可作词族记忆，但 perilous 自身经法语接拉丁 periculosus，并非只有现代英语加后缀这一层历史。",
     "branches": [
       [
         "谨慎、幽默与华丽",
@@ -188,7 +188,8 @@
       "felonious",
       "frivolity",
       "oblivion",
-      "oblivious"
+      "oblivious",
+      "perilously"
     ],
     "exclude": {
       "e-famous": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",

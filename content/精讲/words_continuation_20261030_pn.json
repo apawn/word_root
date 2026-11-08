@@ -100,35 +100,52 @@
   },
   {
     "word": "scramble",
-    "ipa": "/ˈskræmbəl/",
-    "meaning": "手脚并用地爬；争抢、急忙行动；打乱、搅拌",
-    "sense": "手脚忙乱地往上爬，是 scramble；人们抢着找座位，也是争先忙动。把顺序搅乱、把蛋打散炒熟，又沿打散、混合的分支走。",
-    "split": "来源未定，可能接旧 scramb 抓拢等材料加 -le，也可能与 scrabble 的词形变化有关；不能只从炒蛋反推所有义。",
+    "ipa": "英、美 /ˈskræmbəl/；重音在第一音节，a 读 /æ/",
+    "meaning": "手脚并用地爬；争抢、仓促设法；打乱、搅炒；争夺〔名词〕",
+    "sense": "坡很陡，你顾不上姿势，抓着石头手脚并用地往上爬；机会很少，大家急着抢到一份。这种“忙、急、费力，顾不上从容有序”的感觉，能帮助理解 scramble 的攀爬和争抢义。打乱、搅炒则另记“把原有次序或整体搅散”的画面。",
+    "split": "现代英语里先把 scramble 当作完整词基。它的确切来源不明：词源资料提出过与 scrabble“抓扒、挣扎”或方言 scramb“用手拢起”等形式有关的解释，可能涉及鼻音变化和反复动作词尾。这里的“可能”不能省略，不能编成确定的拉丁词根，也不宜硬拆为 scram + -ble。语义画面是记忆帮助，不代表每个义项都有已证实的单一路线。",
     "history": [
       [
-        "旧抓拢、抓扒的相关材料",
-        "确切来源有分歧，常联系反复动作形"
+        "来源未定：可能联系 scrabble 或方言 scramb 等抓扒材料",
+        "这是词源假说，不是确定的现代构词公式"
       ],
       [
-        "英语 scramble",
-        "忙乱爬、争抢；打乱、搅拌"
+        "十六世纪后期英语 scramble：费力攀爬、争先抢取",
+        "手脚忙着移动，或与别人急着争取一份"
+      ],
+      [
+        "scramble 作名词：一场急切的争抢、费力的攀爬",
+        "the scramble for ... 可以直接表示对某物的争夺"
+      ],
+      [
+        "后来扩展出打乱、搅混及信号扰乱等用法",
+        "顺序被打乱；鸡蛋被搅散炒熟；信号被处理得不能直接辨识"
       ]
     ],
-    "explanation": "scramble up a slope 手脚并用爬坡；scramble for seats 争抢座位；scrambled eggs 炒蛋；scramble the order 打乱顺序。",
-    "usage": "scramble up；scramble for；scrambled eggs。",
-    "contrast": "scramble up 强调急或费力的攀爬，stroll 是从容散步；食物义要看宾语 eggs。",
+    "explanation": "书中 the scramble for loot and gold 中，scramble 是名词，for 后接争夺对象，整段可理解为“对战利品和黄金的争抢”；不是炒蛋，也不是普通的散步。另一处 the scramble for this newly valuable resource 说对新近变得值钱的资源的竞相争夺。scramble for 强调大家急着争取某物；scramble to do 强调时间紧、突发变化下仓促设法做成某事，不一定有人竞争。scramble up/over 则常指在陡坡、岩石等处手脚并用地爬。",
+    "usage": "scramble for seats/resources 争抢座位／资源；a scramble for power 权力争夺；scramble to find a solution 急忙设法找出解决办法；scramble up a slope 手脚并用爬坡；scramble the letters 打乱字母顺序；scrambled eggs 炒蛋。词形：scrambles /ˈskræmbəlz/；scrambled /ˈskræmbəld/（加 -d）；scrambling /ˈskræmbəlɪŋ/（去掉 e 加 -ing）。",
+    "contrast": "rush 主要强调急速，scramble 常多一层费力、忙乱或争先的感觉；compete 可以是有规则的竞争，scramble for 常让人感到机会有限、大家急着抢。climb 是一般的爬，scramble 往往突出手脚并用和地形难走。scramble the eggs 不只是把生蛋打匀，还包含搅散炒制；打乱或扰乱信号的 scramble 也不等于任何场景下都采用了特定的加密方法。",
     "examples": [
       [
-        "We scrambled up the rocky slope.",
-        "我们手脚并用爬上石坡。"
+        "We scrambled over the wet rocks to reach the path.",
+        "我们手脚并用爬过湿滑的岩石，才来到小路上。"
       ],
       [
-        "The children scrambled for the last few seats.",
-        "孩子们争抢最后几个座位。"
+        "The discovery triggered a scramble for control of the land.",
+        "这项发现引发了对那片土地控制权的争夺。"
+      ],
+      [
+        "The organizers scrambled to find another venue after the fire.",
+        "火灾发生后，组织者急忙设法寻找另一个场地。"
+      ],
+      [
+        "The puzzle scrambles the letters of a familiar word.",
+        "这道谜题把一个常见单词的字母顺序打乱了。"
       ]
     ],
     "sources": [
-      "https://en.wiktionary.org/wiki/scramble#English"
+      "https://www.etymonline.com/word/scramble",
+      "https://dictionary.cambridge.org/dictionary/english/scramble"
     ]
   },
   {

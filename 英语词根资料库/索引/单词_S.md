@@ -3086,6 +3086,8 @@
 | strangeness | [-ness](../03_词缀与组合形式/0091_ness_A1839.md)、[extra-](../03_词缀与组合形式/0685_extra_C0397.md) |
 | stranger | [extra-](../03_词缀与组合形式/0685_extra_C0397.md) |
 | strangers | [extra-](../03_词缀与组合形式/0685_extra_C0397.md) |
+| strangle | [string](../02_英语词基/1806_string_B2994.md) |
+| strangled | [string](../02_英语词基/1806_string_B2994.md) |
 | stranglehold | [hold](../02_英语词基/0283_hold_B2879.md) |
 | strap | [strap](../02_英语词基/2639_strap_B3627.md) |
 | strapless | [strap](../02_英语词基/2639_strap_B3627.md) |

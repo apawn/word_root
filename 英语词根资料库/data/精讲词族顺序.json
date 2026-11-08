@@ -51600,7 +51600,8 @@
         ],
         [
           "peril",
-          "perilous"
+          "perilous",
+          "perilously"
         ],
         [
           "mountainous"
@@ -51794,6 +51795,10 @@
         "delirious": {
           "base": "delirium",
           "basis": "补充学习对应"
+        },
+        "perilously": {
+          "base": "perilous",
+          "basis": "形容词加 -ly 构成副词"
         }
       }
     },
@@ -85578,6 +85583,7 @@
         ],
         [
           "treat",
+          "entreat",
           "treatment",
           "treated",
           "treaty",
@@ -85873,6 +85879,10 @@
         "intractable": {
           "base": "tractable",
           "basis": "正文拆分与词形对应"
+        },
+        "entreat": {
+          "base": "treat",
+          "basis": "经法语相关形式进入英语的同源词；非现代请客义的直接派生"
         }
       }
     },
@@ -92769,6 +92779,7 @@
       "groups": [
         [
           "treat",
+          "entreat",
           "treatment",
           "treatments",
           "treatable",
@@ -92791,6 +92802,10 @@
         "mistreat": {
           "base": "treat",
           "basis": "正文拆分与词形对应"
+        },
+        "entreat": {
+          "base": "treat",
+          "basis": "经法语相关形式进入英语的同源词；非现代请客义的直接派生"
         }
       }
     },
@@ -147373,6 +147388,9 @@
           "retailing",
           "retails",
           "retailed"
+        ],
+        [
+          "entail"
         ]
       ],
       "reading_links": {
@@ -157922,6 +157940,10 @@
           "hamstring",
           "shoestring",
           "drawstring"
+        ],
+        [
+          "strangle",
+          "strangled"
         ]
       ],
       "reading_links": {
@@ -157952,6 +157974,10 @@
         "drawstring": {
           "base": "string",
           "basis": "正文拆分与词形对应"
+        },
+        "strangled": {
+          "base": "strangle",
+          "basis": "规则过去式／过去分词"
         }
       }
     },

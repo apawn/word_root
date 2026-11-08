@@ -65259,6 +65259,11 @@
         "depth": 1,
         "evidence": "词典构词模板"
       },
+      "perilously": {
+        "via": "perilous",
+        "depth": 2,
+        "evidence": "形容词 perilous + 副词词尾 -ly"
+      },
       "mountainous": {
         "via": "-ous",
         "depth": 1,
@@ -65533,7 +65538,8 @@
       "tedium": 181,
       "frivolity": 192,
       "disadvantageous": 89,
-      "felonious": 191
+      "felonious": 191,
+      "perilously": 195
     }
   },
   {
@@ -79740,6 +79746,11 @@
         "depth": 0,
         "evidence": "逐词词源核对"
       },
+      "entreat": {
+        "via": "treat",
+        "depth": 1,
+        "evidence": "古法语 en- + traitier／traiter，接拉丁 tractare；历史词族关系"
+      },
       "treatment": {
         "via": null,
         "depth": 0,
@@ -80141,7 +80152,8 @@
       "subtractive": 37,
       "retraces": 61,
       "traceless": 62,
-      "subtrahend": 38
+      "subtrahend": 38,
+      "entreat": 69
     }
   },
   {
@@ -180230,6 +180242,11 @@
         "via": null,
         "depth": 0,
         "evidence": "逐词词源核对"
+      },
+      "entail": {
+        "via": null,
+        "depth": 0,
+        "evidence": "古法语 taile／taillier 的法律限定支，关联切分词族；非 retail 的现代派生"
       }
     },
     "unmatched": [],
@@ -180253,7 +180270,8 @@
       "tailor": 6,
       "retailing": 9,
       "retails": 10,
-      "retailed": 11
+      "retailed": 11,
+      "entail": 12
     }
   },
   {
@@ -194609,6 +194627,11 @@
         "depth": 0,
         "evidence": "根表例词／词基本身"
       },
+      "entreat": {
+        "via": "treat",
+        "depth": 1,
+        "evidence": "古法语 en- + traitier／traiter，接拉丁 tractare；历史词族关系"
+      },
       "treatment": {
         "via": "treat",
         "depth": 1,
@@ -194645,7 +194668,8 @@
       "treat": 2,
       "treatments": 5,
       "treatable": 3,
-      "mistreat": 4
+      "mistreat": 4,
+      "entreat": 6
     }
   },
   {
@@ -290421,6 +290445,16 @@
         "via": "string",
         "depth": 1,
         "evidence": "词典构词模板"
+      },
+      "strangle": {
+        "via": null,
+        "depth": 0,
+        "evidence": "独立借词；与 string 的远源联系见 Etymonline，不作现代派生"
+      },
+      "strangled": {
+        "via": "strangle",
+        "depth": 1,
+        "evidence": "规则过去式／过去分词"
       }
     },
     "unmatched": [],
@@ -290441,7 +290475,9 @@
       "shoestring": 4,
       "drawstring": 5,
       "stringed": 6,
-      "stringy": 7
+      "stringy": 7,
+      "strangle": 9,
+      "strangled": 10
     }
   },
   {

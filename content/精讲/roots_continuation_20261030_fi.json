@@ -96,7 +96,7 @@
     "core": "RETAIL：从分小块的旧意象到零售",
     "image": "retail → retailer；实体店与网店都能做零售，和 wholesale 对照看渠道角色。",
     "intro": "拆开卖是来源意象，现代并不要求现场切东西。retail a rumour 的转述义也像把消息传出去，不是把谣言当商品真的收费。",
-    "forms": "古法语 taillier 切 → retaillier、retail 切下、小块 → 英语 retail 零售；retail + -er → retailer。\n\nretail、tailor、detail 分别经法语切分相关词形成；tail 这个动物尾巴词不参与这条来源。detailed、detailing 是 detail 的现代扩展。\n\ndetail 经法语切成小块词族发展为细节；details 常在资料语境说联系方式等具体信息。\n\n法语切分材料进入零售义，现代完整 er 表执行业务主体，再加 s。\n\nretail 接法语切下部分的名动材料，按件售卖的具体发展未全定；现代 retails for 常说零售价格，不能当成 re- 再次加英语 tail 尾巴。",
+    "forms": "古法语 taillier 切 → retaillier、retail 切下、小块 → 英语 retail 零售；retail + -er → retailer。\n\nretail、tailor、detail 分别经法语切分相关词形成；tail 这个动物尾巴词不参与这条来源。detailed、detailing 是 detail 的现代扩展。\n\ndetail 经法语切成小块词族发展为细节；details 常在资料语境说联系方式等具体信息。\n\n法语切分材料进入零售义，现代完整 er 表执行业务主体，再加 s。\n\nretail 接法语切下部分的名动材料，按件售卖的具体发展未全定；现代 retails for 常说零售价格，不能当成 re- 再次加英语 tail 尾巴。\n\nentail 另经古法语切分、限定相关材料，先用于限定财产继承，后发展为必然涉及、带来；与本组是历史同源关系，不是 retail 的现代派生，也不含动物尾巴 tail。",
     "branches": [
       [
         "业务、价格与售卖动作",
@@ -136,7 +136,8 @@
       "retailers",
       "retails",
       "retailed",
-      "retailing"
+      "retailing",
+      "entail"
     ],
     "exclude": {
       "e-retail": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。"

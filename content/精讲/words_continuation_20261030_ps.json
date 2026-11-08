@@ -204,35 +204,45 @@
   },
   {
     "word": "coerce",
-    "ipa": "英 /kəʊˈɜːs/；美 /koʊˈɜːrs/",
-    "meaning": "强迫；胁迫",
-    "sense": "对方本来不愿意，却被威胁、强力或压力逼着做，这叫 coerce。重点不是说服他想通，而是压着他不得不做。",
-    "split": "借拉丁 coercere，关联 co- 一起 + arcere 围住、限制的材料；从约束走到强迫。现代不能拆成 co + 一个独立英语 erce。",
+    "ipa": "英 /kəʊˈɜːs/；美 /koʊˈɝːs/；两个音节，重音在后，词尾 c 发 /s/",
+    "meaning": "强迫；胁迫；以威胁或压力迫使",
+    "sense": "对方本来不愿意，却面临威胁、惩罚或强力压力，只能按你的要求去做。coerce 强调这种被压着服从的过程；一个人最后点头，不代表他是自由同意的。",
+    "split": "词源可追到拉丁语 co-（com- 的形式，合在一起）+ arcēre（围住、限制）→ coercēre（控制、约束）。arc- 在这个拉丁复合词中呈现 erc- 的形式，不能当作现代英语的通用换字母规则；erce 也不是独立的英语单词。这里 co- 不表示双方自愿合作，整词要从“把活动限制住”理解为约束、逼迫。",
     "history": [
       [
-        "拉丁 co- + arcere → coercere",
-        "一起收拢、围住、约束"
+        "拉丁语 arcēre：围住、限制；co- + arcēre → coercēre",
+        "收拢、控制，使行动受到约束"
       ],
       [
-        "英语 coerce → coercive",
-        "强迫；带强制、胁迫性质的"
+        "古法语 cohercier → 中古英语 cohercen",
+        "以法律或权力施加约束、强制"
+      ],
+      [
+        "现代英语 coerce",
+        "通过威胁、强力或压力迫使不愿意的人服从"
       ]
     ],
-    "explanation": "coerce someone into doing something 胁迫某人做某事；be coerced into 被迫……。",
-    "usage": "coerce someone into signing；coerce someone into agreeing。",
-    "contrast": "persuade 侧重说服，coerce 侧重强迫；同样得到了同意，不代表过程相同。",
+    "explanation": "书中 resources to extract and labor to coerce 把“可掠取的资源”和“可强迫驱使的劳动力”并列：labor 在这里指可被支配的人力，并不是“努力去强迫”这个动作。populations easier to coerce 则是“更容易胁迫、控制的人群”。常见结构是 coerce somebody into doing something，也可接 into + 名词；书中 coerce the indigenous peoples to give tribute and food 采用 to do 结构，仍表示逼迫原住民缴纳贡物和粮食。",
+    "usage": "coerce workers into accepting lower pay 胁迫工人接受降薪；coerce someone into silence 逼某人保持沉默；be coerced into signing 被迫签字；coerce a confession from someone 逼某人作出供述。词族：coercion 强制、胁迫；coercive 强制性的。词形：coerces（词尾 /ɪz/）、coerced（词尾 /st/）、coercing（去 e 加 -ing）。",
+    "contrast": "force 范围较广，既能指人为强迫，也能指形势所迫；coerce 更突出用权力、威胁或压力迫使对方服从。persuade 侧重通过理由、劝说促成决定，通常不含 coerce 的胁迫意味；compel 可用于强制，也可表示强烈的责任感等使人不得不行动。coercion 的 c 后面读 /ʃ/，coerce 和 coercive 中对应位置读 /s/。coercion 有自己的法语、拉丁语借入历史，把它和 coerce 并记不等于断言它是现代英语临时加后缀造出来的。",
     "examples": [
       [
-        "They tried to coerce him into signing the statement.",
-        "他们试图逼他签下声明。"
+        "The employer tried to coerce the workers into accepting lower pay.",
+        "雇主试图胁迫工人接受更低的工资。"
       ],
       [
-        "She said she had been coerced into accepting the deal.",
-        "她说自己是被迫接受这笔交易的。"
+        "She refused to be coerced into signing a statement she knew was false.",
+        "她拒绝在胁迫下签署一份自己明知虚假的声明。"
+      ],
+      [
+        "The threat of dismissal was used to coerce employees into silence.",
+        "解雇威胁被用来逼迫员工保持沉默。"
       ]
     ],
     "sources": [
-      "https://en.wiktionary.org/wiki/coerce#English"
+      "https://www.etymonline.com/word/coerce",
+      "https://ahdictionary.com/word/search.html?q=coerce",
+      "https://dictionary.cambridge.org/us/dictionary/english/coerce"
     ]
   },
   {

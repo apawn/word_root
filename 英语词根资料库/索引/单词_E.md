@@ -716,6 +716,7 @@
 | ensue | [sequ-, secut-](../01_古典词根/0190_sequ_C1317.md) |
 | ensure | [cur-](../01_古典词根/0134_cur_C0288.md) |
 | ensuring | [cur-](../01_古典词根/0134_cur_C0288.md) |
+| entail | [retail](../02_英语词基/0706_retail_B3411.md) |
 | entangle | [dis-](../03_词缀与组合形式/0015_dis_A1744.md)、[-ment](../03_词缀与组合形式/0074_ment_A1833.md) |
 | entanglement | [-ment](../03_词缀与组合形式/0074_ment_A1833.md) |
 | entendre | [tend-, tens-](../01_古典词根/0203_tend_C1488.md) |
@@ -760,6 +761,7 @@
 | entranceway | [entrance](../02_英语词基/2165_entrance_B2785.md) |
 | entrap | [trap](../02_英语词基/1717_trap_B3558.md) |
 | entrapment | [-ment](../03_词缀与组合形式/0074_ment_A1833.md)、[trap](../02_英语词基/1717_trap_B3558.md) |
+| entreat | [trah-, tract-](../01_古典词根/0183_trah_C1534.md)、[treat](../02_英语词基/0811_treat_B4100.md) |
 | entremet | [mit-, miss- (MIT-)](../01_古典词根/0171_mit_C0751.md) |
 | entrench | [trunc-](../01_古典词根/2322_trunc_C1562.md) |
 | entrenched | [trunc-](../01_古典词根/2322_trunc_C1562.md) |

@@ -71,7 +71,7 @@
     "core": "STRING：细长能绷紧，也能把许多东西串起来",
     "image": "string → stringed/stringy/stringer；鞋、抽拉、膝后部分别和 string 组成有用途的词。",
     "intro": "先抓细线，再看拉紧、串连、支撑三种画面。字符串把字符排成一串；限制条件像牵制的绳；并非每个后来义都能追成一个确定的故事。",
-    "forms": "strenġ → string；string + -ed/-y/-er；shoe/draw/ham + string；动词常见 string/strung/strung。\n\n古英语 streng 的绳线材料，延伸到弦、字符串和牵制关系。",
+    "forms": "strenġ → string；string + -ed/-y/-er；shoe/draw/ham + string；动词常见 string/strung/strung。\n\n古英语 streng 的绳线材料，延伸到弦、字符串和牵制关系。\n\n另设一组 strangle／strangled：strangle 经古法语、拉丁语接希腊语表示绳套和勒紧的词；string 则经古英语进入英语。词源资料把它们联系到更早的拉紧、缠绕概念，这不是 string → strangle 的现代派生规则。strangle 的直接来路应独立记忆。",
     "branches": [
       [
         "线、弦与性质角色",
@@ -84,9 +84,13 @@
       [
         "string → strings：一根根绳、弦与串起来的条件",
         "string · strings"
+      ],
+      [
+        "远源联系：绳套与勒紧（不是 string 的现代派生）",
+        "strangle · strangled"
       ]
     ],
-    "contrasts": "draw 这里是拉；ham 是膝后旧义；stringed 有弦，strung 动词分词；stringer 新闻义不编造唯一来源；on a shoestring 说预算很少。",
+    "contrasts": "draw 这里是拉；ham 是膝后旧义；stringed 有弦，strung 动词分词；stringer 新闻义不编造唯一来源；on a shoestring 说预算很少。 strangle 与 string 只在更深的词源层面联系；strange“奇怪的”则另源，不能因为拼写近似就并入这一词族。",
     "practice": "The stringer covered the concert on a shoestring budget.\n\n那位特约通讯员用很少的预算报道了音乐会。",
     "words": [
       "string",
@@ -96,7 +100,9 @@
       "shoestring",
       "drawstring",
       "hamstring",
-      "strings"
+      "strings",
+      "strangle",
+      "strangled"
     ],
     "exclude": {}
   }

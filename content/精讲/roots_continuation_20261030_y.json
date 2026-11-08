@@ -5,7 +5,7 @@
     "core": "TREAT：怎么对待；TREATABLE：能施以治疗",
     "image": "treat 与 treatment 已精讲，接 treatable，再共享 mistreat，分清治疗能力和治愈结果。",
     "intro": "法语处理词在英语中有对待、治疗、款待等分支。treatable 的现代医疗用法选的是治疗分支。",
-    "forms": "treat → treatment、treatable；mis- + treat → mistreat。\n\n本族后缀对应与法语 traitement 可比较，现代复数末尾 ts。",
+    "forms": "treat → treatment、treatable；mis- + treat → mistreat。\n\n本族后缀对应与法语 traitement 可比较，现代复数末尾 ts。\n\nentreat 经古法语 en- + traitier／traiter 的相应形式而来，更早接拉丁 tractare；从对待、商谈发展出恳求。与 treat 同源，不按现代“请客／治疗”义相加。",
     "branches": [
       [
         "处理、过程与可能性",
@@ -27,7 +27,8 @@
       "treatment",
       "treatable",
       "mistreat",
-      "treatments"
+      "treatments",
+      "entreat"
     ],
     "exclude": {
       "re-treat": "本轮先保留常用、构词清楚的学习词；冷门词暂缓。",

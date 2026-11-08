@@ -744,6 +744,7 @@
 | perihelion | [peri-](../03_词缀与组合形式/0756_peri_C1004.md)、[heli-](../01_古典词根/3483_heli_C0527.md) |
 | peril | [-ous](../03_词缀与组合形式/0138_ous_A1705.md) |
 | perilous | [-ous](../03_词缀与组合形式/0138_ous_A1705.md) |
+| perilously | [-ous](../03_词缀与组合形式/0138_ous_A1705.md) |
 | perimenopause | [men-](../01_古典词根/3561_men_C0721.md) |
 | perimeter | [peri-](../03_词缀与组合形式/0756_peri_C1004.md)、[meter-, metr-](../01_古典词根/1021_meter_C0733.md) |
 | perinatal | [peri-](../03_词缀与组合形式/0756_peri_C1004.md) |

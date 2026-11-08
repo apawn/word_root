@@ -697,72 +697,96 @@
   },
   {
     "word": "strand",
-    "ipa": "/strænd/",
-    "meaning": "一股、一缕；方面、线索；使搁浅、滞留；海岸〔较文学〕",
-    "sense": "一根细长材料是一 strand of hair；故事的一条发展线是 a strand。让人没法离开某地的 strand 则从海岸、搁浅那支理解。",
-    "split": "海岸支接古英语 strand；绳股、发丝支可能另接日耳曼线股材料，来源有争论。两支近形不能硬说成海滩拉出的头发。",
+    "ipa": "英、美 /strænd/；单音节，a 读 /æ/",
+    "meaning": "一股、一缕；线索、组成部分；使搁浅、滞留；海滨〔文学用语〕",
+    "sense": "分开记两个画面：一根绳由几股细线拧成，strand 是其中一股；一艘船被留在岸边、无法继续航行，strand 又表示使搁浅，后来也表示让人困在某处。",
+    "split": "strand 在现代英语中作为完整词基学习，不拆成 str- + and，也不要从 stand“站立”硬造词源。海岸这一支继承古英语 strand；绳股这一支可能来自欧洲大陆日耳曼语中表示一束线、发绺的词，确切传入路线仍有争议。两支分别理解，不把“海岸 → 发丝”写成确定的演化。",
     "history": [
       [
-        "古英语 strand 海岸 → strand",
-        "海岸；使船搁在岸边、搁浅"
+        "海岸支：古英语 strand → 英语 strand（名词）",
+        "岸、海滨；现代这一名词义较偏文学表达"
       ],
       [
-        "另有绳股、细丝的 strand，来源关系未定",
-        "绳股、发丝；不硬并成同一条海滩故事"
+        "海岸支继续：strand（使搁浅）→ 使人滞留",
+        "船停在岸边走不了 → 人无法离开或继续旅程"
+      ],
+      [
+        "另一支：绳股、发绺材料 → strand（线股）",
+        "可能接欧洲大陆日耳曼语材料，具体关系未定；不是上一阶段的派生"
+      ],
+      [
+        "线股支继续：组成绳的一股 → 构成整体的一条线索",
+        "故事、思想或研究中彼此交织的一部分"
       ]
     ],
-    "explanation": "a strand of hair 一缕头发；a strand of the argument 论证的一方面；strand travellers 使旅客滞留。",
-    "usage": "a strand of hair；a strand of the story；strand travellers。",
-    "contrast": "strand 的名词细丝义与搁浅动词分源理解；不要把每个 stranded 都译成“被分成丝状”。",
+    "explanation": "线股义是可数名词：a strand of hair 可指一根或一缕头发，a strand of wire 是一股金属丝，a DNA strand 是一条 DNA 链。抽象的 strands of an argument 指论证中不同而相关的思路，像几股线织成一个整体。动词 strand 常表示外部原因让人无法离开：取消航班、道路中断或交通工具故障都可以 strand passengers。它不要求人真的在海边，也不等于有人故意抛弃他们。",
+    "usage": "a strand of hair 一根／一缕头发；a strand of DNA 一条 DNA 链；different strands of a story 故事的不同线索；strand passengers 使乘客滞留；leave someone stranded 使某人受困。词形：strand → strands → stranded → stranding；复数或第三人称单数 strands 末尾读 /dz/。",
+    "contrast": "string 常指一根细绳，strand 常强调组成绳、缆或整体的某一股；thread 常指缝纫线，也可指思路。动词 strand 与 be stranded 对应“使困住／被困”，不是“拆成细丝”。strangle 是勒死、扼杀，拼写与 strand 接近并不构成现代派生关系。",
     "examples": [
       [
-        "A strand of hair fell across her face.",
-        "一缕头发垂到她脸上。"
+        "The cable contains several strands of copper wire.",
+        "这根电缆里有几股铜线。"
       ],
       [
-        "The storm stranded travellers at the station.",
-        "暴风雨让旅客滞留在车站。"
+        "The final chapter brings the different strands of the argument together.",
+        "最后一章把论证中的不同思路汇到一起。"
+      ],
+      [
+        "The cancelled ferry stranded the visitors on the island.",
+        "轮渡取消，让游客滞留在岛上。"
+      ],
+      [
+        "At dawn, they walked along the deserted strand.",
+        "黎明时，他们沿着空无一人的海滨行走。"
       ]
     ],
     "sources": [
-      "https://en.wiktionary.org/wiki/strand#English"
+      "https://www.etymonline.com/word/strand",
+      "https://dictionary.cambridge.org/dictionary/english/strand",
+      "https://www.collinsdictionary.com/dictionary/english/strand"
     ]
   },
   {
     "word": "stranded",
-    "ipa": "/ˈstrændɪd/",
-    "meaning": "滞留、困住的；搁浅的；成股的〔特定材料用法〕",
-    "sense": "末班车走了，自己卡在这里回不去，就是 stranded 的常用感觉，不必真在海岛或沙滩。",
-    "split": "搁浅、滞留义 strand + -ed，/d/ 后接 /ɪd/；材料里的成股义还可能接绳股名词形成的拥有结构性质，须分上下文。",
+    "ipa": "英、美 /ˈstrændɪd/；-ed 在 /d/ 后读 /ɪd/，增加一个音节",
+    "meaning": "滞留的、无法离开的；搁浅的；成股的〔材料用语〕",
+    "sense": "末班车已经走了，附近又没有别的交通工具，你没法回去：这就是 stranded。重点是“想继续走，却没有办法”，不一定在荒岛上，也不一定独自一人。",
+    "split": "常用的滞留、搁浅义来自 strand + -ed，是规则过去式、过去分词，也可作形容词。strand 本来就以 d 结尾，仍加完整的 -ed，写成 stranded，读 /ˈstrændɪd/。stranded wire 的材料义来自“线股”这一支，应另按“由多股组成”理解。",
     "history": [
       [
-        "古英语 strand 海岸 → strand",
-        "海岸；使船搁在岸边、搁浅"
-      ],
-      [
-        "另有绳股、细丝的 strand，来源关系未定",
-        "绳股、发丝；不硬并成同一条海滩故事"
+        "古英语 strand（海岸）→ strand（使搁浅）",
+        "船到了岸边或浅处，无法继续航行"
       ],
       [
         "strand + -ed → stranded",
-        "搁浅、无法离开；另有绳股相关性质"
-      ]
-    ],
-    "explanation": "stranded passengers 滞留乘客；be stranded at the airport 困在机场；stranded wire 多股线，属于材料的另一义支。",
-    "usage": "stranded passengers；be stranded at the airport。",
-    "contrast": "stranded 侧重无法离开、缺乏出路；alone 只说独自，不保证被困。",
-    "examples": [
-      [
-        "Cancelled trains left hundreds of passengers stranded.",
-        "列车取消，数百名乘客滞留。"
+        "搁浅的；进一步指缺乏交通工具等而无法离开的"
       ],
       [
-        "The boat was stranded on a sandbank.",
-        "小船搁浅在沙洲上。"
+        "材料语境另看线股支：strand → stranded wire",
+        "由多股细线构成的导线；不是上一步“滞留”的比喻"
+      ]
+    ],
+    "explanation": "be stranded at the airport 是滞留机场；get stranded 强调陷入困境；leave someone stranded 强调使某人处于无法离开的状态。in、on、at 由地点决定：in a city、on an island、at a station。without transport 说明缺少继续行程所需的交通工具。stranded passengers 是“被困／滞留的乘客”，不是造成别人受困的乘客。",
+    "usage": "be/get stranded 被困、滞留；leave travellers stranded 使旅客滞留；stranded on an island 被困在岛上；stranded without a car 没有车而无法离开；a stranded ship 搁浅的船。",
+    "contrast": "alone 只说独自，stranded 说无法离开；abandoned 强调被抛弃，stranded 可能只是交通中断；stuck 范围更广，也可指工作卡住或物体卡住。stranded 的 -ed 读 /ɪd/，而 strangled 中的 -ed 在 /l/ 后读 /d/，不能套用同一种读法。",
+    "examples": [
+      [
+        "A flat battery left us stranded outside the village.",
+        "汽车电瓶没电，让我们困在村外。"
+      ],
+      [
+        "The passengers were stranded at the airport overnight.",
+        "乘客在机场滞留了一夜。"
+      ],
+      [
+        "The boat remained stranded on the sandbank until the tide returned.",
+        "那条船一直搁浅在沙洲上，直到潮水再次上涨。"
       ]
     ],
     "sources": [
-      "https://en.wiktionary.org/wiki/stranded#English"
+      "https://www.etymonline.com/word/strand",
+      "https://dictionary.cambridge.org/dictionary/english/stranded",
+      "https://www.collinsdictionary.com/dictionary/english/stranded"
     ]
   },
   {
