@@ -40,6 +40,8 @@ pharmaco- + -logy → pharmacology；旧药、毒意义反映历史材料范围�
 
 pharmaco- 来自希腊 phármakon“药物、毒物”，加 -logy；现代学科名用古典材料组成。
 
+**继续看词根／词基**：[log-, -logy](../01_古典词根/0425_log_C0685.md) · [pharmac-](../01_古典词根/2231_pharmac_C1014.md)
+
 **怎么变成今天的意思**
 
 **希腊 légō / lógos**  

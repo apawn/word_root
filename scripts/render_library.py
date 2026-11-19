@@ -14,6 +14,7 @@ from build_catalog import BASE, CACHE, OUT, load_lexicon, components
 from explanatory import load_lessons,render_root,finish as finish_lessons,images_paused
 from lesson_order import make_relations,order_family
 from source_archive import write_source_archive
+from lesson_navigation import LessonNavigation
 
 LANG={'Latin':'拉丁语','Greek':'古希腊语','Latin from Greek':'拉丁语 ← 古希腊语','Latin and Greek':'拉丁语／古希腊语','Greek/Latin':'古希腊语／拉丁语','Latin, Greek':'拉丁语／古希腊语','Greek from Hebrew':'古希腊语 ← 希伯来语',
       'en':'英语','enm':'中古英语','ang':'古英语','la':'拉丁语','la-new':'新拉丁语','la-med':'中世纪拉丁语','grc':'古希腊语','fr':'法语','fro':'古法语','frm':'中古法语','de':'德语','gem-pro':'原始日耳曼语','gmw-pro':'原始西日耳曼语','ine-pro':'原始印欧语','non':'古诺尔斯语','nl':'荷兰语','it':'意大利语','es':'西班牙语','ar':'阿拉伯语','ota':'奥斯曼土耳其语','ja':'日语','zh':'汉语','hi':'印地语','sa':'梵语','fa':'波斯语','he':'希伯来语','pt':'葡萄牙语','itc-pro':'原始意大利语','el':'现代希腊语'}
@@ -191,7 +192,8 @@ def write_references(references):
         letters[letter if letter in 'ABCDEFGHIJKLMNOPQRSTUVWXYZ' else '其他'].append((word,ref))
     index=['# 词条与例句来源','', '[来源与许可](../来源与许可.md)','',
            '学习正文的词条链接、发音及释义出处、例句作者和许可集中保存在这里。','',
-           '**[逐词精讲核对资料](逐词精讲核对资料.md)**：重写页面所用的词源和读音核对资料。精讲中的双语例句由 AI 逐词编写。','']
+           '**[逐词精讲核对资料](逐词精讲核对资料.md)**：重写页面所用的词源和读音核对资料。精讲中的双语例句由 AI 逐词编写。','',
+           '[词缀精讲的词根导航检查](词缀词根导航检查.md)：全部词缀精讲页的跳转覆盖及需继续复核的词条。','']
     for letter,items in sorted(letters.items()):
         filename=f'词条来源_{letter}.md'
         index.append(f'- [{letter}：{len(items):,} 个词]({filename})')
@@ -250,7 +252,9 @@ def main():
     roots.sort(key=lambda r:(-r['score'],r['root'],r['id']))
     for rank,r in enumerate(roots,1):
         r['rank']=rank
-        r['file']=re.sub(r'/\d{4}_',f'/{rank:04d}_',r['file'])
+        # Catalogue ordering may change when a lesson gains vocabulary.
+        # Existing URLs must continue to resolve to the same stable root ID.
+        r['file']=previous.get(r['id'],{}).get('file') or re.sub(r'/\d{4}_',f'/{rank:04d}_',r['file'])
     expected={r['file'] for r in roots}
     for folder in ['01_古典词根','02_英语词基','03_词缀与组合形式']:
         for old in (OUT/folder).glob('[0-9][0-9][0-9][0-9]_*.md'):
@@ -265,6 +269,9 @@ def main():
     (OUT/'assets').mkdir(parents=True,exist_ok=True)
     all_words=set();reverse=collections.defaultdict(list);quality=[];index=[];useddata={};references={}
     occurrence=collections.Counter();unique_has=collections.defaultdict(set)
+    navigation_path=BASE/'content/精讲/词根导航核对.json'
+    navigation=LessonNavigation(roots,lessons,lesson_words,lex,
+        json.loads(navigation_path.read_text()) if navigation_path.exists() else {})
     for r in roots:
         if not r['meaning_zh'] and r['headword']:
             r['meaning_zh']=chinese(r['headword'],lex[r['headword']],ec)[0]
@@ -332,10 +339,11 @@ def main():
             lines += [f'- {md(w)}' for w in r['unmatched']]
             lines+=['']
         write(r['file'],'\n'.join(lines))
-        if r['id'] in lessons:render_root(r,lessons[r['id']],lesson_words)
+        if r['id'] in lessons:render_root(r,lessons[r['id']],lesson_words,navigation)
         index.append(r)
         if r['rank']%500==0:print('Rendered',r['rank'],flush=True)
     write_references(references)
+    print('Affix navigation',navigation.write_audit(OUT),flush=True)
     # Coverage and reproducibility data are kept outside learning pages.
     stats=dict(entries=len(roots),groups=dict(collections.Counter(r['group'] for r in roots)),unique_words=len(all_words),word_occurrences=sum(len(r['family']) for r in roots),field_occurrences=dict(occurrence),field_unique={k:len(v) for k,v in unique_has.items()},empty_entries=sum(not r['family'] for r in roots),source_rows=1680,manual_root_notes=len(notes),wordfreq_version=importlib.metadata.version('wordfreq'),date='2026-10-21')
     write('data/统计.json',json.dumps(stats,ensure_ascii=False,indent=2))
@@ -353,7 +361,7 @@ def main():
         OUT/'data'/'词条来源')
     (OUT/'data'/'词条来源.jsonl').unlink(missing_ok=True)
     for title,items,path in [('总目录：按常用程度',roots,'00_总目录_按常用程度.md'),('字母索引',sorted(roots,key=lambda r:r['root'].strip('-').lower()),'00_字母索引.md'),('古典词根学习顺序',[r for r in roots if r['group']=='01_古典词根'],'00_古典词根学习顺序.md')]:
-        ls=[f'# {title}','', '[逐词精讲目录](00_逐词精讲目录.md) · [使用说明](README.md) · [覆盖与缺项](覆盖与缺项.md)','', '同形异源条目分别保留；词缀和自由词基不计作纯词根。文件名前四位是本版全库排序号。','', '| 排序 | 条目 | 类型 | 核心义／释义 | 收词数 |','|---:|---|---|---|---:|']
+        ls=[f'# {title}','', '[逐词精讲目录](00_逐词精讲目录.md) · [使用说明](README.md) · [覆盖与缺项](覆盖与缺项.md)','', '同形异源条目分别保留；词缀和自由词基不计作纯词根。文件名保留原编号以保持链接稳定，当前学习顺序以本目录为准。','', '| 排序 | 条目 | 类型 | 核心义／释义 | 收词数 |','|---:|---|---|---|---:|']
         for r in items:ls.append(f'| {r["rank"]} | [{md(r["root"])}]({r["file"]}) | {r["kind"]} | {md((r["meaning_zh"] or r["meaning"])[:150])} | {len(r["family"])} |')
         write(path,'\n'.join(ls)+'\n')
     letters=collections.defaultdict(list)

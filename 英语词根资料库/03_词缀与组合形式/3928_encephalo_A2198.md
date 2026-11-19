@@ -40,6 +40,8 @@ en- 在里面 + 头相关材料 → 希腊 enkephalos 脑；encephalo- + -pathy 
 
 encephalo- 表示脑，-pathy 表示疾病或病变。前半部分来自希腊 enkephalos，字面是“头里面的东西”，后来明确指脑；不能把全词只理解成头痛。
 
+**继续看词根／词基**：[cephal-](../01_古典词根/3629_cephal_C0201.md) · [encephal-](../01_古典词根/3733_encephal_C0374.md)
+
 **怎么变成今天的意思**
 
 **希腊 kephalē**  

@@ -57,6 +57,8 @@ unify 到 unification 是统一过程，personify 到 personification 是拟人�
 
 uni-（一）+ -fy（使成为，来自 facere）形成 unify，可对应 -fication 名词；历史也可能借自法语或意大利语相关形式。
 
+**继续看词根／词基**：[fac-, fact-, -fect-, -fic- (FAC)](../01_古典词根/0050_fac_C0401.md) · [un-](../01_古典词根/0128_un_C1580.md)
+
 **怎么变成今天的意思**
 
 ![unification 的词源演化](../assets/evolution/unification-2baaf8c0.svg)
@@ -140,6 +142,8 @@ renovation 是翻修，gentrification 还涉及居民阶层、成本和用途变
 
 经法语 magnificacion 或直接借晚期拉丁 magnificatio／magnificationem，接 magnificare。现代对应 magnify 的名词，但拉丁、法语已有独立名词，不能把古词说成由现代英语倒造。
 
+**继续看词根／词基**：[magn-](../01_古典词根/2046_magn_C0698.md)
+
 **怎么变成今天的意思**
 
 **拉丁 magnus**  
@@ -192,6 +196,8 @@ magnification 是放大或倍率；magnificence 是壮丽、气派。resolution 
 
 personify 与 personification 对应，现代可用 person + -ification 识别，把事物赋予人的性质、形象及其结果。-ify 动词到 -ification 名词有词尾替换，不是 personify 后直接保留 y 再加全套后缀。
 
+**继续看词根／词基**：[person](../02_英语词基/0262_person_B2595.md)
+
 **怎么变成今天的意思**
 
 **拉丁语 -ficāre、-ficātiō 相关构词 → -ify、-ification**  
@@ -239,6 +245,8 @@ intensification 是强度一步步升高的过程，像颜色加深或竞争升�
 
 intensify 的名词形式，-ify 转成 -ification；表示加强的过程或结果。
 
+**继续看词根／词基**：[tend-, tens-](../01_古典词根/0203_tend_C1488.md)
+
 **怎么变成今天的意思**
 
 ![intensification 的词源演化](../assets/evolution/intensification-7e39f828.svg)
@@ -274,6 +282,8 @@ expansion 常是规模扩大；intensification 是已有活动变得更密集、
 **怎么拆**
 
 来自学术拉丁语 stratificatio，与 stratificare“使成层”有关；英语名词记录早于 stratify，不能把实际历史只写成现代动词加 -ation。
+
+**继续看词根／词基**：[stern-, strat-](../01_古典词根/0595_stern_C1418.md)
 
 **怎么变成今天的意思**
 
@@ -322,6 +332,8 @@ stratum 是其中一层；stratification 是形成层次的过程或整体格局
 
 借法语 acidification；现代与 acidify 对应，可理解 acid + -ification。
 
+**继续看词根／词基**：[acid-](../01_古典词根/1809_acid_C0011.md)
+
 **怎么变成今天的意思**
 
 **拉丁 acidus → 英语 acid**  
@@ -363,6 +375,8 @@ acidity 是某一时刻的酸度或酸性；acidification 是向更酸方向变�
 **怎么拆**
 
 与 objectify 对应的 -ification 名词；词底 object 在这里是可被观看、使用或思考的对象。
+
+**继续看词根／词基**：[jac-, -ject-](../01_古典词根/0270_jac_C0620.md)
 
 **怎么变成今天的意思**
 
@@ -411,6 +425,8 @@ objectivity 是判断尽量不受个人偏好左右；objectification 是把某�
 
 借后期拉丁 nullificātiō，接 nullificāre 使归于无。现代对应 nullify → nullification 的动名词变化，但历史名词本身有拉丁借入路线。
 
+**继续看词根／词基**：[null-](../01_古典词根/3059_null_C0841.md) · [null](../02_英语词基/3159_null_B3229.md)
+
 **怎么变成今天的意思**
 
 **拉丁 nūllus〔没有任何；无〕**  
@@ -457,6 +473,8 @@ nullity 偏向无效状态，nullification 偏向使它无效的行为或结果�
 **怎么拆**
 
 借后期拉丁 falsificātiō，接 falsificāre；现代与 falsify 的行为名词对应，不必断言是英语动词先出现后才造名词。
+
+**继续看词根／词基**：[fall-, fallac-, fals-](../01_古典词根/0481_fall_C0403.md)
 
 **怎么变成今天的意思**
 
@@ -505,6 +523,8 @@ falsification 表示行为或结果；falsifiability 表示理论是否容许出
 
 gam(e) + -ification，表示使具有某种特征的过程、做法；可与 gamify“游戏化”对应，不把后半当无意义的长字串。
 
+**继续看词根／词基**：[game](../02_英语词基/0164_game_B3191.md)
+
 **怎么变成今天的意思**
 
 **古英语 gamen → 中古英语 game / gamen**  
@@ -551,6 +571,8 @@ gamification 是把游戏机制用于非游戏任务，game design 是设计游�
 **怎么拆**
 
 desert 荒漠 + -ification，对应 desertify 使荒漠化。专业定义特别指干旱、半干旱及干旱亚湿润地区的土地退化，因素包括气候变动、人类活动等。
+
+**继续看词根／词基**：[ser-](../01_古典词根/0508_ser_C1320.md)
 
 **怎么变成今天的意思**
 
@@ -599,6 +621,8 @@ desertification 不只是现有沙漠自然向外扩张；drought 干旱说水�
 
 gas + -ification，后部表示使成为的过程，关联动词 gasify。技术义已固定，不能只按变成气就把所有蒸发都这样叫。
 
+**继续看词根／词基**：[gas](../02_英语词基/1027_gas_B2516.md)
+
 **怎么变成今天的意思**
 
 **17世纪范·海尔蒙特创造 Dutch gas**  
@@ -645,6 +669,8 @@ coal gasification；biomass gasification；a gasification plant。
 **怎么拆**
 
 来自英语 commodify“使成为商品”的名词化；commodity 变为 commodify，再形成 commodification，-fy 与 -fication 相对应。
+
+**继续看词根／词基**：[mod-](../01_古典词根/0307_mod_C0755.md)
 
 **怎么变成今天的意思**
 
@@ -698,6 +724,8 @@ commercialization 可指开发商业用途；commodification 更突出把对象�
 
 与法语 solidification 相接，也对应 solidify 的动作名词；现代可分析 solid + -ification，或看 -ify 对应 -ification 的派生关系，不说保留 y 直接加 -ation。
 
+**继续看词根／词基**：[solid](../02_英语词基/0884_solid_B3077.md)
+
 **怎么变成今天的意思**
 
 **拉丁 solidus → 法语 solide → 中古英语 solide → solid**  
@@ -739,6 +767,8 @@ solidification 过程，solidity 性质；solidification 不专指水变冰，�
 **怎么拆**
 
 由拉丁 oss-“骨”与英语 -ification 构成，历史记录早于 ossify。现代二者可配套记，但不能倒推成必定先有动词、再加 -ation。
+
+**继续看词根／词基**：[oss-](../01_古典词根/3956_oss_C0927.md)
 
 **怎么变成今天的意思**
 

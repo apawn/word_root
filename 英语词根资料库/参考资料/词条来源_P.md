@@ -7307,6 +7307,16 @@
 
 例句来源：逐词编写的学习例句
 
+## perilously
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/perilously#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> After several days without supplies, the camp was perilously low on food.
+
+例句来源：逐词编写的学习例句
+
 ## perimenopause
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/perimenopause#English)
@@ -26175,6 +26185,26 @@
 - 中文释义资料：逐词编写的中文释义
 
 > The residents were protesting about the noise.
+
+例句来源：逐词编写的学习例句
+
+## protestor
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/protestor#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> A protestor held a sign calling for the library to stay open.
+
+例句来源：逐词编写的学习例句
+
+## protestors
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/protestors#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The protestors gathered outside the town hall to oppose the closure.
 
 例句来源：逐词编写的学习例句
 

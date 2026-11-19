@@ -6654,6 +6654,26 @@
 
 例句来源：逐词编写的学习例句
 
+## inept
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/inept#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The team was inept at organizing the evacuation.
+
+例句来源：逐词编写的学习例句
+
+## ineptitude
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/ineptitude#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Administrative ineptitude delayed the delivery of emergency supplies.
+
+例句来源：逐词编写的学习例句
+
 ## inequality
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/inequality#English)
@@ -7120,7 +7140,7 @@
 - 发音资料：核对后整理；见逐词精讲核对资料
 - 中文释义资料：逐词编写的中文释义
 
-> The cheaper material is inferior in quality.
+> The replacement parts were inferior to the originals in durability.
 
 例句来源：逐词编写的学习例句
 

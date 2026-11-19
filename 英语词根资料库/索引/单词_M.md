@@ -67,7 +67,7 @@
 | magnifier | [magn-](../01_古典词根/2046_magn_C0698.md) |
 | magnify | [magn-](../01_古典词根/2046_magn_C0698.md) |
 | magnisonant | [son-](../01_古典词根/0541_son_C1368.md) |
-| magnitude | [magn-](../01_古典词根/2046_magn_C0698.md) |
+| magnitude | [-itude](../03_词缀与组合形式/1492_itude_A1822.md)、[magn-](../01_古典词根/2046_magn_C0698.md) |
 | magnorder | [ordin-](../01_古典词根/0277_ordin_C0914.md) |
 | magnum | [magn-](../01_古典词根/2046_magn_C0698.md) |
 | maid | [maid](../02_英语词基/2382_maid_B2806.md) |

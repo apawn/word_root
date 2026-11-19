@@ -42,6 +42,8 @@ historio- 历史 + -graphy 写、记述 → historiography。history 是相邻�
 
 经法语、拉丁语追到希腊语 historía 探究、探究所得的记述。不是英语 his 他的 + story 故事；story 与它有同源关系，但现代词义已有分工。
 
+**继续看词根／词基**：[history](../02_英语词基/0441_history_B3416.md)
+
 **怎么变成今天的意思**
 
 **古希腊语 historía**  
@@ -92,6 +94,8 @@ history 关注实际过去、相关记录或研究；story 是故事，可以真
 **怎么拆**
 
 在来自拉丁语 historicus 的词族基础上加 -al；现代可看成 historic + -al，或 history 对应的 -ical 形容词形式。
+
+**继续看词根／词基**：[history](../02_英语词基/0441_history_B3416.md) · [historical](../02_英语词基/1471_historical_B3415.md)
 
 **怎么变成今天的意思**
 

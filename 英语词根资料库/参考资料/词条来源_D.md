@@ -1208,7 +1208,7 @@
 - 发音资料：核对后整理；见逐词精讲核对资料
 - 中文释义资料：逐词编写的中文释义
 
-> We left the house at dawn.
+> We reached the village just before dawn.
 
 例句来源：逐词编写的学习例句
 

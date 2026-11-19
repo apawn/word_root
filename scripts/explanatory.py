@@ -138,19 +138,21 @@ def draw_root(r,lesson):
             svg.append(f'<text class="note" x="{x}" y="{y+len(labels)*34+6+j*26}" text-anchor="middle" font-size="19">{html.escape(line)}</text>')
     svg.append('</svg>');(OUT/'assets'/f'{r["id"]}.svg').write_text('\n'.join(svg))
 
-def word_markdown(w,index,anchor=None):
+def word_markdown(w,index,anchor=None,study_links=None):
     if not images_paused():draw_history(w['word'],w['history'])
     evolution=[f'![{w["word"]} 的词源演化](../assets/evolution/{history_filename(w["word"])})'] if word_has_image(w) else ['\n\n↓\n\n'.join(f'**{plain_markdown(label)}**  \n{plain_markdown(meaning)}' for label,meaning in w['history'])]
     lines=[f'<a id="w-{anchor if anchor is not None else index}"></a>','',f'### {index}. {w["word"]} — {w["meaning"]}','',
            f'**音标**：{w["ipa"]}','', '**先抓住这个画面**','',w['sense'],'',
-           '**怎么拆**','',w['split'],'', '**怎么变成今天的意思**','',
+           '**怎么拆**','',w['split'],'',
+           *([f'**继续看词根／词基**：'+ ' · '.join(study_links),''] if study_links else []),
+           '**怎么变成今天的意思**','',
            *evolution,'',w['explanation'],'',
            '**常见搭配与例句**','',w['usage'],'']
     for en,zh in w['examples']:lines += ['> '+en,'',zh,'']
     lines += ['**别混淆**','',w['contrast'],'']
     return lines
 
-def render_root(r,lesson,words):
+def render_root(r,lesson,words,navigation=None):
     missing=set(r['family'])-words.keys()
     assert not missing,(r['id'],'unwritten words',sorted(missing))
     if not images_paused():draw_root(r,lesson)
@@ -167,7 +169,9 @@ def render_root(r,lesson,words):
         anchor=r.get('word_anchors',{}).get(name,i)
         w=words[name];lines.append(f'| [{name}](#w-{anchor}) | {w["ipa"]} | {w["meaning"]} |')
     lines+=['','## 逐词讲解','']
-    for i,name in enumerate(r['family'],1):lines+=word_markdown(words[name],i,r.get('word_anchors',{}).get(name,i))
+    for i,name in enumerate(r['family'],1):
+        study_links=navigation.links(name,r) if navigation and r['group']=='03_词缀与组合形式' else None
+        lines+=word_markdown(words[name],i,r.get('word_anchors',{}).get(name,i),study_links)
     if lesson.get('contrasts'):lines+=['## 这一组要分清什么','',lesson['contrasts'],'']
     if lesson.get('practice'):lines+=['## 串起来练习','',lesson['practice'],'']
     (OUT/r['file']).write_text('\n'.join(lines))

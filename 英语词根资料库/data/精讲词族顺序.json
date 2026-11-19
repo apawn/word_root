@@ -51764,6 +51764,10 @@
           "base": "peril",
           "basis": "正文拆分与词形对应"
         },
+        "perilously": {
+          "base": "perilous",
+          "basis": "正文拆分与词形对应"
+        },
         "oblivious": {
           "base": "oblivion",
           "basis": "补充学习对应"
@@ -51795,10 +51799,6 @@
         "delirious": {
           "base": "delirium",
           "basis": "补充学习对应"
-        },
-        "perilously": {
-          "base": "perilous",
-          "basis": "形容词加 -ly 构成副词"
         }
       }
     },
@@ -85583,7 +85583,6 @@
         ],
         [
           "treat",
-          "entreat",
           "treatment",
           "treated",
           "treaty",
@@ -85682,6 +85681,9 @@
         [
           "tractable",
           "intractable"
+        ],
+        [
+          "entreat"
         ],
         [
           "subtrahend"
@@ -85879,10 +85881,6 @@
         "intractable": {
           "base": "tractable",
           "basis": "正文拆分与词形对应"
-        },
-        "entreat": {
-          "base": "treat",
-          "basis": "经法语相关形式进入英语的同源词；非现代请客义的直接派生"
         }
       }
     },
@@ -92779,11 +92777,13 @@
       "groups": [
         [
           "treat",
-          "entreat",
           "treatment",
           "treatments",
           "treatable",
           "mistreat"
+        ],
+        [
+          "entreat"
         ]
       ],
       "reading_links": {
@@ -92802,10 +92802,6 @@
         "mistreat": {
           "base": "treat",
           "basis": "正文拆分与词形对应"
-        },
-        "entreat": {
-          "base": "treat",
-          "basis": "经法语相关形式进入英语的同源词；非现代请客义的直接派生"
         }
       }
     },
@@ -102262,14 +102258,14 @@
           "inequity"
         ],
         [
+          "adequate"
+        ],
+        [
           "equate",
           "equation",
           "equations",
           "Equator",
           "equatorial"
-        ],
-        [
-          "adequate"
         ],
         [
           "equilibrium",
@@ -111371,6 +111367,14 @@
           "base": "protester",
           "basis": "补充学习对应"
         },
+        "protestor": {
+          "base": "protest",
+          "basis": "正文拆分与词形对应"
+        },
+        "protestors": {
+          "base": "protestor",
+          "basis": "正文拆分与词形对应"
+        },
         "testified": {
           "base": "testify",
           "basis": "补充学习对应"
@@ -111378,14 +111382,6 @@
         "detestable": {
           "base": "detest",
           "basis": "正文拆分与词形对应"
-        },
-        "protestor": {
-          "base": "protester",
-          "basis": "词典确认的拼写变体"
-        },
-        "protestors": {
-          "base": "protestor",
-          "basis": "规则复数"
         }
       }
     },
@@ -157977,7 +157973,7 @@
         },
         "strangled": {
           "base": "strangle",
-          "basis": "规则过去式／过去分词"
+          "basis": "词尾扩展或对应形式"
         }
       }
     },
@@ -202444,15 +202440,46 @@
           "apt",
           "attitude",
           "attitudes",
-          "aptitude",
-          "inept",
-          "ineptitude"
+          "aptitude"
+        ],
+        [
+          "magnitude"
+        ],
+        [
+          "altitude"
+        ],
+        [
+          "gratitude"
         ],
         [
           "multitude"
         ],
         [
+          "latitude"
+        ],
+        [
+          "solitude"
+        ],
+        [
+          "longitude"
+        ],
+        [
+          "fortitude"
+        ],
+        [
+          "inept"
+        ],
+        [
           "servitude"
+        ],
+        [
+          "ineptitude"
+        ],
+        [
+          "rectitude"
+        ],
+        [
+          "platitude"
         ]
       ],
       "reading_links": {
@@ -202467,14 +202494,6 @@
         "aptitude": {
           "base": "apt",
           "basis": "补充学习对应"
-        },
-        "inept": {
-          "base": "apt",
-          "basis": "拉丁 aptus 同源学习联系，不指现代英语直接派生"
-        },
-        "ineptitude": {
-          "base": "inept",
-          "basis": "形容词与性质名词对应"
         }
       }
     },

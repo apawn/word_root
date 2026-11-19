@@ -13428,7 +13428,7 @@
 - 发音资料：核对后整理；见逐词精讲核对资料
 - 中文释义资料：逐词编写的中文释义
 
-> They tried to coerce him into signing the statement.
+> The employer tried to coerce the workers into accepting lower pay.
 
 例句来源：逐词编写的学习例句
 

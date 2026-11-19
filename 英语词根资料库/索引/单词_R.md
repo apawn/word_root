@@ -523,7 +523,7 @@
 | rectilinear | [rect-, reg-, -rig-](../01_古典词根/0122_rect_C1209.md)、[line-](../01_古典词根/0323_line_C0675.md) |
 | rectilinearity | [line-](../01_古典词根/0323_line_C0675.md) |
 | rectiserial | [ser-](../01_古典词根/0508_ser_C1320.md) |
-| rectitude | [rect-, reg-, -rig-](../01_古典词根/0122_rect_C1209.md) |
+| rectitude | [rect-, reg-, -rig-](../01_古典词根/0122_rect_C1209.md)、[-itude](../03_词缀与组合形式/1492_itude_A1822.md) |
 | rector | [rect-, reg-, -rig-](../01_古典词根/0122_rect_C1209.md) |
 | rectory | [rect-, reg-, -rig-](../01_古典词根/0122_rect_C1209.md) |
 | rectum | [rect-, reg-, -rig-](../01_古典词根/0122_rect_C1209.md)、[colo-](../03_词缀与组合形式/3118_colo_A2251.md) |

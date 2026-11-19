@@ -84,6 +84,8 @@ anthropogenic 交代来源，artificial 常强调人工制造、与天然对比�
 
 现代可分析 anthropo- 人 + -morphic 形态；历史接较早 anthropomorphous 的词干 + -ic，远源经拉丁语接希腊 anthrōpomorphos。
 
+**继续看词根／词基**：[morph-](../01_古典词根/2665_morph_C0767.md) · [anthrop-](../01_古典词根/2758_anthrop_C0061.md)
+
 **怎么变成今天的意思**
 
 **希腊 morphē 形状、形态**  

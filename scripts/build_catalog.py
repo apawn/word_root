@@ -16,6 +16,10 @@ def load_lexicon():
     lex = collections.defaultdict(list)
     inputs=[(CACHE / 'lexicon.jsonl')]
     if (CACHE/'supplemental-lexicon.jsonl').exists():inputs.append(CACHE/'supplemental-lexicon.jsonl')
+    # Reviewed additions travel with the repository, rather than existing
+    # only in a particular machine's ignored extraction cache.
+    reviewed=BASE/'content/精讲/词典补充记录.jsonl'
+    if reviewed.exists():inputs.append(reviewed)
     for line in itertools.chain.from_iterable(p.open() for p in inputs):
         d = json.loads(line)
         # Preserve case-sensitive lemmas; name-only records are not study words.

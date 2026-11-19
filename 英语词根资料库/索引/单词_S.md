@@ -2029,7 +2029,7 @@
 | soliloquy | [sol-](../01_古典词根/1184_sol_C1361.md)、[loqu-, locut-](../01_古典词根/3172_loqu_C0687.md) |
 | solitaire | [sol-](../01_古典词根/1184_sol_C1361.md) |
 | solitary | [-ary](../03_词缀与组合形式/0152_ary_A1774.md)、[sol-](../01_古典词根/1184_sol_C1361.md) |
-| solitude | [sol-](../01_古典词根/1184_sol_C1361.md) |
+| solitude | [-itude](../03_词缀与组合形式/1492_itude_A1822.md)、[sol-](../01_古典词根/1184_sol_C1361.md) |
 | solo | [sol-](../01_古典词根/1184_sol_C1361.md) |
 | soloist | [sol-](../01_古典词根/1184_sol_C1361.md) |
 | soloists | [sol-](../01_古典词根/1184_sol_C1361.md) |

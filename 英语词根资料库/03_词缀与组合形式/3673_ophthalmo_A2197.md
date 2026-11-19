@@ -41,6 +41,8 @@ ophthalmo- + -logy → ophthalmology；相应人物后部 -logist → ophthalmol
 
 ophthalmo- 来自希腊 ophthalmós“眼”，加 -logy；长拼写可以按 ophthalmo + logy 分块认。
 
+**继续看词根／词基**：[log-, -logy](../01_古典词根/0425_log_C0685.md) · [ophthalm-](../01_古典词根/3601_ophthalm_C0901.md)
+
 **怎么变成今天的意思**
 
 **希腊 ophthalmós〔眼〕与 lógos〔论述〕**  
@@ -87,6 +89,8 @@ optometry 与视力检查、视觉保健等密切相关；ophthalmology 是眼�
 **怎么拆**
 
 与 ophthalmology 对应，把表示学科的 -logy 换成表示从业者的 -logist。ophthalmo- 来自希腊“眼”，-logist 表示研究或从事相应领域的人。
+
+**继续看词根／词基**：[ophthalm-](../01_古典词根/3601_ophthalm_C0901.md) · [log-, -logy](../01_古典词根/0425_log_C0685.md)
 
 **怎么变成今天的意思**
 

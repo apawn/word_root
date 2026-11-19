@@ -40,6 +40,8 @@ electro- 电 + -phoresis 迁移相关 → electrophoresis。完整过程的表�
 
 electro- 电 + -phoresis 搬运、移动，后者来自希腊 phoresis，与 pherein“携带”相关。不是 electrolysis 的“分解”。
 
+**继续看词根／词基**：[electr-](../01_古典词根/0611_electr_C0367.md)
+
 **怎么变成今天的意思**
 
 **古希腊 elektron → 拉丁 electrum**  

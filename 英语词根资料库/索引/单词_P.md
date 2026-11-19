@@ -1338,7 +1338,7 @@
 | platforms | [platform](../02_英语词基/1452_platform_B3156.md) |
 | plating | [plat-](../01_古典词根/0149_plat_C1060.md)、[plate](../02_英语词基/1567_plate_B3060.md) |
 | platinum | [plat-](../01_古典词根/0149_plat_C1060.md)、[-um](../03_词缀与组合形式/0722_um_A1681.md) |
-| platitude | [plat-](../01_古典词根/0149_plat_C1060.md) |
+| platitude | [plat-](../01_古典词根/0149_plat_C1060.md)、[-itude](../03_词缀与组合形式/1492_itude_A1822.md) |
 | platitudinous | [plat-](../01_古典词根/0149_plat_C1060.md) |
 | platter | [plat-](../01_古典词根/0149_plat_C1060.md) |
 | platyhelminth | [plat-](../01_古典词根/0149_plat_C1060.md) |

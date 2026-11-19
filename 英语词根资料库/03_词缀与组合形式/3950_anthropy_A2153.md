@@ -42,6 +42,8 @@ mis- 接厌恶材料 + anthrop- 人 + 相应名词形式 → misanthropy；人�
 
 mis- 是希腊 miso- 在元音前的形式；anthrop- 是“人类”。
 
+**继续看词根／词基**：[mis-](../01_古典词根/1105_mis_C0748.md) · [anthrop-](../01_古典词根/2758_anthrop_C0061.md)
+
 **怎么变成今天的意思**
 
 **希腊 misein／misos**  
@@ -89,6 +91,8 @@ introvert 是内向的人；misanthrope 带对人类的反感。hermit 是隐居
 
 misanthrope + -ic，去词尾 e 形成形容词。
 
+**继续看词根／词基**：[mis-](../01_古典词根/1105_mis_C0748.md) · [anthrop-](../01_古典词根/2758_anthrop_C0061.md)
+
 **怎么变成今天的意思**
 
 **希腊 misein／misos**  
@@ -135,6 +139,8 @@ pessimistic 是对结果不乐观；misanthropic 是对人类或人性抱反感�
 **怎么拆**
 
 mis- + anthrop- + 名词结尾；历史已有希腊 misanthrōpia，不是只能从英语 misanthrope 直接改尾巴解释。
+
+**继续看词根／词基**：[mis-](../01_古典词根/1105_mis_C0748.md) · [anthrop-](../01_古典词根/2758_anthrop_C0061.md)
 
 **怎么变成今天的意思**
 

@@ -1021,7 +1021,7 @@
 | fortify | [fort-](../01_古典词根/0210_fort_C0446.md) |
 | fortifying | [fort-](../01_古典词根/0210_fort_C0446.md) |
 | fortissimo | [fort-](../01_古典词根/0210_fort_C0446.md) |
-| fortitude | [fort-](../01_古典词根/0210_fort_C0446.md) |
+| fortitude | [fort-](../01_古典词根/0210_fort_C0446.md)、[-itude](../03_词缀与组合形式/1492_itude_A1822.md) |
 | fortnight | [night](../02_英语词基/0313_night_B2540.md) |
 | fortress | [fort-](../01_古典词根/0210_fort_C0446.md) |
 | fortunate | [-ate](../03_词缀与组合形式/0200_ate_A1904.md)、[fortunate](../02_英语词基/1178_fortunate_B4113.md) |

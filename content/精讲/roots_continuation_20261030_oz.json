@@ -102,11 +102,11 @@
   },
   {
     "id": "A1822",
-    "meaning": "拉丁性质、状态名词材料，随整词固定下来",
-    "core": "-ITUDE：把一种性质或关系，当成状态来谈",
-    "image": "multitude 看数量众多；servitude 看受支配、奴役状态。",
-    "intro": "这组词把不同性质或关系当作名词来谈：multitude 说众多，servitude 说受役，aptitude 说能力倾向，ineptitude 说不胜任。不能把不同词都硬译成一种模糊的“度”。",
-    "forms": "拉丁 -tudo、-itudo 等名词材料，经法语等进入英语 -itude 形式；不少是整体借入，不是现代英语任意加尾。\n\naptitude 接拉丁 aptitudo 适合；attitude 经意大利语、法语借入，同族材料在姿态、心理倾向方向分化；现代拼写不同，不能随意互换。\n\n意大利、法语艺术姿态用语借入后扩展到心态，较早接适合词族。\n\nineptitude 经法语接拉丁 ineptitudo，属于 ineptus（不适合、不妥当）的词族；更早连接 in-（不）与 aptus（适合）。ept- 是这条历史词形中的形式，现代可借 inept + -itude 记忆。",
+    "meaning": "-tude／-itude：性质、状态、程度的名词词尾",
+    "core": "-TUDE／-ITUDE：把一种性质或状态，当作名词来谈",
+    "image": "高、宽、大可以形成度量名词；强、独自、感激可以形成状态名词；话语的平淡乏味则形成 platitude。",
+    "intro": "-tude 和 -itude 是一组来自拉丁语性质、状态名词形式的英语词尾。本页把高度、宽度、力量、独处、感激和陈词滥调放在一起比较：共同点是把一种性质当作名词，具体含义仍要回到各自的词根和历史语境。它们不共享同一个实义词根，也不能都硬译成可测量的“度”。",
+    "forms": "拉丁 -tudo、-itudo 等名词材料，经法语等进入英语 -itude 形式；不少是整体借入，不是现代英语任意加尾。\n\naptitude 接拉丁 aptitudo 适合；attitude 经意大利语、法语借入，同族材料在姿态、心理倾向方向分化；现代拼写不同，不能随意互换。\n\n意大利、法语艺术姿态用语借入后扩展到心态，较早接适合词族。\n\nineptitude 经法语接拉丁 ineptitudo，属于 ineptus（不适合、不妥当）的词族；更早连接 in-（不）与 aptus（适合）。ept- 是这条历史词形中的形式，现代可借 inept + -itude 记忆。\n\n-tude 与 -itude 不是两套需要按含义严格区分的现代英语后缀；它们反映拉丁语 -tudo、-itudo 及经法语等借入后的词形。不要任意给英语形容词加 -tude 造词。platitude 在法语中由 plat（平的、平淡的）构成，联系 plat- 词族；attitude 则经意大利语、法语发展到姿态和心理态度，不能按现代 apt 直接加后缀理解。",
     "branches": [
       [
         "众多与受役状态",
@@ -123,9 +123,21 @@
       [
         "不适合、不胜任的性质",
         "apt · inept · ineptitude"
+      ],
+      [
+        "高、宽、长与大小",
+        "altitude · latitude · longitude · magnitude"
+      ],
+      [
+        "坚毅、独处、感激与正直",
+        "fortitude · solitude · gratitude · rectitude"
+      ],
+      [
+        "平淡乏味的话语",
+        "platitude"
       ]
     ],
-    "contrasts": "multitude 常可指一大群、许多，servitude 指受役状态；不是所有 -itude 都能按同一种可测量尺度理解。",
+    "contrasts": "multitude 常可指一大群、许多，servitude 指受役状态；不是所有 -itude 都能按同一种可测量尺度理解。\n\naltitude 是高度，latitude 可说纬度及行动余地，longitude 是经度；magnitude 说大小或量级。solitude 可是主动享受的独处，不必然等于 loneliness 的孤独感；platitude 指平淡无新意的套话，不是平坦地面的度量。",
     "practice": "The reading moves from a multitude of examples to a discussion of servitude.\n\n阅读从大量例子延伸到对受役状态的讨论。",
     "words": [
       "multitude",
@@ -135,7 +147,16 @@
       "attitude",
       "attitudes",
       "inept",
-      "ineptitude"
+      "ineptitude",
+      "platitude",
+      "altitude",
+      "latitude",
+      "longitude",
+      "magnitude",
+      "fortitude",
+      "solitude",
+      "gratitude",
+      "rectitude"
     ],
     "exclude": {}
   },

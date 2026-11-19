@@ -41,6 +41,8 @@ ethno- 群体、民族 + -centric → ethnocentric；相应观点名 ethnocentri
 
 ethno-“族群、文化” + -centric“以……为中心”；是近代复合形容词，后半与 centre 属相应词族。
 
+**继续看词根／词基**：[ethn-](../01_古典词根/2016_ethn_C0391.md)
+
 **怎么变成今天的意思**
 
 **希腊 ethnos**  
@@ -82,6 +84,8 @@ ethnic 只是族群相关；ethnocentric 带对观察立场的批评，两者不
 **怎么拆**
 
 ethno- + -centrism，表示以某族群文化为中心的立场；可与 ethnocentric 对照，但 -ism 是态度、体系的名词后缀。
+
+**继续看词根／词基**：[ethn-](../01_古典词根/2016_ethn_C0391.md)
 
 **怎么变成今天的意思**
 

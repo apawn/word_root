@@ -685,7 +685,7 @@
 | gratify | [grat-](../01_古典词根/0371_grat_C0503.md) |
 | grating | [-ing](../03_词缀与组合形式/0010_ing_A1741.md) |
 | gratis | [grat-](../01_古典词根/0371_grat_C0503.md) |
-| gratitude | [grat-](../01_古典词根/0371_grat_C0503.md) |
+| gratitude | [grat-](../01_古典词根/0371_grat_C0503.md)、[-itude](../03_词缀与组合形式/1492_itude_A1822.md) |
 | gratuitous | [grat-](../01_古典词根/0371_grat_C0503.md) |
 | gratuitously | [grat-](../01_古典词根/0371_grat_C0503.md) |
 | gratuity | [grat-](../01_古典词根/0371_grat_C0503.md) |

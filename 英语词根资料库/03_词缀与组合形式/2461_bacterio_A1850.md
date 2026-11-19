@@ -46,6 +46,8 @@ bacterio- + -logy → bacteriology → bacteriologist；bacterio- + phage 吃的
 
 借科学拉丁 bacterium，追到希腊 baktērion“小杆”。英语保留了拉丁式单复数配对：-um 对应复数 -a；不能套普通词的规则随意写成 bacterias。
 
+**继续看词根／词基**：[bac-](../01_古典词根/2208_bac_C0109.md)
+
 **怎么变成今天的意思**
 
 **古希腊语 baktērion**  
@@ -93,6 +95,8 @@ bacterium is 与 bacteria are 成对记。细菌名称源于杆状联想，不�
 
 借科学拉丁 bacteria，是 bacterium 的复数，源自希腊 baktērion“小杆”。不是拉丁 baculum 直接加 -teria；两支棒、杆名称的更早关系有不同分析。
 
+**继续看词根／词基**：[bac-](../01_古典词根/2208_bac_C0109.md)
+
 **怎么变成今天的意思**
 
 **古希腊语 baktērion**  
@@ -139,6 +143,8 @@ soil bacteria；gut bacteria；harmful bacteria；beneficial bacteria。
 **怎么拆**
 
 bacterio- 来自新拉丁 bacterium，接希腊 baktḗrion“小棒”，再加 -logy；名字保留早期观察某些杆状细菌的形象。
+
+**继续看词根／词基**：[log-, -logy](../01_古典词根/0425_log_C0685.md)
 
 **怎么变成今天的意思**
 
@@ -265,6 +271,8 @@ biological 生物的范围广；bacteriological 特别落到细菌学，不包�
 **怎么拆**
 
 借法语 bactériophage，由 bacterio- 细菌 + -phage 吃者组成。bacterio- 的远源是希腊“小棒”，-phage 则接 phagein“吃”；两路材料在近代科学命名中结合。
+
+**继续看词根／词基**：[phag-](../01_古典词根/3647_phag_C1011.md)
 
 **怎么变成今天的意思**
 

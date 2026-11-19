@@ -1,0 +1,32 @@
+{
+  "aptitude": {
+    "bases": [
+      "apt"
+    ],
+    "note": "apt 与 aptitude 共享拉丁 aptus／aptitudo 材料；跳转是同族基础词讲解，不把完整借词改写成现代派生。"
+  },
+  "attitude": {
+    "bases": [
+      "apt"
+    ],
+    "note": "经意大利语 attitudine、法语 attitude，联系 aptitudo 词族；同族对照，不表示从现代 apt 直接造词。"
+  },
+  "inept": {
+    "bases": [
+      "apt"
+    ],
+    "note": "拉丁 in- + aptus，复合词中出现 ept-；与 apt 同族，不是英语通用改字母规则。"
+  },
+  "ineptitude": {
+    "bases": [
+      "apt"
+    ],
+    "note": "经法语接拉丁 ineptitudo／ineptus，与 aptus 词族相连；跳到 apt 作基础词对照。"
+  },
+  "multitude": {
+    "components": [
+      "C0771"
+    ],
+    "note": "拉丁 multitudo 来自 multus 众多，与 multi- 同族；这是相关构词成分的学习入口，不是从现代 multi- 直接加后缀造词。"
+  }
+}

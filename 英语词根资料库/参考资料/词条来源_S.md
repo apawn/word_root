@@ -4288,7 +4288,7 @@
 - 发音资料：核对后整理；见逐词精讲核对资料
 - 中文释义资料：逐词编写的中文释义
 
-> We scrambled up the rocky slope.
+> We scrambled over the wet rocks to reach the path.
 
 例句来源：逐词编写的学习例句
 
@@ -30276,7 +30276,7 @@
 - 发音资料：核对后整理；见逐词精讲核对资料
 - 中文释义资料：逐词编写的中文释义
 
-> A strand of hair fell across her face.
+> The cable contains several strands of copper wire.
 
 例句来源：逐词编写的学习例句
 
@@ -30286,7 +30286,7 @@
 - 发音资料：核对后整理；见逐词精讲核对资料
 - 中文释义资料：逐词编写的中文释义
 
-> Cancelled trains left hundreds of passengers stranded.
+> A flat battery left us stranded outside the village.
 
 例句来源：逐词编写的学习例句
 
@@ -30337,6 +30337,26 @@
 - 中文释义资料：逐词编写的中文释义
 
 > The two travellers were complete strangers before the trip.
+
+例句来源：逐词编写的学习例句
+
+## strangle
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/strangle#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Excessive fees can strangle small businesses before they have a chance to grow.
+
+例句来源：逐词编写的学习例句
+
+## strangled
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/strangled#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The report said that the prisoner had been strangled.
 
 例句来源：逐词编写的学习例句
 

@@ -1,15 +1,15 @@
 {
   "ok": true,
   "root_pages": 4612,
-  "markdown_files": 4678,
+  "markdown_files": 4679,
   "svg_files": 4612,
   "evolution_svg_files": 3729,
   "completed_lessons": 4084,
   "fully_explained_words": 33485,
   "authored_bilingual_examples": 67928,
-  "checked_local_links_and_anchors": 177689,
+  "checked_local_links_and_anchors": 192201,
   "source_rows": 1680,
   "unique_words": 34541,
   "errors": [],
-  "authored_sha256": "750198f45f62b405d6f2f795ee99612144defddd2a3354b29e273cbd48e22ffb"
+  "authored_sha256": "2bf745fed86f202a32ae1a9300e100841578ad7ed70c940626356bd15019dc61"
 }

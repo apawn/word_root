@@ -172,7 +172,7 @@
 | lateral | [later-](../01_古典词根/2245_later_C0652.md) |
 | laterally | [later-](../01_古典词根/2245_later_C0652.md) |
 | latest | [late](../02_英语词基/0093_late_B3907.md) |
-| latitude | [lat-](../01_古典词根/3224_lat_C0651.md) |
+| latitude | [-itude](../03_词缀与组合形式/1492_itude_A1822.md)、[lat-](../01_古典词根/3224_lat_C0651.md) |
 | latitudinal | [lat-](../01_古典词根/3224_lat_C0651.md) |
 | latte | [lact-](../01_古典词根/2896_lact_C0644.md) |
 | latter | [late](../02_英语词基/0093_late_B3907.md)、[latter](../02_英语词基/1873_latter_B4175.md) |
@@ -880,7 +880,7 @@
 | longhouse | [long](../02_英语词基/0146_long_B3069.md)、[house](../02_英语词基/0201_house_B3082.md) |
 | longing | [long](../02_英语词基/0146_long_B3069.md) |
 | longish | [-ish](../03_词缀与组合形式/0085_ish_A1713.md)、[long](../02_英语词基/0146_long_B3069.md) |
-| longitude | [long-](../01_古典词根/2300_long_C0686.md) |
+| longitude | [-itude](../03_词缀与组合形式/1492_itude_A1822.md)、[long-](../01_古典词根/2300_long_C0686.md) |
 | longitudinal | [-al](../03_词缀与组合形式/0055_al_A1771.md)、[long-](../01_古典词根/2300_long_C0686.md) |
 | longitudinally | [long-](../01_古典词根/2300_long_C0686.md) |
 | longlist | [long](../02_英语词基/0146_long_B3069.md)、[list](../02_英语词基/0506_list_B3067.md) |

@@ -65260,9 +65260,9 @@
         "evidence": "词典构词模板"
       },
       "perilously": {
-        "via": "perilous",
-        "depth": 2,
-        "evidence": "形容词 perilous + 副词词尾 -ly"
+        "via": null,
+        "depth": 0,
+        "evidence": "逐词词源核对"
       },
       "mountainous": {
         "via": "-ous",
@@ -65538,8 +65538,8 @@
       "tedium": 181,
       "frivolity": 192,
       "disadvantageous": 89,
-      "felonious": 191,
-      "perilously": 195
+      "perilously": 195,
+      "felonious": 191
     }
   },
   {
@@ -79746,11 +79746,6 @@
         "depth": 0,
         "evidence": "逐词词源核对"
       },
-      "entreat": {
-        "via": "treat",
-        "depth": 1,
-        "evidence": "古法语 en- + traitier／traiter，接拉丁 tractare；历史词族关系"
-      },
       "treatment": {
         "via": null,
         "depth": 0,
@@ -80071,6 +80066,11 @@
         "depth": 1,
         "evidence": "词典构词模板"
       },
+      "entreat": {
+        "via": null,
+        "depth": 0,
+        "evidence": "逐词词源核对"
+      },
       "subtrahend": {
         "via": null,
         "depth": 0,
@@ -80146,14 +80146,14 @@
       "tracers": 57,
       "untraceable": 58,
       "retracing": 59,
+      "entreat": 69,
       "retraced": 60,
       "abstractly": 35,
       "tractable": 36,
       "subtractive": 37,
       "retraces": 61,
       "traceless": 62,
-      "subtrahend": 38,
-      "entreat": 69
+      "subtrahend": 38
     }
   },
   {
@@ -180246,7 +180246,7 @@
       "entail": {
         "via": null,
         "depth": 0,
-        "evidence": "古法语 taile／taillier 的法律限定支，关联切分词族；非 retail 的现代派生"
+        "evidence": "逐词词源核对"
       }
     },
     "unmatched": [],
@@ -180255,7 +180255,7 @@
     "group": "02_英语词基",
     "source": "https://en.wiktionary.org/wiki/retail",
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
-    "score": 5.323,
+    "score": 5.326,
     "best_zipf": 4.91,
     "rank": 706,
     "file": "02_英语词基/0706_retail_B3411.md",
@@ -180268,10 +180268,10 @@
       "retailer": 2,
       "detailing": 5,
       "tailor": 6,
+      "entail": 12,
       "retailing": 9,
       "retails": 10,
-      "retailed": 11,
-      "entail": 12
+      "retailed": 11
     }
   },
   {
@@ -185513,6 +185513,322 @@
     }
   },
   {
+    "root": "equ-, -iqu-",
+    "meaning": "even, equal, level",
+    "language": "Latin",
+    "origin": "aequus",
+    "words": [
+      "equal",
+      "equanimity",
+      "equate",
+      "Equator",
+      "equilibrium",
+      "equinox",
+      "equipoise",
+      "equity",
+      "equivalence",
+      "equivocal",
+      "equivocate",
+      "iniquity"
+    ],
+    "source": "https://www.uvm.edu/~jbailly/courses/Etymology/additionalNotes/wikipedia_Derived%20list%20Greek%20and%20Latin%20roots.html",
+    "id": "C0381",
+    "meaning_zh": "相等；平；公平；平稳",
+    "source_ids": [
+      "C0381"
+    ],
+    "aliases": [
+      "equ-",
+      "-iqu-"
+    ],
+    "kind": "古典词根／组合形式",
+    "group": "01_古典词根",
+    "seeds": [
+      "equal",
+      "equanimity",
+      "equate",
+      "Equator",
+      "equilibrium",
+      "equinox",
+      "equipoise",
+      "equity",
+      "equivalence",
+      "equivocal",
+      "equivocate",
+      "iniquity"
+    ],
+    "added_seeds": [],
+    "family": {
+      "equal": {
+        "via": null,
+        "depth": 0,
+        "evidence": "根表例词／词基本身"
+      },
+      "equally": {
+        "via": "equal",
+        "depth": 1,
+        "evidence": "词典构词模板"
+      },
+      "equality": {
+        "via": "equal",
+        "depth": 1,
+        "evidence": "词典构词模板"
+      },
+      "inequality": {
+        "via": null,
+        "depth": 0,
+        "evidence": "逐词词源核对"
+      },
+      "equals": {
+        "via": null,
+        "depth": 0,
+        "evidence": "逐词词源核对"
+      },
+      "equalize": {
+        "via": "equal",
+        "depth": 1,
+        "evidence": "词典构词模板"
+      },
+      "equalizer": {
+        "via": null,
+        "depth": 0,
+        "evidence": "逐词词源核对"
+      },
+      "equalization": {
+        "via": null,
+        "depth": 0,
+        "evidence": "逐词词源核对"
+      },
+      "equalise": {
+        "via": null,
+        "depth": 0,
+        "evidence": "逐词词源核对"
+      },
+      "equaliser": {
+        "via": null,
+        "depth": 0,
+        "evidence": "逐词词源核对"
+      },
+      "equalisation": {
+        "via": null,
+        "depth": 0,
+        "evidence": "逐词词源核对"
+      },
+      "unequal": {
+        "via": "equal",
+        "depth": 1,
+        "evidence": "词典构词模板"
+      },
+      "unequally": {
+        "via": null,
+        "depth": 0,
+        "evidence": "逐词词源核对"
+      },
+      "equivalent": {
+        "via": null,
+        "depth": 0,
+        "evidence": "逐词词源核对"
+      },
+      "equivalence": {
+        "via": null,
+        "depth": 0,
+        "evidence": "根表例词／词基本身"
+      },
+      "equivalently": {
+        "via": null,
+        "depth": 0,
+        "evidence": "逐词词源核对"
+      },
+      "equity": {
+        "via": null,
+        "depth": 0,
+        "evidence": "根表例词／词基本身"
+      },
+      "inequity": {
+        "via": "equity",
+        "depth": 1,
+        "evidence": "词典构词模板"
+      },
+      "adequate": {
+        "via": null,
+        "depth": 0,
+        "evidence": "逐词词源核对"
+      },
+      "equate": {
+        "via": null,
+        "depth": 0,
+        "evidence": "根表例词／词基本身"
+      },
+      "equation": {
+        "via": "equate",
+        "depth": 1,
+        "evidence": "词典构词模板"
+      },
+      "equations": {
+        "via": null,
+        "depth": 0,
+        "evidence": "逐词词源核对"
+      },
+      "Equator": {
+        "via": null,
+        "depth": 0,
+        "evidence": "根表例词／词基本身"
+      },
+      "equatorial": {
+        "via": null,
+        "depth": 0,
+        "evidence": "逐词词源核对"
+      },
+      "equilibrium": {
+        "via": null,
+        "depth": 0,
+        "evidence": "根表例词／词基本身"
+      },
+      "disequilibrium": {
+        "via": "equilibrium",
+        "depth": 1,
+        "evidence": "词典构词模板"
+      },
+      "equitable": {
+        "via": null,
+        "depth": 0,
+        "evidence": "逐词词源核对"
+      },
+      "equitably": {
+        "via": null,
+        "depth": 0,
+        "evidence": "逐词词源核对"
+      },
+      "inequitable": {
+        "via": null,
+        "depth": 0,
+        "evidence": "逐词词源核对"
+      },
+      "equivocal": {
+        "via": null,
+        "depth": 0,
+        "evidence": "根表例词／词基本身"
+      },
+      "unequivocal": {
+        "via": "equivocal",
+        "depth": 1,
+        "evidence": "词典构词模板"
+      },
+      "unequivocally": {
+        "via": null,
+        "depth": 0,
+        "evidence": "逐词词源核对"
+      },
+      "equinox": {
+        "via": null,
+        "depth": 0,
+        "evidence": "根表例词／词基本身"
+      },
+      "iniquity": {
+        "via": null,
+        "depth": 0,
+        "evidence": "根表例词／词基本身"
+      },
+      "iniquitous": {
+        "via": "iniquity",
+        "depth": 1,
+        "evidence": "词典构词模板"
+      },
+      "equidistant": {
+        "via": null,
+        "depth": 0,
+        "evidence": "逐词词源核对"
+      },
+      "equidistance": {
+        "via": null,
+        "depth": 0,
+        "evidence": "逐词词源核对"
+      },
+      "equanimity": {
+        "via": null,
+        "depth": 0,
+        "evidence": "根表例词／词基本身"
+      },
+      "equipoise": {
+        "via": null,
+        "depth": 0,
+        "evidence": "根表例词／词基本身"
+      },
+      "equivocate": {
+        "via": null,
+        "depth": 0,
+        "evidence": "根表例词／词基本身"
+      },
+      "equable": {
+        "via": null,
+        "depth": 0,
+        "evidence": "逐词词源核对"
+      },
+      "equinoctial": {
+        "via": null,
+        "depth": 0,
+        "evidence": "逐词词源核对"
+      },
+      "equanimous": {
+        "via": null,
+        "depth": 0,
+        "evidence": "逐词词源核对"
+      }
+    },
+    "unmatched": [],
+    "headword": null,
+    "origin_note": "词根表记录的是历史来源词；它们可能包括同一词的屈折形。英语借入路线按下方各单词的词源记录分别阅读。",
+    "score": 5.295,
+    "best_zipf": 4.65,
+    "rank": 744,
+    "file": "01_古典词根/0769_equ_C0381.md",
+    "word_anchors": {
+      "equal": 1,
+      "equivalent": 2,
+      "equally": 3,
+      "equity": 4,
+      "equality": 5,
+      "adequate": 43,
+      "equation": 6,
+      "inequality": 7,
+      "equations": 41,
+      "equals": 42,
+      "equilibrium": 8,
+      "equitable": 9,
+      "unequal": 10,
+      "Equator": 11,
+      "equatorial": 12,
+      "equate": 13,
+      "equivalence": 14,
+      "unequivocally": 15,
+      "equinox": 16,
+      "equalizer": 17,
+      "unequivocal": 18,
+      "equaliser": 19,
+      "iniquity": 20,
+      "equalization": 21,
+      "inequity": 22,
+      "equalize": 23,
+      "equidistant": 24,
+      "equivalently": 25,
+      "equanimity": 26,
+      "equitably": 27,
+      "equivocal": 28,
+      "equalise": 29,
+      "inequitable": 30,
+      "unequally": 31,
+      "equalisation": 32,
+      "disequilibrium": 33,
+      "iniquitous": 34,
+      "equipoise": 35,
+      "equivocate": 36,
+      "equable": 37,
+      "equinoctial": 38,
+      "equidistance": 39,
+      "equanimous": 40
+    }
+  },
+  {
     "id": "B3356",
     "source_ids": [],
     "root": "fan",
@@ -185582,7 +185898,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 5.292,
     "best_zipf": 5.03,
-    "rank": 744,
+    "rank": 745,
     "file": "02_英语词基/0744_fan_B3356.md",
     "word_anchors": {
       "fans": 9,
@@ -185681,7 +185997,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 5.291,
     "best_zipf": 5.1,
-    "rank": 745,
+    "rank": 746,
     "file": "02_英语词基/0745_dog_B4609.md",
     "word_anchors": {
       "dog": 1,
@@ -185830,7 +186146,7 @@
     "origin_note": "词根表记录的是历史来源词；它们可能包括同一词的屈折形。英语借入路线按下方各单词的词源记录分别阅读。",
     "score": 5.291,
     "best_zipf": 5.0,
-    "rank": 746,
+    "rank": 747,
     "file": "01_古典词根/0746_pal_C0944.md",
     "word_anchors": {
       "travel": 1,
@@ -185903,7 +186219,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 5.291,
     "best_zipf": 5.16,
-    "rank": 747,
+    "rank": 748,
     "file": "02_英语词基/0747_worth_B4106.md",
     "word_anchors": {
       "worth": 1,
@@ -185973,7 +186289,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 5.29,
     "best_zipf": 5.18,
-    "rank": 748,
+    "rank": 749,
     "file": "02_英语词基/0748_wish_B3949.md",
     "word_anchors": {
       "wish": 1,
@@ -186151,7 +186467,7 @@
     "origin_note": "词根表记录的是历史来源词；它们可能包括同一词的屈折形。英语借入路线按下方各单词的词源记录分别阅读。",
     "score": 5.289,
     "best_zipf": 4.9,
-    "rank": 749,
+    "rank": 750,
     "file": "01_古典词根/0749_mechan_C0712.md",
     "word_anchors": {
       "machine": 1,
@@ -186225,7 +186541,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 5.288,
     "best_zipf": 5.0,
-    "rank": 750,
+    "rank": 751,
     "file": "02_英语词基/0750_male_B2682.md",
     "word_anchors": {
       "female": 4,
@@ -186304,7 +186620,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 5.288,
     "best_zipf": 5.11,
-    "rank": 751,
+    "rank": 752,
     "file": "02_英语词基/0751_style_B3902.md",
     "word_anchors": {
       "style": 1,
@@ -186413,7 +186729,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 5.287,
     "best_zipf": 4.84,
-    "rank": 752,
+    "rank": 753,
     "file": "02_英语词基/0752_worry_B4146.md",
     "word_anchors": {
       "worry": 1,
@@ -186597,7 +186913,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 5.286,
     "best_zipf": 4.89,
-    "rank": 753,
+    "rank": 754,
     "file": "02_英语词基/0753_plant_B2557.md",
     "word_anchors": {
       "plant": 1,
@@ -186800,7 +187116,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 5.286,
     "best_zipf": 4.83,
-    "rank": 754,
+    "rank": 755,
     "file": "02_英语词基/0754_throw_B3002.md",
     "word_anchors": {
       "throw": 1,
@@ -186874,7 +187190,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 5.282,
     "best_zipf": 5.0,
-    "rank": 755,
+    "rank": 756,
     "file": "02_英语词基/0755_particular_B4211.md",
     "word_anchors": {
       "particular": 1,
@@ -187016,7 +187332,7 @@
     "origin_note": "词根表记录的是历史来源词；它们可能包括同一词的屈折形。英语借入路线按下方各单词的词源记录分别阅读。",
     "score": 5.282,
     "best_zipf": 5.21,
-    "rank": 756,
+    "rank": 757,
     "file": "03_词缀与组合形式/0756_peri_C1004.md",
     "word_anchors": {
       "period": 1,
@@ -187138,7 +187454,7 @@
     "origin_note": "词根表记录的是历史来源词；它们可能包括同一词的屈折形。英语借入路线按下方各单词的词源记录分别阅读。",
     "score": 5.281,
     "best_zipf": 5.19,
-    "rank": 757,
+    "rank": 758,
     "file": "01_古典词根/0757_copul_C0253.md",
     "word_anchors": {
       "couple": 1,
@@ -187261,7 +187577,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 5.28,
     "best_zipf": 5.05,
-    "rank": 758,
+    "rank": 759,
     "file": "02_英语词基/0758_pass_B3143.md",
     "word_anchors": {
       "pass": 1,
@@ -187382,7 +187698,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 5.278,
     "best_zipf": 4.95,
-    "rank": 759,
+    "rank": 760,
     "file": "02_英语词基/0759_fit_B2861.md",
     "word_anchors": {
       "fit": 1,
@@ -187766,7 +188082,7 @@
     "origin_note": "词根表记录的是历史来源词；它们可能包括同一词的屈折形。英语借入路线按下方各单词的词源记录分别阅读。",
     "score": 5.278,
     "best_zipf": 4.67,
-    "rank": 760,
+    "rank": 761,
     "file": "01_古典词根/0760_rump_C1240.md",
     "word_anchors": {
       "route": 1,
@@ -187879,7 +188195,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 5.277,
     "best_zipf": 5.11,
-    "rank": 761,
+    "rank": 762,
     "file": "02_英语词基/0761_brother_B2654.md",
     "word_anchors": {
       "brother": 1,
@@ -188363,7 +188679,7 @@
     "origin_note": "词根表记录的是历史来源词；它们可能包括同一词的屈折形。英语借入路线按下方各单词的词源记录分别阅读。",
     "score": 5.277,
     "best_zipf": 4.62,
-    "rank": 762,
+    "rank": 763,
     "file": "01_古典词根/0762_the_C1509.md",
     "word_anchors": {
       "theme": 1,
@@ -188526,7 +188842,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 5.276,
     "best_zipf": 4.97,
-    "rank": 763,
+    "rank": 764,
     "file": "02_英语词基/0763_favourable_B4452.md",
     "word_anchors": {
       "favorite": 9,
@@ -188683,7 +188999,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 5.275,
     "best_zipf": 5.02,
-    "rank": 764,
+    "rank": 765,
     "file": "02_英语词基/0764_track_B4098.md",
     "word_anchors": {
       "track": 1,
@@ -188766,7 +189082,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 5.274,
     "best_zipf": 5.03,
-    "rank": 765,
+    "rank": 766,
     "file": "02_英语词基/0765_spoke_B2981.md",
     "word_anchors": {
       "speak": 6,
@@ -188872,7 +189188,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 5.272,
     "best_zipf": 5.04,
-    "rank": 766,
+    "rank": 767,
     "file": "02_英语词基/0766_card_B2932.md",
     "word_anchors": {
       "card": 1,
@@ -188946,7 +189262,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 5.272,
     "best_zipf": 5.06,
-    "rank": 767,
+    "rank": 768,
     "file": "02_英语词基/0767_forget_B2866.md",
     "word_anchors": {
       "forget": 1,
@@ -189022,7 +189338,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 5.271,
     "best_zipf": 5.09,
-    "rank": 768,
+    "rank": 769,
     "file": "02_英语词基/0768_born_B2819.md",
     "word_anchors": {
       "born": 1,
@@ -189033,322 +189349,6 @@
       "firstborn": 5,
       "stillborn": 6,
       "freeborn": 7
-    }
-  },
-  {
-    "root": "equ-, -iqu-",
-    "meaning": "even, equal, level",
-    "language": "Latin",
-    "origin": "aequus",
-    "words": [
-      "equal",
-      "equanimity",
-      "equate",
-      "Equator",
-      "equilibrium",
-      "equinox",
-      "equipoise",
-      "equity",
-      "equivalence",
-      "equivocal",
-      "equivocate",
-      "iniquity"
-    ],
-    "source": "https://www.uvm.edu/~jbailly/courses/Etymology/additionalNotes/wikipedia_Derived%20list%20Greek%20and%20Latin%20roots.html",
-    "id": "C0381",
-    "meaning_zh": "相等；平；公平；平稳",
-    "source_ids": [
-      "C0381"
-    ],
-    "aliases": [
-      "equ-",
-      "-iqu-"
-    ],
-    "kind": "古典词根／组合形式",
-    "group": "01_古典词根",
-    "seeds": [
-      "equal",
-      "equanimity",
-      "equate",
-      "Equator",
-      "equilibrium",
-      "equinox",
-      "equipoise",
-      "equity",
-      "equivalence",
-      "equivocal",
-      "equivocate",
-      "iniquity"
-    ],
-    "added_seeds": [],
-    "family": {
-      "equal": {
-        "via": null,
-        "depth": 0,
-        "evidence": "根表例词／词基本身"
-      },
-      "equally": {
-        "via": "equal",
-        "depth": 1,
-        "evidence": "词典构词模板"
-      },
-      "equality": {
-        "via": "equal",
-        "depth": 1,
-        "evidence": "词典构词模板"
-      },
-      "inequality": {
-        "via": null,
-        "depth": 0,
-        "evidence": "逐词词源核对"
-      },
-      "equals": {
-        "via": null,
-        "depth": 0,
-        "evidence": "逐词词源核对"
-      },
-      "equalize": {
-        "via": "equal",
-        "depth": 1,
-        "evidence": "词典构词模板"
-      },
-      "equalizer": {
-        "via": null,
-        "depth": 0,
-        "evidence": "逐词词源核对"
-      },
-      "equalization": {
-        "via": null,
-        "depth": 0,
-        "evidence": "逐词词源核对"
-      },
-      "equalise": {
-        "via": null,
-        "depth": 0,
-        "evidence": "逐词词源核对"
-      },
-      "equaliser": {
-        "via": null,
-        "depth": 0,
-        "evidence": "逐词词源核对"
-      },
-      "equalisation": {
-        "via": null,
-        "depth": 0,
-        "evidence": "逐词词源核对"
-      },
-      "unequal": {
-        "via": "equal",
-        "depth": 1,
-        "evidence": "词典构词模板"
-      },
-      "unequally": {
-        "via": null,
-        "depth": 0,
-        "evidence": "逐词词源核对"
-      },
-      "equivalent": {
-        "via": null,
-        "depth": 0,
-        "evidence": "逐词词源核对"
-      },
-      "equivalence": {
-        "via": null,
-        "depth": 0,
-        "evidence": "根表例词／词基本身"
-      },
-      "equivalently": {
-        "via": null,
-        "depth": 0,
-        "evidence": "逐词词源核对"
-      },
-      "equity": {
-        "via": null,
-        "depth": 0,
-        "evidence": "根表例词／词基本身"
-      },
-      "inequity": {
-        "via": "equity",
-        "depth": 1,
-        "evidence": "词典构词模板"
-      },
-      "equate": {
-        "via": null,
-        "depth": 0,
-        "evidence": "根表例词／词基本身"
-      },
-      "equation": {
-        "via": "equate",
-        "depth": 1,
-        "evidence": "词典构词模板"
-      },
-      "equations": {
-        "via": null,
-        "depth": 0,
-        "evidence": "逐词词源核对"
-      },
-      "Equator": {
-        "via": null,
-        "depth": 0,
-        "evidence": "根表例词／词基本身"
-      },
-      "equatorial": {
-        "via": null,
-        "depth": 0,
-        "evidence": "逐词词源核对"
-      },
-      "adequate": {
-        "via": null,
-        "depth": 0,
-        "evidence": "Oxford：拉丁 adaequatus < adaequare < ad- + aequus；与 equ- 同源"
-      },
-      "equilibrium": {
-        "via": null,
-        "depth": 0,
-        "evidence": "根表例词／词基本身"
-      },
-      "disequilibrium": {
-        "via": "equilibrium",
-        "depth": 1,
-        "evidence": "词典构词模板"
-      },
-      "equitable": {
-        "via": null,
-        "depth": 0,
-        "evidence": "逐词词源核对"
-      },
-      "equitably": {
-        "via": null,
-        "depth": 0,
-        "evidence": "逐词词源核对"
-      },
-      "inequitable": {
-        "via": null,
-        "depth": 0,
-        "evidence": "逐词词源核对"
-      },
-      "equivocal": {
-        "via": null,
-        "depth": 0,
-        "evidence": "根表例词／词基本身"
-      },
-      "unequivocal": {
-        "via": "equivocal",
-        "depth": 1,
-        "evidence": "词典构词模板"
-      },
-      "unequivocally": {
-        "via": null,
-        "depth": 0,
-        "evidence": "逐词词源核对"
-      },
-      "equinox": {
-        "via": null,
-        "depth": 0,
-        "evidence": "根表例词／词基本身"
-      },
-      "iniquity": {
-        "via": null,
-        "depth": 0,
-        "evidence": "根表例词／词基本身"
-      },
-      "iniquitous": {
-        "via": "iniquity",
-        "depth": 1,
-        "evidence": "词典构词模板"
-      },
-      "equidistant": {
-        "via": null,
-        "depth": 0,
-        "evidence": "逐词词源核对"
-      },
-      "equidistance": {
-        "via": null,
-        "depth": 0,
-        "evidence": "逐词词源核对"
-      },
-      "equanimity": {
-        "via": null,
-        "depth": 0,
-        "evidence": "根表例词／词基本身"
-      },
-      "equipoise": {
-        "via": null,
-        "depth": 0,
-        "evidence": "根表例词／词基本身"
-      },
-      "equivocate": {
-        "via": null,
-        "depth": 0,
-        "evidence": "根表例词／词基本身"
-      },
-      "equable": {
-        "via": null,
-        "depth": 0,
-        "evidence": "逐词词源核对"
-      },
-      "equinoctial": {
-        "via": null,
-        "depth": 0,
-        "evidence": "逐词词源核对"
-      },
-      "equanimous": {
-        "via": null,
-        "depth": 0,
-        "evidence": "逐词词源核对"
-      }
-    },
-    "unmatched": [],
-    "headword": null,
-    "origin_note": "词根表记录的是历史来源词；它们可能包括同一词的屈折形。英语借入路线按下方各单词的词源记录分别阅读。",
-    "score": 5.271,
-    "best_zipf": 4.65,
-    "rank": 769,
-    "file": "01_古典词根/0769_equ_C0381.md",
-    "word_anchors": {
-      "equal": 1,
-      "equivalent": 2,
-      "equally": 3,
-      "equity": 4,
-      "equality": 5,
-      "equation": 6,
-      "inequality": 7,
-      "equations": 41,
-      "equals": 42,
-      "equilibrium": 8,
-      "equitable": 9,
-      "unequal": 10,
-      "Equator": 11,
-      "equatorial": 12,
-      "equate": 13,
-      "equivalence": 14,
-      "unequivocally": 15,
-      "equinox": 16,
-      "equalizer": 17,
-      "unequivocal": 18,
-      "equaliser": 19,
-      "iniquity": 20,
-      "equalization": 21,
-      "inequity": 22,
-      "equalize": 23,
-      "equidistant": 24,
-      "equivalently": 25,
-      "equanimity": 26,
-      "equitably": 27,
-      "equivocal": 28,
-      "equalise": 29,
-      "inequitable": 30,
-      "unequally": 31,
-      "equalisation": 32,
-      "disequilibrium": 33,
-      "iniquitous": 34,
-      "equipoise": 35,
-      "equivocate": 36,
-      "equable": 37,
-      "equinoctial": 38,
-      "equidistance": 39,
-      "equanimous": 40,
-      "adequate": 43
     }
   },
   {
@@ -194627,11 +194627,6 @@
         "depth": 0,
         "evidence": "根表例词／词基本身"
       },
-      "entreat": {
-        "via": "treat",
-        "depth": 1,
-        "evidence": "古法语 en- + traitier／traiter，接拉丁 tractare；历史词族关系"
-      },
       "treatment": {
         "via": "treat",
         "depth": 1,
@@ -194651,6 +194646,11 @@
         "via": "treat",
         "depth": 1,
         "evidence": "词典构词模板"
+      },
+      "entreat": {
+        "via": null,
+        "depth": 0,
+        "evidence": "逐词词源核对"
       }
     },
     "unmatched": [],
@@ -194659,7 +194659,7 @@
     "group": "02_英语词基",
     "source": "https://en.wiktionary.org/wiki/treat",
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
-    "score": 5.235,
+    "score": 5.236,
     "best_zipf": 5.01,
     "rank": 811,
     "file": "02_英语词基/0811_treat_B4100.md",
@@ -199230,6 +199230,161 @@
     }
   },
   {
+    "root": "test-",
+    "meaning": "witness",
+    "language": "Latin",
+    "origin": "testis",
+    "words": [
+      "attest",
+      "contest",
+      "detest",
+      "protest",
+      "testament",
+      "testify",
+      "testimony"
+    ],
+    "source": "https://www.uvm.edu/~jbailly/courses/Etymology/additionalNotes/wikipedia_Derived%20list%20Greek%20and%20Latin%20roots.html",
+    "id": "C1499",
+    "meaning_zh": "作证、见证、郑重声明",
+    "source_ids": [
+      "C1499"
+    ],
+    "aliases": [
+      "test-"
+    ],
+    "kind": "古典词根／组合形式",
+    "group": "01_古典词根",
+    "seeds": [
+      "attest",
+      "contest",
+      "detest",
+      "protest",
+      "testament",
+      "testify",
+      "testimony"
+    ],
+    "added_seeds": [],
+    "family": {
+      "contest": {
+        "via": null,
+        "depth": 0,
+        "evidence": "根表例词／词基本身"
+      },
+      "contested": {
+        "via": null,
+        "depth": 0,
+        "evidence": "逐词词源核对"
+      },
+      "contests": {
+        "via": null,
+        "depth": 0,
+        "evidence": "逐词词源核对"
+      },
+      "protest": {
+        "via": null,
+        "depth": 0,
+        "evidence": "根表例词／词基本身"
+      },
+      "protests": {
+        "via": null,
+        "depth": 0,
+        "evidence": "逐词词源核对"
+      },
+      "protestant": {
+        "via": "protest",
+        "depth": 1,
+        "evidence": "词典构词模板"
+      },
+      "protesting": {
+        "via": null,
+        "depth": 0,
+        "evidence": "逐词词源核对"
+      },
+      "protester": {
+        "via": "protest",
+        "depth": 1,
+        "evidence": "词典构词模板"
+      },
+      "protesters": {
+        "via": null,
+        "depth": 0,
+        "evidence": "逐词词源核对"
+      },
+      "protestor": {
+        "via": null,
+        "depth": 0,
+        "evidence": "逐词词源核对"
+      },
+      "protestors": {
+        "via": null,
+        "depth": 0,
+        "evidence": "逐词词源核对"
+      },
+      "testimony": {
+        "via": null,
+        "depth": 0,
+        "evidence": "根表例词／词基本身"
+      },
+      "testament": {
+        "via": null,
+        "depth": 0,
+        "evidence": "根表例词／词基本身"
+      },
+      "testify": {
+        "via": null,
+        "depth": 0,
+        "evidence": "根表例词／词基本身"
+      },
+      "testified": {
+        "via": null,
+        "depth": 0,
+        "evidence": "逐词词源核对"
+      },
+      "attest": {
+        "via": null,
+        "depth": 0,
+        "evidence": "根表例词／词基本身"
+      },
+      "detest": {
+        "via": null,
+        "depth": 0,
+        "evidence": "根表例词／词基本身"
+      },
+      "detestable": {
+        "via": "detest",
+        "depth": 1,
+        "evidence": "词典构词模板"
+      }
+    },
+    "unmatched": [],
+    "headword": null,
+    "origin_note": "词根表记录的是历史来源词；它们可能包括同一词的屈折形。英语借入路线按下方各单词的词源记录分别阅读。",
+    "score": 5.199,
+    "best_zipf": 4.53,
+    "rank": 847,
+    "file": "01_古典词根/0852_test_C1499.md",
+    "word_anchors": {
+      "contest": 1,
+      "protest": 2,
+      "protests": 11,
+      "testimony": 3,
+      "testament": 4,
+      "protesters": 12,
+      "testify": 5,
+      "testified": 13,
+      "protestant": 6,
+      "contested": 14,
+      "protesting": 15,
+      "contests": 16,
+      "protestors": 18,
+      "attest": 7,
+      "protester": 8,
+      "detest": 9,
+      "detestable": 10,
+      "protestor": 17
+    }
+  },
+  {
     "root": "cameria-",
     "meaning": "vault",
     "language": "Latin",
@@ -199423,7 +199578,7 @@
     "origin_note": "词根表记录的是历史来源词；它们可能包括同一词的屈折形。英语借入路线按下方各单词的词源记录分别阅读。",
     "score": 5.198,
     "best_zipf": 4.87,
-    "rank": 847,
+    "rank": 848,
     "file": "01_古典词根/0847_cameria_C0161.md",
     "word_anchors": {
       "camera": 1,
@@ -199516,7 +199671,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 5.198,
     "best_zipf": 5.1,
-    "rank": 848,
+    "rank": 849,
     "file": "02_英语词基/0848_economic_B4311.md",
     "word_anchors": {
       "economic": 1,
@@ -199613,7 +199768,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 5.193,
     "best_zipf": 5.13,
-    "rank": 849,
+    "rank": 850,
     "file": "02_英语词基/0849_green_B2567.md",
     "word_anchors": {
       "green": 1,
@@ -199800,7 +199955,7 @@
     "origin_note": "词典标为构词成分；它可能是语法词缀，也可能是保留词汇意义的组合形式。",
     "score": 5.191,
     "best_zipf": 4.5,
-    "rank": 850,
+    "rank": 851,
     "file": "03_词缀与组合形式/0850_hood_A1845.md",
     "word_anchors": {
       "neighborhood": 1,
@@ -199874,167 +200029,12 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 5.191,
     "best_zipf": 5.19,
-    "rank": 851,
+    "rank": 852,
     "file": "02_英语词基/0851_return_B3950.md",
     "word_anchors": {
       "return": 1,
       "returner": 2,
       "returnee": 3
-    }
-  },
-  {
-    "root": "test-",
-    "meaning": "witness",
-    "language": "Latin",
-    "origin": "testis",
-    "words": [
-      "attest",
-      "contest",
-      "detest",
-      "protest",
-      "testament",
-      "testify",
-      "testimony"
-    ],
-    "source": "https://www.uvm.edu/~jbailly/courses/Etymology/additionalNotes/wikipedia_Derived%20list%20Greek%20and%20Latin%20roots.html",
-    "id": "C1499",
-    "meaning_zh": "作证、见证、郑重声明",
-    "source_ids": [
-      "C1499"
-    ],
-    "aliases": [
-      "test-"
-    ],
-    "kind": "古典词根／组合形式",
-    "group": "01_古典词根",
-    "seeds": [
-      "attest",
-      "contest",
-      "detest",
-      "protest",
-      "testament",
-      "testify",
-      "testimony"
-    ],
-    "added_seeds": [],
-    "family": {
-      "contest": {
-        "via": null,
-        "depth": 0,
-        "evidence": "根表例词／词基本身"
-      },
-      "contested": {
-        "via": null,
-        "depth": 0,
-        "evidence": "逐词词源核对"
-      },
-      "contests": {
-        "via": null,
-        "depth": 0,
-        "evidence": "逐词词源核对"
-      },
-      "protest": {
-        "via": null,
-        "depth": 0,
-        "evidence": "根表例词／词基本身"
-      },
-      "protests": {
-        "via": null,
-        "depth": 0,
-        "evidence": "逐词词源核对"
-      },
-      "protestant": {
-        "via": "protest",
-        "depth": 1,
-        "evidence": "词典构词模板"
-      },
-      "protesting": {
-        "via": null,
-        "depth": 0,
-        "evidence": "逐词词源核对"
-      },
-      "protester": {
-        "via": "protest",
-        "depth": 1,
-        "evidence": "词典构词模板"
-      },
-      "protesters": {
-        "via": null,
-        "depth": 0,
-        "evidence": "逐词词源核对"
-      },
-      "protestor": {
-        "via": "protester",
-        "depth": 2,
-        "evidence": "Cambridge 收录的另一种拼写；与 protester 同义"
-      },
-      "protestors": {
-        "via": "protestor",
-        "depth": 3,
-        "evidence": "protestor 的规则复数"
-      },
-      "testimony": {
-        "via": null,
-        "depth": 0,
-        "evidence": "根表例词／词基本身"
-      },
-      "testament": {
-        "via": null,
-        "depth": 0,
-        "evidence": "根表例词／词基本身"
-      },
-      "testify": {
-        "via": null,
-        "depth": 0,
-        "evidence": "根表例词／词基本身"
-      },
-      "testified": {
-        "via": null,
-        "depth": 0,
-        "evidence": "逐词词源核对"
-      },
-      "attest": {
-        "via": null,
-        "depth": 0,
-        "evidence": "根表例词／词基本身"
-      },
-      "detest": {
-        "via": null,
-        "depth": 0,
-        "evidence": "根表例词／词基本身"
-      },
-      "detestable": {
-        "via": "detest",
-        "depth": 1,
-        "evidence": "词典构词模板"
-      }
-    },
-    "unmatched": [],
-    "headword": null,
-    "origin_note": "词根表记录的是历史来源词；它们可能包括同一词的屈折形。英语借入路线按下方各单词的词源记录分别阅读。",
-    "score": 5.191,
-    "best_zipf": 4.53,
-    "rank": 852,
-    "file": "01_古典词根/0852_test_C1499.md",
-    "word_anchors": {
-      "contest": 1,
-      "protest": 2,
-      "protests": 11,
-      "testimony": 3,
-      "testament": 4,
-      "protesters": 12,
-      "testify": 5,
-      "testified": 13,
-      "protestant": 6,
-      "contested": 14,
-      "protesting": 15,
-      "contests": 16,
-      "attest": 7,
-      "protester": 8,
-      "detest": 9,
-      "detestable": 10,
-      "protestor": 17,
-      "protestors": 18
     }
   },
   {
@@ -231554,6 +231554,138 @@
     }
   },
   {
+    "id": "A1822",
+    "source_ids": [],
+    "root": "-itude",
+    "aliases": [
+      "-itude"
+    ],
+    "meaning": "Used to forms nouns of state, condition or quality.",
+    "meaning_zh": "-tude／-itude：性质、状态、程度的名词词尾",
+    "language": "见词源记录",
+    "origin": "Borrowed from Middle French -itude, from Latin -(i)tūdō. By surface analysis, -i- + -tude.",
+    "words": [],
+    "seeds": [
+      "-itude"
+    ],
+    "family": {
+      "apt": {
+        "via": null,
+        "depth": 0,
+        "evidence": "逐词词源核对"
+      },
+      "attitude": {
+        "via": null,
+        "depth": 0,
+        "evidence": "逐词词源核对"
+      },
+      "attitudes": {
+        "via": null,
+        "depth": 0,
+        "evidence": "逐词词源核对"
+      },
+      "aptitude": {
+        "via": null,
+        "depth": 0,
+        "evidence": "逐词词源核对"
+      },
+      "magnitude": {
+        "via": null,
+        "depth": 0,
+        "evidence": "逐词词源核对"
+      },
+      "altitude": {
+        "via": null,
+        "depth": 0,
+        "evidence": "逐词词源核对"
+      },
+      "gratitude": {
+        "via": null,
+        "depth": 0,
+        "evidence": "逐词词源核对"
+      },
+      "multitude": {
+        "via": "-itude",
+        "depth": 1,
+        "evidence": "词典构词模板"
+      },
+      "latitude": {
+        "via": null,
+        "depth": 0,
+        "evidence": "逐词词源核对"
+      },
+      "solitude": {
+        "via": null,
+        "depth": 0,
+        "evidence": "逐词词源核对"
+      },
+      "longitude": {
+        "via": null,
+        "depth": 0,
+        "evidence": "逐词词源核对"
+      },
+      "fortitude": {
+        "via": null,
+        "depth": 0,
+        "evidence": "逐词词源核对"
+      },
+      "inept": {
+        "via": null,
+        "depth": 0,
+        "evidence": "逐词词源核对"
+      },
+      "servitude": {
+        "via": "-itude",
+        "depth": 1,
+        "evidence": "词典构词模板"
+      },
+      "ineptitude": {
+        "via": null,
+        "depth": 0,
+        "evidence": "逐词词源核对"
+      },
+      "rectitude": {
+        "via": null,
+        "depth": 0,
+        "evidence": "逐词词源核对"
+      },
+      "platitude": {
+        "via": null,
+        "depth": 0,
+        "evidence": "逐词词源核对"
+      }
+    },
+    "unmatched": [],
+    "headword": "-itude",
+    "kind": "词缀／组合形式",
+    "group": "03_词缀与组合形式",
+    "source": "https://en.wiktionary.org/wiki/-itude",
+    "origin_note": "词典标为构词成分；它可能是语法词缀，也可能是保留词汇意义的组合形式。",
+    "score": 4.991,
+    "best_zipf": 4.58,
+    "rank": 1144,
+    "file": "03_词缀与组合形式/1492_itude_A1822.md",
+    "word_anchors": {
+      "attitude": 3,
+      "attitudes": 6,
+      "magnitude": 9,
+      "altitude": 10,
+      "gratitude": 11,
+      "apt": 4,
+      "multitude": 1,
+      "latitude": 12,
+      "solitude": 13,
+      "longitude": 14,
+      "aptitude": 5,
+      "fortitude": 15,
+      "inept": 7,
+      "servitude": 2,
+      "ineptitude": 8,
+      "rectitude": 16,
+      "platitude": 17
+    }
+  },
+  {
     "root": "bio-, bi-",
     "meaning": "life",
     "language": "Greek",
@@ -232252,7 +232384,7 @@
     "origin_note": "词根表记录的是历史来源词；它们可能包括同一词的屈折形。英语借入路线按下方各单词的词源记录分别阅读。",
     "score": 4.991,
     "best_zipf": 4.31,
-    "rank": 1144,
+    "rank": 1145,
     "file": "03_词缀与组合形式/1144_bio_C0122.md",
     "word_anchors": {
       "biological": 1,
@@ -232691,7 +232823,7 @@
     "origin_note": "词根表记录的是历史来源词；它们可能包括同一词的屈折形。英语借入路线按下方各单词的词源记录分别阅读。",
     "score": 4.99,
     "best_zipf": 4.35,
-    "rank": 1145,
+    "rank": 1146,
     "file": "01_古典词根/1145_can_C0166.md",
     "word_anchors": {
       "cant": 1,
@@ -232792,7 +232924,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.99,
     "best_zipf": 4.79,
-    "rank": 1146,
+    "rank": 1147,
     "file": "02_英语词基/1146_handle_B3129.md",
     "word_anchors": {
       "handle": 1,
@@ -232957,7 +233089,7 @@
     "origin_note": "词根表记录的是历史来源词；它们可能包括同一词的屈折形。英语借入路线按下方各单词的词源记录分别阅读。",
     "score": 4.99,
     "best_zipf": 4.4,
-    "rank": 1147,
+    "rank": 1148,
     "file": "01_古典词根/1147_nutri_C0844.md",
     "word_anchors": {
       "nurse": 1,
@@ -233026,7 +233158,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.989,
     "best_zipf": 4.87,
-    "rank": 1148,
+    "rank": 1149,
     "file": "02_英语词基/1148_meaning_B3647.md",
     "word_anchors": {
       "meaning": 1,
@@ -233291,7 +233423,7 @@
     "origin_note": "词根表记录的是历史来源词；它们可能包括同一词的屈折形。英语借入路线按下方各单词的词源记录分别阅读。",
     "score": 4.989,
     "best_zipf": 4.71,
-    "rank": 1149,
+    "rank": 1150,
     "file": "01_古典词根/1149_misc_C0749.md",
     "word_anchors": {
       "mix": 1,
@@ -233374,7 +233506,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.988,
     "best_zipf": 4.9,
-    "rank": 1150,
+    "rank": 1151,
     "file": "02_英语词基/1150_trip_B4114.md",
     "word_anchors": {
       "trip": 1,
@@ -233448,7 +233580,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.986,
     "best_zipf": 4.49,
-    "rank": 1151,
+    "rank": 1152,
     "file": "02_英语词基/1151_celebrate_B4012.md",
     "word_anchors": {
       "celebrate": 1,
@@ -233531,7 +233663,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.986,
     "best_zipf": 4.67,
-    "rank": 1152,
+    "rank": 1153,
     "file": "02_英语词基/1152_leg_B2769.md",
     "word_anchors": {
       "legs": 9,
@@ -233580,7 +233712,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.985,
     "best_zipf": 4.93,
-    "rank": 1153,
+    "rank": 1154,
     "file": "02_英语词基/1153_independent_B3490.md",
     "word_anchors": {
       "independent": 1,
@@ -233657,7 +233789,7 @@
     "origin_note": "词典标为构词成分；它可能是语法词缀，也可能是保留词汇意义的组合形式。",
     "score": 4.984,
     "best_zipf": 4.87,
-    "rank": 1154,
+    "rank": 1155,
     "file": "03_词缀与组合形式/1154_nomy_A1817.md",
     "word_anchors": {
       "economy": 3,
@@ -233721,7 +233853,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.984,
     "best_zipf": 4.87,
-    "rank": 1155,
+    "rank": 1156,
     "file": "02_英语词基/1155_trial_B3375.md",
     "word_anchors": {
       "trial": 1,
@@ -233776,7 +233908,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.983,
     "best_zipf": 4.65,
-    "rank": 1156,
+    "rank": 1157,
     "file": "02_英语词基/1156_identification_B3481.md",
     "word_anchors": {
       "identity": 3,
@@ -233865,7 +233997,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.982,
     "best_zipf": 4.78,
-    "rank": 1157,
+    "rank": 1158,
     "file": "02_英语词基/1157_cat_B2412.md",
     "word_anchors": {
       "cat": 1,
@@ -233931,7 +234063,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.982,
     "best_zipf": 4.95,
-    "rank": 1158,
+    "rank": 1159,
     "file": "02_英语词基/1158_letter_B2461.md",
     "word_anchors": {
       "letter": 1,
@@ -233986,7 +234118,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.981,
     "best_zipf": 4.9,
-    "rank": 1159,
+    "rank": 1160,
     "file": "02_英语词基/1159_gay_B4606.md",
     "word_anchors": {
       "gay": 1,
@@ -234065,7 +234197,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.981,
     "best_zipf": 4.85,
-    "rank": 1160,
+    "rank": 1161,
     "file": "02_英语词基/1160_glass_B3358.md",
     "word_anchors": {
       "glass": 1,
@@ -234189,7 +234321,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.981,
     "best_zipf": 4.62,
-    "rank": 1161,
+    "rank": 1162,
     "file": "02_英语词基/1161_stream_B4194.md",
     "word_anchors": {
       "stream": 1,
@@ -234296,7 +234428,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.98,
     "best_zipf": 4.83,
-    "rank": 1162,
+    "rank": 1163,
     "file": "02_英语词基/1162_smart_B3703.md",
     "word_anchors": {
       "smart": 1,
@@ -234416,7 +234548,7 @@
     "origin_note": "词根表记录的是历史来源词；它们可能包括同一词的屈折形。英语借入路线按下方各单词的词源记录分别阅读。",
     "score": 4.979,
     "best_zipf": 4.86,
-    "rank": 1163,
+    "rank": 1164,
     "file": "01_古典词根/1163_libr_C0671.md",
     "word_anchors": {
       "library": 1,
@@ -234716,7 +234848,7 @@
     "origin_note": "词根表记录的是历史来源词；它们可能包括同一词的屈折形。英语借入路线按下方各单词的词源记录分别阅读。",
     "score": 4.978,
     "best_zipf": 4.31,
-    "rank": 1164,
+    "rank": 1165,
     "file": "01_古典词根/1164_psych_C1154.md",
     "word_anchors": {
       "psychology": 1,
@@ -234815,7 +234947,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.978,
     "best_zipf": 4.91,
-    "rank": 1165,
+    "rank": 1166,
     "file": "02_英语词基/1165_rich_B3917.md",
     "word_anchors": {
       "rich": 1,
@@ -234905,7 +235037,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.978,
     "best_zipf": 4.67,
-    "rank": 1166,
+    "rank": 1167,
     "file": "02_英语词基/1166_smoke_B3114.md",
     "word_anchors": {
       "smoke": 1,
@@ -234961,7 +235093,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.977,
     "best_zipf": 4.96,
-    "rank": 1167,
+    "rank": 1168,
     "file": "02_英语词基/1167_knowledge_B3080.md",
     "word_anchors": {
       "knowledge": 1,
@@ -235024,7 +235156,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.976,
     "best_zipf": 4.84,
-    "rank": 1168,
+    "rank": 1169,
     "file": "02_英语词基/1168_sad_B3656.md",
     "word_anchors": {
       "sad": 1,
@@ -235080,7 +235212,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.975,
     "best_zipf": 4.64,
-    "rank": 1169,
+    "rank": 1170,
     "file": "02_英语词基/1169_argue_B3457.md",
     "word_anchors": {
       "argument": 1,
@@ -235223,7 +235355,7 @@
     "origin_note": "词根表记录的是历史来源词；它们可能包括同一词的屈折形。英语借入路线按下方各单词的词源记录分别阅读。",
     "score": 4.975,
     "best_zipf": 4.75,
-    "rank": 1170,
+    "rank": 1171,
     "file": "01_古典词根/1170_corn_C0257.md",
     "word_anchors": {
       "corner": 1,
@@ -235350,7 +235482,7 @@
     "origin_note": "词根表记录的是历史来源词；它们可能包括同一词的屈折形。英语借入路线按下方各单词的词源记录分别阅读。",
     "score": 4.975,
     "best_zipf": 4.72,
-    "rank": 1171,
+    "rank": 1172,
     "file": "01_古典词根/1171_quart_C1185.md",
     "word_anchors": {
       "quarter": 1,
@@ -235405,7 +235537,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.974,
     "best_zipf": 4.97,
-    "rank": 1172,
+    "rank": 1173,
     "file": "02_英语词基/1172_computer_B2523.md",
     "word_anchors": {
       "computer": 1,
@@ -235473,7 +235605,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.973,
     "best_zipf": 4.92,
-    "rank": 1173,
+    "rank": 1174,
     "file": "02_英语词基/1173_beach_B3361.md",
     "word_anchors": {
       "beach": 1,
@@ -235565,7 +235697,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.973,
     "best_zipf": 4.72,
-    "rank": 1174,
+    "rank": 1175,
     "file": "02_英语词基/1174_shape_B3012.md",
     "word_anchors": {
       "shape": 1,
@@ -235658,7 +235790,7 @@
     "origin_note": "词根表记录的是历史来源词；它们可能包括同一词的屈折形。英语借入路线按下方各单词的词源记录分别阅读。",
     "score": 4.973,
     "best_zipf": 4.94,
-    "rank": 1175,
+    "rank": 1176,
     "file": "01_古典词根/1175_stup_C1441.md",
     "word_anchors": {
       "stupid": 1,
@@ -235712,7 +235844,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.971,
     "best_zipf": 4.73,
-    "rank": 1176,
+    "rank": 1177,
     "file": "02_英语词基/1176_descriptive_B3640.md",
     "word_anchors": {
       "description": 2,
@@ -235765,7 +235897,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.971,
     "best_zipf": 4.95,
-    "rank": 1177,
+    "rank": 1178,
     "file": "02_英语词基/1177_fearless_B4033.md",
     "word_anchors": {
       "fear": 4,
@@ -235824,7 +235956,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.971,
     "best_zipf": 4.62,
-    "rank": 1178,
+    "rank": 1179,
     "file": "02_英语词基/1178_fortunate_B4113.md",
     "word_anchors": {
       "unfortunately": 4,
@@ -235869,7 +236001,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.971,
     "best_zipf": 4.97,
-    "rank": 1179,
+    "rank": 1180,
     "file": "02_英语词基/1179_safety_B3282.md",
     "word_anchors": {
       "safety": 1,
@@ -235961,7 +236093,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.97,
     "best_zipf": 4.46,
-    "rank": 1180,
+    "rank": 1181,
     "file": "02_英语词基/1180_rail_B2802.md",
     "word_anchors": {
       "railway": 1,
@@ -236023,7 +236155,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.97,
     "best_zipf": 4.75,
-    "rank": 1181,
+    "rank": 1182,
     "file": "02_英语词基/1181_weapon_B2474.md",
     "word_anchors": {
       "weapons": 4,
@@ -236122,7 +236254,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.968,
     "best_zipf": 4.5,
-    "rank": 1182,
+    "rank": 1183,
     "file": "02_英语词基/1182_fare_B3398.md",
     "word_anchors": {
       "ford": 9,
@@ -236185,7 +236317,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.965,
     "best_zipf": 4.92,
-    "rank": 1183,
+    "rank": 1184,
     "file": "02_英语词基/1183_organization_B3919.md",
     "word_anchors": {
       "organization": 1,
@@ -236335,7 +236467,7 @@
     "origin_note": "词根表记录的是历史来源词；它们可能包括同一词的屈折形。英语借入路线按下方各单词的词源记录分别阅读。",
     "score": 4.965,
     "best_zipf": 4.61,
-    "rank": 1184,
+    "rank": 1185,
     "file": "01_古典词根/1184_sol_C1361.md",
     "word_anchors": {
       "solo": 1,
@@ -236442,7 +236574,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.964,
     "best_zipf": 4.71,
-    "rank": 1185,
+    "rank": 1186,
     "file": "02_英语词基/1185_rain_B2791.md",
     "word_anchors": {
       "rain": 1,
@@ -236549,7 +236681,7 @@
     "origin_note": "词典标为构词成分；它可能是语法词缀，也可能是保留词汇意义的组合形式。",
     "score": 4.963,
     "best_zipf": 4.72,
-    "rank": 1186,
+    "rank": 1187,
     "file": "03_词缀与组合形式/1186_ency_A2139.md",
     "word_anchors": {
       "emergency": 1,
@@ -236622,7 +236754,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.963,
     "best_zipf": 4.44,
-    "rank": 1187,
+    "rank": 1188,
     "file": "02_英语词基/1187_rank_B3853.md",
     "word_anchors": {
       "rank": 1,
@@ -236673,7 +236805,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.961,
     "best_zipf": 4.78,
-    "rank": 1188,
+    "rank": 1189,
     "file": "02_英语词基/1188_pride_B4066.md",
     "word_anchors": {
       "proud": 3,
@@ -236781,7 +236913,7 @@
     "origin_note": "词根表记录的是历史来源词；它们可能包括同一词的屈折形。英语借入路线按下方各单词的词源记录分别阅读。",
     "score": 4.961,
     "best_zipf": 4.49,
-    "rank": 1189,
+    "rank": 1190,
     "file": "01_古典词根/1189_tempor_C1485.md",
     "word_anchors": {
       "contemporary": 1,
@@ -236838,7 +236970,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.961,
     "best_zipf": 4.95,
-    "rank": 1190,
+    "rank": 1191,
     "file": "02_英语词基/1190_unit_B2798.md",
     "word_anchors": {
       "unit": 1,
@@ -236938,7 +237070,7 @@
     "origin_note": "词根表记录的是历史来源词；它们可能包括同一词的屈折形。英语借入路线按下方各单词的词源记录分别阅读。",
     "score": 4.959,
     "best_zipf": 4.83,
-    "rank": 1191,
+    "rank": 1192,
     "file": "01_古典词根/1191_scal_C1266.md",
     "word_anchors": {
       "scale": 1,
@@ -237095,7 +237227,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.958,
     "best_zipf": 4.72,
-    "rank": 1192,
+    "rank": 1193,
     "file": "02_英语词基/1192_cloth_B3019.md",
     "word_anchors": {
       "clothes": 1,
@@ -237173,7 +237305,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.958,
     "best_zipf": 4.52,
-    "rank": 1193,
+    "rank": 1194,
     "file": "02_英语词基/1193_engage_B4315.md",
     "word_anchors": {
       "engaged": 4,
@@ -237248,7 +237380,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.956,
     "best_zipf": 4.62,
-    "rank": 1194,
+    "rank": 1195,
     "file": "02_英语词基/1194_estimate_B3971.md",
     "word_anchors": {
       "estimated": 7,
@@ -237306,7 +237438,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.956,
     "best_zipf": 4.76,
-    "rank": 1195,
+    "rank": 1196,
     "file": "02_英语词基/1195_woke_B3007.md",
     "word_anchors": {
       "wake": 3,
@@ -237370,7 +237502,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.954,
     "best_zipf": 4.87,
-    "rank": 1196,
+    "rank": 1197,
     "file": "02_英语词基/1196_hall_B3954.md",
     "word_anchors": {
       "hall": 1,
@@ -237431,7 +237563,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.954,
     "best_zipf": 4.91,
-    "rank": 1197,
+    "rank": 1198,
     "file": "02_英语词基/1197_marriage_B3478.md",
     "word_anchors": {
       "marriage": 1,
@@ -237517,7 +237649,7 @@
     "origin_note": "词根表记录的是历史来源词；它们可能包括同一词的屈折形。英语借入路线按下方各单词的词源记录分别阅读。",
     "score": 4.954,
     "best_zipf": 4.32,
-    "rank": 1198,
+    "rank": 1199,
     "file": "01_古典词根/1198_plang_C1058.md",
     "word_anchors": {
       "complaint": 2,
@@ -237601,7 +237733,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.953,
     "best_zipf": 4.79,
-    "rank": 1199,
+    "rank": 1200,
     "file": "02_英语词基/1199_leaf_B3448.md",
     "word_anchors": {
       "leaves": 9,
@@ -237690,7 +237822,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.95,
     "best_zipf": 4.76,
-    "rank": 1200,
+    "rank": 1201,
     "file": "02_英语词基/1200_balance_B3025.md",
     "word_anchors": {
       "balance": 1,
@@ -237770,7 +237902,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.949,
     "best_zipf": 4.26,
-    "rank": 1201,
+    "rank": 1202,
     "file": "02_英语词基/1201_examine_B4204.md",
     "word_anchors": {
       "exam": 4,
@@ -238035,7 +238167,7 @@
     "origin_note": "词根表记录的是历史来源词；它们可能包括同一词的屈折形。英语借入路线按下方各单词的词源记录分别阅读。",
     "score": 4.947,
     "best_zipf": 4.48,
-    "rank": 1202,
+    "rank": 1203,
     "file": "01_古典词根/1202_rap_C1203.md",
     "word_anchors": {
       "rape": 1,
@@ -238330,7 +238462,7 @@
     "origin_note": "词根表记录的是历史来源词；它们可能包括同一词的屈折形。英语借入路线按下方各单词的词源记录分别阅读。",
     "score": 4.946,
     "best_zipf": 4.42,
-    "rank": 1203,
+    "rank": 1204,
     "file": "01_古典词根/1203_arch_C0071.md",
     "word_anchors": {
       "architecture": 1,
@@ -238452,7 +238584,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.945,
     "best_zipf": 4.74,
-    "rank": 1204,
+    "rank": 1205,
     "file": "02_英语词基/1204_dry_B3042.md",
     "word_anchors": {
       "dry": 1,
@@ -238504,7 +238636,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.943,
     "best_zipf": 4.78,
-    "rank": 1205,
+    "rank": 1206,
     "file": "02_英语词基/1205_awareness_B3274.md",
     "word_anchors": {
       "aware": 2,
@@ -238566,7 +238698,7 @@
     "origin_note": "词根表记录的是历史来源词；它们可能包括同一词的屈折形。英语借入路线按下方各单词的词源记录分别阅读。",
     "score": 4.943,
     "best_zipf": 4.77,
-    "rank": 1206,
+    "rank": 1207,
     "file": "01_古典词根/1206_rar_C1206.md",
     "word_anchors": {
       "rare": 1,
@@ -238750,7 +238882,7 @@
     "origin_note": "词根表记录的是历史来源词；它们可能包括同一词的屈折形。英语借入路线按下方各单词的词源记录分别阅读。",
     "score": 4.943,
     "best_zipf": 4.49,
-    "rank": 1207,
+    "rank": 1208,
     "file": "01_古典词根/1207_ton_C1524.md",
     "word_anchors": {
       "tone": 1,
@@ -238823,7 +238955,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.942,
     "best_zipf": 4.9,
-    "rank": 1208,
+    "rank": 1209,
     "file": "02_英语词基/1208_congress_B4319.md",
     "word_anchors": {
       "congress": 1,
@@ -238916,7 +239048,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.942,
     "best_zipf": 4.7,
-    "rank": 1209,
+    "rank": 1210,
     "file": "02_英语词基/1209_forest_B3298.md",
     "word_anchors": {
       "forest": 1,
@@ -238973,7 +239105,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.942,
     "best_zipf": 4.77,
-    "rank": 1210,
+    "rank": 1211,
     "file": "02_英语词基/1210_rare_B3816.md",
     "word_anchors": {
       "rare": 1,
@@ -239036,7 +239168,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.942,
     "best_zipf": 4.67,
-    "rank": 1211,
+    "rank": 1212,
     "file": "02_英语词基/1211_schedule_B4170.md",
     "word_anchors": {
       "schedule": 1,
@@ -239137,7 +239269,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.942,
     "best_zipf": 4.73,
-    "rank": 1212,
+    "rank": 1213,
     "file": "02_英语词基/1212_taste_B3702.md",
     "word_anchors": {
       "taste": 1,
@@ -239280,7 +239412,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.942,
     "best_zipf": 4.62,
-    "rank": 1213,
+    "rank": 1214,
     "file": "02_英语词基/1213_wave_B3706.md",
     "word_anchors": {
       "wave": 1,
@@ -239365,7 +239497,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.94,
     "best_zipf": 4.51,
-    "rank": 1214,
+    "rank": 1215,
     "file": "02_英语词基/1214_comedy_B4294.md",
     "word_anchors": {
       "comedy": 1,
@@ -239427,7 +239559,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.94,
     "best_zipf": 4.91,
-    "rank": 1215,
+    "rank": 1216,
     "file": "02_英语词基/1215_grand_B4044.md",
     "word_anchors": {
       "grand": 1,
@@ -239578,7 +239710,7 @@
     "origin_note": "词根表记录的是历史来源词；它们可能包括同一词的屈折形。英语借入路线按下方各单词的词源记录分别阅读。",
     "score": 4.94,
     "best_zipf": 4.37,
-    "rank": 1216,
+    "rank": 1217,
     "file": "01_古典词根/1216_mon_C0759.md",
     "word_anchors": {
       "monitor": 1,
@@ -239630,7 +239762,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.94,
     "best_zipf": 4.94,
-    "rank": 1217,
+    "rank": 1218,
     "file": "02_英语词基/1217_opening_B4198.md",
     "word_anchors": {
       "opening": 1
@@ -239691,7 +239823,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.939,
     "best_zipf": 4.76,
-    "rank": 1218,
+    "rank": 1219,
     "file": "02_英语词基/1218_wake_B3006.md",
     "word_anchors": {
       "wake": 1,
@@ -239792,7 +239924,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.937,
     "best_zipf": 4.54,
-    "rank": 1219,
+    "rank": 1220,
     "file": "02_英语词基/1219_bath_B3219.md",
     "word_anchors": {
       "bathroom": 1,
@@ -239930,7 +240062,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.936,
     "best_zipf": 4.5,
-    "rank": 1220,
+    "rank": 1221,
     "file": "02_英语词基/1220_bread_B2946.md",
     "word_anchors": {
       "bread": 1,
@@ -240009,7 +240141,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.936,
     "best_zipf": 4.86,
-    "rank": 1221,
+    "rank": 1222,
     "file": "02_英语词基/1221_coffee_B3177.md",
     "word_anchors": {
       "coffee": 1,
@@ -240070,7 +240202,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.935,
     "best_zipf": 4.85,
-    "rank": 1222,
+    "rank": 1223,
     "file": "02_英语词基/1222_exchange_B3639.md",
     "word_anchors": {
       "exchange": 1,
@@ -240159,7 +240291,7 @@
     "origin_note": "词根表记录的是历史来源词；它们可能包括同一词的屈折形。英语借入路线按下方各单词的词源记录分别阅读。",
     "score": 4.935,
     "best_zipf": 4.75,
-    "rank": 1223,
+    "rank": 1224,
     "file": "01_古典词根/1223_juv_C0628.md",
     "word_anchors": {
       "aid": 1,
@@ -240220,7 +240352,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.935,
     "best_zipf": 4.68,
-    "rank": 1224,
+    "rank": 1225,
     "file": "02_英语词基/1224_restore_B4377.md",
     "word_anchors": {
       "restaurant": 4,
@@ -240325,7 +240457,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.934,
     "best_zipf": 4.58,
-    "rank": 1225,
+    "rank": 1226,
     "file": "02_英语词基/1225_frame_B3837.md",
     "word_anchors": {
       "frame": 1,
@@ -240399,7 +240531,7 @@
     "origin_note": "词根表记录的是历史来源词；它们可能包括同一词的屈折形。英语借入路线按下方各单词的词源记录分别阅读。",
     "score": 4.934,
     "best_zipf": 5.1,
-    "rank": 1226,
+    "rank": 1227,
     "file": "03_词缀与组合形式/1226_nov_C0831.md",
     "word_anchors": {
       "November": 1,
@@ -240537,7 +240669,7 @@
     "origin_note": "词根表记录的是历史来源词；它们可能包括同一词的屈折形。英语借入路线按下方各单词的词源记录分别阅读。",
     "score": 4.934,
     "best_zipf": 4.37,
-    "rank": 1227,
+    "rank": 1228,
     "file": "01_古典词根/1227_sum_C1453.md",
     "word_anchors": {
       "summary": 1,
@@ -240605,7 +240737,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.933,
     "best_zipf": 4.67,
-    "rank": 1228,
+    "rank": 1229,
     "file": "02_英语词基/1228_mistake_B2896.md",
     "word_anchors": {
       "mistake": 1,
@@ -240680,7 +240812,7 @@
     "origin_note": "词根表记录的是历史来源词；它们可能包括同一词的屈折形。英语借入路线按下方各单词的词源记录分别阅读。",
     "score": 4.932,
     "best_zipf": 4.57,
-    "rank": 1229,
+    "rank": 1230,
     "file": "01_古典词根/1229_academ_C0005.md",
     "word_anchors": {
       "academic": 1,
@@ -240756,7 +240888,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.932,
     "best_zipf": 4.88,
-    "rank": 1230,
+    "rank": 1231,
     "file": "02_英语词基/1230_sick_B3389.md",
     "word_anchors": {
       "sick": 1,
@@ -240854,7 +240986,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.931,
     "best_zipf": 4.51,
-    "rank": 1231,
+    "rank": 1232,
     "file": "02_英语词基/1231_cap_B3695.md",
     "word_anchors": {
       "cap": 1,
@@ -240949,7 +241081,7 @@
     "origin_note": "词根表记录的是历史来源词；它们可能包括同一词的屈折形。英语借入路线按下方各单词的词源记录分别阅读。",
     "score": 4.929,
     "best_zipf": 4.38,
-    "rank": 1232,
+    "rank": 1233,
     "file": "01_古典词根/1232_resid_C1215.md",
     "word_anchors": {
       "resident": 1,
@@ -241027,7 +241159,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.928,
     "best_zipf": 4.87,
-    "rank": 1233,
+    "rank": 1234,
     "file": "02_英语词基/1233_cellular_B4459.md",
     "word_anchors": {
       "cell": 1,
@@ -241100,7 +241232,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.928,
     "best_zipf": 4.83,
-    "rank": 1234,
+    "rank": 1235,
     "file": "02_英语词基/1234_lake_B3037.md",
     "word_anchors": {
       "lake": 1,
@@ -241237,7 +241369,7 @@
     "origin_note": "词根表记录的是历史来源词；它们可能包括同一词的屈折形。英语借入路线按下方各单词的词源记录分别阅读。",
     "score": 4.928,
     "best_zipf": 4.82,
-    "rank": 1235,
+    "rank": 1236,
     "file": "01_古典词根/1235_metall_C0732.md",
     "word_anchors": {
       "metal": 1,
@@ -241354,7 +241486,7 @@
     "origin_note": "词根表记录的是历史来源词；它们可能包括同一词的屈折形。英语借入路线按下方各单词的词源记录分别阅读。",
     "score": 4.928,
     "best_zipf": 4.4,
-    "rank": 1236,
+    "rank": 1237,
     "file": "01_古典词根/1236_poie_C1086.md",
     "word_anchors": {
       "poetry": 1,
@@ -241414,7 +241546,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.927,
     "best_zipf": 4.9,
-    "rank": 1237,
+    "rank": 1238,
     "file": "02_英语词基/1237_glad_B3428.md",
     "word_anchors": {
       "glad": 1,
@@ -241463,7 +241595,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.926,
     "best_zipf": 4.92,
-    "rank": 1238,
+    "rank": 1239,
     "file": "02_英语词基/1238_awesome_B4595.md",
     "word_anchors": {
       "awesome": 1,
@@ -241521,7 +241653,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.926,
     "best_zipf": 4.56,
-    "rank": 1239,
+    "rank": 1240,
     "file": "02_英语词基/1239_frequent_B3838.md",
     "word_anchors": {
       "frequently": 1,
@@ -241616,7 +241748,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.926,
     "best_zipf": 4.58,
-    "rank": 1240,
+    "rank": 1241,
     "file": "02_英语词基/1240_tip_B4130.md",
     "word_anchors": {
       "tips": 12,
@@ -241693,7 +241825,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.925,
     "best_zipf": 4.82,
-    "rank": 1241,
+    "rank": 1242,
     "file": "02_英语词基/1241_click_B3931.md",
     "word_anchors": {
       "click": 1,
@@ -241790,7 +241922,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.924,
     "best_zipf": 4.64,
-    "rank": 1242,
+    "rank": 1243,
     "file": "02_英语词基/1242_craft_B2427.md",
     "word_anchors": {
       "aircraft": 6,
@@ -241852,7 +241984,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.924,
     "best_zipf": 4.76,
-    "rank": 1243,
+    "rank": 1244,
     "file": "02_英语词基/1243_dressing_B4480.md",
     "word_anchors": {
       "dress": 3,
@@ -241896,7 +242028,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.924,
     "best_zipf": 4.86,
-    "rank": 1244,
+    "rank": 1245,
     "file": "02_英语词基/1244_queen_B2589.md",
     "word_anchors": {
       "queen": 1,
@@ -242008,7 +242140,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.923,
     "best_zipf": 4.15,
-    "rank": 1245,
+    "rank": 1246,
     "file": "02_英语词基/1245_borrow_B3382.md",
     "word_anchors": {
       "harbor": 8,
@@ -242069,7 +242201,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.923,
     "best_zipf": 4.72,
-    "rank": 1246,
+    "rank": 1247,
     "file": "02_英语词基/1246_initial_B4328.md",
     "word_anchors": {
       "initial": 1,
@@ -242127,7 +242259,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.923,
     "best_zipf": 4.82,
-    "rank": 1247,
+    "rank": 1248,
     "file": "02_英语词基/1247_metal_B3084.md",
     "word_anchors": {
       "metal": 1,
@@ -242187,7 +242319,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.923,
     "best_zipf": 4.81,
-    "rank": 1248,
+    "rank": 1249,
     "file": "02_英语词基/1248_soul_B3566.md",
     "word_anchors": {
       "soul": 1,
@@ -242232,7 +242364,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.922,
     "best_zipf": 4.92,
-    "rank": 1249,
+    "rank": 1250,
     "file": "02_英语词基/1249_cash_B3300.md",
     "word_anchors": {
       "cash": 1,
@@ -242309,7 +242441,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.922,
     "best_zipf": 4.52,
-    "rank": 1250,
+    "rank": 1251,
     "file": "02_英语词基/1250_license_B4140.md",
     "word_anchors": {
       "license": 1,
@@ -242438,7 +242570,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.922,
     "best_zipf": 4.64,
-    "rank": 1251,
+    "rank": 1252,
     "file": "02_英语词基/1251_smile_B2744.md",
     "word_anchors": {
       "smile": 1,
@@ -242556,7 +242688,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.921,
     "best_zipf": 4.73,
-    "rank": 1252,
+    "rank": 1253,
     "file": "02_英语词基/1252_blog_B3597.md",
     "word_anchors": {
       "blog": 1,
@@ -242605,7 +242737,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.92,
     "best_zipf": 4.92,
-    "rank": 1253,
+    "rank": 1254,
     "file": "02_英语词基/1253_learning_B3910.md",
     "word_anchors": {
       "learning": 1
@@ -242661,7 +242793,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.92,
     "best_zipf": 4.89,
-    "rank": 1254,
+    "rank": 1255,
     "file": "02_英语词基/1254_winter_B2439.md",
     "word_anchors": {
       "winter": 1,
@@ -242736,7 +242868,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.919,
     "best_zipf": 4.66,
-    "rank": 1255,
+    "rank": 1256,
     "file": "02_英语词基/1255_weak_B3393.md",
     "word_anchors": {
       "weak": 1,
@@ -242908,7 +243040,7 @@
     "origin_note": "词根表记录的是历史来源词；它们可能包括同一词的屈折形。英语借入路线按下方各单词的词源记录分别阅读。",
     "score": 4.918,
     "best_zipf": 4.74,
-    "rank": 1256,
+    "rank": 1257,
     "file": "01_古典词根/1256_ag_C0024.md",
     "word_anchors": {
       "strategy": 1,
@@ -242976,7 +243108,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.918,
     "best_zipf": 4.72,
-    "rank": 1257,
+    "rank": 1258,
     "file": "02_英语词基/1257_ill_B3865.md",
     "word_anchors": {
       "ill": 1,
@@ -243082,7 +243214,7 @@
     "origin_note": "词根表记录的是历史来源词；它们可能包括同一词的屈折形。英语借入路线按下方各单词的词源记录分别阅读。",
     "score": 4.918,
     "best_zipf": 4.42,
-    "rank": 1258,
+    "rank": 1259,
     "file": "01_古典词根/1258_prec_C1116.md",
     "word_anchors": {
       "prayer": 1,
@@ -243232,7 +243364,7 @@
     "origin_note": "词根表记录的是历史来源词；它们可能包括同一词的屈折形。英语借入路线按下方各单词的词源记录分别阅读。",
     "score": 4.918,
     "best_zipf": 4.53,
-    "rank": 1259,
+    "rank": 1260,
     "file": "01_古典词根/1259_prot_C1138.md",
     "word_anchors": {
       "protein": 1,
@@ -243343,7 +243475,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.916,
     "best_zipf": 4.42,
-    "rank": 1260,
+    "rank": 1261,
     "file": "02_英语词基/1260_suck_B3103.md",
     "word_anchors": {
       "suck": 1,
@@ -243429,7 +243561,7 @@
     "origin_note": "词根表记录的是历史来源词；它们可能包括同一词的屈折形。英语借入路线按下方各单词的词源记录分别阅读。",
     "score": 4.915,
     "best_zipf": 4.48,
-    "rank": 1261,
+    "rank": 1262,
     "file": "01_古典词根/1261_ignorare_C0599.md",
     "word_anchors": {
       "ignore": 1,
@@ -243500,7 +243632,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.915,
     "best_zipf": 4.89,
-    "rank": 1262,
+    "rank": 1263,
     "file": "02_英语词基/1262_smith_B3480.md",
     "word_anchors": {
       "smith": 1,
@@ -243606,7 +243738,7 @@
     "origin_note": "词根表记录的是历史来源词；它们可能包括同一词的屈折形。英语借入路线按下方各单词的词源记录分别阅读。",
     "score": 4.913,
     "best_zipf": 4.83,
-    "rank": 1263,
+    "rank": 1264,
     "file": "01_古典词根/1263_digit_C0329.md",
     "word_anchors": {
       "digital": 1,
@@ -243671,7 +243803,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.913,
     "best_zipf": 4.84,
-    "rank": 1264,
+    "rank": 1265,
     "file": "02_英语词基/1264_traditional_B4099.md",
     "word_anchors": {
       "traditional": 1,
@@ -243721,7 +243853,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.913,
     "best_zipf": 4.62,
-    "rank": 1265,
+    "rank": 1266,
     "file": "02_英语词基/1265_typical_B4309.md",
     "word_anchors": {
       "typically": 1,
@@ -243779,7 +243911,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.912,
     "best_zipf": 4.61,
-    "rank": 1266,
+    "rank": 1267,
     "file": "02_英语词基/1266_essential_B3209.md",
     "word_anchors": {
       "essential": 1,
@@ -243829,7 +243961,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.912,
     "best_zipf": 4.88,
-    "rank": 1267,
+    "rank": 1268,
     "file": "02_英语词基/1267_eventual_B4583.md",
     "word_anchors": {
       "eventually": 1,
@@ -243872,7 +244004,7 @@
     "origin_note": "词典标为构词成分；它可能是语法词缀，也可能是保留词汇意义的组合形式。",
     "score": 4.912,
     "best_zipf": 4.91,
-    "rank": 1268,
+    "rank": 1269,
     "file": "03_词缀与组合形式/1268_yester_A2221.md",
     "word_anchors": {
       "yesterday": 1,
@@ -243944,7 +244076,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.911,
     "best_zipf": 4.81,
-    "rank": 1269,
+    "rank": 1270,
     "file": "02_英语词基/1269_silver_B2571.md",
     "word_anchors": {
       "silver": 1,
@@ -244032,7 +244164,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.911,
     "best_zipf": 4.46,
-    "rank": 1270,
+    "rank": 1271,
     "file": "02_英语词基/1270_ton_B3474.md",
     "word_anchors": {
       "tons": 9,
@@ -244121,7 +244253,7 @@
     "origin_note": "词根表记录的是历史来源词；它们可能包括同一词的屈折形。英语借入路线按下方各单词的词源记录分别阅读。",
     "score": 4.91,
     "best_zipf": 4.51,
-    "rank": 1271,
+    "rank": 1272,
     "file": "01_古典词根/1271_quot_C1196.md",
     "word_anchors": {
       "quote": 1,
@@ -244179,7 +244311,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.907,
     "best_zipf": 4.83,
-    "rank": 1272,
+    "rank": 1273,
     "file": "02_英语词基/1272_bus_B3248.md",
     "word_anchors": {
       "bus": 1,
@@ -244423,7 +244555,7 @@
     "origin_note": "词根表记录的是历史来源词；它们可能包括同一词的屈折形。英语借入路线按下方各单词的词源记录分别阅读。",
     "score": 4.907,
     "best_zipf": 4.18,
-    "rank": 1273,
+    "rank": 1274,
     "file": "01_古典词根/1273_nomen_C0821.md",
     "word_anchors": {
       "nominated": 1,
@@ -244504,7 +244636,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.907,
     "best_zipf": 4.6,
-    "rank": 1274,
+    "rank": 1275,
     "file": "02_英语词基/1274_scare_B3831.md",
     "word_anchors": {
       "scared": 1,
@@ -244584,7 +244716,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.906,
     "best_zipf": 4.7,
-    "rank": 1275,
+    "rank": 1276,
     "file": "02_英语词基/1275_border_B4219.md",
     "word_anchors": {
       "border": 1,
@@ -244643,7 +244775,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.905,
     "best_zipf": 4.88,
-    "rank": 1276,
+    "rank": 1277,
     "file": "02_英语词基/1276_holy_B3289.md",
     "word_anchors": {
       "holy": 1,
@@ -244697,7 +244829,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.905,
     "best_zipf": 4.85,
-    "rank": 1277,
+    "rank": 1278,
     "file": "02_英语词基/1277_traffic_B2782.md",
     "word_anchors": {
       "traffic": 1,
@@ -244766,7 +244898,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.904,
     "best_zipf": 4.82,
-    "rank": 1278,
+    "rank": 1279,
     "file": "02_英语词基/1278_rose_B2707.md",
     "word_anchors": {
       "rose": 1,
@@ -244933,7 +245065,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.904,
     "best_zipf": 4.39,
-    "rank": 1279,
+    "rank": 1280,
     "file": "02_英语词基/1279_shell_B4083.md",
     "word_anchors": {
       "shell": 1,
@@ -245069,7 +245201,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.904,
     "best_zipf": 4.66,
-    "rank": 1280,
+    "rank": 1281,
     "file": "02_英语词基/1280_storm_B2536.md",
     "word_anchors": {
       "storm": 1,
@@ -245130,7 +245262,7 @@
     "origin_note": "词典标为构词成分；它可能是语法词缀，也可能是保留词汇意义的组合形式。",
     "score": 4.903,
     "best_zipf": 4.85,
-    "rank": 1281,
+    "rank": 1282,
     "file": "03_词缀与组合形式/1281_mobile_A1838.md",
     "word_anchors": {
       "mobile": 3,
@@ -245203,7 +245335,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.903,
     "best_zipf": 4.66,
-    "rank": 1282,
+    "rank": 1283,
     "file": "02_英语词基/1282_angry_B2631.md",
     "word_anchors": {
       "angry": 1,
@@ -245266,7 +245398,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.903,
     "best_zipf": 4.55,
-    "rank": 1283,
+    "rank": 1284,
     "file": "02_英语词基/1283_ban_B2735.md",
     "word_anchors": {
       "ban": 1,
@@ -245351,7 +245483,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.902,
     "best_zipf": 4.6,
-    "rank": 1284,
+    "rank": 1285,
     "file": "02_英语词基/1284_hang_B2875.md",
     "word_anchors": {
       "hang": 1,
@@ -245411,7 +245543,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.902,
     "best_zipf": 4.76,
-    "rank": 1285,
+    "rank": 1286,
     "file": "02_英语词基/1285_magic_B3217.md",
     "word_anchors": {
       "magic": 1,
@@ -245512,7 +245644,7 @@
     "origin_note": "词根表记录的是历史来源词；它们可能包括同一词的屈折形。英语借入路线按下方各单词的词源记录分别阅读。",
     "score": 4.901,
     "best_zipf": 4.7,
-    "rank": 1286,
+    "rank": 1287,
     "file": "01_古典词根/1286_am_C0041.md",
     "word_anchors": {
       "enemy": 1,
@@ -245582,7 +245714,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.9,
     "best_zipf": 4.79,
-    "rank": 1287,
+    "rank": 1288,
     "file": "02_英语词基/1287_bet_B2823.md",
     "word_anchors": {
       "bet": 1,
@@ -245658,7 +245790,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.898,
     "best_zipf": 4.68,
-    "rank": 1288,
+    "rank": 1289,
     "file": "02_英语词基/1288_flow_B3109.md",
     "word_anchors": {
       "flow": 1,
@@ -245761,7 +245893,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.898,
     "best_zipf": 4.59,
-    "rank": 1289,
+    "rank": 1290,
     "file": "02_英语词基/1289_tool_B3260.md",
     "word_anchors": {
       "tools": 9,
@@ -245839,7 +245971,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.898,
     "best_zipf": 4.71,
-    "rank": 1290,
+    "rank": 1291,
     "file": "02_英语词基/1290_warm_B2673.md",
     "word_anchors": {
       "warm": 1,
@@ -245966,7 +246098,7 @@
     "origin_note": "词根表记录的是历史来源词；它们可能包括同一词的屈折形。英语借入路线按下方各单词的词源记录分别阅读。",
     "score": 4.897,
     "best_zipf": 4.46,
-    "rank": 1291,
+    "rank": 1292,
     "file": "03_词缀与组合形式/1291_contra_C0250.md",
     "word_anchors": {
       "contrast": 1,
@@ -246051,7 +246183,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.897,
     "best_zipf": 4.87,
-    "rank": 1292,
+    "rank": 1293,
     "file": "02_英语词基/1292_weather_B2793.md",
     "word_anchors": {
       "weather": 1,
@@ -246104,7 +246236,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.896,
     "best_zipf": 4.76,
-    "rank": 1293,
+    "rank": 1294,
     "file": "02_英语词基/1293_ad_B2534.md",
     "word_anchors": {
       "ad": 1,
@@ -246152,7 +246284,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.895,
     "best_zipf": 4.86,
-    "rank": 1294,
+    "rank": 1295,
     "file": "02_英语词基/1294_division_B3226.md",
     "word_anchors": {
       "division": 1,
@@ -246290,7 +246422,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.891,
     "best_zipf": 4.71,
-    "rank": 1295,
+    "rank": 1296,
     "file": "02_英语词基/1295_boat_B2943.md",
     "word_anchors": {
       "boat": 1,
@@ -246366,7 +246498,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.891,
     "best_zipf": 4.85,
-    "rank": 1296,
+    "rank": 1297,
     "file": "02_英语词基/1296_fat_B4607.md",
     "word_anchors": {
       "fat": 1,
@@ -246446,7 +246578,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.891,
     "best_zipf": 4.82,
-    "rank": 1297,
+    "rank": 1298,
     "file": "02_英语词基/1297_jack_B2600.md",
     "word_anchors": {
       "jack": 1,
@@ -246520,7 +246652,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.891,
     "best_zipf": 4.78,
-    "rank": 1298,
+    "rank": 1299,
     "file": "02_英语词基/1298_shut_B2978.md",
     "word_anchors": {
       "shut": 1,
@@ -246597,7 +246729,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.89,
     "best_zipf": 4.77,
-    "rank": 1299,
+    "rank": 1300,
     "file": "02_英语词基/1299_dear_B2610.md",
     "word_anchors": {
       "dear": 1,
@@ -246674,7 +246806,7 @@
     "origin_note": "词根表记录的是历史来源词；它们可能包括同一词的屈折形。英语借入路线按下方各单词的词源记录分别阅读。",
     "score": 4.889,
     "best_zipf": 4.77,
-    "rank": 1300,
+    "rank": 1301,
     "file": "01_古典词根/1300_host_C0572.md",
     "word_anchors": {
       "host": 1,
@@ -246755,7 +246887,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.889,
     "best_zipf": 4.47,
-    "rank": 1301,
+    "rank": 1302,
     "file": "02_英语词基/1301_tear_B2751.md",
     "word_anchors": {
       "tears": 8,
@@ -246854,7 +246986,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.887,
     "best_zipf": 4.83,
-    "rank": 1302,
+    "rank": 1303,
     "file": "02_英语词基/1302_mouth_B2767.md",
     "word_anchors": {
       "mouth": 1,
@@ -246911,7 +247043,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.886,
     "best_zipf": 4.72,
-    "rank": 1303,
+    "rank": 1304,
     "file": "02_英语词基/1303_shaped_B4540.md",
     "word_anchors": {
       "shape": 2,
@@ -246984,7 +247116,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.886,
     "best_zipf": 4.52,
-    "rank": 1304,
+    "rank": 1305,
     "file": "02_英语词基/1304_wit_B3503.md",
     "word_anchors": {
       "witness": 1,
@@ -247097,7 +247229,7 @@
     "origin_note": "词典标为构词成分；它可能是语法词缀，也可能是保留词汇意义的组合形式。",
     "score": 4.885,
     "best_zipf": 4.64,
-    "rank": 1305,
+    "rank": 1306,
     "file": "03_词缀与组合形式/1305_craft_A2207.md",
     "word_anchors": {
       "aircraft": 1,
@@ -247172,7 +247304,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.885,
     "best_zipf": 4.56,
-    "rank": 1306,
+    "rank": 1307,
     "file": "02_英语词基/1306_counter_B4383.md",
     "word_anchors": {
       "counter": 1,
@@ -247248,7 +247380,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.884,
     "best_zipf": 4.54,
-    "rank": 1307,
+    "rank": 1308,
     "file": "02_英语词基/1307_sight_B3957.md",
     "word_anchors": {
       "sight": 1,
@@ -247316,7 +247448,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.883,
     "best_zipf": 4.8,
-    "rank": 1308,
+    "rank": 1309,
     "file": "02_英语词基/1308_healthy_B3629.md",
     "word_anchors": {
       "healthy": 1,
@@ -247457,7 +247589,7 @@
     "origin_note": "词根表记录的是历史来源词；它们可能包括同一词的屈折形。英语借入路线按下方各单词的词源记录分别阅读。",
     "score": 4.883,
     "best_zipf": 4.64,
-    "rank": 1309,
+    "rank": 1310,
     "file": "01_古典词根/1309_pur_C1171.md",
     "word_anchors": {
       "pure": 1,
@@ -247530,7 +247662,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.882,
     "best_zipf": 4.64,
-    "rank": 1310,
+    "rank": 1311,
     "file": "02_英语词基/1310_temper_B4460.md",
     "word_anchors": {
       "temperature": 4,
@@ -247646,7 +247778,7 @@
     "origin_note": "词根表记录的是历史来源词；它们可能包括同一词的屈折形。英语借入路线按下方各单词的词源记录分别阅读。",
     "score": 4.881,
     "best_zipf": 4.57,
-    "rank": 1311,
+    "rank": 1312,
     "file": "01_古典词根/1311_nav_C0797.md",
     "word_anchors": {
       "navy": 1,
@@ -247703,7 +247835,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.881,
     "best_zipf": 4.84,
-    "rank": 1312,
+    "rank": 1313,
     "file": "02_英语词基/1312_square_B2598.md",
     "word_anchors": {
       "square": 1,
@@ -247771,7 +247903,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.88,
     "best_zipf": 4.71,
-    "rank": 1313,
+    "rank": 1314,
     "file": "02_英语词基/1313_cheap_B2935.md",
     "word_anchors": {
       "cheap": 1,
@@ -248052,7 +248184,7 @@
     "origin_note": "词根表记录的是历史来源词；它们可能包括同一词的屈折形。英语借入路线按下方各单词的词源记录分别阅读。",
     "score": 4.879,
     "best_zipf": 4.49,
-    "rank": 1314,
+    "rank": 1315,
     "file": "01_古典词根/1314_ten_C1486.md",
     "word_anchors": {
       "tone": 1,
@@ -248132,7 +248264,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.873,
     "best_zipf": 4.51,
-    "rank": 1315,
+    "rank": 1316,
     "file": "02_英语词基/1315_aim_B3589.md",
     "word_anchors": {
       "aim": 1,
@@ -248182,7 +248314,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.87,
     "best_zipf": 4.69,
-    "rank": 1316,
+    "rank": 1317,
     "file": "02_英语词基/1316_sudden_B3920.md",
     "word_anchors": {
       "suddenly": 1,
@@ -248242,7 +248374,7 @@
     "origin_note": "词根表记录的是历史来源词；它们可能包括同一词的屈折形。英语借入路线按下方各单词的词源记录分别阅读。",
     "score": 4.87,
     "best_zipf": 4.57,
-    "rank": 1317,
+    "rank": 1318,
     "file": "01_古典词根/1317_ultim_C1576.md",
     "word_anchors": {
       "ultimately": 1,
@@ -248348,7 +248480,7 @@
     "origin_note": "词根表记录的是历史来源词；它们可能包括同一词的屈折形。英语借入路线按下方各单词的词源记录分别阅读。",
     "score": 4.87,
     "best_zipf": 4.4,
-    "rank": 1318,
+    "rank": 1319,
     "file": "01_古典词根/1318_vac_C1597.md",
     "word_anchors": {
       "vacation": 1,
@@ -248444,7 +248576,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.87,
     "best_zipf": 4.61,
-    "rank": 1319,
+    "rank": 1320,
     "file": "02_英语词基/1319_wing_B2670.md",
     "word_anchors": {
       "wing": 1,
@@ -248570,7 +248702,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.869,
     "best_zipf": 4.51,
-    "rank": 1320,
+    "rank": 1321,
     "file": "02_英语词基/1320_lock_B3384.md",
     "word_anchors": {
       "lock": 1,
@@ -248677,7 +248809,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.869,
     "best_zipf": 4.6,
-    "rank": 1321,
+    "rank": 1322,
     "file": "02_英语词基/1321_switch_B3313.md",
     "word_anchors": {
       "switch": 1,
@@ -248749,7 +248881,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.869,
     "best_zipf": 4.56,
-    "rank": 1322,
+    "rank": 1323,
     "file": "02_英语词基/1322_victim_B3799.md",
     "word_anchors": {
       "victim": 1,
@@ -248805,7 +248937,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.866,
     "best_zipf": 4.79,
-    "rank": 1323,
+    "rank": 1324,
     "file": "02_英语词基/1323_ed_B3454.md"
   },
   {
@@ -248858,7 +248990,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.866,
     "best_zipf": 4.74,
-    "rank": 1324,
+    "rank": 1325,
     "file": "02_英语词基/1324_edge_B3624.md",
     "word_anchors": {
       "edge": 1,
@@ -248959,7 +249091,7 @@
     "origin_note": "词根表记录的是历史来源词；它们可能包括同一词的屈折形。英语借入路线按下方各单词的词源记录分别阅读。",
     "score": 4.866,
     "best_zipf": 4.52,
-    "rank": 1325,
+    "rank": 1326,
     "file": "01_古典词根/1325_thea_C1510.md",
     "word_anchors": {
       "theatre": 1,
@@ -249025,7 +249157,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.865,
     "best_zipf": 4.85,
-    "rank": 1326,
+    "rank": 1327,
     "file": "02_英语词基/1326_religious_B3970.md",
     "word_anchors": {
       "religious": 1,
@@ -249080,7 +249212,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.865,
     "best_zipf": 4.53,
-    "rank": 1327,
+    "rank": 1328,
     "file": "02_英语词基/1327_retire_B4074.md",
     "word_anchors": {
       "retirement": 1,
@@ -249174,7 +249306,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.863,
     "best_zipf": 4.31,
-    "rank": 1328,
+    "rank": 1329,
     "file": "02_英语词基/1328_bite_B2743.md",
     "word_anchors": {
       "bite": 1,
@@ -249241,7 +249373,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.863,
     "best_zipf": 4.61,
-    "rank": 1329,
+    "rank": 1330,
     "file": "02_英语词基/1329_desire_B3541.md",
     "word_anchors": {
       "desire": 1,
@@ -249301,7 +249433,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.863,
     "best_zipf": 4.77,
-    "rank": 1330,
+    "rank": 1331,
     "file": "02_英语词基/1330_lucky_B4062.md",
     "word_anchors": {
       "lucky": 1,
@@ -249351,7 +249483,7 @@
     "origin_note": "词典标为构词成分；它可能是语法词缀，也可能是保留词汇意义的组合形式。",
     "score": 4.862,
     "best_zipf": 4.86,
-    "rank": 1331,
+    "rank": 1332,
     "file": "03_词缀与组合形式/1331_plex_A1836.md",
     "word_anchors": {
       "complex": 1,
@@ -249419,7 +249551,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.862,
     "best_zipf": 4.51,
-    "rank": 1332,
+    "rank": 1333,
     "file": "02_英语词基/1332_wise_B3705.md",
     "word_anchors": {
       "wise": 1,
@@ -249466,7 +249598,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.861,
     "best_zipf": 4.86,
-    "rank": 1333,
+    "rank": 1334,
     "file": "02_英语词基/1333_app_B4498.md",
     "word_anchors": {
       "app": 1,
@@ -249548,7 +249680,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.861,
     "best_zipf": 4.57,
-    "rank": 1334,
+    "rank": 1335,
     "file": "02_英语词基/1334_bind_B2825.md",
     "word_anchors": {
       "bunch": 7,
@@ -249669,7 +249801,7 @@
     "origin_note": "词根表记录的是历史来源词；它们可能包括同一词的屈折形。英语借入路线按下方各单词的词源记录分别阅读。",
     "score": 4.861,
     "best_zipf": 4.29,
-    "rank": 1335,
+    "rank": 1336,
     "file": "03_词缀与组合形式/1335_dia_C0324.md",
     "word_anchors": {
       "dialogue": 1,
@@ -249723,7 +249855,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.859,
     "best_zipf": 4.84,
-    "rank": 1336,
+    "rank": 1337,
     "file": "02_英语词基/1336_famous_B3947.md",
     "word_anchors": {
       "famous": 1,
@@ -249775,7 +249907,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.858,
     "best_zipf": 4.77,
-    "rank": 1337,
+    "rank": 1338,
     "file": "02_英语词基/1337_bridge_B2949.md",
     "word_anchors": {
       "bridge": 1,
@@ -249819,7 +249951,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.858,
     "best_zipf": 4.85,
-    "rank": 1338,
+    "rank": 1339,
     "file": "02_英语词基/1338_powerful_B3561.md",
     "word_anchors": {
       "powerful": 1,
@@ -249871,7 +250003,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.857,
     "best_zipf": 4.81,
-    "rank": 1339,
+    "rank": 1340,
     "file": "02_英语词基/1339_authoritarian_B4453.md",
     "word_anchors": {
       "authority": 3,
@@ -249992,7 +250124,7 @@
     "origin_note": "词根表记录的是历史来源词；它们可能包括同一词的屈折形。英语借入路线按下方各单词的词源记录分别阅读。",
     "score": 4.857,
     "best_zipf": 4.69,
-    "rank": 1340,
+    "rank": 1341,
     "file": "01_古典词根/1340_dom_C0337.md",
     "word_anchors": {
       "domestic": 1,
@@ -250078,7 +250210,7 @@
     "origin_note": "词根表记录的是历史来源词；它们可能包括同一词的屈折形。英语借入路线按下方各单词的词源记录分别阅读。",
     "score": 4.857,
     "best_zipf": 4.53,
-    "rank": 1341,
+    "rank": 1342,
     "file": "01_古典词根/1341_pecu_C0979.md",
     "word_anchors": {
       "fees": 7,
@@ -250201,7 +250333,7 @@
     "origin_note": "词根表记录的是历史来源词；它们可能包括同一词的屈折形。英语借入路线按下方各单词的词源记录分别阅读。",
     "score": 4.857,
     "best_zipf": 4.31,
-    "rank": 1342,
+    "rank": 1343,
     "file": "01_古典词根/1342_plor_C1074.md",
     "word_anchors": {
       "explore": 1,
@@ -250316,7 +250448,7 @@
     "origin_note": "词根表记录的是历史来源词；它们可能包括同一词的屈折形。英语借入路线按下方各单词的词源记录分别阅读。",
     "score": 4.857,
     "best_zipf": 4.53,
-    "rank": 1343,
+    "rank": 1344,
     "file": "01_古典词根/1343_portion_C1106.md",
     "word_anchors": {
       "portion": 1,
@@ -250429,7 +250561,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.856,
     "best_zipf": 4.67,
-    "rank": 1344,
+    "rank": 1345,
     "file": "02_英语词基/1344_shoe_B2912.md",
     "word_anchors": {
       "shoes": 12,
@@ -250582,7 +250714,7 @@
     "origin_note": "词根表记录的是历史来源词；它们可能包括同一词的屈折形。英语借入路线按下方各单词的词源记录分别阅读。",
     "score": 4.856,
     "best_zipf": 4.65,
-    "rank": 1345,
+    "rank": 1346,
     "file": "01_古典词根/1345_urb_C1590.md",
     "word_anchors": {
       "urban": 1,
@@ -250703,7 +250835,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.855,
     "best_zipf": 4.42,
-    "rank": 1346,
+    "rank": 1347,
     "file": "02_英语词基/1346_hook_B3261.md",
     "word_anchors": {
       "hockey": 7,
@@ -250773,7 +250905,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.855,
     "best_zipf": 4.53,
-    "rank": 1347,
+    "rank": 1348,
     "file": "02_英语词基/1347_invitation_B4054.md",
     "word_anchors": {
       "invited": 4,
@@ -250823,7 +250955,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.855,
     "best_zipf": 4.85,
-    "rank": 1348,
+    "rank": 1349,
     "file": "02_英语词基/1348_northern_B4246.md",
     "word_anchors": {
       "northern": 1,
@@ -250871,7 +251003,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.854,
     "best_zipf": 4.76,
-    "rank": 1349,
+    "rank": 1350,
     "file": "02_英语词基/1349_fellow_B4034.md",
     "word_anchors": {
       "fellow": 1,
@@ -250996,7 +251128,7 @@
     "origin_note": "词根表记录的是历史来源词；它们可能包括同一词的屈折形。英语借入路线按下方各单词的词源记录分别阅读。",
     "score": 4.854,
     "best_zipf": 4.53,
-    "rank": 1350,
+    "rank": 1351,
     "file": "01_古典词根/1350_mar_C0708.md",
     "word_anchors": {
       "marine": 1,
@@ -251114,7 +251246,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.853,
     "best_zipf": 4.47,
-    "rank": 1351,
+    "rank": 1352,
     "file": "02_英语词基/1351_bull_B2899.md",
     "word_anchors": {
       "bullshit": 1,
@@ -251174,7 +251306,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.853,
     "best_zipf": 4.85,
-    "rank": 1352,
+    "rank": 1353,
     "file": "02_英语词基/1352_channel_B4143.md",
     "word_anchors": {
       "channel": 1,
@@ -251252,7 +251384,7 @@
     "origin_note": "词根表记录的是历史来源词；它们可能包括同一词的屈折形。英语借入路线按下方各单词的词源记录分别阅读。",
     "score": 4.853,
     "best_zipf": 4.72,
-    "rank": 1353,
+    "rank": 1354,
     "file": "01_古典词根/1353_zon_C1678.md",
     "word_anchors": {
       "zone": 1,
@@ -251308,7 +251440,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.852,
     "best_zipf": 4.72,
-    "rank": 1354,
+    "rank": 1355,
     "file": "02_英语词基/1354_classic_B3194.md",
     "word_anchors": {
       "classic": 1,
@@ -251352,7 +251484,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.852,
     "best_zipf": 4.73,
-    "rank": 1355,
+    "rank": 1356,
     "file": "02_英语词基/1355_democrat_B3256.md",
     "word_anchors": {
       "democratic": 1,
@@ -251404,7 +251536,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.851,
     "best_zipf": 4.76,
-    "rank": 1356,
+    "rank": 1357,
     "file": "02_英语词基/1356_apple_B2486.md",
     "word_anchors": {
       "apple": 1,
@@ -251453,7 +251585,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.851,
     "best_zipf": 4.81,
-    "rank": 1357,
+    "rank": 1358,
     "file": "02_英语词基/1357_authority_B3048.md",
     "word_anchors": {
       "authority": 1,
@@ -251496,7 +251628,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.851,
     "best_zipf": 4.85,
-    "rank": 1358,
+    "rank": 1359,
     "file": "02_英语词基/1358_learned_B2887.md",
     "word_anchors": {
       "learned": 1,
@@ -251543,7 +251675,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.85,
     "best_zipf": 4.84,
-    "rank": 1359,
+    "rank": 1360,
     "file": "02_英语词基/1359_bottom_B3669.md",
     "word_anchors": {
       "bottom": 1,
@@ -251669,7 +251801,7 @@
     "origin_note": "词根表记录的是历史来源词；它们可能包括同一词的屈折形。英语借入路线按下方各单词的词源记录分别阅读。",
     "score": 4.85,
     "best_zipf": 4.1,
-    "rank": 1360,
+    "rank": 1361,
     "file": "01_古典词根/1360_don_C0340.md",
     "word_anchors": {
       "donations": 9,
@@ -251728,7 +251860,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.85,
     "best_zipf": 4.74,
-    "rank": 1361,
+    "rank": 1362,
     "file": "02_英语词基/1361_parliament_B3211.md",
     "word_anchors": {
       "parliament": 1,
@@ -251806,7 +251938,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.85,
     "best_zipf": 4.3,
-    "rank": 1362,
+    "rank": 1363,
     "file": "02_英语词基/1362_shield_B3913.md",
     "word_anchors": {
       "shield": 1,
@@ -251935,7 +252067,7 @@
     "origin_note": "词典标为构词成分；它可能是语法词缀，也可能是保留词汇意义的组合形式。",
     "score": 4.849,
     "best_zipf": 4.23,
-    "rank": 1363,
+    "rank": 1364,
     "file": "03_词缀与组合形式/1363_ian_A1683.md",
     "word_anchors": {
       "civilian": 1,
@@ -252052,7 +252184,7 @@
     "origin_note": "词根表记录的是历史来源词；它们可能包括同一词的屈折形。英语借入路线按下方各单词的词源记录分别阅读。",
     "score": 4.849,
     "best_zipf": 4.64,
-    "rank": 1364,
+    "rank": 1365,
     "file": "01_古典词根/1364_flig_C0434.md",
     "word_anchors": {
       "conflict": 1,
@@ -252128,7 +252260,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.849,
     "best_zipf": 4.31,
-    "rank": 1365,
+    "rank": 1366,
     "file": "02_英语词基/1365_relate_B3324.md",
     "word_anchors": {
       "relation": 4,
@@ -252180,7 +252312,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.848,
     "best_zipf": 4.51,
-    "rank": 1366,
+    "rank": 1367,
     "file": "02_英语词基/1366_wealth_B3175.md",
     "word_anchors": {
       "wealth": 1,
@@ -252268,7 +252400,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.847,
     "best_zipf": 4.52,
-    "rank": 1367,
+    "rank": 1368,
     "file": "02_英语词基/1367_grab_B3641.md",
     "word_anchors": {
       "grab": 1,
@@ -252354,7 +252486,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.847,
     "best_zipf": 4.71,
-    "rank": 1368,
+    "rank": 1369,
     "file": "02_英语词基/1368_path_B2783.md",
     "word_anchors": {
       "path": 1,
@@ -252433,7 +252565,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.847,
     "best_zipf": 4.49,
-    "rank": 1369,
+    "rank": 1370,
     "file": "02_英语词基/1369_settle_B3139.md",
     "word_anchors": {
       "settlement": 1,
@@ -252506,7 +252638,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.846,
     "best_zipf": 4.31,
-    "rank": 1370,
+    "rank": 1371,
     "file": "02_英语词基/1370_arrange_B3958.md",
     "word_anchors": {
       "arranged": 5,
@@ -252583,7 +252715,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.846,
     "best_zipf": 4.45,
-    "rank": 1371,
+    "rank": 1372,
     "file": "02_英语词基/1371_discover_B3565.md",
     "word_anchors": {
       "discovery": 1,
@@ -252636,7 +252768,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.846,
     "best_zipf": 4.84,
-    "rank": 1372,
+    "rank": 1373,
     "file": "02_英语词基/1372_southern_B3038.md",
     "word_anchors": {
       "southern": 1,
@@ -252704,7 +252836,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.845,
     "best_zipf": 4.7,
-    "rank": 1373,
+    "rank": 1374,
     "file": "02_英语词基/1373_crowd_B3133.md",
     "word_anchors": {
       "crowd": 1,
@@ -252761,7 +252893,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.845,
     "best_zipf": 4.75,
-    "rank": 1374,
+    "rank": 1375,
     "file": "02_英语词基/1374_technical_B3828.md",
     "word_anchors": {
       "technical": 1,
@@ -252911,7 +253043,7 @@
     "origin_note": "词根表记录的是历史来源词；它们可能包括同一词的屈折形。英语借入路线按下方各单词的词源记录分别阅读。",
     "score": 4.845,
     "best_zipf": 4.29,
-    "rank": 1375,
+    "rank": 1376,
     "file": "01_古典词根/1375_vol_C1656.md",
     "word_anchors": {
       "volunteers": 16,
@@ -253047,7 +253179,7 @@
     "origin_note": "词根表记录的是历史来源词；它们可能包括同一词的屈折形。英语借入路线按下方各单词的词源记录分别阅读。",
     "score": 4.844,
     "best_zipf": 4.26,
-    "rank": 1376,
+    "rank": 1377,
     "file": "01_古典词根/1376_cune_C0287.md",
     "word_anchors": {
       "coins": 8,
@@ -253114,7 +253246,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.844,
     "best_zipf": 4.77,
-    "rank": 1377,
+    "rank": 1378,
     "file": "02_英语词基/1377_length_B3364.md",
     "word_anchors": {
       "length": 1,
@@ -253169,7 +253301,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.841,
     "best_zipf": 4.78,
-    "rank": 1378,
+    "rank": 1379,
     "file": "02_英语词基/1378_eastern_B4247.md",
     "word_anchors": {
       "eastern": 1,
@@ -253308,7 +253440,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.841,
     "best_zipf": 4.44,
-    "rank": 1379,
+    "rank": 1380,
     "file": "02_英语词基/1379_sand_B3111.md",
     "word_anchors": {
       "sand": 1,
@@ -253394,7 +253526,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.839,
     "best_zipf": 4.57,
-    "rank": 1380,
+    "rank": 1381,
     "file": "02_英语词基/1380_bottle_B3016.md",
     "word_anchors": {
       "bottle": 1,
@@ -253466,7 +253598,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.839,
     "best_zipf": 4.53,
-    "rank": 1381,
+    "rank": 1382,
     "file": "02_英语词基/1381_pound_B2415.md",
     "word_anchors": {
       "pounds": 4,
@@ -253553,7 +253685,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.837,
     "best_zipf": 4.55,
-    "rank": 1382,
+    "rank": 1383,
     "file": "02_英语词基/1382_noise_B3351.md",
     "word_anchors": {
       "noise": 1,
@@ -253618,7 +253750,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.837,
     "best_zipf": 4.63,
-    "rank": 1383,
+    "rank": 1384,
     "file": "02_英语词基/1383_surgical_B4479.md",
     "word_anchors": {
       "surgery": 4,
@@ -253673,7 +253805,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.837,
     "best_zipf": 4.81,
-    "rank": 1384,
+    "rank": 1385,
     "file": "02_英语词基/1384_weird_B3297.md",
     "word_anchors": {
       "weird": 1,
@@ -253838,7 +253970,7 @@
     "origin_note": "词根表记录的是历史来源词；它们可能包括同一词的屈折形。英语借入路线按下方各单词的词源记录分别阅读。",
     "score": 4.836,
     "best_zipf": 4.45,
-    "rank": 1385,
+    "rank": 1386,
     "file": "01_古典词根/1385_my_C0778.md",
     "word_anchors": {
       "mystery": 1,
@@ -254006,7 +254138,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.836,
     "best_zipf": 4.3,
-    "rank": 1386,
+    "rank": 1387,
     "file": "02_英语词基/1386_nut_B3136.md",
     "word_anchors": {
       "nuts": 16,
@@ -254183,7 +254315,7 @@
     "origin_note": "词根表记录的是历史来源词；它们可能包括同一词的屈折形。英语借入路线按下方各单词的词源记录分别阅读。",
     "score": 4.836,
     "best_zipf": 4.31,
-    "rank": 1387,
+    "rank": 1388,
     "file": "03_词缀与组合形式/1387_tri_C1548.md",
     "word_anchors": {
       "triple": 1,
@@ -254251,7 +254383,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.835,
     "best_zipf": 4.42,
-    "rank": 1388,
+    "rank": 1389,
     "file": "02_英语词基/1388_cop_B3224.md",
     "word_anchors": {
       "cops": 3,
@@ -254319,7 +254451,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.835,
     "best_zipf": 4.57,
-    "rank": 1389,
+    "rank": 1390,
     "file": "02_英语词基/1389_shift_B4141.md",
     "word_anchors": {
       "shift": 1,
@@ -254371,7 +254503,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.834,
     "best_zipf": 4.71,
-    "rank": 1390,
+    "rank": 1391,
     "file": "02_英语词基/1390_bearing_B4272.md",
     "word_anchors": {
       "bear": 3,
@@ -254439,7 +254571,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.833,
     "best_zipf": 4.47,
-    "rank": 1391,
+    "rank": 1392,
     "file": "02_英语词基/1391_chart_B3732.md",
     "word_anchors": {
       "chart": 1,
@@ -254491,7 +254623,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.833,
     "best_zipf": 4.83,
-    "rank": 1392,
+    "rank": 1393,
     "file": "02_英语词基/1392_fourth_B2575.md",
     "word_anchors": {
       "fourth": 1,
@@ -254544,7 +254676,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.832,
     "best_zipf": 4.41,
-    "rank": 1393,
+    "rank": 1394,
     "file": "02_英语词基/1393_hire_B3944.md",
     "word_anchors": {
       "hired": 3,
@@ -254598,7 +254730,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.832,
     "best_zipf": 4.72,
-    "rank": 1394,
+    "rank": 1395,
     "file": "02_英语词基/1394_willing_B4336.md",
     "word_anchors": {
       "willing": 1,
@@ -254677,7 +254809,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.831,
     "best_zipf": 4.5,
-    "rank": 1395,
+    "rank": 1396,
     "file": "02_英语词基/1395_finger_B2678.md",
     "word_anchors": {
       "fingers": 9,
@@ -254731,7 +254863,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.831,
     "best_zipf": 4.75,
-    "rank": 1396,
+    "rank": 1397,
     "file": "02_英语词基/1396_frank_B3747.md",
     "word_anchors": {
       "frank": 1,
@@ -254809,7 +254941,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.831,
     "best_zipf": 4.45,
-    "rank": 1397,
+    "rank": 1398,
     "file": "02_英语词基/1397_trail_B2781.md",
     "word_anchors": {
       "trail": 1,
@@ -254868,7 +255000,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.831,
     "best_zipf": 4.75,
-    "rank": 1398,
+    "rank": 1399,
     "file": "02_英语词基/1398_violence_B3370.md",
     "word_anchors": {
       "violence": 1,
@@ -254937,7 +255069,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.83,
     "best_zipf": 4.29,
-    "rank": 1399,
+    "rank": 1400,
     "file": "02_英语词基/1399_rely_B4072.md",
     "word_anchors": {
       "reliable": 1,
@@ -255014,7 +255146,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.829,
     "best_zipf": 4.23,
-    "rank": 1400,
+    "rank": 1401,
     "file": "02_英语词基/1400_bake_B3770.md",
     "word_anchors": {
       "baker": 1,
@@ -255130,7 +255262,7 @@
     "origin_note": "词根表记录的是历史来源词；它们可能包括同一词的屈折形。英语借入路线按下方各单词的词源记录分别阅读。",
     "score": 4.829,
     "best_zipf": 4.41,
-    "rank": 1401,
+    "rank": 1402,
     "file": "01_古典词根/1401_sanc_C1254.md",
     "word_anchors": {
       "saint": 1,
@@ -255233,7 +255365,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.828,
     "best_zipf": 4.57,
-    "rank": 1402,
+    "rank": 1403,
     "file": "02_英语词基/1402_fruit_B2489.md",
     "word_anchors": {
       "fruit": 1,
@@ -255340,7 +255472,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.828,
     "best_zipf": 4.72,
-    "rank": 1403,
+    "rank": 1404,
     "file": "02_英语词基/1403_sky_B2456.md",
     "word_anchors": {
       "sky": 1,
@@ -255524,7 +255656,7 @@
     "origin_note": "词根表记录的是历史来源词；它们可能包括同一词的屈折形。英语借入路线按下方各单词的词源记录分别阅读。",
     "score": 4.828,
     "best_zipf": 4.49,
-    "rank": 1404,
+    "rank": 1405,
     "file": "01_古典词根/1404_und_C1583.md",
     "word_anchors": {
       "surrounding": 14,
@@ -255756,7 +255888,7 @@
     "origin_note": "词根表记录的是历史来源词；它们可能包括同一词的屈折形。英语借入路线按下方各单词的词源记录分别阅读。",
     "score": 4.827,
     "best_zipf": 4.31,
-    "rank": 1405,
+    "rank": 1406,
     "file": "01_古典词根/1405_grav_C0504.md",
     "word_anchors": {
       "grave": 1,
@@ -255829,7 +255961,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.826,
     "best_zipf": 4.69,
-    "rank": 1406,
+    "rank": 1407,
     "file": "02_英语词基/1406_behave_B4369.md",
     "word_anchors": {
       "behavior": 1,
@@ -255923,7 +256055,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.825,
     "best_zipf": 4.5,
-    "rank": 1407,
+    "rank": 1408,
     "file": "02_英语词基/1407_lift_B3119.md",
     "word_anchors": {
       "lift": 1,
@@ -255980,7 +256112,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.824,
     "best_zipf": 4.66,
-    "rank": 1408,
+    "rank": 1409,
     "file": "02_英语词基/1408_comfortable_B3529.md",
     "word_anchors": {
       "comfortable": 1,
@@ -256043,7 +256175,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.824,
     "best_zipf": 4.74,
-    "rank": 1409,
+    "rank": 1410,
     "file": "02_英语词基/1409_mad_B3787.md",
     "word_anchors": {
       "mad": 1,
@@ -256126,7 +256258,7 @@
     "origin_note": "词根表记录的是历史来源词；它们可能包括同一词的屈折形。英语借入路线按下方各单词的词源记录分别阅读。",
     "score": 4.823,
     "best_zipf": 4.69,
-    "rank": 1410,
+    "rank": 1411,
     "file": "01_古典词根/1410_deb_C0306.md",
     "word_anchors": {
       "debt": 1,
@@ -256199,7 +256331,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.823,
     "best_zipf": 4.56,
-    "rank": 1411,
+    "rank": 1412,
     "file": "02_英语词基/1411_revolution_B4181.md",
     "word_anchors": {
       "revolution": 1,
@@ -256251,7 +256383,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.822,
     "best_zipf": 4.76,
-    "rank": 1412,
+    "rank": 1413,
     "file": "02_英语词基/1412_boss_B2712.md",
     "word_anchors": {
       "boss": 1,
@@ -256453,7 +256585,7 @@
     "origin_note": "词根表记录的是历史来源词；它们可能包括同一词的屈折形。英语借入路线按下方各单词的词源记录分别阅读。",
     "score": 4.821,
     "best_zipf": 4.07,
-    "rank": 1413,
+    "rank": 1414,
     "file": "01_古典词根/1413_scand_C1268.md",
     "word_anchors": {
       "scan": 1,
@@ -256528,7 +256660,7 @@
     "origin_note": "词典标为构词成分；它可能是语法词缀，也可能是保留词汇意义的组合形式。",
     "score": 4.82,
     "best_zipf": 4.72,
-    "rank": 1414,
+    "rank": 1415,
     "file": "03_词缀与组合形式/1414_es_A1953.md",
     "word_anchors": {
       "clothes": 1,
@@ -256567,7 +256699,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.82,
     "best_zipf": 4.82,
-    "rank": 1415,
+    "rank": 1416,
     "file": "02_英语词基/1415_acting_B3569.md",
     "word_anchors": {
       "acting": 1
@@ -256618,7 +256750,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.819,
     "best_zipf": 4.77,
-    "rank": 1416,
+    "rank": 1417,
     "file": "02_英语词基/1416_tough_B4367.md",
     "word_anchors": {
       "tough": 1,
@@ -256722,7 +256854,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.818,
     "best_zipf": 4.58,
-    "rank": 1417,
+    "rank": 1418,
     "file": "02_英语词基/1417_tooth_B2763.md",
     "word_anchors": {
       "teeth": 10,
@@ -256796,7 +256928,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.817,
     "best_zipf": 4.68,
-    "rank": 1418,
+    "rank": 1419,
     "file": "02_英语词基/1418_download_B3235.md",
     "word_anchors": {
       "download": 1,
@@ -256872,7 +257004,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.817,
     "best_zipf": 4.4,
-    "rank": 1419,
+    "rank": 1420,
     "file": "02_英语词基/1419_install_B4378.md",
     "word_anchors": {
       "installed": 7,
@@ -257042,7 +257174,7 @@
     "origin_note": "词根表记录的是历史来源词；它们可能包括同一词的屈折形。英语借入路线按下方各单词的词源记录分别阅读。",
     "score": 4.817,
     "best_zipf": 4.49,
-    "rank": 1420,
+    "rank": 1421,
     "file": "01_古典词根/1420_top_C1525.md",
     "word_anchors": {
       "topic": 1,
@@ -257099,7 +257231,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.816,
     "best_zipf": 4.53,
-    "rank": 1421,
+    "rank": 1422,
     "file": "02_英语词基/1421_burning_B4357.md",
     "word_anchors": {
       "burn": 2,
@@ -257166,7 +257298,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.815,
     "best_zipf": 4.64,
-    "rank": 1422,
+    "rank": 1423,
     "file": "02_英语词基/1422_escape_B3577.md",
     "word_anchors": {
       "escape": 1,
@@ -257223,7 +257355,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.815,
     "best_zipf": 4.58,
-    "rank": 1423,
+    "rank": 1424,
     "file": "02_英语词基/1423_guest_B3422.md",
     "word_anchors": {
       "guest": 1,
@@ -257267,7 +257399,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.815,
     "best_zipf": 4.78,
-    "rank": 1424,
+    "rank": 1425,
     "file": "02_英语词基/1424_proud_B4067.md",
     "word_anchors": {
       "proud": 1,
@@ -257404,7 +257536,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.815,
     "best_zipf": 4.48,
-    "rank": 1425,
+    "rank": 1426,
     "file": "02_英语词基/1425_sharp_B3095.md",
     "word_anchors": {
       "sharp": 1,
@@ -257612,7 +257744,7 @@
     "origin_note": "词根表记录的是历史来源词；它们可能包括同一词的屈折形。英语借入路线按下方各单词的词源记录分别阅读。",
     "score": 4.814,
     "best_zipf": 4.27,
-    "rank": 1426,
+    "rank": 1427,
     "file": "03_词缀与组合形式/1426_par_C0956.md",
     "word_anchors": {
       "parallel": 1,
@@ -257719,7 +257851,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.814,
     "best_zipf": 4.5,
-    "rank": 1427,
+    "rank": 1428,
     "file": "02_英语词基/1427_wheel_B3385.md",
     "word_anchors": {
       "wheel": 1,
@@ -257794,7 +257926,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.813,
     "best_zipf": 4.74,
-    "rank": 1428,
+    "rank": 1429,
     "file": "02_英语词基/1428_iron_B3032.md",
     "word_anchors": {
       "iron": 1,
@@ -257851,7 +257983,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.813,
     "best_zipf": 4.58,
-    "rank": 1429,
+    "rank": 1430,
     "file": "02_英语词基/1429_recover_B4071.md",
     "word_anchors": {
       "recovery": 1,
@@ -257964,7 +258096,7 @@
     "origin_note": "词根表记录的是历史来源词；它们可能包括同一词的屈折形。英语借入路线按下方各单词的词源记录分别阅读。",
     "score": 4.812,
     "best_zipf": 4.22,
-    "rank": 1430,
+    "rank": 1431,
     "file": "01_古典词根/1430_carcer_C0174.md",
     "word_anchors": {
       "cancelled": 1,
@@ -258036,7 +258168,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.811,
     "best_zipf": 4.69,
-    "rank": 1431,
+    "rank": 1432,
     "file": "02_英语词基/1431_behavior_B3017.md",
     "word_anchors": {
       "behavior": 1,
@@ -258124,7 +258256,7 @@
     "origin_note": "词根表记录的是历史来源词；它们可能包括同一词的屈折形。英语借入路线按下方各单词的词源记录分别阅读。",
     "score": 4.811,
     "best_zipf": 4.63,
-    "rank": 1432,
+    "rank": 1433,
     "file": "01_古典词根/1432_chir_C0208.md",
     "word_anchors": {
       "surgery": 1,
@@ -258196,7 +258328,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.81,
     "best_zipf": 4.56,
-    "rank": 1433,
+    "rank": 1434,
     "file": "02_英语词基/1433_constitutional_B3833.md",
     "word_anchors": {
       "constitution": 7,
@@ -258243,7 +258375,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.809,
     "best_zipf": 4.8,
-    "rank": 1434,
+    "rank": 1435,
     "file": "02_英语词基/1434_artist_B3823.md",
     "word_anchors": {
       "artist": 1,
@@ -258343,7 +258475,7 @@
     "origin_note": "词根表记录的是历史来源词；它们可能包括同一词的屈折形。英语借入路线按下方各单词的词源记录分别阅读。",
     "score": 4.809,
     "best_zipf": 4.68,
-    "rank": 1435,
+    "rank": 1436,
     "file": "01_古典词根/1435_plan_C1056.md",
     "word_anchors": {
       "planet": 1,
@@ -258491,7 +258623,7 @@
     "origin_note": "词根表记录的是历史来源词；它们可能包括同一词的屈折形。英语借入路线按下方各单词的词源记录分别阅读。",
     "score": 4.809,
     "best_zipf": 4.49,
-    "rank": 1436,
+    "rank": 1437,
     "file": "01_古典词根/1436_soph_C1369.md",
     "word_anchors": {
       "philosophy": 1,
@@ -258571,7 +258703,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.808,
     "best_zipf": 4.53,
-    "rank": 1437,
+    "rank": 1438,
     "file": "02_英语词基/1437_raw_B3437.md",
     "word_anchors": {
       "raw": 1,
@@ -258644,7 +258776,7 @@
     "origin_note": "词根表记录的是历史来源词；它们可能包括同一词的屈折形。英语借入路线按下方各单词的词源记录分别阅读。",
     "score": 4.807,
     "best_zipf": 4.7,
-    "rank": 1438,
+    "rank": 1439,
     "file": "01_古典词根/1438_bib_C0120.md",
     "word_anchors": {
       "beer": 1,
@@ -258769,7 +258901,7 @@
     "origin_note": "词根表记录的是历史来源词；它们可能包括同一词的屈折形。英语借入路线按下方各单词的词源记录分别阅读。",
     "score": 4.807,
     "best_zipf": 4.52,
-    "rank": 1439,
+    "rank": 1440,
     "file": "01_古典词根/1439_brev_C0138.md",
     "word_anchors": {
       "brief": 1,
@@ -258834,7 +258966,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.807,
     "best_zipf": 4.78,
-    "rank": 1440,
+    "rank": 1441,
     "file": "02_英语词基/1440_dinner_B3306.md",
     "word_anchors": {
       "dinner": 1,
@@ -258938,7 +259070,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.807,
     "best_zipf": 4.72,
-    "rank": 1441,
+    "rank": 1442,
     "file": "02_英语词基/1441_flat_B3046.md",
     "word_anchors": {
       "flat": 1,
@@ -259002,7 +259134,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.807,
     "best_zipf": 4.54,
-    "rank": 1442,
+    "rank": 1443,
     "file": "02_英语词基/1442_fuse_B4004.md",
     "word_anchors": {
       "refused": 4,
@@ -259061,7 +259193,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.806,
     "best_zipf": 4.8,
-    "rank": 1443,
+    "rank": 1444,
     "file": "02_英语词基/1443_window_B3205.md",
     "word_anchors": {
       "window": 1,
@@ -259121,7 +259253,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.805,
     "best_zipf": 4.49,
-    "rank": 1444,
+    "rank": 1445,
     "file": "02_英语词基/1444_hunter_B3683.md",
     "word_anchors": {
       "hunt": 4,
@@ -259171,7 +259303,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.804,
     "best_zipf": 4.8,
-    "rank": 1445,
+    "rank": 1446,
     "file": "02_英语词基/1445_engineering_B3827.md",
     "word_anchors": {
       "engineering": 1,
@@ -259284,7 +259416,7 @@
     "origin_note": "词根表记录的是历史来源词；它们可能包括同一词的屈折形。英语借入路线按下方各单词的词源记录分别阅读。",
     "score": 4.803,
     "best_zipf": 4.55,
-    "rank": 1446,
+    "rank": 1447,
     "file": "01_古典词根/1446_err_C0386.md",
     "word_anchors": {
       "error": 1,
@@ -259432,7 +259564,7 @@
     "origin_note": "词根表记录的是历史来源词；它们可能包括同一词的屈折形。英语借入路线按下方各单词的词源记录分别阅读。",
     "score": 4.803,
     "best_zipf": 4.73,
-    "rank": 1447,
+    "rank": 1448,
     "file": "01_古典词根/1447_nuc_C0838.md",
     "word_anchors": {
       "nuclear": 1,
@@ -259507,7 +259639,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.802,
     "best_zipf": 4.63,
-    "rank": 1448,
+    "rank": 1449,
     "file": "02_英语词基/1448_shirt_B2910.md",
     "word_anchors": {
       "shirt": 1,
@@ -259549,7 +259681,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.8,
     "best_zipf": 4.8,
-    "rank": 1449,
+    "rank": 1450,
     "file": "02_英语词基/1449_edition_B4339.md",
     "word_anchors": {
       "edition": 1
@@ -259697,7 +259829,7 @@
     "origin_note": "词根表记录的是历史来源词；它们可能包括同一词的屈折形。英语借入路线按下方各单词的词源记录分别阅读。",
     "score": 4.8,
     "best_zipf": 4.22,
-    "rank": 1450,
+    "rank": 1451,
     "file": "01_古典词根/1450_plaud_C1061.md",
     "word_anchors": {
       "explosion": 1,
@@ -259771,7 +259903,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.8,
     "best_zipf": 4.64,
-    "rank": 1451,
+    "rank": 1452,
     "file": "02_英语词基/1451_truck_B3452.md",
     "word_anchors": {
       "truck": 1,
@@ -259826,7 +259958,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.798,
     "best_zipf": 4.67,
-    "rank": 1452,
+    "rank": 1453,
     "file": "02_英语词基/1452_platform_B3156.md",
     "word_anchors": {
       "platform": 1,
@@ -259885,7 +260017,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.797,
     "best_zipf": 4.63,
-    "rank": 1453,
+    "rank": 1454,
     "file": "02_英语词基/1453_bowl_B3739.md",
     "word_anchors": {
       "bowl": 1,
@@ -259940,7 +260072,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.796,
     "best_zipf": 4.59,
-    "rank": 1454,
+    "rank": 1455,
     "file": "02_英语词基/1454_bond_B4201.md",
     "word_anchors": {
       "bond": 1,
@@ -259999,7 +260131,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.795,
     "best_zipf": 4.63,
-    "rank": 1455,
+    "rank": 1456,
     "file": "02_英语词基/1455_blame_B3522.md",
     "word_anchors": {
       "blame": 1,
@@ -260069,7 +260201,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.795,
     "best_zipf": 4.5,
-    "rank": 1456,
+    "rank": 1457,
     "file": "02_英语词基/1456_egg_B2718.md",
     "word_anchors": {
       "eggs": 8,
@@ -260151,7 +260283,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.795,
     "best_zipf": 4.37,
-    "rank": 1457,
+    "rank": 1458,
     "file": "02_英语词基/1457_spell_B2909.md",
     "word_anchors": {
       "spell": 1,
@@ -260215,7 +260347,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.795,
     "best_zipf": 4.65,
-    "rank": 1458,
+    "rank": 1459,
     "file": "02_英语词基/1458_task_B4210.md",
     "word_anchors": {
       "task": 1,
@@ -260275,7 +260407,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.794,
     "best_zipf": 4.26,
-    "rank": 1459,
+    "rank": 1460,
     "file": "02_英语词基/1459_examination_B3961.md",
     "word_anchors": {
       "exam": 2,
@@ -260335,7 +260467,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.794,
     "best_zipf": 4.58,
-    "rank": 1460,
+    "rank": 1461,
     "file": "02_英语词基/1460_kiss_B3307.md",
     "word_anchors": {
       "kiss": 1,
@@ -260455,7 +260587,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.793,
     "best_zipf": 4.33,
-    "rank": 1461,
+    "rank": 1462,
     "file": "02_英语词基/1461_shake_B2969.md",
     "word_anchors": {
       "shake": 1,
@@ -260532,7 +260664,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.792,
     "best_zipf": 4.46,
-    "rank": 1462,
+    "rank": 1463,
     "file": "02_英语词基/1462_shock_B3135.md",
     "word_anchors": {
       "shock": 1,
@@ -260603,7 +260735,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.792,
     "best_zipf": 4.39,
-    "rank": 1463,
+    "rank": 1464,
     "file": "02_英语词基/1463_translate_B2776.md",
     "word_anchors": {
       "translation": 1,
@@ -260725,7 +260857,7 @@
     "origin_note": "词典标为构词成分；它可能是语法词缀，也可能是保留词汇意义的组合形式。",
     "score": 4.791,
     "best_zipf": 4.43,
-    "rank": 1464,
+    "rank": 1465,
     "file": "03_词缀与组合形式/1464_ify_A1844.md",
     "word_anchors": {
       "horror": 15,
@@ -260832,7 +260964,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.79,
     "best_zipf": 4.43,
-    "rank": 1465,
+    "rank": 1466,
     "file": "02_英语词基/1465_wire_B3172.md",
     "word_anchors": {
       "wire": 1,
@@ -260889,7 +261021,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.789,
     "best_zipf": 4.73,
-    "rank": 1466,
+    "rank": 1467,
     "file": "02_英语词基/1466_stress_B3930.md",
     "word_anchors": {
       "stress": 1,
@@ -260937,7 +261069,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.789,
     "best_zipf": 4.78,
-    "rank": 1467,
+    "rank": 1468,
     "file": "02_英语词基/1467_van_B2449.md",
     "word_anchors": {
       "van": 1,
@@ -260995,7 +261127,7 @@
     "origin_note": "词根表记录的是历史来源词；它们可能包括同一词的屈折形。英语借入路线按下方各单词的词源记录分别阅读。",
     "score": 4.788,
     "best_zipf": 4.46,
-    "rank": 1468,
+    "rank": 1469,
     "file": "01_古典词根/1468_sil_C1341.md",
     "word_anchors": {
       "silence": 1,
@@ -261079,7 +261211,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.787,
     "best_zipf": 4.8,
-    "rank": 1469,
+    "rank": 1470,
     "file": "02_英语词基/1469_moon_B2638.md",
     "word_anchors": {
       "Monday": 11,
@@ -261253,7 +261385,7 @@
     "origin_note": "词根表记录的是历史来源词；它们可能包括同一词的屈折形。英语借入路线按下方各单词的词源记录分别阅读。",
     "score": 4.787,
     "best_zipf": 4.49,
-    "rank": 1470,
+    "rank": 1471,
     "file": "01_古典词根/1470_phil_C1019.md",
     "word_anchors": {
       "philosophy": 1,
@@ -261319,7 +261451,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.786,
     "best_zipf": 4.69,
-    "rank": 1471,
+    "rank": 1472,
     "file": "02_英语词基/1471_historical_B3415.md",
     "word_anchors": {
       "historical": 1,
@@ -261367,7 +261499,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.786,
     "best_zipf": 4.76,
-    "rank": 1472,
+    "rank": 1473,
     "file": "02_英语词基/1472_knowing_B4373.md",
     "word_anchors": {
       "knowing": 1,
@@ -261445,7 +261577,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.786,
     "best_zipf": 4.5,
-    "rank": 1473,
+    "rank": 1474,
     "file": "02_英语词基/1473_mill_B2623.md",
     "word_anchors": {
       "miller": 1,
@@ -261519,7 +261651,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.784,
     "best_zipf": 4.51,
-    "rank": 1474,
+    "rank": 1475,
     "file": "02_英语词基/1474_trend_B4101.md",
     "word_anchors": {
       "trend": 1,
@@ -261641,7 +261773,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.783,
     "best_zipf": 4.41,
-    "rank": 1475,
+    "rank": 1476,
     "file": "02_英语词基/1475_crack_B3527.md",
     "word_anchors": {
       "crack": 1,
@@ -261778,7 +261910,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.783,
     "best_zipf": 4.43,
-    "rank": 1476,
+    "rank": 1477,
     "file": "02_英语词基/1476_ear_B2765.md",
     "word_anchors": {
       "ear": 1,
@@ -261846,7 +261978,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.783,
     "best_zipf": 4.69,
-    "rank": 1477,
+    "rank": 1478,
     "file": "02_英语词基/1477_ray_B2717.md",
     "word_anchors": {
       "ray": 1,
@@ -261990,7 +262122,7 @@
     "origin_note": "词根表记录的是历史来源词；它们可能包括同一词的屈折形。英语借入路线按下方各单词的词源记录分别阅读。",
     "score": 4.782,
     "best_zipf": 4.16,
-    "rank": 1478,
+    "rank": 1479,
     "file": "03_词缀与组合形式/1478_ap_C0062.md",
     "word_anchors": {
       "apologize": 1,
@@ -262068,7 +262200,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.781,
     "best_zipf": 4.61,
-    "rank": 1479,
+    "rank": 1480,
     "file": "02_英语词基/1479_conservative_B3775.md",
     "word_anchors": {
       "conservative": 1,
@@ -262164,7 +262296,7 @@
     "origin_note": "词典标为构词成分；它可能是语法词缀，也可能是保留词汇意义的组合形式。",
     "score": 4.78,
     "best_zipf": 4.5,
-    "rank": 1480,
+    "rank": 1481,
     "file": "03_词缀与组合形式/1480_eer_A1950.md",
     "word_anchors": {
       "engineer": 1,
@@ -262226,7 +262358,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.78,
     "best_zipf": 4.41,
-    "rank": 1481,
+    "rank": 1482,
     "file": "02_英语词基/1481_column_B3806.md",
     "word_anchors": {
       "colonel": 3,
@@ -262280,7 +262412,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.78,
     "best_zipf": 4.72,
-    "rank": 1482,
+    "rank": 1483,
     "file": "02_英语词基/1482_fuel_B3244.md",
     "word_anchors": {
       "fuel": 1,
@@ -262319,7 +262451,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.78,
     "best_zipf": 4.78,
-    "rank": 1483,
+    "rank": 1484,
     "file": "02_英语词基/1483_shooting_B4454.md",
     "word_anchors": {
       "shooting": 1
@@ -262400,7 +262532,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.78,
     "best_zipf": 4.69,
-    "rank": 1484,
+    "rank": 1485,
     "file": "02_英语词基/1484_writer_B2582.md",
     "word_anchors": {
       "writer": 1,
@@ -262551,7 +262683,7 @@
     "origin_note": "词根表记录的是历史来源词；它们可能包括同一词的屈折形。英语借入路线按下方各单词的词源记录分别阅读。",
     "score": 4.779,
     "best_zipf": 4.39,
-    "rank": 1485,
+    "rank": 1486,
     "file": "01_古典词根/1485_aster_C0090.md",
     "word_anchors": {
       "disaster": 1,
@@ -262674,7 +262806,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.779,
     "best_zipf": 4.47,
-    "rank": 1486,
+    "rank": 1487,
     "file": "02_英语词基/1486_bone_B2440.md",
     "word_anchors": {
       "bone": 1,
@@ -262764,7 +262896,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.779,
     "best_zipf": 4.41,
-    "rank": 1487,
+    "rank": 1488,
     "file": "02_英语词基/1487_root_B3512.md",
     "word_anchors": {
       "root": 1,
@@ -262845,7 +262977,7 @@
     "origin_note": "词根表记录的是历史来源词；它们可能包括同一词的屈折形。英语借入路线按下方各单词的词源记录分别阅读。",
     "score": 4.778,
     "best_zipf": 4.7,
-    "rank": 1488,
+    "rank": 1489,
     "file": "01_古典词根/1488_ocean_C0850.md",
     "word_anchors": {
       "ocean": 1,
@@ -262956,7 +263088,7 @@
     "origin_note": "词根表记录的是历史来源词；它们可能包括同一词的屈折形。英语借入路线按下方各单词的词源记录分别阅读。",
     "score": 4.777,
     "best_zipf": 4.65,
-    "rank": 1489,
+    "rank": 1490,
     "file": "01_古典词根/1489_acu_C0014.md",
     "word_anchors": {
       "cute": 1,
@@ -263048,7 +263180,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.777,
     "best_zipf": 4.61,
-    "rank": 1490,
+    "rank": 1491,
     "file": "02_英语词基/1490_bright_B2929.md",
     "word_anchors": {
       "bright": 1,
@@ -263168,7 +263300,7 @@
     "origin_note": "词典标为构词成分；它可能是语法词缀，也可能是保留词汇意义的组合形式。",
     "score": 4.776,
     "best_zipf": 4.61,
-    "rank": 1491,
+    "rank": 1492,
     "file": "03_词缀与组合形式/1491_ative_A1940.md",
     "word_anchors": {
       "conservative": 1,
@@ -263187,84 +263319,6 @@
       "commutative": 13,
       "determinative": 14,
       "summative": 15
-    }
-  },
-  {
-    "id": "A1822",
-    "source_ids": [],
-    "root": "-itude",
-    "aliases": [
-      "-itude"
-    ],
-    "meaning": "Used to forms nouns of state, condition or quality.",
-    "meaning_zh": "拉丁性质、状态名词材料，随整词固定下来",
-    "language": "见词源记录",
-    "origin": "Borrowed from Middle French -itude, from Latin -(i)tūdō. By surface analysis, -i- + -tude.",
-    "words": [],
-    "seeds": [
-      "-itude"
-    ],
-    "family": {
-      "apt": {
-        "via": null,
-        "depth": 0,
-        "evidence": "逐词词源核对"
-      },
-      "attitude": {
-        "via": null,
-        "depth": 0,
-        "evidence": "逐词词源核对"
-      },
-      "attitudes": {
-        "via": null,
-        "depth": 0,
-        "evidence": "逐词词源核对"
-      },
-      "aptitude": {
-        "via": null,
-        "depth": 0,
-        "evidence": "逐词词源核对"
-      },
-      "inept": {
-        "via": "apt",
-        "depth": 1,
-        "evidence": "拉丁 in- + aptus → ineptus；历史同源联系"
-      },
-      "ineptitude": {
-        "via": "inept",
-        "depth": 2,
-        "evidence": "法语 ineptitude < 拉丁 ineptitudo（ineptus 的性质名词）"
-      },
-      "multitude": {
-        "via": "-itude",
-        "depth": 1,
-        "evidence": "词典构词模板"
-      },
-      "servitude": {
-        "via": "-itude",
-        "depth": 1,
-        "evidence": "词典构词模板"
-      }
-    },
-    "unmatched": [],
-    "headword": "-itude",
-    "kind": "词缀／组合形式",
-    "group": "03_词缀与组合形式",
-    "source": "https://en.wiktionary.org/wiki/-itude",
-    "origin_note": "词典标为构词成分；它可能是语法词缀，也可能是保留词汇意义的组合形式。",
-    "score": 4.776,
-    "best_zipf": 4.58,
-    "rank": 1492,
-    "file": "03_词缀与组合形式/1492_itude_A1822.md",
-    "word_anchors": {
-      "attitude": 3,
-      "attitudes": 6,
-      "apt": 4,
-      "multitude": 1,
-      "aptitude": 5,
-      "servitude": 2,
-      "inept": 7,
-      "ineptitude": 8
     }
   },
   {
@@ -285917,6 +285971,96 @@
     }
   },
   {
+    "id": "B2994",
+    "source_ids": [],
+    "root": "string",
+    "aliases": [
+      "string"
+    ],
+    "meaning": "A long, thin and flexible structure made from threads twisted together.",
+    "meaning_zh": "细绳、弦，及绳般排列和束缚的扩展",
+    "language": "见词源记录",
+    "origin": "From Middle English string, streng, strynge, from Old English strenġ, from Proto-West Germanic *strangi, from Proto-Germanic *strangiz (“string”), from Proto-Indo-European *strengʰ- (“rope, cord, strand; to tighten”).\nCognate with Scots string (“string”), Dutch streng (“cord, strand”), Low German strenge (“strand, cord, rope”), German Strang (“strand, cord, rope”), Danish streng (“string”), Swedish sträng (“string, cord, wire”), Icelandic strengur (“string”), Latvian stringt (“to be tight, wither”), Latin stringō (“to tighten”), Ancient Greek στραγγαλόομαι (strangalóomai, “to strangle”), from στραγγάλη (strangálē, “halter”), Ancient Greek στραγγός (strangós, “tied together, entangled, twisted”).",
+    "words": [],
+    "seeds": [
+      "string"
+    ],
+    "family": {
+      "string": {
+        "via": null,
+        "depth": 0,
+        "evidence": "根表例词／词基本身"
+      },
+      "strings": {
+        "via": null,
+        "depth": 0,
+        "evidence": "逐词词源核对"
+      },
+      "stringer": {
+        "via": "string",
+        "depth": 1,
+        "evidence": "词典构词模板"
+      },
+      "stringed": {
+        "via": "string",
+        "depth": 1,
+        "evidence": "词典构词模板"
+      },
+      "stringy": {
+        "via": "string",
+        "depth": 1,
+        "evidence": "词典构词模板"
+      },
+      "hamstring": {
+        "via": "string",
+        "depth": 1,
+        "evidence": "词典构词模板"
+      },
+      "shoestring": {
+        "via": "string",
+        "depth": 1,
+        "evidence": "词典构词模板"
+      },
+      "drawstring": {
+        "via": "string",
+        "depth": 1,
+        "evidence": "词典构词模板"
+      },
+      "strangle": {
+        "via": null,
+        "depth": 0,
+        "evidence": "逐词词源核对"
+      },
+      "strangled": {
+        "via": null,
+        "depth": 0,
+        "evidence": "逐词词源核对"
+      }
+    },
+    "unmatched": [],
+    "headword": "string",
+    "kind": "英语自由词基",
+    "group": "02_英语词基",
+    "source": "https://en.wiktionary.org/wiki/string",
+    "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
+    "score": 4.634,
+    "best_zipf": 4.4,
+    "rank": 1756,
+    "file": "02_英语词基/1806_string_B2994.md",
+    "word_anchors": {
+      "string": 1,
+      "strings": 8,
+      "strangled": 10,
+      "hamstring": 2,
+      "strangle": 9,
+      "stringer": 3,
+      "shoestring": 4,
+      "drawstring": 5,
+      "stringed": 6,
+      "stringy": 7
+    }
+  },
+  {
     "root": "odi-",
     "meaning": "hate",
     "language": "Latin",
@@ -286001,7 +286145,7 @@
     "origin_note": "词根表记录的是历史来源词；它们可能包括同一词的屈折形。英语借入路线按下方各单词的词源记录分别阅读。",
     "score": 4.632,
     "best_zipf": 4.4,
-    "rank": 1756,
+    "rank": 1757,
     "file": "01_古典词根/1756_odi_C0860.md",
     "word_anchors": {
       "annoying": 1,
@@ -286102,7 +286246,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.63,
     "best_zipf": 4.13,
-    "rank": 1757,
+    "rank": 1758,
     "file": "02_英语词基/1757_cheer_B3666.md",
     "word_anchors": {
       "cheers": 7,
@@ -286179,7 +286323,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.63,
     "best_zipf": 4.44,
-    "rank": 1758,
+    "rank": 1759,
     "file": "02_英语词基/1758_ideal_B2908.md",
     "word_anchors": {
       "ideal": 1,
@@ -286221,7 +286365,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.63,
     "best_zipf": 4.63,
-    "rank": 1759,
+    "rank": 1760,
     "file": "02_英语词基/1759_passing_B4543.md",
     "word_anchors": {
       "passing": 1
@@ -286292,7 +286436,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.628,
     "best_zipf": 4.22,
-    "rank": 1760,
+    "rank": 1761,
     "file": "02_英语词基/1760_interpret_B4467.md",
     "word_anchors": {
       "interpretation": 1,
@@ -286479,7 +286623,7 @@
     "origin_note": "词根表记录的是历史来源词；它们可能包括同一词的屈折形。英语借入路线按下方各单词的词源记录分别阅读。",
     "score": 4.628,
     "best_zipf": 3.93,
-    "rank": 1761,
+    "rank": 1762,
     "file": "01_古典词根/1761_mon_C0758.md",
     "word_anchors": {
       "monk": 1,
@@ -286556,7 +286700,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.627,
     "best_zipf": 4.35,
-    "rank": 1762,
+    "rank": 1763,
     "file": "02_英语词基/1762_poll_B4200.md",
     "word_anchors": {
       "poll": 1,
@@ -286606,7 +286750,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.627,
     "best_zipf": 4.34,
-    "rank": 1763,
+    "rank": 1764,
     "file": "02_英语词基/1763_presentation_B3943.md",
     "word_anchors": {
       "representation": 1,
@@ -286797,7 +286941,7 @@
     "origin_note": "词根表记录的是历史来源词；它们可能包括同一词的屈折形。英语借入路线按下方各单词的词源记录分别阅读。",
     "score": 4.627,
     "best_zipf": 4.26,
-    "rank": 1764,
+    "rank": 1765,
     "file": "01_古典词根/1764_scept_C1276.md",
     "word_anchors": {
       "scope": 1,
@@ -286906,7 +287050,7 @@
     "origin_note": "词根表记录的是历史来源词；它们可能包括同一词的屈折形。英语借入路线按下方各单词的词源记录分别阅读。",
     "score": 4.625,
     "best_zipf": 4.55,
-    "rank": 1765,
+    "rank": 1766,
     "file": "01_古典词根/1765_hol_C0561.md",
     "word_anchors": {
       "catholic": 1,
@@ -286969,7 +287113,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.624,
     "best_zipf": 4.61,
-    "rank": 1766,
+    "rank": 1767,
     "file": "02_英语词基/1766_assembly_B4153.md",
     "word_anchors": {
       "assembly": 1,
@@ -287061,7 +287205,7 @@
     "origin_note": "词根表记录的是历史来源词；它们可能包括同一词的屈折形。英语借入路线按下方各单词的词源记录分别阅读。",
     "score": 4.624,
     "best_zipf": 4.26,
-    "rank": 1767,
+    "rank": 1768,
     "file": "01_古典词根/1767_fug_C0454.md",
     "word_anchors": {
       "refugees": 9,
@@ -287145,7 +287289,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.624,
     "best_zipf": 4.28,
-    "rank": 1768,
+    "rank": 1769,
     "file": "02_英语词基/1768_slip_B3435.md",
     "word_anchors": {
       "slip": 1,
@@ -287254,7 +287398,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.623,
     "best_zipf": 4.36,
-    "rank": 1769,
+    "rank": 1770,
     "file": "02_英语词基/1769_coat_B2951.md",
     "word_anchors": {
       "coat": 1,
@@ -287448,7 +287592,7 @@
     "origin_note": "词典标为构词成分；它可能是语法词缀，也可能是保留词汇意义的组合形式。",
     "score": 4.623,
     "best_zipf": 4.09,
-    "rank": 1770,
+    "rank": 1771,
     "file": "03_词缀与组合形式/1770_fore_A1750.md",
     "word_anchors": {
       "forecast": 1,
@@ -287548,7 +287692,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.622,
     "best_zipf": 4.33,
-    "rank": 1771,
+    "rank": 1772,
     "file": "02_英语词基/1771_knee_B2771.md",
     "word_anchors": {
       "knee": 1,
@@ -287621,7 +287765,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.622,
     "best_zipf": 4.4,
-    "rank": 1772,
+    "rank": 1773,
     "file": "02_英语词基/1772_layer_B3914.md",
     "word_anchors": {
       "layer": 1,
@@ -287688,7 +287832,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.622,
     "best_zipf": 4.17,
-    "rank": 1773,
+    "rank": 1774,
     "file": "02_英语词基/1773_tweet_B4425.md",
     "word_anchors": {
       "tweet": 1,
@@ -287759,7 +287903,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.621,
     "best_zipf": 4.5,
-    "rank": 1774,
+    "rank": 1775,
     "file": "02_英语词基/1774_gang_B4040.md",
     "word_anchors": {
       "gang": 1,
@@ -287906,7 +288050,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.621,
     "best_zipf": 4.34,
-    "rank": 1775,
+    "rank": 1776,
     "file": "02_英语词基/1775_tail_B3088.md",
     "word_anchors": {
       "tail": 1,
@@ -287973,7 +288117,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.62,
     "best_zipf": 4.45,
-    "rank": 1776,
+    "rank": 1777,
     "file": "02_英语词基/1776_anxious_B3623.md",
     "word_anchors": {
       "anxiety": 1,
@@ -288090,7 +288234,7 @@
     "origin_note": "词根表记录的是历史来源词；它们可能包括同一词的屈折形。英语借入路线按下方各单词的词源记录分别阅读。",
     "score": 4.62,
     "best_zipf": 4.55,
-    "rank": 1777,
+    "rank": 1778,
     "file": "01_古典词根/1777_carbon_C0173.md",
     "word_anchors": {
       "carbon": 1,
@@ -288178,7 +288322,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.62,
     "best_zipf": 4.14,
-    "rank": 1778,
+    "rank": 1779,
     "file": "02_英语词基/1778_cow_B2543.md",
     "word_anchors": {
       "cow": 1,
@@ -288300,7 +288444,7 @@
     "origin_note": "词根表记录的是历史来源词；它们可能包括同一词的屈折形。英语借入路线按下方各单词的词源记录分别阅读。",
     "score": 4.62,
     "best_zipf": 4.23,
-    "rank": 1779,
+    "rank": 1780,
     "file": "01_古典词根/1779_vad_C1600.md",
     "word_anchors": {
       "invasion": 1,
@@ -288370,7 +288514,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.618,
     "best_zipf": 4.57,
-    "rank": 1780,
+    "rank": 1781,
     "file": "02_英语词基/1780_competitive_B4508.md",
     "word_anchors": {
       "competitive": 1,
@@ -288440,7 +288584,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.618,
     "best_zipf": 4.34,
-    "rank": 1781,
+    "rank": 1782,
     "file": "02_英语词基/1781_deny_B3524.md",
     "word_anchors": {
       "deny": 1,
@@ -288502,7 +288646,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.618,
     "best_zipf": 4.35,
-    "rank": 1782,
+    "rank": 1783,
     "file": "02_英语词基/1782_lip_B3391.md",
     "word_anchors": {
       "lips": 5,
@@ -288547,7 +288691,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.616,
     "best_zipf": 4.61,
-    "rank": 1783,
+    "rank": 1784,
     "file": "02_英语词基/1783_drunk_B2851.md",
     "word_anchors": {
       "drunk": 1,
@@ -288639,7 +288783,7 @@
     "origin_note": "词根表记录的是历史来源词；它们可能包括同一词的屈折形。英语借入路线按下方各单词的词源记录分别阅读。",
     "score": 4.616,
     "best_zipf": 4.39,
-    "rank": 1784,
+    "rank": 1785,
     "file": "01_古典词根/1784_liqu_C0680.md",
     "word_anchors": {
       "liquid": 1,
@@ -288712,7 +288856,7 @@
     "origin_note": "词根表记录的是历史来源词；它们可能包括同一词的屈折形。英语借入路线按下方各单词的词源记录分别阅读。",
     "score": 4.616,
     "best_zipf": 4.59,
-    "rank": 1785,
+    "rank": 1786,
     "file": "01_古典词根/1785_rur_C1241.md",
     "word_anchors": {
       "rural": 1,
@@ -288760,7 +288904,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.615,
     "best_zipf": 4.46,
-    "rank": 1786,
+    "rank": 1787,
     "file": "02_英语词基/1786_assess_B4420.md",
     "word_anchors": {
       "assessment": 1,
@@ -288828,7 +288972,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.615,
     "best_zipf": 4.36,
-    "rank": 1787,
+    "rank": 1788,
     "file": "02_英语词基/1787_strip_B4241.md",
     "word_anchors": {
       "strip": 1,
@@ -288885,7 +289029,7 @@
     "origin_note": "词典标为构词成分；它可能是语法词缀，也可能是保留词汇意义的组合形式。",
     "score": 4.615,
     "best_zipf": 4.27,
-    "rank": 1788,
+    "rank": 1789,
     "file": "03_词缀与组合形式/1788_vaso_A1890.md",
     "word_anchors": {
       "vessel": 3,
@@ -288944,7 +289088,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.615,
     "best_zipf": 4.49,
-    "rank": 1789,
+    "rank": 1790,
     "file": "02_英语词基/1789_vast_B3765.md",
     "word_anchors": {
       "vast": 1,
@@ -288999,7 +289143,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.614,
     "best_zipf": 4.45,
-    "rank": 1790,
+    "rank": 1791,
     "file": "02_英语词基/1790_hunger_B4263.md",
     "word_anchors": {
       "hungry": 1,
@@ -289093,7 +289237,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.613,
     "best_zipf": 4.09,
-    "rank": 1791,
+    "rank": 1792,
     "file": "02_英语词基/1791_bee_B2667.md",
     "word_anchors": {
       "bee": 1,
@@ -289145,7 +289289,7 @@
     "origin_note": "词典标为构词成分；它可能是语法词缀，也可能是保留词汇意义的组合形式。",
     "score": 4.613,
     "best_zipf": 4.6,
-    "rank": 1792,
+    "rank": 1793,
     "file": "03_词缀与组合形式/1792_info_A2258.md",
     "word_anchors": {
       "info": 2,
@@ -289204,7 +289348,7 @@
     "origin_note": "词根表记录的是历史来源词；它们可能包括同一词的屈折形。英语借入路线按下方各单词的词源记录分别阅读。",
     "score": 4.613,
     "best_zipf": 4.55,
-    "rank": 1793,
+    "rank": 1794,
     "file": "01_古典词根/1793_oryz_C0923.md",
     "word_anchors": {
       "rice": 1,
@@ -289297,7 +289441,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.612,
     "best_zipf": 4.3,
-    "rank": 1794,
+    "rank": 1795,
     "file": "02_英语词基/1794_slide_B2980.md",
     "word_anchors": {
       "slide": 1,
@@ -289404,7 +289548,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.611,
     "best_zipf": 4.08,
-    "rank": 1795,
+    "rank": 1796,
     "file": "02_英语词基/1795_breed_B2831.md",
     "word_anchors": {
       "breed": 1,
@@ -289462,7 +289606,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.611,
     "best_zipf": 4.55,
-    "rank": 1796,
+    "rank": 1797,
     "file": "02_英语词基/1796_brilliant_B3615.md",
     "word_anchors": {
       "brilliant": 1,
@@ -289576,7 +289720,7 @@
     "origin_note": "词根表记录的是历史来源词；它们可能包括同一词的屈折形。英语借入路线按下方各单词的词源记录分别阅读。",
     "score": 4.611,
     "best_zipf": 4.39,
-    "rank": 1797,
+    "rank": 1798,
     "file": "01_古典词根/1797_idi_C0597.md",
     "word_anchors": {
       "idiot": 1,
@@ -289777,7 +289921,7 @@
     "origin_note": "词根表记录的是历史来源词；它们可能包括同一词的屈折形。英语借入路线按下方各单词的词源记录分别阅读。",
     "score": 4.611,
     "best_zipf": 4.25,
-    "rank": 1798,
+    "rank": 1799,
     "file": "01_古典词根/1798_oxy_C0935.md",
     "word_anchors": {
       "oxygen": 1,
@@ -289846,7 +289990,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.608,
     "best_zipf": 4.59,
-    "rank": 1799,
+    "rank": 1800,
     "file": "02_英语词基/1799_pacific_B4255.md",
     "word_anchors": {
       "pacific": 1,
@@ -289914,7 +290058,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.606,
     "best_zipf": 4.3,
-    "rank": 1800,
+    "rank": 1801,
     "file": "02_英语词基/1800_bat_B2737.md",
     "word_anchors": {
       "bat": 1,
@@ -290007,7 +290151,7 @@
     "origin_note": "词根表记录的是历史来源词；它们可能包括同一词的屈折形。英语借入路线按下方各单词的词源记录分别阅读。",
     "score": 4.606,
     "best_zipf": 4.25,
-    "rank": 1801,
+    "rank": 1802,
     "file": "01_古典词根/1801_leon_C0665.md",
     "word_anchors": {
       "lion": 1,
@@ -290136,7 +290280,7 @@
     "origin_note": "词根表记录的是历史来源词；它们可能包括同一词的屈折形。英语借入路线按下方各单词的词源记录分别阅读。",
     "score": 4.606,
     "best_zipf": 4.51,
-    "rank": 1802,
+    "rank": 1803,
     "file": "03_词缀与组合形式/1802_semi_C1304.md",
     "word_anchors": {
       "semi": 14,
@@ -290206,7 +290350,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.605,
     "best_zipf": 4.15,
-    "rank": 1803,
+    "rank": 1804,
     "file": "02_英语词基/1803_eliminate_B3749.md",
     "word_anchors": {
       "eliminate": 1,
@@ -290286,7 +290430,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.605,
     "best_zipf": 4.51,
-    "rank": 1804,
+    "rank": 1805,
     "file": "02_英语词基/1804_nose_B2766.md",
     "word_anchors": {
       "nose": 1,
@@ -290375,7 +290519,7 @@
     "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
     "score": 4.605,
     "best_zipf": 4.29,
-    "rank": 1805,
+    "rank": 1806,
     "file": "02_英语词基/1805_polite_B3946.md",
     "word_anchors": {
       "polish": 5,
@@ -290388,96 +290532,6 @@
       "polishes": 8,
       "polisher": 9,
       "polishers": 10
-    }
-  },
-  {
-    "id": "B2994",
-    "source_ids": [],
-    "root": "string",
-    "aliases": [
-      "string"
-    ],
-    "meaning": "A long, thin and flexible structure made from threads twisted together.",
-    "meaning_zh": "细绳、弦，及绳般排列和束缚的扩展",
-    "language": "见词源记录",
-    "origin": "From Middle English string, streng, strynge, from Old English strenġ, from Proto-West Germanic *strangi, from Proto-Germanic *strangiz (“string”), from Proto-Indo-European *strengʰ- (“rope, cord, strand; to tighten”).\nCognate with Scots string (“string”), Dutch streng (“cord, strand”), Low German strenge (“strand, cord, rope”), German Strang (“strand, cord, rope”), Danish streng (“string”), Swedish sträng (“string, cord, wire”), Icelandic strengur (“string”), Latvian stringt (“to be tight, wither”), Latin stringō (“to tighten”), Ancient Greek στραγγαλόομαι (strangalóomai, “to strangle”), from στραγγάλη (strangálē, “halter”), Ancient Greek στραγγός (strangós, “tied together, entangled, twisted”).",
-    "words": [],
-    "seeds": [
-      "string"
-    ],
-    "family": {
-      "string": {
-        "via": null,
-        "depth": 0,
-        "evidence": "根表例词／词基本身"
-      },
-      "strings": {
-        "via": null,
-        "depth": 0,
-        "evidence": "逐词词源核对"
-      },
-      "stringer": {
-        "via": "string",
-        "depth": 1,
-        "evidence": "词典构词模板"
-      },
-      "stringed": {
-        "via": "string",
-        "depth": 1,
-        "evidence": "词典构词模板"
-      },
-      "stringy": {
-        "via": "string",
-        "depth": 1,
-        "evidence": "词典构词模板"
-      },
-      "hamstring": {
-        "via": "string",
-        "depth": 1,
-        "evidence": "词典构词模板"
-      },
-      "shoestring": {
-        "via": "string",
-        "depth": 1,
-        "evidence": "词典构词模板"
-      },
-      "drawstring": {
-        "via": "string",
-        "depth": 1,
-        "evidence": "词典构词模板"
-      },
-      "strangle": {
-        "via": null,
-        "depth": 0,
-        "evidence": "独立借词；与 string 的远源联系见 Etymonline，不作现代派生"
-      },
-      "strangled": {
-        "via": "strangle",
-        "depth": 1,
-        "evidence": "规则过去式／过去分词"
-      }
-    },
-    "unmatched": [],
-    "headword": "string",
-    "kind": "英语自由词基",
-    "group": "02_英语词基",
-    "source": "https://en.wiktionary.org/wiki/string",
-    "origin_note": "这是现代英语中的自由词基，可继续构词；“词基”不等于历史上不可再分析的最终词根。来源包含日耳曼语本源词和其他语言借词。",
-    "score": 4.605,
-    "best_zipf": 4.4,
-    "rank": 1806,
-    "file": "02_英语词基/1806_string_B2994.md",
-    "word_anchors": {
-      "string": 1,
-      "strings": 8,
-      "hamstring": 2,
-      "stringer": 3,
-      "shoestring": 4,
-      "drawstring": 5,
-      "stringed": 6,
-      "stringy": 7,
-      "strangle": 9,
-      "strangled": 10
     }
   },
   {

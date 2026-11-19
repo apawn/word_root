@@ -7037,6 +7037,16 @@
 
 例句来源：逐词编写的学习例句
 
+## entail
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/entail#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> Restoring the old house will entail replacing the roof.
+
+例句来源：逐词编写的学习例句
+
 ## entangle
 
 - [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/entangle#English)
@@ -7463,6 +7473,16 @@
 - 中文释义资料：逐词编写的中文释义
 
 > The report examines air entrapment during the manufacturing process.
+
+例句来源：逐词编写的学习例句
+
+## entreat
+
+- [Wiktionary 词条与修订历史](https://en.wiktionary.org/wiki/entreat#English)
+- 发音资料：核对后整理；见逐词精讲核对资料
+- 中文释义资料：逐词编写的中文释义
+
+> The settlers entreated the company to send skilled workers and tools.
 
 例句来源：逐词编写的学习例句
 

@@ -41,6 +41,8 @@ thorough-〔旧穿过〕+ fare〔行进、通行〕→ thoroughfare；不是用�
 
 与 through 同出古英语 þurh、þuruh 等形式；重读的双音节形式发展成 thorough，并用于完全、周密的性质。不是现代把 through 加几个字母新造。
 
+**继续看词根／词基**：[thorough](../02_英语词基/2233_thorough_B4409.md)
+
 **怎么变成今天的意思**
 
 **古英语 þurh／þuruh 等形式**  
@@ -87,6 +89,8 @@ thorough 说仔细、完整，不等于 merely slow 做得慢。through 现代�
 **怎么拆**
 
 中古英语 thurghfare，前项是 through 的旧形式，与 fare 行进、通行组合；现代 thorough 常说彻底，但此词不能按彻底票价硬译。
+
+**继续看词根／词基**：[fare](../02_英语词基/1182_fare_B3398.md)
 
 **怎么变成今天的意思**
 

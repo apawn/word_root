@@ -6,13 +6,13 @@
     "01_古典词根": 1598
   },
   "unique_words": 34541,
-  "word_occurrences": 48325,
+  "word_occurrences": 48334,
   "field_occurrences": {
-    "ipa": 48108,
-    "zh": 48128,
-    "etym": 48221,
-    "example": 47313,
-    "split": 47780
+    "ipa": 48117,
+    "zh": 48137,
+    "etym": 48230,
+    "example": 47322,
+    "split": 47789
   },
   "field_unique": {
     "ipa": 34330,

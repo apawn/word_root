@@ -41,6 +41,22 @@ check(set(P['completed_root_ids'])==set(lessons),'Completed lesson IDs mismatch'
 check(P['root_pages']==len(lessons),'Completed root count mismatch')
 check(P['unique_words']==len(used),'Completed word count mismatch')
 check(P['examples']==sum(len(authored[w]['examples']) for w in used),'Authored example count mismatch')
+navigation=json.loads((O/'data/词缀词根导航检查.json').read_text())
+check(navigation['authored_sha256']==expected_digest,'Affix navigation audit is stale')
+expected_navigation={(r['id'],w) for r in R if r['id'] in lessons and r['group']=='03_词缀与组合形式' for w in r['family']}
+actual_navigation=[(row['page_id'],row['word']) for row in navigation['entries']]
+check(len(actual_navigation)==len(set(actual_navigation)),'Duplicate affix navigation audit rows')
+check(set(actual_navigation)==expected_navigation,'Affix navigation audit does not cover every word')
+navigation_by_page=collections.defaultdict(list)
+for row in navigation['entries']:
+    navigation_by_page[row['page_id']].append(row)
+    for target in row['targets']:
+        check(target['root_id'] in lessons,'Navigation destination is not a completed lesson')
+        dest=byid[target['root_id']]
+        check(target['kind']!='root' or dest['group']!='03_词缀与组合形式','Affix mislabeled as a root destination')
+        check(target['kind']!='base' or target['via'] in dest['family'],'Navigation base is absent from its destination')
+        check(target['chain'][0]==row['word'] and target['chain'][-1]==target['via'],'Invalid navigation evidence chain')
+check(set('platitude attitude altitude latitude longitude magnitude fortitude solitude gratitude aptitude rectitude'.split())<=set(byid['A1822']['family']),'-itude is missing requested examples')
 for rid,lesson in lessons.items():
     r=byid[rid];body=(O/r['file']).read_text()
     check(set(r['family'])==set(lesson['words']),f'Lesson family mismatch: {rid}')
@@ -60,6 +76,15 @@ for rid,lesson in lessons.items():
     targets={w:int(i) for i,w in re.findall(r'<a id="w-(\d+)"></a>\n\n### \d+\. (.*?) — ',body)}
     check(targets==anchors,f'Word anchors point to the wrong explanations: {rid}')
     check(len(re.findall(r'^### \d+\. ',body,re.M))==len(r['family']),f'Missing word explanations: {rid}')
+    if rid in navigation_by_page:
+        sections={int(anchor):text for anchor,text in re.findall(r'<a id="w-(\d+)"></a>(.*?)(?=<a id="w-|\Z)',body,re.S)}
+        for row in navigation_by_page[rid]:
+            section=sections[r['word_anchors'][row['word']]]
+            expected_line='**继续看词根／词基**：'+' · '.join(row['links'])
+            if row['links']:
+                check(expected_line in section,f'Missing root/base navigation: {rid}/{row["word"]}')
+            else:
+                check('**继续看词根／词基**' not in section,f'Unverified navigation: {rid}/{row["word"]}')
     check(body.count('**先抓住这个画面**')==len(r['family']),f'Missing word mental picture: {rid}')
     check(body.count('../assets/evolution/')==sum(word_has_image(authored[w]) for w in r['family']),f'Word diagram availability mismatch: {rid}')
     check(body.count('**怎么变成今天的意思**')==len(r['family']),f'Missing evolution explanations: {rid}')
