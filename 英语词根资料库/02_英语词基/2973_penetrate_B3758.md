@@ -81,7 +81,7 @@ penetrate 是往里穿、往里渗，penetration 把这个过程或深入程度�
 
 **怎么拆**
 
-承中古英语 penetracioun，经古法语上接拉丁语 penetratio。现代与 penetrate + -ion 对应，去末尾 e → penetration；过程、结果、程度各随对象展开。
+承中古英语 penetracioun，经古法语上接拉丁语 penetratio。现代与 penetrate（穿透） + -ion 对应，去末尾 e → penetration；过程、结果、程度各随对象展开。
 
 **怎么变成今天的意思**
 

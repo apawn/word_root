@@ -14,7 +14,7 @@ leadership 已有逐词精讲，本页把能力、带领行为、领导集体三
 
 ## 词形与演化规律
 
-leader + -ship；leadership skills 能力，under her leadership 带领，the leadership 领导集体。
+leader + -ship（把身份、关系或本领说成名词）；leadership skills 能力，under her leadership 带领，the leadership 领导集体。
 
 ## 单词速览（按词族由简到繁）
 
@@ -38,7 +38,7 @@ leader + -ship；leadership skills 能力，under her leadership 带领，the le
 
 **怎么拆**
 
-leader + -ship，后缀表示身份、职能、品质等。这里是领导的能力、行为、地位，也能集合地指领导层。
+leader + -ship（把身份、关系或本领说成名词），后缀表示身份、职能、品质等。这里是领导的能力、行为、地位，也能集合地指领导层。
 
 **怎么变成今天的意思**
 

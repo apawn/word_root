@@ -15,7 +15,7 @@ reasonable → reasonably、reasonableness；unreasonable 加否定。
 
 ## 词形与演化规律
 
-ratiōnābilis 经法语、中古英语 → reasonable；-ble → -bly；reasonable + -ness；un- + reasonable。
+ratiōnābilis 经法语、中古英语 → reasonable；-ble → -bly；reasonable + -ness（把前面的性质当作一种状态来说）；un- + reasonable。
 
 ## 单词速览（按词族由简到繁）
 
@@ -84,7 +84,7 @@ reasonably priced 是价格公道；reasonably good 则往往是还不错、有�
 
 **怎么拆**
 
-reasonable + -ly，对应 -ble → -bly；中古英语已有 resonably。不能拼成 reasonablely。
+reasonable（合理） + -ly（把性质用来说明方式、程度或说话的角度），对应 -ble → -bly；中古英语已有 resonably。不能拼成 reasonablely。
 
 **怎么变成今天的意思**
 
@@ -126,7 +126,7 @@ reasonably 作程度副词常有所保留，reasonably good 不一定是 excelle
 
 **怎么拆**
 
-reasonable + -ness，中古英语已有 resonabilnes 等形式。保留 reasonable 的词尾再加 -ness，不像 reasonably 要把 -ble 改成 -bly。
+reasonable（合理） + -ness（把前面的性质当作一种状态来说），中古英语已有 resonabilnes 等形式。保留 reasonable 的词尾再加 -ness，不像 reasonably 要把 -ble 改成 -bly。
 
 **怎么变成今天的意思**
 
@@ -168,7 +168,7 @@ reasonableness 是性质评价，reason 原因、理由；给出一个 reason �
 
 **怎么拆**
 
-un- 不 + reasonable；中古英语已有相应形式，早期也受拉丁否定词对应影响。现代直接按否定合理来理解。
+un- 不 + reasonable（合理）；中古英语已有相应形式，早期也受拉丁否定词对应影响。现代直接按否定合理来理解。
 
 **怎么变成今天的意思**
 

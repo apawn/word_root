@@ -90,7 +90,7 @@ change 改变，exchange 交换、更换；exchange A for B 是拿出 A 换得 B
 
 **怎么拆**
 
-exchange + -s，/dʒ/ 后读 /ɪz/。名词、动词经法语 eschange、eschanger 等分别进入英语，后来调整 ex- 拼写，不能只当英语 ex 加 change 解释全部历史。
+exchange（交换） + -s（这里既有名词复数用法，也有动词第三人称单数用法），/dʒ/ 后读 /ɪz/。名词、动词经法语 eschange、eschanger 等分别进入英语，后来调整 ex- 拼写，不能只当英语 ex 加 change 解释全部历史。
 
 **怎么变成今天的意思**
 
@@ -174,7 +174,7 @@ exchanged 常包含双向关系；gave 可以只说单方面给出。exchanged i
 
 **怎么拆**
 
-exchange + -er，形成执行、实现交换的人或设备名。词尾 e 与 -er 衔接，不额外再写一个 e。
+exchange（交换） + -er（指做这件事的人或起这种作用的东西），形成执行、实现交换的人或设备名。词尾 e 与 -er 衔接，不额外再写一个 e。
 
 **怎么变成今天的意思**
 
@@ -221,7 +221,7 @@ exchanger 设备、参与者，exchange 交换过程或场所；heat exchanger �
 
 **怎么拆**
 
-exchange + -able，形成能被交换的形容词，保留 e；并非所有以 e 结尾的词接后缀都去 e。
+exchange（交换） + -able（能这样做，或能被这样对待），形成能被交换的形容词，保留 e；并非所有以 e 结尾的词接后缀都去 e。
 
 **怎么变成今天的意思**
 

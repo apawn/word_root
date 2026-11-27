@@ -14,7 +14,7 @@ transformation → transformational。
 
 ## 词形与演化规律
 
-trans- + form → transform；-ation 行为、结果，-al 关系、性质。
+trans-（越过、穿过，或从一边到另一边） + form → transform；-ation 行为、结果，-al 关系、性质。
 
 ## 单词速览（按词族由简到繁）
 
@@ -39,7 +39,7 @@ trans- + form → transform；-ation 行为、结果，-al 关系、性质。
 
 **怎么拆**
 
-经法语来自拉丁语 trānsfōrmātiō；与 transform 同族，现代可对应 transform + -ation。
+经法语来自拉丁语 trānsfōrmātiō；与 transform 同族，现代可对应 transform（变换） + -ation（把动作或结果说成一件事）。
 
 **怎么变成今天的意思**
 

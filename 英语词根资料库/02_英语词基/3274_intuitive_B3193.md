@@ -88,7 +88,7 @@ intuitive 容易凭直觉把握，counterintuitive 与直觉预期相反；后�
 
 **怎么拆**
 
-intuitive + -ly → intuitively，保留末尾 e 再接 -ly；副词用于理解、感觉、使用等动作或整句判断。
+intuitive（凭直觉） + -ly（把性质用来说明方式、程度或说话的角度） → intuitively，保留末尾 e 再接 -ly；副词用于理解、感觉、使用等动作或整句判断。
 
 **怎么变成今天的意思**
 

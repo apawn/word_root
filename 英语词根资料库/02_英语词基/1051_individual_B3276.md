@@ -15,7 +15,7 @@ individual 的历史来源联系不可分的一体，后成为单独个体的名
 
 ## 词形与演化规律
 
-individual + -ity、-ism、-ist 形成不同名词；individualistic 是相关形容词。历史 in- 的不可分义不表示现代 individual 不能被单独分析。
+individual + -ity（把“怎样的”变成“这种性质、状态或程度”）、-ism、-ist 形成不同名词；individualistic 是相关形容词。历史 in- 的不可分义不表示现代 individual 不能被单独分析。
 
 ## 单词速览（按词族由简到繁）
 
@@ -80,7 +80,7 @@ individual 关注一个个体；personal 关注与某人私下有关。individua
 
 **怎么拆**
 
-individual + -ly。
+individual（单独） + -ly（把性质用来说明方式、程度或说话的角度）。
 
 **怎么变成今天的意思**
 
@@ -116,7 +116,7 @@ alone 强调没有别人相伴；individually 强调分别处理每一个。
 
 **怎么拆**
 
-individual + -ity，变成表示个体特质的名词；词尾处重读。
+individual + -ity（把“怎样的”变成“这种性质、状态或程度”），变成表示个体特质的名词；词尾处重读。
 
 **怎么变成今天的意思**
 
@@ -152,7 +152,7 @@ individuality 是独特性；individualism 是重视个人自主的理念或倾�
 
 **怎么拆**
 
-individual + -ism；有英语派生与法语 individualisme 借入的不同词源分析。都建立在“个人”这个词族上。
+individual（个人） + -ism（把观念、做法、现象或状态说成名词）；有英语派生与法语 individualisme 借入的不同词源分析。都建立在“个人”这个词族上。
 
 **怎么变成今天的意思**
 
@@ -188,7 +188,7 @@ individuality 是一个人的独特性；individualism 是重视个人自主的�
 
 **怎么拆**
 
-individual + -ist，-ist 表示具有某种立场或特点的人。
+individual（个人） + -ist，-ist 表示具有某种立场或特点的人。
 
 **怎么变成今天的意思**
 
@@ -224,7 +224,7 @@ individual 是任何一个人；individualist 则特意说这个人倾向于独�
 
 **怎么拆**
 
-individualist + -ic；也可按 individual + -istic 分析，表示这种倾向的形容词。
+individualist + -ic（表示“与……有关的”，让这个词可以用来修饰别的事物）；也可按 individual（个人） + -istic 分析，表示这种倾向的形容词。
 
 **怎么变成今天的意思**
 

@@ -7,6 +7,7 @@ import re
 import xml.etree.ElementTree as ET
 from pathlib import Path
 from urllib.parse import unquote
+from check_component_glosses import inspect as check_component_notes
 from explanatory import load_lessons,word_has_image,root_has_image,images_paused
 
 B=Path(__file__).resolve().parents[1];O=B/'英语词根资料库'
@@ -138,6 +139,8 @@ else:
 for row in csv.DictReader((O/'data/覆盖明细.csv').open()):
     for field in ['ipa','zh','etym','example','split']:
         check(int(row.get(field) or 0)<=int(row['words']),f'Invalid coverage: {row["id"]}/{field}')
+if not errors:
+    check_component_notes()
 report={'ok':not errors,'root_pages':len(R),'markdown_files':pages,'svg_files':svgcount,'evolution_svg_files':evolution_count,'completed_lessons':P['root_pages'],'fully_explained_words':P['unique_words'],'authored_bilingual_examples':P['examples'],'checked_local_links_and_anchors':links,'source_rows':len(source_ids),'unique_words':S['unique_words'],'errors':errors}
 report['authored_sha256']=expected_digest
 (O/'data/结构校验.json').write_text(json.dumps(report,ensure_ascii=False,indent=2))

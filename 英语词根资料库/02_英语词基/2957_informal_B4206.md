@@ -76,7 +76,7 @@ informal 是场合或表达不正式；unprofessional 是不专业，两者不�
 
 **怎么拆**
 
-informal + -ly → informally。informal 由否定 in- + formal 形成，-ly 再把性质变成方式副词。
+informal（非正式） + -ly（把性质用来说明方式、程度或说话的角度） → informally。informal 由否定 in-（拉丁来源的否定成分，表示“不、非”） + formal 形成，-ly 再把性质变成方式副词。
 
 **怎么变成今天的意思**
 
@@ -118,7 +118,7 @@ informally 不等于 inaccurately 不准确，也不等于 secretly 秘密地；
 
 **怎么拆**
 
-informal + -ity → informality，重音转到后部 /mæ/。-ity 把不拘形式的性质作为名词，也可在特定语境指非正式表达。
+informal（非正式） + -ity（把“怎样的”变成“这种性质、状态或程度”） → informality，重音转到后部 /mæ/。-ity 把不拘形式的性质作为名词，也可在特定语境指非正式表达。
 
 **怎么变成今天的意思**
 

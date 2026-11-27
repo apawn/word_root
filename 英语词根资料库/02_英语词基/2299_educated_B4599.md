@@ -39,7 +39,7 @@ educate + -ed → educated；un- 形成相应否定状态。
 
 **怎么拆**
 
-educate + -ed，过去分词形容词化。an educated guess 进一步借受过训练、有知识的背景，表示有根据的推测。
+educate（教育） + -ed（标出动词的过去式或过去分词），过去分词形容词化。an educated guess 进一步借受过训练、有知识的背景，表示有根据的推测。
 
 **怎么变成今天的意思**
 

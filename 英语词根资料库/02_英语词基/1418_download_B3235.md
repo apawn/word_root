@@ -93,7 +93,7 @@ download 保存取得文件，stream 流式播放通常侧重边传边用；具�
 
 **怎么拆**
 
-download + -ed，基础词末为 /d/，所以 -ed 读 /ɪd/。
+download（下载） + -ed，基础词末为 /d/，所以 -ed 读 /ɪd/。
 
 **怎么变成今天的意思**
 
@@ -135,7 +135,7 @@ downloaded 与 uploaded 指相反的传送视角；文件可在一次传送中�
 
 **怎么拆**
 
-download + -ing，基础词不改拼写；down、load 原有组合仍清楚。
+download（下载） + -ing，基础词不改拼写；down、load 原有组合仍清楚。
 
 **怎么变成今天的意思**
 
@@ -219,7 +219,7 @@ a list of downloads 下载文件列表；thousands of downloads 数千次下载�
 
 **怎么拆**
 
-download + -able 可……，组成可下载的形容词；-able 是能力、可能性，不是 table 桌子的一段。
+download（下载） + -able 可……，组成可下载的形容词；-able 是能力、可能性，不是 table 桌子的一段。
 
 **怎么变成今天的意思**
 
@@ -261,7 +261,7 @@ downloadable 可下载不等于 free 免费，也不等于已经 downloaded 下�
 
 **怎么拆**
 
-download + -er，表示执行下载的人或工具。具体是否有管理、排队等功能，取决于程序本身，不由一个后缀保证。
+download（下载） + -er（指做这件事的人或起这种作用的东西），表示执行下载的人或工具。具体是否有管理、排队等功能，取决于程序本身，不由一个后缀保证。
 
 **怎么变成今天的意思**
 

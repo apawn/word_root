@@ -14,7 +14,7 @@ predictable → predictably；unpredictable 难以预料。
 
 ## 词形与演化规律
 
-predict + -able → predictable；-able → -ably；un- 否定。
+predict + -able（能这样做，或能被这样对待） → predictable；-able → -ably；un- 否定。
 
 ## 单词速览（按词族由简到繁）
 
@@ -40,7 +40,9 @@ predict + -able → predictable；-able → -ably；un- 否定。
 
 **怎么拆**
 
-predict + -able：能够提前预测的。
+predict（预测） + -able（能这样做，或能被这样对待）：能够提前预测的。
+
+prae- 表示“在……之前”，dīcere 是“说”。在事情发生前先说出来，就是预言。分词词干里的 -dict- 后来在 predict 等词里仍看得见。
 
 **怎么变成今天的意思**
 
@@ -76,7 +78,9 @@ predictable 不一定是 boring。稳定的设备表现很可预测，通常值�
 
 **怎么拆**
 
-predictable + -ly；-able 变 -ably，结尾通常 /əbli/。从可预测的性质变为方式副词或整句评注。
+predictable（不出所料） + -ly（把性质用来说明方式、程度或说话的角度）；-able 变 -ably，结尾通常 /əbli/。从可预测的性质变为方式副词或整句评注。
+
+prae- 表示“在……之前”，dīcere 是“说”。在事情发生前先说出来，就是预言。分词词干里的 -dict- 后来在 predict 等词里仍看得见。
 
 **怎么变成今天的意思**
 
@@ -119,6 +123,8 @@ predictably 不保证说话人事先实际做过预测；有时是事后表达�
 **怎么拆**
 
 un-（不）+ predictable（可预测的）。
+
+prae- 表示“在……之前”，dīcere 是“说”。在事情发生前先说出来，就是预言。分词词干里的 -dict- 后来在 predict 等词里仍看得见。
 
 **怎么变成今天的意思**
 

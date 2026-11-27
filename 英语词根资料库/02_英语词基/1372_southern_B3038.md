@@ -40,7 +40,7 @@ southern + -most/-er；south /saʊθ/ 与 southern /ˈsʌðən/〔英式〕的�
 
 **怎么拆**
 
-现代对应 south + -ern，历史接古英语 sūþerne、中古英语 southerne 等。现代元音 /ʌ/、th /ð/，读音不能只靠逐字拼接。
+现代对应 south + -ern（形成方向形容词，如“某一方的”），历史接古英语 sūþerne、中古英语 southerne 等。现代元音 /ʌ/、th /ð/，读音不能只靠逐字拼接。
 
 **怎么变成今天的意思**
 
@@ -87,7 +87,7 @@ southern 表区域关系；southbound 表车辆行进方向。南部地区也有
 
 **怎么拆**
 
-southern + -most，形成最南位置的形容词。southern 的常见元音和 th 已不同于 south，按现有读音接后缀。
+southern（南部） + -most（处在最突出的程度或最靠某一边的位置），形成最南位置的形容词。southern 的常见元音和 th 已不同于 south，按现有读音接后缀。
 
 **怎么变成今天的意思**
 
@@ -129,7 +129,7 @@ southern 在南方，southernmost 是比较范围里的最南；范围由国家�
 
 **怎么拆**
 
-southern + -er，按地域关系称呼人物。-er 不是说执行向南动作的人。
+southern（南方） + -er，按地域关系称呼人物。-er 不是说执行向南动作的人。
 
 **怎么变成今天的意思**
 

@@ -1144,7 +1144,8 @@
       ]
     ],
     "sources": [
-      "https://en.wiktionary.org/wiki/affair#English"
+      "https://en.wiktionary.org/wiki/affair#English",
+      "https://www.cnrtl.fr/definition/affaire"
     ]
   },
   {
@@ -2178,7 +2179,7 @@
     "ipa": "/ˈfaɪæt/",
     "meaning": "命令；法令",
     "sense": "想象主管一句“就这样办”，事情凭权威拍板成立。fiat 保留了这种命令即行动的语感。",
-    "split": "拉丁语 fīat 是“让它被做成”，来自 fio，它补充充当 facere 的被动形式；不要拆成 fi + at。",
+    "split": "拉丁语 fīō 是“成为、被做成”，在 facio“做”的变化中也充当被动形式。换成第三人称单数虚拟式 fīat，就能用来下令“让它成吧！”末尾的 -t 对应“它”。英语把这一声拍板当成名词，by fiat 就是凭一道命令办事。",
     "history": [
       [
         "拉丁语：facere",
@@ -2193,7 +2194,7 @@
         "权威命令；法令"
       ]
     ],
-    "explanation": "祈使式的“让其成为如此”被当作名词使用。常见 by fiat 说靠命令决定，语气有时带批评。",
+    "explanation": "说话人用虚拟式发出“就这样办”的指令。英语保留了这句话的权威口气，by fiat 常说某事由掌权者一句话定下，有时带批评意味。",
     "usage": "by fiat；an administrative fiat；fiat money。",
     "contrast": "order 是普通命令；fiat 更突出权威单方面拍板。fiat money 是法定货币，不是“免费钱”。",
     "examples": [
@@ -2207,6 +2208,7 @@
       ]
     ],
     "sources": [
+      "https://en.wiktionary.org/wiki/fiat#Latin",
       "https://en.wiktionary.org/wiki/fiat#English"
     ]
   },

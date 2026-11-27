@@ -41,7 +41,7 @@ development + -al；再接 -ly 成 ll；neuro- 神经 + developmental。
 
 **怎么拆**
 
-development + -al，-al 表与……有关，重音落在 -mental 中的 men。不是单独把 mental 心理的加到 develop 后面。
+development（发展） + -al（形容词词尾，表示与前面的事物有关），-al 表与……有关，重音落在 -mental 中的 men。不是单独把 mental 心理的加到 develop 后面。
 
 **怎么变成今天的意思**
 
@@ -130,7 +130,7 @@ developmentally 说个体或事物的发展层面，evolutionarily 常说演化�
 
 **怎么拆**
 
-neuro- + developmental，后者由 development 发育、发展 + -al 构成。现代神经科学组合词。
+neuro-（神经） + developmental，后者由 development 发育、发展 + -al（形容词词尾，表示与前面的事物有关） 构成。现代神经科学组合词。
 
 **怎么变成今天的意思**
 

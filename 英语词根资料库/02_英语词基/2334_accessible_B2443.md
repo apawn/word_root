@@ -40,7 +40,9 @@ access 接近、进入 + -ible 相应性质；-ity 性质名词；in- 否定。
 
 **怎么拆**
 
-经法语及晚期拉丁 accessibilis，接 accessus 接近、入口；现代可对应 access + -ible。形容词有自己的借入历史。
+经法语及晚期拉丁 accessibilis，接 accessus 接近、入口；现代可对应 access + -ible（能这样做，或能被这样对待）。形容词有自己的借入历史。
+
+ad- 是“向”，cēdere 在这里是“走”。d 在 c 前同化，成为 accēdere。先是走向对方，再能引出接受请求、加入一方。
 
 **怎么变成今天的意思**
 
@@ -82,7 +84,9 @@ available 有供应、可获得，accessible 能接近、能使用；有一份�
 
 **怎么拆**
 
-accessible + -ity，-ible 对应 -ibility，形成性质名词；受到法语、晚期拉丁相应名词形式影响。重音移到 -bil-。
+accessible（无障碍） + -ity（把“怎样的”变成“这种性质、状态或程度”），-ible 对应 -ibility，形成性质名词；受到法语、晚期拉丁相应名词形式影响。重音移到 -bil-。
+
+ad- 是“向”，cēdere 在这里是“走”。d 在 c 前同化，成为 accēdere。先是走向对方，再能引出接受请求、加入一方。
 
 **怎么变成今天的意思**
 
@@ -130,6 +134,8 @@ access 是进入或使用的机会、动作，accessibility 说这种进入、�
 **怎么拆**
 
 经法语接晚期拉丁 inaccessibilis；现代可分析 in- 不 + accessible，in- 在这里否定，不是表示里面。
+
+ad- 是“向”，cēdere 在这里是“走”。d 在 c 前同化，成为 accēdere。先是走向对方，再能引出接受请求、加入一方。
 
 **怎么变成今天的意思**
 

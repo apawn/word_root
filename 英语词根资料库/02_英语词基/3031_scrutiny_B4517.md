@@ -91,7 +91,7 @@ scrutiny 是细看、审查的过程，criticism 是批评；被审查不等于�
 
 **怎么拆**
 
-scrutiny 去末 y + -ize → scrutinize，对应仔细审查的动词。更早接拉丁 scrutari 搜查；与 screw 螺丝无关。-ise 变体见 scrutinise。
+scrutiny 去末 y + -ize（使成为，或按这种方式处理） → scrutinize，对应仔细审查的动词。更早接拉丁 scrutari 搜查；与 screw 螺丝无关。-ise 变体见 scrutinise。
 
 **怎么变成今天的意思**
 
@@ -368,7 +368,7 @@ scrutinising 和 scrutinizing 用法相同，选择哪套拼写不影响审查�
 
 **怎么拆**
 
-scrutinise + -s，词尾读 /ɪz/；-ise 常见于英式拼写，英式也可按所采用的规范使用 -ize。
+scrutinise + -s（主语是 he、she、it 这一类单数时，用这个一般现在时词尾），词尾读 /ɪz/；-ise 常见于英式拼写，英式也可按所采用的规范使用 -ize。
 
 **怎么变成今天的意思**
 
@@ -415,7 +415,7 @@ scrutinises 与 scrutinizes 没有“一个更严格”的词义差别；力度�
 
 **怎么拆**
 
-scrutinize + -s，基础 /z/ 后词尾读 /ɪz/；更前面是 scrutiny 去 y 加 -ize。
+scrutinize（审视） + -s（主语是 he、she、it 这一类单数时，用这个一般现在时词尾），基础 /z/ 后词尾读 /ɪz/；更前面是 scrutiny 去 y 加 -ize。
 
 **怎么变成今天的意思**
 

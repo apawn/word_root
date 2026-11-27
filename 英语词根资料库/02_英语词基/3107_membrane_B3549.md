@@ -83,7 +83,7 @@ membrane 是一层膜，membranous 说东西由膜构成、和膜有关，或者
 
 **怎么拆**
 
-经中古法语 membraneux 等，对应 membrane 的词干 + -ous → membranous。末尾不照 membrane 的 /breɪn/ 原样读，改为 /brən/。
+经中古法语 membraneux 等，对应 membrane 的词干 + -ous（有这种性质、带有这种特点） → membranous。末尾不照 membrane 的 /breɪn/ 原样读，改为 /brən/。
 
 **怎么变成今天的意思**
 
@@ -125,7 +125,7 @@ membranous 不必指塑料膜，也不是所有含 membrane 的技术词都能�
 
 **怎么拆**
 
-现代英语 trans- + membrane“膜”。trans- 标出膜两侧的关系，不是指把膜整体搬到别处。
+现代英语 trans-（越过、穿过，或从一边到另一边） + membrane“膜”。trans- 标出膜两侧的关系，不是指把膜整体搬到别处。
 
 **怎么变成今天的意思**
 

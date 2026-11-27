@@ -14,7 +14,7 @@
 
 ## 词形与演化规律
 
-eventual + -ly → eventually；eventual + -ity，与法语 éventualité 对应。
+eventual + -ly → eventually；eventual + -ity（把“怎样的”变成“这种性质、状态或程度”），与法语 éventualité 对应。
 
 ## 单词速览（按词族由简到繁）
 
@@ -76,7 +76,7 @@ eventual 是最终的；possible 是可能的。别受一些欧洲语言同形�
 
 **怎么拆**
 
-eventual + -ly。
+eventual（最终） + -ly。
 
 **怎么变成今天的意思**
 

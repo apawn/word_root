@@ -39,7 +39,7 @@ philosophical question、a philosophical attitude；philosophically speaking 的
 
 **怎么拆**
 
-英语 philosophy + -ical；与更早古典形容词借入的 philosophic 并存，不必把两者互相硬接。
+英语 philosophy（哲学） + -ical（表示“与……有关的”，让这个词可以用来修饰别的事物）；与更早古典形容词借入的 philosophic 并存，不必把两者互相硬接。
 
 **怎么变成今天的意思**
 
@@ -91,7 +91,7 @@ philosophical 的达观义很常见；academic 常说学术的，并不能在这
 
 **怎么拆**
 
-philosophical + -ly；读音中 -ically 常收拢成 /ɪkli/。
+philosophical（哲学） + -ly；读音中 -ically 常收拢成 /ɪkli/。
 
 **怎么变成今天的意思**
 

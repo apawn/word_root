@@ -40,7 +40,7 @@ government + -al → governmental；non- 非；inter- 之间。
 
 **怎么拆**
 
-英语 government + -al。government 本身从法语名词借入；governmental 才是在英语里以该名词为基础形成的形容词。
+英语 government（政府） + -al（形容词词尾，表示与前面的事物有关）。government 本身从法语名词借入；governmental 才是在英语里以该名词为基础形成的形容词。
 
 **怎么变成今天的意思**
 
@@ -82,7 +82,7 @@ governmental 是政府相关，gubernatorial 则通常专指美国州长职务�
 
 **怎么拆**
 
-inter- + governmental“政府的”，在英语中构成。
+inter-（在……之间、彼此） + governmental“政府的”，在英语中构成。
 
 **怎么变成今天的意思**
 

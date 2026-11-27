@@ -17,7 +17,7 @@ criminal → criminally；criminalize → criminalization 相邻；criminology �
 
 ## 词形与演化规律
 
-拉丁 crīmin- + -ālis → criminal；criminal + -ly/-ize；criminalize + -ation；crimin- + -ology。
+拉丁 crīmin- + -ālis（拉丁形容词尾，表示“与……有关的”） → criminal；criminal + -ly/-ize；criminalize + -ation（把动作或结果说成一件事）；crimin- + -ology。
 
 法语、晚期拉丁 criminalis 接 crimen、crimin-，人物名词再加复数。
 
@@ -133,7 +133,7 @@ criminal 形容法律领域不等于每位涉及者已经有罪；suspect 嫌疑
 
 **怎么拆**
 
-criminal + -s，/l/ 后读 /z/。criminal 经法语、晚期拉丁 criminalis 接 crimen、crimin- 罪、指控等材料，名词保留拉丁词干的 n。
+criminal + -s（表示不止一个），/l/ 后读 /z/。criminal 经法语、晚期拉丁 criminalis 接 crimen、crimin- 罪、指控等材料，名词保留拉丁词干的 n。
 
 **怎么变成今天的意思**
 
@@ -175,7 +175,7 @@ criminally responsible 在谈刑事责任；criminally underrated 则常夸张�
 
 **怎么拆**
 
-criminal + -ly，副词随基础词分法律、犯罪和夸张评价。
+criminal（犯罪） + -ly（把性质用来说明方式、程度或说话的角度），副词随基础词分法律、犯罪和夸张评价。
 
 **怎么变成今天的意思**
 
@@ -269,7 +269,7 @@ forensic science 用科学方法分析案件证据；criminology 更广泛地研
 
 **怎么拆**
 
-criminal + -ize，形成使成为犯罪、按犯罪处理的动词。英式也见 criminalise，不另设词头。
+criminal（犯罪） + -ize（使成为，或按这种方式处理），形成使成为犯罪、按犯罪处理的动词。英式也见 criminalise，不另设词头。
 
 **怎么变成今天的意思**
 
@@ -316,7 +316,7 @@ criminalize 设为犯罪、decriminalize 去犯罪化；criticize 批评不是�
 
 **怎么拆**
 
-criminalize 去 e 加 -ation，也可从 criminal + -ization 认识。名词命名使犯罪化过程。
+criminalize 去 e 加 -ation，也可从 criminal（犯罪） + -ization 认识。名词命名使犯罪化过程。
 
 **怎么变成今天的意思**
 

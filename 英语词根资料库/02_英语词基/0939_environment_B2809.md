@@ -16,7 +16,7 @@ environment 基本名词之后接 environmental 性质、microenvironment 局部
 
 ## 词形与演化规律
 
-environ + -ment → environment；environment + -al；micro- + environment。
+environ + -ment（把动作、结果或状态说成名词） → environment；environment + -al；micro-（微小，在计量单位前专指百万分之一） + environment。
 
 法语 environ 周围、environner 围绕的历史，现代也说运行环境。
 
@@ -87,7 +87,7 @@ environment 环境不全是环保，development environment 是开发运行条�
 
 **怎么拆**
 
-environment + -al，形容词后缀，主重音转到 ment 音节。环境本身与环境相关的性质分开。
+environment（环境） + -al（形容词词尾，表示与前面的事物有关），形容词后缀，主重音转到 ment 音节。环境本身与环境相关的性质分开。
 
 **怎么变成今天的意思**
 
@@ -134,7 +134,7 @@ environmental 环境相关不自动是环保有益；environmental damage 正是
 
 **怎么拆**
 
-environment + -s，/t/ 后读 /s/。environment 联系法语 environ 周围、environner 围绕，现代也可对应 environ + -ment 理解成周围状态。
+environment（环境） + -s（表示不止一个），/t/ 后读 /s/。environment 联系法语 environ 周围、environner 围绕，现代也可对应 environ + -ment 理解成周围状态。
 
 **怎么变成今天的意思**
 
@@ -176,7 +176,7 @@ the environment 常概括自然环境，environments 则把不同场所、条件
 
 **怎么拆**
 
-micro- 小、局部 + environment。micro 在这里不要求物理尺寸小到显微镜才看见，要看研究尺度。
+micro- 小、局部 + environment（环境）。micro 在这里不要求物理尺寸小到显微镜才看见，要看研究尺度。
 
 **怎么变成今天的意思**
 

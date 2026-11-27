@@ -42,7 +42,7 @@ biology 的 bio- 生命、-logy 研究基础 → biological；neuro- 与 micro- 
 
 **怎么拆**
 
-英语 biology + -ical；重音从名词前部移到 -log-。
+英语 biology（生物学） + -ical（表示“与……有关的”，让这个词可以用来修饰别的事物）；重音从名词前部移到 -log-。
 
 **怎么变成今天的意思**
 
@@ -94,7 +94,7 @@ biological 说生命或血缘层面；social 说社会关系，两者可以同�
 
 **怎么拆**
 
-biological + -ly；形容词转为说明方式或判断角度的副词。
+biological（生物） + -ly；形容词转为说明方式或判断角度的副词。
 
 **怎么变成今天的意思**
 
@@ -146,7 +146,7 @@ biologically 是判断角度或作用方式；naturally 可能只是说自然发
 
 **怎么拆**
 
-micro- + biological，形态上也与 microbiology 微生物学、-ical 相关形容词相对应。不是一个特别小的生物学家。
+micro-（微小，在计量单位前专指百万分之一） + biological（生物），形态上也与 microbiology 微生物学、-ical 相关形容词相对应。不是一个特别小的生物学家。
 
 **怎么变成今天的意思**
 

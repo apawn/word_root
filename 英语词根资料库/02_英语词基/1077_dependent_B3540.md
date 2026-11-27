@@ -15,7 +15,7 @@ dependent 的历史联系悬挂、依靠。dependency 说依赖关系、依赖�
 
 ## 词形与演化规律
 
-depend on；dependent on；in- + dependent → independent；inter- + dependent → interdependent。dependency 在不同领域有专门所指。
+depend on；dependent on；in- + dependent → independent；inter-（在……之间、彼此） + dependent → interdependent。dependency 在不同领域有专门所指。
 
 ## 单词速览（按词族由简到繁）
 
@@ -198,7 +198,7 @@ alone 是独自一个人；independent 是自主、不依赖或不受控制。�
 
 **怎么拆**
 
-inter- + dependent“依赖的”。
+inter-（在……之间、彼此） + dependent“依赖的”。
 
 **怎么变成今天的意思**
 

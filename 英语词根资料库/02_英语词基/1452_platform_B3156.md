@@ -80,7 +80,7 @@ platform 可指让活动开展的整体环境；一个单独网页未必足以�
 
 **怎么拆**
 
-platform + -s，/m/ 后读 /z/。platform 借法语 plateforme，plate 平的与 forme 形状、形式结合，后者接拉丁 forma。
+platform（站台） + -s（表示不止一个），/m/ 后读 /z/。platform 借法语 plateforme，plate 平的与 forme 形状、形式结合，后者接拉丁 forma。
 
 **怎么变成今天的意思**
 

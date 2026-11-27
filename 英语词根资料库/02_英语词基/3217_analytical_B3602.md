@@ -150,7 +150,7 @@ logically 强调推理连贯；analytically 强调分解、辨认关系。两者
 
 **怎么拆**
 
-psycho- + analytical；与 psychoanalysis 这一术语词族相配。
+psycho-（心智、心理） + analytical；与 psychoanalysis 这一术语词族相配。
 
 **怎么变成今天的意思**
 

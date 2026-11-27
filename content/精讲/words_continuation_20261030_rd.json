@@ -235,7 +235,7 @@
     "ipa": "/ˈmɪdwaɪf/",
     "meaning": "助产士；促成者〔比喻〕",
     "sense": "分娩前后陪伴、照护、协助产妇的专业人员，叫 midwife；比喻里也可说帮助一个新事物诞生的人。",
-    "split": "中古英语 midwif：旧 mid 是与……一起，wif 是女人，不是现代 middle 的一半加 wife 妻子。旧名称含陪伴产妇、协助的关系；现代职业称呼不只用于女性从业者。",
+    "split": "中古英语 midwif 里的 mid 是个旧介词，相当于 with“和……在一起”。wif 当时可以泛指“女人”。两块放回产房就好懂了，分娩时有人陪在产妇身边接生。旧词所指的女人究竟着眼于产妇还是接生者，解释有分歧。现代 midwife 是职业称呼。",
     "history": [
       [
         "中古英语 mid + wif → midwif",
@@ -260,6 +260,8 @@
       ]
     ],
     "sources": [
+      "https://www.merriam-webster.com/dictionary/midwife",
+      "https://en.wiktionary.org/wiki/midwife#English",
       "https://www.etymonline.com/word/midwife"
     ]
   },
@@ -268,7 +270,7 @@
     "ipa": "英 /ˌmɪdˈwɪfəri/；美亦见 /ˌmɪdˈwaɪfəri/",
     "meaning": "助产专业；助产工作、技术",
     "sense": "midwife 是从业的人；midwifery 是围绕助产的知识、专业和实际工作。",
-    "split": "中古英语已有相应形式，对应 midwife + -ery。词中 wife 的元音在常见英式读法里缩短，不能只按独立词 wife 的 /aɪ/ 一路拼读。",
+    "split": "先拆里面的 midwife。旧介词 mid 是“和……在一起”，wif 是“女人”，词的画面是陪伴产妇、帮助接生。再加 -ery，把从业者的名字变成这一行的工作和技艺。midwife 指人，midwifery 指助产专业。常见英式读法里，中间的元音也比 wife 的 /aɪ/ 短。",
     "history": [
       [
         "midwife + -ery 的旧组合",

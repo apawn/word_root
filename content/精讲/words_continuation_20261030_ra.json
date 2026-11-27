@@ -169,7 +169,7 @@
     "ipa": "英 /ˌhɪərˈɑːftə/；美 /ˌhɪrˈæftər/",
     "meaning": "此后、今后〔较正式〕；来世〔名词〕",
     "sense": "把“现在、这里”钉为起点，再往后看。讨论生命时 the hereafter 则指死后的世界。",
-    "split": "古英语 hēræfter 延续，对应 here + after。时间上的此后后来也用于指此生之后，固定出名词 the hereafter。",
+    "split": "古英语 hēr 是“这里、此刻”，æfter 是“在……以后”。把说话的这一刻当起点，hereafter 就是“从此以后”。the hereafter 把“以后”当作一个名词来讲，语境里说的是人死后的来世。",
     "history": [
       [
         "古英语 hēræfter",
@@ -301,7 +301,7 @@
     "ipa": "英 /weəˈbaɪ/；美 /werˈbaɪ/",
     "meaning": "借此；通过该方式〔较正式的关系副词〕",
     "sense": "先提出一套办法，再说明靠这套办法能做什么；whereby 把办法和它的作用接起来。",
-    "split": "where + by，地点疑问、关系材料与 by 的凭借、通过相结合，固定成指方式、程序等的表达。不是只问东西在谁旁边。",
+    "split": "把它还原成 by which 就能看清两半的分工。where 在关系从句里回指前面说的办法或安排，by 是“凭借、通过”。a method whereby we save water 就是“我们用来节水的一种方法”。",
     "history": [
       [
         "where + by",

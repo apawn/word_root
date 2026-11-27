@@ -54,3 +54,5 @@ From Latin Quadrāgēsima (“Lent”), from feminine substantive use of quadrā
 **词源与演化**：
 
 From Quadragesima + -al.
+
+Quadragesima + -al（形容词词尾，表示与前面的事物有关）

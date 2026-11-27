@@ -178,7 +178,7 @@ invitation 语体普通；invite 作名词更口语，两者不是一个单复�
 
 **怎么拆**
 
-invitation 接拉丁 invitatio、invitare 邀请，英语名词记录比 invite 动词更早。现代 invitation + -s，/n/ 后读 /z/；别把历史只写成英语 invite 现加 -ation。
+invitation 接拉丁 invitatio、invitare 邀请，英语名词记录比 invite 动词更早。现代 invitation（邀请） + -s（表示不止一个），/n/ 后读 /z/；别把历史只写成英语 invite 现加 -ation。
 
 **怎么变成今天的意思**
 
@@ -220,7 +220,7 @@ an invitation to an event 是参加活动的邀请；an invitation to speak 是�
 
 **怎么拆**
 
-invitation + -al，相关性质后缀。先说邀请相关，再在赛事语境固定为受邀参与，随后名词化为一场邀请赛。
+invitation（邀请） + -al（形容词词尾，表示与前面的事物有关），相关性质后缀。先说邀请相关，再在赛事语境固定为受邀参与，随后名词化为一场邀请赛。
 
 **怎么变成今天的意思**
 

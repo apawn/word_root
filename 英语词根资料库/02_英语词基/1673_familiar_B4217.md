@@ -80,7 +80,7 @@ familiar 是熟悉；familial 是家庭相关。a familiar voice 是熟悉的声
 
 **怎么拆**
 
-经法语 familiarité 来自拉丁语 familiāritās，名词有自己的借入历史；现代与 familiar + -ity 对应。
+经法语 familiarité 来自拉丁语 familiāritās，名词有自己的借入历史；现代与 familiar（熟悉） + -ity 对应。
 
 **怎么变成今天的意思**
 
@@ -116,7 +116,7 @@ familiarity 是熟悉，不保证 competence“胜任能力”：常见过一种
 
 **怎么拆**
 
-现代可拆 familiar + -ize“使……”。历史上也有法语 familiariser 的借入分析，不能只认定为英语新造词；英式也常写 familiarise。
+现代可拆 familiar（熟悉） + -ize“使……”。历史上也有法语 familiariser 的借入分析，不能只认定为英语新造词；英式也常写 familiarise。
 
 **怎么变成今天的意思**
 
@@ -152,7 +152,7 @@ familiarize 是使熟悉的过程；be familiar 是已经熟悉的状态。
 
 **怎么拆**
 
-familiarize + -ation，也可分析 familiar + -ization；英式有 familiarisation。
+familiarize + -ation（把动作或结果说成一件事），也可分析 familiar（熟悉） + -ization（把变化或处理写成过程、结果的名称）；英式有 familiarisation。
 
 **怎么变成今天的意思**
 
@@ -188,7 +188,7 @@ familiarity 是已经熟悉的程度；familiarization 是逐渐熟悉的过程�
 
 **怎么拆**
 
-familiar + -ly，中古英语已有 familierly 等形式。
+familiar（熟络） + -ly（把性质用来说明方式、程度或说话的角度），中古英语已有 familierly 等形式。
 
 **怎么变成今天的意思**
 

@@ -89,7 +89,7 @@ loyal 常说对人或组织忠诚；faithful 还常说复制、翻译忠于原�
 
 **怎么拆**
 
-faithful + -ly；中古英语已有 feithfulli。
+faithful（忠诚） + -ly（把性质用来说明方式、程度或说话的角度）；中古英语已有 feithfulli。
 
 **怎么变成今天的意思**
 
@@ -136,7 +136,7 @@ accurately 强调结果准确；faithfully 还强调忠于原物或承担的责�
 
 **怎么拆**
 
-faithful + -ness；中古英语已有 feithfulnesse，是把忠实的性质变成名词。
+faithful（忠诚） + -ness（把前面的性质当作一种状态来说）；中古英语已有 feithfulnesse，是把忠实的性质变成名词。
 
 **怎么变成今天的意思**
 

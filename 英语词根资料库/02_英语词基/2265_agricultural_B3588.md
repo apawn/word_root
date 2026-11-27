@@ -39,7 +39,7 @@ agriculture + -al → agricultural；再接 -ly。
 
 **怎么拆**
 
-agriculture + -al；加后缀后常把主重音移到 cul-。
+agriculture（农业） + -al（形容词词尾，表示与前面的事物有关）；加后缀后常把主重音移到 cul-。
 
 **怎么变成今天的意思**
 
@@ -91,7 +91,7 @@ rural 是乡村的；乡村还有旅游、手工业等，并非所有 rural 活�
 
 **怎么拆**
 
-agricultural + -ly。agriculture 接拉丁 ager 田地、agri- 与 cultūra 耕作、培育；先成农业相关形容词，再成副词。
+agricultural（农业） + -ly。agriculture 接拉丁 ager 田地、agri- 与 cultūra 耕作、培育；先成农业相关形容词，再成副词。
 
 **怎么变成今天的意思**
 

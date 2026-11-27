@@ -127,7 +127,7 @@ nightmares 可以是梦，也可以是强烈比喻。The arrangements were night
 
 **怎么拆**
 
-nightmare + -ish，去词尾 e。nightmare 里的 mare 历史上指夜间扰人的精怪，不是母马；现代 nightmare 已常指噩梦、极糟经历。
+nightmare + -ish（有点像、带有那种特点，也用来表示归属），去词尾 e。nightmare 里的 mare 历史上指夜间扰人的精怪，不是母马；现代 nightmare 已常指噩梦、极糟经历。
 
 **怎么变成今天的意思**
 

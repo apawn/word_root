@@ -84,7 +84,7 @@ believe someone 常是相信他这次说的话，trust someone 更偏觉得此�
 
 **怎么拆**
 
-trust + worthy 值得的，组合成值得信任。worthy 读 /ˈwɜːði/ 等，th 是浊音 /ð/。
+trust（信任） + worthy 值得的，组合成值得信任。worthy 读 /ˈwɜːði/ 等，th 是浊音 /ð/。
 
 **怎么变成今天的意思**
 
@@ -131,7 +131,7 @@ trustworthy 说值得被信任，trusting 说愿意信任别人；不能互换�
 
 **怎么拆**
 
-现代构词对应 trustworthy + -ness，y 改 i → trustworthiness。-ness 把前面的性质作为状态、程度等来谈。
+现代构词对应 trustworthy（值得信任） + -ness（把前面的性质当作一种状态来说），y 改 i → trustworthiness。-ness 把前面的性质作为状态、程度等来谈。
 
 **怎么变成今天的意思**
 

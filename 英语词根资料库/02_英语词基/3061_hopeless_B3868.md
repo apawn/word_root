@@ -14,7 +14,7 @@ hopeless → hopelessly、hopelessness；具体搭配区分困境、技能评价
 
 ## 词形与演化规律
 
-hope + -less → hopeless，保留 e；-ly 方式、程度；-ness 状态。
+hope + -less（缺少前面说的东西） → hopeless，保留 e；-ly 方式、程度；-ness 状态。
 
 ## 单词速览（按词族由简到繁）
 
@@ -40,7 +40,7 @@ hope + -less → hopeless，保留 e；-ly 方式、程度；-ness 状态。
 
 **怎么拆**
 
-hope + -less（没有），e 保留；与 hopeful 的 -ful 形成相反方向。
+hope（希望） + -less（没有），e 保留；与 hopeful 的 -ful 形成相反方向。
 
 **怎么变成今天的意思**
 
@@ -87,7 +87,7 @@ hopeless at cooking 常是口语说很不擅长，不是对人生永久下结论
 
 **怎么拆**
 
-hopeless + -ly；修饰动作、形容词或分词，常含难以摆脱某种状态的感觉。
+hopeless（无望） + -ly（把性质用来说明方式、程度或说话的角度）；修饰动作、形容词或分词，常含难以摆脱某种状态的感觉。
 
 **怎么变成今天的意思**
 
@@ -134,7 +134,7 @@ hopelessly 在搭配中常加强状态，不能见到 less 就都翻成悲观。
 
 **怎么拆**
 
-hopeless + -ness，先由 hope + -less 得无望的，再加 -ness 形成状态名词。
+hopeless（无望） + -ness（把前面的性质当作一种状态来说），先由 hope + -less 得无望的，再加 -ness 形成状态名词。
 
 **怎么变成今天的意思**
 

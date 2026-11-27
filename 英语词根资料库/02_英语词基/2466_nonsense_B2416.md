@@ -14,7 +14,7 @@ nonsense → nonsensical。
 
 ## 词形与演化规律
 
-non- + sense → nonsense；-ical 形成性质形容词，使用 nonsens- 词干。
+non-（非、不属于这类） + sense → nonsense；-ical 形成性质形容词，使用 nonsens- 词干。
 
 ## 单词速览（按词族由简到繁）
 
@@ -75,7 +75,7 @@ nonsense 通常不可数；不说 a nonsense 来泛指一句胡话。a piece of 
 
 **怎么拆**
 
-nonsense + -ical，去词尾 e，以 nonsens- 词干形成形容词。更里层 non- 否定 sense 意义、道理。
+nonsense + -ical（表示“与……有关的”，让这个词可以用来修饰别的事物），去词尾 e，以 nonsens- 词干形成形容词。更里层 non- 否定 sense 意义、道理。
 
 **怎么变成今天的意思**
 

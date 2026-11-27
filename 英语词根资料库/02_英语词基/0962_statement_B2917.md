@@ -16,7 +16,7 @@
 
 ## 词形与演化规律
 
-state + -ment；under-/over-/re- + statement；也有相应动词 + -ment 的分析。
+state + -ment（把动作、结果或状态说成名词）；under-/over-/re- + statement；也有相应动词 + -ment 的分析。
 
 state 陈述加 ment，现代可数不同说法、正式声明或报表记录。
 
@@ -82,7 +82,7 @@ sentence 是语法上的一句话；statement 是一次陈述或所表达的内�
 
 **怎么拆**
 
-statement + -s，/t/ 后读 /s/。state 陈述 + -ment 行为或结果 → statement；再加普通复数。不同领域把说出、列明的结果固定成专门名称。
+statement（声明） + -s（表示不止一个），/t/ 后读 /s/。state 陈述 + -ment 行为或结果 → statement；再加普通复数。不同领域把说出、列明的结果固定成专门名称。
 
 **怎么变成今天的意思**
 
@@ -124,7 +124,7 @@ statement 不自动保证内容真实，事实判断还看证据。bank statemen
 
 **怎么拆**
 
-可按 under- 不足 + statement 分析，也对应 understate + -ment。它既可指修辞上的有意说轻，也可指实际陈述不足，不能一律当故意撒谎。
+可按 under- 不足 + statement 分析，也对应 understate（轻描淡写） + -ment（把动作、结果或状态说成名词）。它既可指修辞上的有意说轻，也可指实际陈述不足，不能一律当故意撒谎。
 
 **怎么变成今天的意思**
 
@@ -171,7 +171,7 @@ understatement 说轻；overstatement 说过头。underestimate 是估计偏低�
 
 **怎么拆**
 
-overstate + -ment，也可看成 over- 过量 + statement。名词指夸大这个做法或具体那句话。
+overstate（夸大） + -ment（把动作、结果或状态说成名词），也可看成 over- 过量 + statement（陈述）。名词指夸大这个做法或具体那句话。
 
 **怎么变成今天的意思**
 
@@ -218,7 +218,7 @@ overstatement 是说过头；overestimate 是估计偏高。一个估计如果�
 
 **怎么拆**
 
-re- 再次 + statement，也对应 restate + -ment。re- 说明重新做，不自动保证逐字重复或内容完全不变。
+re- 再次 + statement（陈述），也对应 restate + -ment（把动作、结果或状态说成名词）。re- 说明重新做，不自动保证逐字重复或内容完全不变。
 
 **怎么变成今天的意思**
 

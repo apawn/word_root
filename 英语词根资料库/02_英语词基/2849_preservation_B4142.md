@@ -39,7 +39,7 @@ preserve → preservation；cryo- 寒冷 + preservation → cryopreservation。
 
 **怎么拆**
 
-古法语 preservacion 来自中世纪拉丁语 praeservātiō；现代对应 preserve + -ation。
+古法语 preservacion 来自中世纪拉丁语 praeservātiō；现代对应 preserve（保存） + -ation（把动作或结果说成一件事）。
 
 **怎么变成今天的意思**
 

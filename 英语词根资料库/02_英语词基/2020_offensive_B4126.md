@@ -92,7 +92,7 @@ offensive 与 offended 分别站在造成不快和感到不快的两端。体育
 
 **怎么拆**
 
-offensive + -ly，保留 offensive 的“冒犯”与“进攻”两条意义。
+offensive（冒犯） + -ly（把性质用来说明方式、程度或说话的角度），保留 offensive 的“冒犯”与“进攻”两条意义。
 
 **怎么变成今天的意思**
 

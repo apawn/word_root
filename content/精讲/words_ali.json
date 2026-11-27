@@ -591,7 +591,7 @@
     "ipa": "/ˈæləbaɪ/",
     "meaning": "不在场证据；托词",
     "sense": "有人问“事情发生时你在哪里”，你说“我在别处”，而且能拿出证据。这个证明就是 alibi 的核心。",
-    "split": "来自拉丁语 alibī“在别处”，与 alius“别的”相关。它不是 a lie“一个谎言”的变形。",
+    "split": "拉丁语 alibī 是回答“人在哪儿”的副词。据《刘易斯与肖特拉丁语词典》，它缩自 aliubi。ali- 和 alius“别的”同族，ubi 是“在哪里”，两块合起来就是“在另一个地方”。英语法律用语早先也这样用，先说能证明某人当时“在别处”，后来把这份说明或证据本身叫作 an alibi。",
     "history": [
       [
         "拉丁语：alius",
@@ -624,6 +624,8 @@
       ]
     ],
     "sources": [
+      "https://atlas.perseus.tufts.edu/dictionaries/entry/urn:cite2:scaife-viewer:dictionary-entries.atlas_v1:lat.ls.perseus-eng2-n1826/",
+      "https://www.merriam-webster.com/dictionary/alibi",
       "https://en.wiktionary.org/wiki/alibi#English"
     ]
   },

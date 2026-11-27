@@ -84,7 +84,7 @@ elephant 末尾 -ant 在这里是借入词干的一部分，不能按 assistant 
 
 **怎么拆**
 
-elephant + -s → elephants，/t/ 后读 /s/。经法语 olifant、拉丁 elephantus 接希腊 elephas、elephant- 象、象牙，更远借入来源未定。
+elephant（大象） + -s（表示不止一个） → elephants，/t/ 后读 /s/。经法语 olifant、拉丁 elephantus 接希腊 elephas、elephant- 象、象牙，更远借入来源未定。
 
 **怎么变成今天的意思**
 

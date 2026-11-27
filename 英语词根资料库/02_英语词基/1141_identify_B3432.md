@@ -137,7 +137,7 @@ identified someone as ... 是把某人确定为某个身份；identified with so
 
 **怎么拆**
 
-identify + -ing，保留 y，不写 identifing。identify 借法语 identifier，接身份、相同词族，远连拉丁 idem 同一个。
+identify（认同） + -ing（把动作写成进行中的形式，或把活动本身当作一件事来说），保留 y，不写 identifing。identify 借法语 identifier，接身份、相同词族，远连拉丁 idem 同一个。
 
 **怎么变成今天的意思**
 
@@ -221,7 +221,7 @@ identify a person 是辨认某人，identify with a person 是对某人有共鸣
 
 **怎么拆**
 
-identify + -able，y 在后缀前变 i，形成 identifi-able；表示能被识别，不是已经辨认完的 identified。
+identify（确认身份） + -able（能这样做，或能被这样对待），y 在后缀前变 i，形成 identifi-able；表示能被识别，不是已经辨认完的 identified。
 
 **怎么变成今天的意思**
 
@@ -268,7 +268,7 @@ identifiable 是能辨认，identical 是相同；两件 identical 的制服可�
 
 **怎么拆**
 
-identify + -er，y 变 i，命名做识别的人、工具或用于识别的信息。计算机中的 identifier 常就是程序里某个名称。
+identify + -er（指做这件事的人或起这种作用的东西），y 变 i，命名做识别的人、工具或用于识别的信息。计算机中的 identifier 常就是程序里某个名称。
 
 **怎么变成今天的意思**
 

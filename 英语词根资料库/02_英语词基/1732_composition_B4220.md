@@ -16,7 +16,9 @@ compose 动作 → composer 人、composition 过程与结构 → compositional 
 
 ## 词形与演化规律
 
-com- + pōnere → compōnere / composit-；法语 composer → compose；compositiō → composition；接 -er、-al，前接 de-。
+com- + pōnere（拉丁语，放置） → compōnere / composit-；法语 composer → compose；compositiō → composition；接 -er、-al，前接 de-。
+
+com- 是“一起”，pōnere 是“放”。把几个成分放在一起，就是组成、编排。分词 compositus 又留下英语里 composit- 的形式。
 
 compos- 接拉丁 componere 的相关词干；composition 有拉丁、法语整词借入路线，不把 -sition 当作现代英语任意加的后缀。
 
@@ -52,6 +54,8 @@ compos- 接拉丁 componere 的相关词干；composition 有拉丁、法语整�
 **怎么拆**
 
 借法语 composer，是对拉丁 compōnere 放在一起的改造形式，法语 poser 也参与词形影响。不是所有字母 pose 都直接由拉丁 pōnere 原样变来。
+
+com- 是“一起”，pōnere 是“放”。把几个成分放在一起，就是组成、编排。分词 compositus 又留下英语里 composit- 的形式。
 
 **怎么变成今天的意思**
 
@@ -99,6 +103,8 @@ A is composed of B 是整体由部分组成；B composes A 可说部分构成整
 **怎么拆**
 
 经法语 composicion 或直接接拉丁 compositiō，来自 compōnere 的旧分词 composit-。现代与 compose 对应，但名词并非英语随手把 compose 的结尾改成 sition。
+
+com- 是“一起”，pōnere 是“放”。把几个成分放在一起，就是组成、编排。分词 compositus 又留下英语里 composit- 的形式。
 
 **怎么变成今天的意思**
 
@@ -149,7 +155,9 @@ composition 可说过程，也可说结果、结构或作品；chemical composit
 
 **怎么拆**
 
-composition + -s。composition 经法语等路线接拉丁 compositio、componere；与 compose 同族，不是英语随意把 -se 换成所谓 -sition 后缀。
+composition（组成） + -s（表示不止一个）。composition 经法语等路线接拉丁 compositio、componere；与 compose 同族，不是英语随意把 -se 换成所谓 -sition 后缀。
+
+com- 是“一起”，pōnere 是“放”。把几个成分放在一起，就是组成、编排。分词 compositus 又留下英语里 composit- 的形式。
 
 **怎么变成今天的意思**
 
@@ -191,7 +199,9 @@ composer 是作曲的人，composition 是组织出来的作品或组成；词�
 
 **怎么拆**
 
-composition + -al，相关形容词。语义学专门义强调整体意义由部分意义及其组合结构决定，不是只把几个词义无序相加。
+composition（组成） + -al（形容词词尾，表示与前面的事物有关），相关形容词。语义学专门义强调整体意义由部分意义及其组合结构决定，不是只把几个词义无序相加。
+
+com- 是“一起”，pōnere 是“放”。把几个成分放在一起，就是组成、编排。分词 compositus 又留下英语里 composit- 的形式。
 
 **怎么变成今天的意思**
 
@@ -238,7 +248,9 @@ compositional 要补清领域；The dog bit the man 与 The man bit the dog 用�
 
 **怎么拆**
 
-compose 去 e + -er，从事者名词。虽然 compose 的对象可以很多，composer 的常用身份义集中在音乐创作。
+compose 去 e + -er（指做这件事的人或起这种作用的东西），从事者名词。虽然 compose 的对象可以很多，composer 的常用身份义集中在音乐创作。
+
+com- 是“一起”，pōnere 是“放”。把几个成分放在一起，就是组成、编排。分词 compositus 又留下英语里 composit- 的形式。
 
 **怎么变成今天的意思**
 
@@ -329,6 +341,8 @@ performers 把作品演奏、演唱出来，composers 创作作品；同一个�
 
 compose 去末尾不发音 e，加完整 -ing。com- 一起与 ponere 放的旧材料，经过借词形成 compose 后，再有现代变化。
 
+com- 是“一起”，pōnere 是“放”。把几个成分放在一起，就是组成、编排。分词 compositus 又留下英语里 composit- 的形式。
+
 **怎么变成今天的意思**
 
 **拉丁 componere 的组合词族 → 法语 composer → compose**  
@@ -369,7 +383,9 @@ compose yourself 把心绪收拢，calm down 更日常直接；两者可以在�
 
 **怎么拆**
 
-compose + -s，原词尾 e 保留，/z/ 后读 /ɪz/。compose 经法语 composer 接拉丁 componere 把……放在一起的词族。
+compose（作曲） + -s（主语是 he、she、it 这一类单数时，用这个一般现在时词尾），原词尾 e 保留，/z/ 后读 /ɪz/。compose 经法语 composer 接拉丁 componere 把……放在一起的词族。
+
+com- 是“一起”，pōnere 是“放”。把几个成分放在一起，就是组成、编排。分词 compositus 又留下英语里 composit- 的形式。
 
 **怎么变成今天的意思**
 
@@ -459,6 +475,8 @@ decay 常指衰败、腐坏；decompose 更清楚地强调整体分成组成部�
 **怎么拆**
 
 de- 分开、解除 + composition，或对应 decompose 与过程名词形式。来源说明可联系法语 décomposition 及相应英语构词关系，不把每种分解都假定恰好倒放一次最初制造。
+
+com- 是“一起”，pōnere 是“放”。把几个成分放在一起，就是组成、编排。分词 compositus 又留下英语里 composit- 的形式。
 
 **怎么变成今天的意思**
 

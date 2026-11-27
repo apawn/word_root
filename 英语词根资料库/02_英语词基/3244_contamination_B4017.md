@@ -91,7 +91,7 @@ contaminant 是混进来的东西；contamination 是污染过程或状态。查
 
 **怎么拆**
 
-de-“去除” + contamination；与 decontaminate 对应的名词。这里是现代英语构词，不是古代拉丁语已有完整的 decontamination。
+de-“去除” + contamination（污染）；与 decontaminate 对应的名词。这里是现代英语构词，不是古代拉丁语已有完整的 decontamination。
 
 **怎么变成今天的意思**
 

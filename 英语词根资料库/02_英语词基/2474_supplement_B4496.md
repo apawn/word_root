@@ -82,7 +82,7 @@ complement 侧重相配、合成完整整体；supplement 侧重额外补上一�
 
 **怎么拆**
 
-supplement + -al；英语派生。
+supplement（补充） + -al（形容词词尾，表示与前面的事物有关）；英语派生。
 
 **怎么变成今天的意思**
 
@@ -118,7 +118,7 @@ additional 只说另外加的；supplemental 更说明加来的东西为原有�
 
 **怎么拆**
 
-supplement + -ary；与法语 supplémentaire 对应。
+supplement（补充） + -ary（形成形容词，说明与前面的事物有关）；与法语 supplémentaire 对应。
 
 **怎么变成今天的意思**
 
@@ -154,7 +154,7 @@ supplemental 与 supplementary 通常近义；数学角度术语固定用 supple
 
 **怎么拆**
 
-supplement〔动词〕 + -ation。
+supplement〔动词〕 + -ation（把动作或结果说成一件事）。
 
 **怎么变成今天的意思**
 

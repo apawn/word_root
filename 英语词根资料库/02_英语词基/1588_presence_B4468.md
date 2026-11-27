@@ -14,7 +14,7 @@ presence → omnipresence、telepresence，分处处在场与远程在场。
 
 ## 词形与演化规律
 
-法语 présence、拉丁 praesentia → presence；omni- + presence；tele- + presence。
+法语 présence、拉丁 praesentia → presence；omni-（一切、全部） + presence；tele-（远、隔着距离） + presence。
 
 ## 单词速览（按词族由简到繁）
 
@@ -87,7 +87,7 @@ presence 是在场、存在，presents 是 present 礼物的复数；presence of
 
 **怎么拆**
 
-接中世纪拉丁 omnipraesentia，来自 omnipraesens。现代可以联想 omni- + presence，但名词有自己的拉丁借入路线。
+接中世纪拉丁 omnipraesentia，来自 omnipraesens。现代可以联想 omni-（一切、全部） + presence，但名词有自己的拉丁借入路线。
 
 **怎么变成今天的意思**
 

@@ -78,7 +78,7 @@ imperialism 的画面是把本国的控制伸到别国：可以直接占领，�
 
 **怎么拆**
 
-imperial + -ism，从“帝国的”形成指思想、政策或做法的名词。
+imperial（帝国） + -ism（把观念、做法、现象或状态说成名词），从“帝国的”形成指思想、政策或做法的名词。
 
 **怎么变成今天的意思**
 
@@ -114,7 +114,7 @@ imperialist 把 imperialism 的政策或观念落到人和行动上：谁支持�
 
 **怎么拆**
 
-imperial + -ist，受法语 impérialiste 的影响形成；作名词指支持者，作形容词修饰政策等。
+imperial（帝国） + -ist（从事这种活动、研究这门学问或持这种主张的人），受法语 impérialiste 的影响形成；作名词指支持者，作形容词修饰政策等。
 
 **怎么变成今天的意思**
 
@@ -150,7 +150,7 @@ imperialist 侧重立场和扩张政策；imperial 可以只是中性的“皇�
 
 **怎么拆**
 
-imperialist + -ic，或 imperial + -istic，联系 imperialism。imperial 接拉丁 imperium 命令、统治、政权一系，现代新增词尾让重点落到思想、政策性质。
+imperialist（帝国主义） + -ic（表示“与……有关的”，让这个词可以用来修饰别的事物），或 imperial（帝国） + -istic（具有这种做法、学说或人的特点），联系 imperialism。imperial 接拉丁 imperium 命令、统治、政权一系，现代新增词尾让重点落到思想、政策性质。
 
 **怎么变成今天的意思**
 

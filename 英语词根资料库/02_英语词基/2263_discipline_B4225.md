@@ -132,7 +132,7 @@ discipline 纪律常不可数；disciplines 可数不同学科。名词后的复
 
 **怎么拆**
 
-可分析 discipline + -arian，或联系 disciplinary + -an。人物词强调严格执行纪律，不只是这个人学过某门学科。
+可分析 discipline（纪律） + -arian，或联系 disciplinary（纪律） + -an。人物词强调严格执行纪律，不只是这个人学过某门学科。
 
 **怎么变成今天的意思**
 

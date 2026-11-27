@@ -16,7 +16,7 @@
 
 ## 词形与演化规律
 
-marry 与 marriage 借入同族；re-/inter- + marriage；marriage + -able。
+marry 与 marriage 借入同族；re-/inter- + marriage；marriage + -able（能这样做，或能被这样对待）。
 
 现代词形对照 marry，历史有法语名词的独立路线。
 
@@ -46,7 +46,7 @@ marry 与 marriage 借入同族；re-/inter- + marriage；marriage + -able。
 
 **怎么拆**
 
-经古法语 mariage 来自 marier 结婚，英语现代可对应 marry + -age 的词族关系；历史上不是先有现代 marry 再临时拼出全部形式。
+经古法语 mariage 来自 marier 结婚，英语现代可对应 marry（结婚） + -age 的词族关系；历史上不是先有现代 marry 再临时拼出全部形式。
 
 **怎么变成今天的意思**
 
@@ -135,7 +135,7 @@ marriages 通常数婚姻关系，weddings 数婚礼。婚礼是仪式，婚姻�
 
 **怎么拆**
 
-marriage + -able，可进入婚姻、被认为适于婚姻。具体适婚标准随文化、时代和法律而变，词本身不提供统一年龄线。
+marriage + -able（能这样做，或能被这样对待），可进入婚姻、被认为适于婚姻。具体适婚标准随文化、时代和法律而变，词本身不提供统一年龄线。
 
 **怎么变成今天的意思**
 
@@ -182,7 +182,7 @@ marriageable 适于结婚，married 已婚；有结婚可能与已经结婚不�
 
 **怎么拆**
 
-inter- + marriage；inter- 可表示群体之间，也可表示群体成员之间，因此具体范围要看上下文。
+inter-（在……之间、彼此） + marriage；inter- 可表示群体之间，也可表示群体成员之间，因此具体范围要看上下文。
 
 **怎么变成今天的意思**
 

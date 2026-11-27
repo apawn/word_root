@@ -139,7 +139,7 @@ industrial 工业的，industrious 勤奋的；二者历史相关，今天不能
 
 **怎么拆**
 
-industrial + -ist，人物后缀形成工业经营者、工业家的名称；现代常用义与普通 factory worker 工人分开。
+industrial（工业） + -ist（从事这种活动、研究这门学问或持这种主张的人），人物后缀形成工业经营者、工业家的名称；现代常用义与普通 factory worker 工人分开。
 
 **怎么变成今天的意思**
 
@@ -181,7 +181,7 @@ industrialist 工业家，industrial worker 产业工人；-ist 可指从事、�
 
 **怎么拆**
 
-industrial + -ly，副词接工业的现代义。词尾 l 与 -ly 相接，拼写有 ll。
+industrial（工业） + -ly（把性质用来说明方式、程度或说话的角度），副词接工业的现代义。词尾 l 与 -ly 相接，拼写有 ll。
 
 **怎么变成今天的意思**
 
@@ -223,7 +223,7 @@ industrially 以工业方式，industriously 勤奋地；一个手工作坊可�
 
 **怎么拆**
 
-借法语 industrialiser，现代对应 industrial + -ize。英式也常见 industrialise，历史借入与今天可认的构词材料分开看。
+借法语 industrialiser，现代对应 industrial + -ize（使成为，或按这种方式处理）。英式也常见 industrialise，历史借入与今天可认的构词材料分开看。
 
 **怎么变成今天的意思**
 
@@ -265,7 +265,7 @@ industrialize 工业化，modernize 现代化范围更宽；modernize 一座图�
 
 **怎么拆**
 
-industrial + -ize → industrialize，再加 -ed 得 industrialized；工业化动词可能参照法语 industrialiser 形成。industrial 更早经法语、拉丁勤劳、劳动词族，现代专门朝制造业发展。
+industrial + -ize（使成为，或按这种方式处理） → industrialize，再加 -ed 得 industrialized；工业化动词可能参照法语 industrialiser 形成。industrial 更早经法语、拉丁勤劳、劳动词族，现代专门朝制造业发展。
 
 **怎么变成今天的意思**
 
@@ -307,7 +307,7 @@ industrialized 表状态或过去形式，industrialization 表过程名词。Th
 
 **怎么拆**
 
-与法语 industrialisation 相接，现代可分析 industrial + -ization，或 industrialize 对应的 -ation 名词。不是把英语 industrialize 的完整拼写直接贴上 ation。
+与法语 industrialisation 相接，现代可分析 industrial（工业） + -ization（把变化或处理写成过程、结果的名称），或 industrialize 对应的 -ation 名词。不是把英语 industrialize 的完整拼写直接贴上 ation。
 
 **怎么变成今天的意思**
 

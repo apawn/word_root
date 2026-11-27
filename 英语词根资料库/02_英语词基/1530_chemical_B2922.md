@@ -51,7 +51,7 @@ chemic、chemicus 等历史词基与 al 相关，性质词名词化指物质，�
 
 **怎么拆**
 
-新拉丁 chēmicus 相关词基 + -al，经化学、炼金词族历史形成。名词从性质用法转称具体物质，不把 chem 解释成某种危险东西的固定词根。
+新拉丁 chēmicus 相关词基 + -al（形容词词尾，表示与前面的事物有关），经化学、炼金词族历史形成。名词从性质用法转称具体物质，不把 chem 解释成某种危险东西的固定词根。
 
 **怎么变成今天的意思**
 
@@ -93,7 +93,7 @@ chemical 科学上中性说化学或物质，不自动等于 synthetic 人造或
 
 **怎么拆**
 
-chemical + -s，/l/ 后读 /z/。chemical 经化学、炼金词族形成，与 chemic、拉丁 chemicus 等词基和 al 相联；性质词再名词化指具体物质。
+chemical + -s（表示不止一个），/l/ 后读 /z/。chemical 经化学、炼金词族形成，与 chemic、拉丁 chemicus 等词基和 al 相联；性质词再名词化指具体物质。
 
 **怎么变成今天的意思**
 
@@ -135,7 +135,7 @@ chemicals 这个词本身不等于有毒物；是否危险要看具体物质、�
 
 **怎么拆**
 
-chemical + -ly，-al + -ly 形成 -ally 拼写；常见读音把中间弱音压缩，不逐字母读成很多同等重音音节。
+chemical（化学） + -ly，-al + -ly 形成 -ally 拼写；常见读音把中间弱音压缩，不逐字母读成很多同等重音音节。
 
 **怎么变成今天的意思**
 
@@ -177,7 +177,7 @@ chemically 在化学上，physically 在物理、外观等方面；看着相同�
 
 **怎么拆**
 
-bio- + chemical；与 biochemistry 对应，但形容词可直接按这两个成分理解。
+bio-（生命、生物） + chemical（化学）；与 biochemistry 对应，但形容词可直接按这两个成分理解。
 
 **怎么变成今天的意思**
 
@@ -402,7 +402,7 @@ photochemical 光与化学变化有关，photographic 摄影的，不因 photo �
 
 **怎么拆**
 
-physico- 物理的组合词形 + chemical。连接元音 o 帮长词组合，不是 physic 心灵能力加一个新东西。
+physico- 物理的组合词形 + chemical（化学）。连接元音 o 帮长词组合，不是 physic 心灵能力加一个新东西。
 
 **怎么变成今天的意思**
 

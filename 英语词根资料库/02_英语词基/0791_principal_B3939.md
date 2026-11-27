@@ -184,7 +184,7 @@ principal 主要的、负责人、本金；principle 原则。两者通常同音
 
 **怎么拆**
 
-principal + -ly 的副词对应；中古英语已有相应形式。它接主要这支，不是校长本人做某事的专用副词。
+principal（主要） + -ly 的副词对应；中古英语已有相应形式。它接主要这支，不是校长本人做某事的专用副词。
 
 **怎么变成今天的意思**
 
@@ -320,7 +320,7 @@ principle 与 principal 常同音。principle 是原则、原理；principal 可
 
 **怎么拆**
 
-principle + -s，/l/ 后读 /z/。拉丁 princeps 居首者形成 principium 开始、基础，经法语 principe、principle 等借入；英语 l 的定形还受相似词形影响。
+principle（原则） + -s（表示不止一个），/l/ 后读 /z/。拉丁 princeps 居首者形成 principium 开始、基础，经法语 principe、principle 等借入；英语 l 的定形还受相似词形影响。
 
 **怎么变成今天的意思**
 

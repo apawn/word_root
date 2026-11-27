@@ -172,7 +172,7 @@ mass production 大规模生产，overproduction 超过需求；前者规模大�
 
 **怎么拆**
 
-英语 pre- + production；production 在电影中是制作、拍摄，在工业中是生产。
+英语 pre-（在……之前、预先） + production；production 在电影中是制作、拍摄，在工业中是生产。
 
 **怎么变成今天的意思**
 

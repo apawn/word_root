@@ -114,7 +114,7 @@ manipulative 形容人时像暗中拉线，让别人照自己的意思走；教�
 
 **怎么拆**
 
-manipulate + -ive；动词本身由 manipulation 逆构。
+manipulate（操作） + -ive（有这种作用、倾向或性质）；动词本身由 manipulation 逆构。
 
 **怎么变成今天的意思**
 

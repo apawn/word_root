@@ -42,7 +42,7 @@ disciplina → disciplinarius → disciplinary；inter- 之间，multi- 多；di
 
 **怎么拆**
 
-来自中世纪拉丁语 disciplinarius，上接 disciplina 教导、训练、知识领域。现代可对应 discipline 的词干 + -ary；不是每个语境都只剩惩罚义。
+来自中世纪拉丁语 disciplinarius，上接 disciplina 教导、训练、知识领域。现代可对应 discipline 的词干 + -ary（形成形容词，说明与前面的事物有关）；不是每个语境都只剩惩罚义。
 
 **怎么变成今天的意思**
 
@@ -84,7 +84,7 @@ disciplinary action；disciplinary boundaries。
 
 **怎么拆**
 
-可分析 discipline + -arian，或联系 disciplinary + -an。人物词强调严格执行纪律，不只是这个人学过某门学科。
+可分析 discipline（纪律） + -arian，或联系 disciplinary（纪律） + -an。人物词强调严格执行纪律，不只是这个人学过某门学科。
 
 **怎么变成今天的意思**
 
@@ -131,7 +131,7 @@ disciplinarian 是人，disciplinary action 是纪律处分等形容结构；严
 
 **怎么拆**
 
-inter- + disciplinary“学科的”；discipline 在这里是研究领域，不是纪律处罚。
+inter-（在……之间、彼此） + disciplinary“学科的”；discipline 在这里是研究领域，不是纪律处罚。
 
 **怎么变成今天的意思**
 
@@ -173,7 +173,7 @@ multidisciplinary 常突出多学科并列参与；interdisciplinary 更突出�
 
 **怎么拆**
 
-multi- + disciplinary“学科的”；这里 discipline 是学科，不是惩罚或纪律处分。
+multi-（多个、多种） + disciplinary“学科的”；这里 discipline 是学科，不是惩罚或纪律处分。
 
 **怎么变成今天的意思**
 

@@ -83,7 +83,7 @@ together 一起，不自动保证同一时刻 every time；alone 单独与 lonel
 
 **怎么拆**
 
-together + -ness，-ness 抽出在一起的状态、感受；可强调情感联结而非物理距离。
+together（一起） + -ness，-ness 抽出在一起的状态、感受；可强调情感联结而非物理距离。
 
 **怎么变成今天的意思**
 

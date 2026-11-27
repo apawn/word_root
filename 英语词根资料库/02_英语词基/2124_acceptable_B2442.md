@@ -40,7 +40,7 @@ accept 与 -able 相关 → acceptable；acceptable → acceptably；un- + accep
 
 **怎么拆**
 
-现代分析是 accept + -able“可以被接受的”；英语词形也承接法语和晚期拉丁语 acceptābilis。
+现代分析是 accept（接受） + -able“可以被接受的”；英语词形也承接法语和晚期拉丁语 acceptābilis。
 
 **怎么变成今天的意思**
 
@@ -76,7 +76,7 @@ acceptable 是能否接受；accepted 是已经被接受。一个尚无人采用
 
 **怎么拆**
 
-acceptable + -ly，-able 结尾变 -ably。acceptable 自身有较早借入、构词背景；现代关系可用 accept + -able 记。
+acceptable + -ly（把性质用来说明方式、程度或说话的角度），-able 结尾变 -ably。acceptable 自身有较早借入、构词背景；现代关系可用 accept + -able 记。
 
 **怎么变成今天的意思**
 

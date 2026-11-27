@@ -14,7 +14,7 @@ helpless → helplessly、helplessness，处境、表现方式与感受分开。
 
 ## 词形与演化规律
 
-help + -less → helpless；-ly 方式；-ness 性质、状态。
+help + -less（缺少前面说的东西） → helpless；-ly 方式；-ness 性质、状态。
 
 ## 单词速览（按词族由简到繁）
 
@@ -40,7 +40,7 @@ help + -less → helpless；-ly 方式；-ness 性质、状态。
 
 **怎么拆**
 
-help + -less，对应缺少帮助或行动能力；中古英语有 helples，相关更早形式属于日耳曼语本族词。
+help + -less（缺少前面说的东西），对应缺少帮助或行动能力；中古英语有 helples，相关更早形式属于日耳曼语本族词。
 
 **怎么变成今天的意思**
 
@@ -87,7 +87,7 @@ helpless 是“我眼下没办法”，helplessness 把那种处境或感受拿�
 
 **怎么拆**
 
-helpless + -ness → helplessness，两个词尾分工：-less 先形成缺少帮助、能力的形容词，-ness 再把性质变名词。
+helpless（无助） + -ness（把前面的性质当作一种状态来说） → helplessness，两个词尾分工：-less 先形成缺少帮助、能力的形容词，-ness 再把性质变名词。
 
 **怎么变成今天的意思**
 
@@ -129,7 +129,7 @@ helplessness 不等于一个人毫无价值；它描述状态、感受。hopeles
 
 **怎么拆**
 
-helpless + -ly → helplessly，保留 ss，接 l；不要把 -less 与 -ly 合成一个“不地”的固定整体。
+helpless（无助） + -ly（把性质用来说明方式、程度或说话的角度） → helplessly，保留 ss，接 l；不要把 -less 与 -ly 合成一个“不地”的固定整体。
 
 **怎么变成今天的意思**
 

@@ -84,7 +84,7 @@ self-righteous 明确偏自以为是；righteous 本身不必是讽刺，但也�
 
 **怎么拆**
 
-承古英语 rihtwisnes、中古英语 rightwisnes 等，随 righteous 词形演变而变化；现代对应 righteous + -ness。
+承古英语 rihtwisnes、中古英语 rightwisnes 等，随 righteous 词形演变而变化；现代对应 righteous（正直） + -ness（把前面的性质当作一种状态来说）。
 
 **怎么变成今天的意思**
 
@@ -126,7 +126,7 @@ righteous 的道义感落到行动、情绪方式上，就是 righteously。righ
 
 **怎么拆**
 
-承古英语 rihtwislice、中古英语 rightwisly；现代对应 righteous + -ly，不把历史说成 right 直接加一个 -eously。
+承古英语 rihtwislice、中古英语 rightwisly；现代对应 righteous（自认有理） + -ly（把性质用来说明方式、程度或说话的角度），不把历史说成 right 直接加一个 -eously。
 
 **怎么变成今天的意思**
 

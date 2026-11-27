@@ -14,7 +14,7 @@ sickness → seasickness、homesickness；身体不适与想家的难受靠感�
 
 ## 词形与演化规律
 
-sick + -ness，古英语已有相应形式；seasick + -ness；homesickness 与德语 Heimweh 仿译背景有关。
+sick + -ness（把前面的性质当作一种状态来说），古英语已有相应形式；seasick + -ness；homesickness 与德语 Heimweh 仿译背景有关。
 
 ## 单词速览（按词族由简到繁）
 
@@ -40,7 +40,7 @@ sick + -ness，古英语已有相应形式；seasick + -ness；homesickness 与�
 
 **怎么拆**
 
-sick + -ness，古英语 sēocness 等形式已存在。不同地区、搭配中可泛病，也可特别指恶心。
+sick + -ness（把前面的性质当作一种状态来说），古英语 sēocness 等形式已存在。不同地区、搭配中可泛病，也可特别指恶心。
 
 **怎么变成今天的意思**
 
@@ -129,7 +129,7 @@ homesickness 是状态名词，homesick 是形容词；I felt homesick 与 I fel
 
 **怎么拆**
 
-seasick + -ness，性质状态名词；也能按 sea + sickness 理解。这里 -ness 不表示人。
+seasick（晕船） + -ness（把前面的性质当作一种状态来说），性质状态名词；也能按 sea + sickness 理解。这里 -ness 不表示人。
 
 **怎么变成今天的意思**
 

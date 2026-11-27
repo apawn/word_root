@@ -15,7 +15,7 @@ revolution → revolutionary、revolutionize，分变化、性质人物、使发
 
 ## 词形与演化规律
 
-re- + volvere → revolvere → revolūtiō，经法语等 → revolution；revolution + -ary/-ize。
+re- + volvere（拉丁语，滚动、翻转） → revolvere → revolūtiō，经法语等 → revolution；revolution + -ary/-ize。
 
 rev 先缩略 revolution 一转、转数相关名词，再形成提高引擎转速的动词；不是现代 re- 再次加 v。短元音单音节词尾 v 接 -ed、-ing 时双写。
 
@@ -94,7 +94,7 @@ revolution 一周、巨变，revolt 起义、反抗更侧重行动；evolution �
 
 **怎么拆**
 
-revolution + -ary，与法语 révolutionnaire 等相应形式相关；形容词又可用于人物名词。不同场景不能只按一种政治意义包办。
+revolution（革命） + -ary（形成形容词，说明与前面的事物有关），与法语 révolutionnaire 等相应形式相关；形容词又可用于人物名词。不同场景不能只按一种政治意义包办。
 
 **怎么变成今天的意思**
 
@@ -183,7 +183,7 @@ Rev. 放在人名前可缩略 Reverend 牧师等尊称；本词机械意义的 r
 
 **怎么拆**
 
-rev + -s → revs，/v/ 后后缀读 /z/；名词复数常用于转速说法，也可作动词第三人称单数。
+rev（转数） + -s（主语是 he、she、it 这一类单数时，用这个一般现在时词尾） → revs，/v/ 后后缀读 /z/；名词复数常用于转速说法，也可作动词第三人称单数。
 
 **怎么变成今天的意思**
 
@@ -277,7 +277,7 @@ revving 里的双 v 是拼写变化，常见读音仍只有一个 /v/ 音，不�
 
 **怎么拆**
 
-rev 双写 v + -ed → revved；短元音单音节词尾 v 接后缀时双写，-ed 读 /d/。
+rev 双写 v + -ed（标出动词的过去式或过去分词） → revved；短元音单音节词尾 v 接后缀时双写，-ed 读 /d/。
 
 **怎么变成今天的意思**
 
@@ -324,7 +324,7 @@ revved 表示转速提高，不自动等于车辆已经开动；rolled forward �
 
 **怎么拆**
 
-revolution + -ize，动词使发生重大变革。英式也见 revolutionise，本页同词说明，不另设重复词头。
+revolution（革命） + -ize（使成为，或按这种方式处理），动词使发生重大变革。英式也见 revolutionise，本页同词说明，不另设重复词头。
 
 **怎么变成今天的意思**
 

@@ -43,6 +43,8 @@ particular → particularly、particularity；后者更正式，日常可用 det
 
 来自拉丁语 particulāris，再经法语进入英语；particula 是“小部分”。不是英语 particle 先变成形容词才传遍欧洲。
 
+拉丁语 pars 是词典里查到的“一部分”，换个语法位置会见到 partis。去掉属格词尾 -is，就看得到构词时用的 part-。接上指小词尾 -icula，particula 就是“小小的一份”。英语 particle 的 -icle 留下了这个小称的痕迹。
+
 **怎么变成今天的意思**
 
 ![particular 的词源演化](../assets/evolution/particular-32182951.svg)
@@ -77,7 +79,9 @@ particular 常强调具体选定的对象；special 更常强调不同寻常、�
 
 **怎么拆**
 
-particular + -ly，形容词变副词。
+particular（特别） + -ly（把性质用来说明方式、程度或说话的角度），形容词变副词。
+
+拉丁语 pars 是词典里查到的“一部分”，换个语法位置会见到 partis。去掉属格词尾 -is，就看得到构词时用的 part-。接上指小词尾 -icula，particula 就是“小小的一份”。英语 particle 的 -icle 留下了这个小称的痕迹。
 
 **怎么变成今天的意思**
 
@@ -113,7 +117,7 @@ particularly 多用于突出程度或某一项；in particular 是短语，可�
 
 **怎么拆**
 
-现代可认 particular + -ity；历史接法语 particularité、拉丁语相应名词。particular 再接小部分词族，但不是把英文 particle 临时改尾就能任意造词。
+现代可认 particular + -ity（把“怎样的”变成“这种性质、状态或程度”）；历史接法语 particularité、拉丁语相应名词。particular 再接小部分词族，但不是把英文 particle 临时改尾就能任意造词。
 
 **怎么变成今天的意思**
 

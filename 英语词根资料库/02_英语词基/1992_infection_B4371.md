@@ -85,7 +85,7 @@ infection 感染与 inflammation 炎症不同：前者说感染过程，后者�
 
 **怎么拆**
 
-infection + -s，/n/ 后读 /z/。infection 经法语接晚期拉丁 infectio，和 inficere 浸染、沾染词族相连，较早是 in- 向内与 facere 的相关形式。
+infection（感染） + -s（表示不止一个），/n/ 后读 /z/。infection 经法语接晚期拉丁 infectio，和 inficere 浸染、沾染词族相连，较早是 in- 向内与 facere 的相关形式。
 
 **怎么变成今天的意思**
 

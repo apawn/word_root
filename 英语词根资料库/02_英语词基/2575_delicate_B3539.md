@@ -86,7 +86,7 @@ delicate 的细腻性质变名词是 delicacy；一道被认为精美、特别�
 
 **怎么拆**
 
-delic(ate) + -acy，-ate 结尾对应换成 -acy；承中古英语 delicacie，并接拉丁 delicatus 词族。
+delic(ate) + -acy（把状态、资格或地位说成名词），-ate 结尾对应换成 -acy；承中古英语 delicacie，并接拉丁 delicatus 词族。
 
 **怎么变成今天的意思**
 
@@ -133,7 +133,7 @@ a local delicacy；the delicacy of。
 
 **怎么拆**
 
-delicate + -ly，形成方式副词，保留精细、柔弱、敏感各场景的对应意义。
+delicate + -ly（把性质用来说明方式、程度或说话的角度），形成方式副词，保留精细、柔弱、敏感各场景的对应意义。
 
 **怎么变成今天的意思**
 

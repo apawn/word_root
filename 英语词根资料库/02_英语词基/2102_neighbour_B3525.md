@@ -142,7 +142,7 @@ neighbour 是人或邻近者，neighbourhood 常是地区、群体；-hood 在�
 
 **怎么拆**
 
-neighbour + -s，词尾 /z/。继承古英语 nēahġebūr，内部是 nēah 近与 ġebūr 居住者，经中古英语不同拼写发展；美式拼作 neighbor、neighbors。
+neighbour（邻居） + -s（表示不止一个），词尾 /z/。继承古英语 nēahġebūr，内部是 nēah 近与 ġebūr 居住者，经中古英语不同拼写发展；美式拼作 neighbor、neighbors。
 
 **怎么变成今天的意思**
 
@@ -226,7 +226,7 @@ neighbour、neighbouring 与 neighbor、neighboring 可成组记。不要因为�
 
 **怎么拆**
 
-neighbour + -ly，-ly 在这里造形容词，表示具有友善、互助的好邻居品质。
+neighbour（邻居） + -ly，-ly 在这里造形容词，表示具有友善、互助的好邻居品质。
 
 **怎么变成今天的意思**
 

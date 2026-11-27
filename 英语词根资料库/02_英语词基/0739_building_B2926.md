@@ -46,7 +46,7 @@ build → building；ship、home、body、world、peace + building 分别建造�
 
 **怎么拆**
 
-build + -ing，中古英语 byldynge 等已有相应形式。不是所有 ing 结尾都只表示现在正在做。
+build（建造） + -ing，中古英语 byldynge 等已有相应形式。不是所有 ing 结尾都只表示现在正在做。
 
 **怎么变成今天的意思**
 

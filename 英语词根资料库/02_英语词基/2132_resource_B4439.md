@@ -101,7 +101,7 @@ source 主要回答从哪里来；resource 回答有什么可以拿来用。
 
 **怎么拆**
 
-resource + -ful；这里 resource 包含可用的办法，不是单说钱多或矿产多。
+resource + -ful（带有、充满这种特点）；这里 resource 包含可用的办法，不是单说钱多或矿产多。
 
 **怎么变成今天的意思**
 

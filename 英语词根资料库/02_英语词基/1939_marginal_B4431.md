@@ -97,7 +97,7 @@ margin 不全是纸边。by a large margin 说相差很多；a small margin for 
 
 **怎么拆**
 
-margin + -s → margins，/n/ 后读 /z/。margin 经法语接拉丁 margo、margin- 边缘；现代由实物边缘扩展到差额、余地等。
+margin（页边空白） + -s（表示不止一个） → margins，/n/ 后读 /z/。margin 经法语接拉丁 margo、margin- 边缘；现代由实物边缘扩展到差额、余地等。
 
 **怎么变成今天的意思**
 
@@ -139,7 +139,7 @@ margin 不总是利润，也不总是页面设置。先找谁与谁的边界、�
 
 **怎么拆**
 
-借中世纪拉丁 marginālis，现代对应 margin + -al。不同义都与边缘、差额有关，但不能全译成不重要。
+借中世纪拉丁 marginālis，现代对应 margin（边缘） + -al（形容词词尾，表示与前面的事物有关）。不同义都与边缘、差额有关，但不能全译成不重要。
 
 **怎么变成今天的意思**
 
@@ -181,7 +181,7 @@ marginal cost 指增加一单位产出带来的额外成本，不是微不足道
 
 **怎么拆**
 
-marginal + -ly，性质转为程度、方式副词。marginal 的边缘、临界意义走向差别很小、刚够程度等用法。
+marginal + -ly（把性质用来说明方式、程度或说话的角度），性质转为程度、方式副词。marginal 的边缘、临界意义走向差别很小、刚够程度等用法。
 
 **怎么变成今天的意思**
 
@@ -223,7 +223,7 @@ marginally 通常小幅度，不是 greatly 大幅；是否重要还取决于场
 
 **怎么拆**
 
-marginal + -ize，使处于边缘。常说社会群体、观点、议题被削弱地位；统计学另有取边缘分布的专门义。
+marginal（边缘） + -ize（使成为，或按这种方式处理），使处于边缘。常说社会群体、观点、议题被削弱地位；统计学另有取边缘分布的专门义。
 
 **怎么变成今天的意思**
 
@@ -270,7 +270,7 @@ marginalize 不一定把人赶走，剥夺参与、重视、资源也可形成�
 
 **怎么拆**
 
-marginalize + -ation，也可按 marginal + -ization 识别。英式变体 marginalisation。
+marginalize + -ation（把动作或结果说成一件事），也可按 marginal（边缘） + -ization 识别。英式变体 marginalisation。
 
 **怎么变成今天的意思**
 

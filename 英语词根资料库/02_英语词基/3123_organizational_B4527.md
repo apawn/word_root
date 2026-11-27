@@ -39,7 +39,7 @@ organization + -al → organizational；再接 -ly → organizationally，拼写
 
 **怎么拆**
 
-organization + -al，表示与组织或组织工作有关。
+organization（组织） + -al（形容词词尾，表示与前面的事物有关），表示与组织或组织工作有关。
 
 **怎么变成今天的意思**
 

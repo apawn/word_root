@@ -41,7 +41,7 @@ comfortable 的常见读音会弱化中间音节；comfortably 作副词。be co
 
 **怎么拆**
 
-经法语 confortable 接 conforter“安慰、增强”；现代可对照 comfort + -able，历史上是借入的形容词。
+经法语 confortable 接 conforter“安慰、增强”；现代可对照 comfort + -able（能这样做，或能被这样对待），历史上是借入的形容词。
 
 **怎么变成今天的意思**
 
@@ -93,7 +93,7 @@ comforting 是能给人安慰的；comfortable 是舒服自在的。一个硬椅
 
 **怎么拆**
 
-英语 comfortable + -ly，词尾 -able 转为 -ably。
+英语 comfortable + -ly（把性质用来说明方式、程度或说话的角度），词尾 -able 转为 -ably。
 
 **怎么变成今天的意思**
 
@@ -150,7 +150,7 @@ comfortably 不只描述身体感觉。comfortably ahead 说领先幅度充足�
 
 **怎么拆**
 
-英语 un- + comfortable，否定的是舒适或自在的状态。
+英语 un- + comfortable（自在），否定的是舒适或自在的状态。
 
 **怎么变成今天的意思**
 

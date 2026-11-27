@@ -16,7 +16,7 @@ exist 是存在这个动词，existent 是存在的，existence 是存在这个�
 
 ## 词形与演化规律
 
-exist ↔ existent ↔ existence；non- + existent → nonexistent。动词、性质、状态与否定分别放进相应句子位置。
+exist ↔ existent ↔ existence；non-（非、不属于这类） + existent → nonexistent。动词、性质、状态与否定分别放进相应句子位置。
 
 exist 经法语接拉丁 exsistere 出现、存在；existing 作形容词说已经存在的客户、规则、设施等。
 

@@ -136,7 +136,7 @@ molecular 是形容词，molecule 是单元名称；intermolecular 分子之间�
 
 **怎么拆**
 
-inter- + molecular“分子的”。
+inter-（在……之间、彼此） + molecular“分子的”。
 
 **怎么变成今天的意思**
 
@@ -178,7 +178,7 @@ intramolecular 发生在单个分子内部；intermolecular 发生在分子之�
 
 **怎么拆**
 
-bio- + molecular“分子的”，与 biomolecule 词族对应。
+bio-（生命、生物） + molecular“分子的”，与 biomolecule 词族对应。
 
 **怎么变成今天的意思**
 

@@ -100,7 +100,7 @@ physical health 是身体健康，mental health 是心理健康；physical copy 
 
 **怎么拆**
 
-physical + -ly，拼写为 -ically，常用读音中间不必逐个字母读出全部弱元音。
+physical（身体） + -ly，拼写为 -ically，常用读音中间不必逐个字母读出全部弱元音。
 
 **怎么变成今天的意思**
 
@@ -147,7 +147,7 @@ physically 描写身体或现实物理层面，mentally 描写心理、思维层
 
 **怎么拆**
 
-physical + -ity，把身体、实体方面的特点名词化。不是 physics 物理学再加一个城市 city。
+physical（身体） + -ity（把“怎样的”变成“这种性质、状态或程度”），把身体、实体方面的特点名词化。不是 physics 物理学再加一个城市 city。
 
 **怎么变成今天的意思**
 
@@ -194,7 +194,7 @@ physicality 说身体表现、实体性，physics 是物理学。一个演员的
 
 **怎么拆**
 
-对应 geophysics 的形容词，词源可写 geophysics + -al；表面也可拆 geo- + physical，两种分析都指向地球与物理。
+对应 geophysics 的形容词，词源可写 geophysics + -al（形容词词尾，表示与前面的事物有关）；表面也可拆 geo-（地球、大地） + physical，两种分析都指向地球与物理。
 
 **怎么变成今天的意思**
 
@@ -278,7 +278,7 @@ astronomical 广义天文学的，astrophysical 特别着眼物理性质、机�
 
 **怎么拆**
 
-bio- + physical“物理的”，对应 biophysics 的形容词。
+bio-（生命、生物） + physical“物理的”，对应 biophysics 的形容词。
 
 **怎么变成今天的意思**
 

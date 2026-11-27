@@ -189,7 +189,7 @@ accelerator 是让速度或进程改变的装置，不是 speedometer 速度表�
 
 **怎么拆**
 
-acceler- 加速词干 + 连接元音 -o- + -meter 测量仪，来自 accelerate 词族。-meter 联系度量，不是人物后缀。
+acceler- 加速词干 + 连接元音 -o-（连接前后两个构词成分的元音，本身没有独立的中文意思） + -meter 测量仪，来自 accelerate 词族。-meter 联系度量，不是人物后缀。
 
 **怎么变成今天的意思**
 

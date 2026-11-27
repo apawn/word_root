@@ -96,7 +96,7 @@ operative 与 operational 都可说有效运作；operative 还常指具体生�
 
 **怎么拆**
 
-可按 co- + operative 理解；另一来源分析接后期拉丁 cooperāt- 加 -ive。名词由形容词转用，表示合作经营的组织。
+可按 co-（共同、一起） + operative 理解；另一来源分析接后期拉丁 cooperāt- 加 -ive。名词由形容词转用，表示合作经营的组织。
 
 **怎么变成今天的意思**
 
@@ -190,7 +190,7 @@ preoperative 是术前，postoperative 是术后。operative 在此不是泛指�
 
 **怎么拆**
 
-pre- + operative；operative 在此关联手术 operation，pre- 标出手术前阶段。
+pre-（在……之前、预先） + operative；operative 在此关联手术 operation，pre- 标出手术前阶段。
 
 **怎么变成今天的意思**
 
@@ -232,7 +232,7 @@ postoperative 是手术后的；perioperative 通常涵盖围绕手术的相关�
 
 **怎么拆**
 
-in-“不” + operative；可以否定设备运行，也可以否定规则效力。
+in-“不” + operative（生效）；可以否定设备运行，也可以否定规则效力。
 
 **怎么变成今天的意思**
 

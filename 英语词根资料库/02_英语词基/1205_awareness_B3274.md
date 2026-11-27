@@ -81,7 +81,7 @@ aware 通常放 be 等之后说状态；an aware person 单独不如 a person aw
 
 **怎么拆**
 
-aware + -ness，性质、状态名词。通常不可数，前面可以加 environmental、public 等说明认识什么。
+aware + -ness（把前面的性质当作一种状态来说），性质、状态名词。通常不可数，前面可以加 environmental、public 等说明认识什么。
 
 **怎么变成今天的意思**
 

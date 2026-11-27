@@ -42,6 +42,8 @@ convention → conventional；-ly 副词，un- 否定常规性质。
 
 借自晚期拉丁语 conventiōnālis“与约定有关的”；现代可按 convention（惯例、约定）+ -al 理解。
 
+con- 是“一起”，venīre 是“来”。人来到一处是会合，意见合到一处是相符，条件彼此合适就可以说便利。
+
 **怎么变成今天的意思**
 
 ![conventional 的词源演化](../assets/evolution/conventional-2676e6e6.svg)
@@ -76,7 +78,9 @@ common 强调常见；conventional 强调符合习惯、通行模式。tradition
 
 **怎么拆**
 
-conventional + -ly。convention 接拉丁 convenīre 聚到一起、达成一致等来源；约定、惯例义形成常规的形容词，再成副词。
+conventional（传统） + -ly（把性质用来说明方式、程度或说话的角度）。convention 接拉丁 convenīre 聚到一起、达成一致等来源；约定、惯例义形成常规的形容词，再成副词。
+
+con- 是“一起”，venīre 是“来”。人来到一处是会合，意见合到一处是相符，条件彼此合适就可以说便利。
 
 **怎么变成今天的意思**
 
@@ -119,6 +123,8 @@ conventionally 不等于 universally 所有人、所有地方都一样。常规�
 **怎么拆**
 
 un-（不）+ conventional（按惯例的）。
+
+con- 是“一起”，venīre 是“来”。人来到一处是会合，意见合到一处是相符，条件彼此合适就可以说便利。
 
 **怎么变成今天的意思**
 

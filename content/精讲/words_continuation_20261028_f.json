@@ -989,7 +989,7 @@
     "ipa": "英 /ˈhændiwɜːk/；美 /ˈhændiwɜːrk/",
     "meaning": "手工制品；某人的所作所为",
     "sense": "看见一件做出来的东西，就能认出是谁那双手留下的痕迹。",
-    "split": "接古英语 handġeweorc“手做的工作”、中古英语 hondywerk 等形式；是 hand 与 work 的历史组合，不能只按现代 handy“方便的”来编来源。",
+    "split": "古英语 hand 是“手”，ġeweorc 是“做出来的活儿”。后一个词还能往里拆一层，weorc 是“工作”，ġe- 是把事物合起来看的旧前缀。handġeweorc 连读时，中间不重读的 ġe- 越读越轻，到中古英语写作 handiwerk。今天 hand 和 work 之间那个 i，就是这段旧音节留下的痕迹。",
     "history": [
       [
         "古英语 hand + ġeweorc → handġeweorc",
@@ -1014,6 +1014,8 @@
       ]
     ],
     "sources": [
+      "https://users.pfw.edu/dfleming/_HEL2022/Durkin_Etymologych1.pdf",
+      "https://ahdictionary.com/word/search.html?q=handiwork",
       "https://en.wiktionary.org/wiki/handiwork#English"
     ]
   },

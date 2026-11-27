@@ -85,7 +85,7 @@ communist 的思想支持者与某个特定党的正式成员并非每次都相�
 
 **怎么拆**
 
-communist + -s → communists，末尾 /sts/。借法语 communiste，含 commun 共同与 -iste、英语相应 -ist 主张者；现代可与 common、communism 词族对照。
+communist（共产主义者） + -s（表示不止一个） → communists，末尾 /sts/。借法语 communiste，含 commun 共同与 -iste、英语相应 -ist 主张者；现代可与 common、communism 词族对照。
 
 **怎么变成今天的意思**
 
@@ -127,7 +127,7 @@ communist 可直接命名人物、政治属性；communistic 更常把某个安�
 
 **怎么拆**
 
-communist + -ic，形容相应性质，也会与 communism 一组理解。重音移向 /nɪs/，不只在原词尾轻轻添个音节。
+communist（共产主义） + -ic（表示“与……有关的”，让这个词可以用来修饰别的事物），形容相应性质，也会与 communism 一组理解。重音移向 /nɪs/，不只在原词尾轻轻添个音节。
 
 **怎么变成今天的意思**
 

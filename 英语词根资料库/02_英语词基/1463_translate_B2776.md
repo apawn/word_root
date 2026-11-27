@@ -18,7 +18,9 @@ translate → translatable；translation、translator 各有拉丁、法语借�
 
 ## 词形与演化规律
 
-trans- + ferre → transferre；其分词 trānslātus；平行派生 trānslātiō、trānslātor → translate、translation、translator；translate + -able。
+trans-（越过、穿过，或从一边到另一边） + ferre（拉丁语，带着走、承受） → transferre；其分词 trānslātus；平行派生 trānslātiō、trānslātor → translate、translation、translator；translate + -able（能这样做，或能被这样对待）。
+
+trāns 是“越过、到另一边”，ferre 是“带”。带过界线，东西或责任就换了地方或归属。
 
 法语 translater、拉丁 translatus 是 transferre 的分词材料，现代动词 t 后 ed 读 id。
 
@@ -55,6 +57,8 @@ translation 经法语、拉丁 translatio 搬过去，接 transferre 携过的�
 **怎么拆**
 
 经法语 translater 或拉丁 trānslātus 借入，后者是 transferre 搬运过去的分词。trans- 跨过 + lāt- 被带，-ate 为英语动词形态；late 不是迟到。
+
+trāns 是“越过、到另一边”，ferre 是“带”。带过界线，东西或责任就换了地方或归属。
 
 **怎么变成今天的意思**
 
@@ -148,7 +152,9 @@ translation 可过程、结果；interpretation 还可解释、口译等，特�
 
 **怎么拆**
 
-translation + -s → translations。经法语、拉丁 translatio 搬过去，来自 transferre 携过的分词词干 translat-，含 trans- 跨过与补充式 lat- 携带。
+translation（译文） + -s（表示不止一个） → translations。经法语、拉丁 translatio 搬过去，来自 transferre 携过的分词词干 translat-，含 trans- 跨过与补充式 lat- 携带。
+
+trāns 是“越过、到另一边”，ferre 是“带”。带过界线，东西或责任就换了地方或归属。
 
 **怎么变成今天的意思**
 
@@ -190,7 +196,9 @@ translations 是文字或翻译成果，translators 是翻译这些内容的人�
 
 **怎么拆**
 
-translate + -d，/t/ 后读 /ɪd/。translate 经法语 translater 或拉丁 translatus 借入，后者是 transferre 搬运过去的分词，含 trans- 跨过与 lat- 被带的材料。
+translate（翻译） + -d（标出动词的过去式或过去分词），/t/ 后读 /ɪd/。translate 经法语 translater 或拉丁 translatus 借入，后者是 transferre 搬运过去的分词，含 trans- 跨过与 lat- 被带的材料。
+
+trāns 是“越过、到另一边”，ferre 是“带”。带过界线，东西或责任就换了地方或归属。
 
 **怎么变成今天的意思**
 
@@ -234,6 +242,8 @@ translated from 指来源，translated into 指目标。不是每个 translate �
 
 translate 保留末尾 e，加 -s → translates。经法语 translater 或拉丁 translatus 搬过去，后者充当 transferre 的过去分词，含 trans- 越过与 latus 搬带的补充式词干。
 
+trāns 是“越过、到另一边”，ferre 是“带”。带过界线，东西或责任就换了地方或归属。
+
 **怎么变成今天的意思**
 
 **拉丁 transferre 搬过去，其分词 translatus → translate**  
@@ -274,7 +284,7 @@ translates into 不一定在谈语言。This translates into more space 是这�
 
 **怎么拆**
 
-经法语、拉丁 trānslātor 等人物名词借入，接 trānslāt- + -or 执行者材料。现代可对照 translate + -or，但不写成唯一英语现场构词史。
+经法语、拉丁 trānslātor 等人物名词借入，接 trānslāt- + -or 执行者材料。现代可对照 translate（翻译） + -or（做这件事的人或起这种作用的东西），但不写成唯一英语现场构词史。
 
 **怎么变成今天的意思**
 
@@ -321,7 +331,7 @@ translator 主体，translation 过程或结果；职业区分常用 translator 
 
 **怎么拆**
 
-translate + -able，去末尾 e。是现代透明派生，与 translate 的跨语言、跨形式两种用法相连。
+translate + -able（能这样做，或能被这样对待），去末尾 e。是现代透明派生，与 translate 的跨语言、跨形式两种用法相连。
 
 **怎么变成今天的意思**
 

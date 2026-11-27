@@ -46601,7 +46601,7 @@
         },
         "handkerchief": {
           "base": "kerchief",
-          "basis": "正文拆分与词形对应"
+          "basis": "英语构词记录"
         },
         "handkerchiefs": {
           "base": "handkerchief",
@@ -53458,7 +53458,7 @@
         },
         "handkerchief": {
           "base": "kerchief",
-          "basis": "正文拆分与词形对应"
+          "basis": "英语构词记录"
         },
         "handkerchiefs": {
           "base": "handkerchief",
@@ -74791,7 +74791,7 @@
         },
         "towards": {
           "base": "toward",
-          "basis": "正文拆分与词形对应"
+          "basis": "英语构词记录"
         },
         "untoward": {
           "base": "toward",
@@ -143815,7 +143815,7 @@
         },
         "journeyman": {
           "base": "journey",
-          "basis": "正文拆分与词形对应"
+          "basis": "英语构词记录"
         }
       }
     },
@@ -176868,7 +176868,7 @@
       "reading_links": {
         "backwards": {
           "base": "backward",
-          "basis": "正文拆分与词形对应"
+          "basis": "英语构词记录"
         },
         "backwardness": {
           "base": "backward",
@@ -210914,7 +210914,7 @@
         },
         "handkerchief": {
           "base": "kerchief",
-          "basis": "正文拆分与词形对应"
+          "basis": "英语构词记录"
         },
         "handkerchiefs": {
           "base": "handkerchief",

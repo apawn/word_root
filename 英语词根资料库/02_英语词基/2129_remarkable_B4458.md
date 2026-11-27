@@ -87,7 +87,7 @@ remarkable 值得注意、突出，ordinary 普通；remarkable 不保证一定�
 
 **怎么拆**
 
-remarkable + -ly，-able 词尾变成 -ably，形成副词。不是 remarkablely 的完整拼接写法。
+remarkable（显著） + -ly（把性质用来说明方式、程度或说话的角度），-able 词尾变成 -ably，形成副词。不是 remarkablely 的完整拼接写法。
 
 **怎么变成今天的意思**
 

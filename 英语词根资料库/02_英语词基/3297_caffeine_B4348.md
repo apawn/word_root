@@ -86,7 +86,7 @@ caffeine 是具体物质，coffee 是饮品、咖啡原料；名称来源不代�
 
 **怎么拆**
 
-caffeine + -ated 对应 caffeinated；也可按相关动词 caffeinate 的分词识别。-ated 不是让你把整词读成 café + 任意 nated。
+caffeine（咖啡因） + -ated 对应 caffeinated；也可按相关动词 caffeinate 的分词识别。-ated 不是让你把整词读成 café + 任意 nated。
 
 **怎么变成今天的意思**
 

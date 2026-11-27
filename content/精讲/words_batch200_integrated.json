@@ -99751,7 +99751,7 @@
     "ipa": "英 /ˈkɜːfjuː/；美 /ˈkɜːrfjuː/",
     "meaning": "宵禁；规定必须回家的时间",
     "sense": "钟一响，该收火、结束外面的活动、回去了。",
-    "split": "来自古法语 cuevrefeu，字面是盖住火：cuevre 来自 covrir 盖住，feu 是火。后来经盎格鲁法语进入英语。",
+    "split": "古法语 cuevre-fu 可以当成对着炉边人说的一句话。cuevre 是 covrir“盖住”的命令式，fu（也写 feu）是“火”，合起来就是“把炉火盖好！”晚间敲钟提醒大家收火，传入英语的词先指这阵钟声，后来又指钟响后必须离开街面的规定。",
     "history": [
       [
         "古法语 cuevre + feu → cuevrefeu",
@@ -99780,6 +99780,7 @@
       ]
     ],
     "sources": [
+      "https://www.merriam-webster.com/dictionary/curfew",
       "https://www.etymonline.com/word/curfew",
       "https://en.wiktionary.org/wiki/curfew#English"
     ]
@@ -160871,7 +160872,7 @@
     "ipa": "/ˈeksɪt/，也读 /ˈeɡzɪt/",
     "meaning": "出口；离开、退出；退场",
     "sense": "在里面的人走到外面去：走的那条路叫出口，离开的动作也可以叫 exit。",
-    "split": "拉丁 ex- 向外 + ire 走 → exire。舞台提示 exit 直接借其“他／她离场”的动词形式；普通名词另接拉丁 exitus“离去”。现代英语动词再由名词发展，不是 ex + 英语 it。",
+    "split": "拉丁语 ex 是“出去”，īre 是“走”。动词 exit 把两者合起来，词尾 -t 还交代了“他／她”，所以剧本边上写 Exit，就是“此人退场”。门上标 EXIT 则是名词，它还连着拉丁名词 exitus“离去、出路”。两条历史在今天的拼写里碰到了一起。",
     "history": [
       [
         "拉丁 ex- + ire → exire",
@@ -223312,7 +223313,7 @@
     "ipa": "英 /ˌɪnjuˈendəʊ/；美 /ˌɪnjuˈendoʊ/",
     "meaning": "影射；含沙射影的话；暗含讽刺或性意味的话",
     "sense": "话没明说，却点一点头、留一层意思，让你自己往那个方向想。",
-    "split": "来自拉丁 innuendo 以示意的方式，是 innuere 点头示意、暗示的动名词词形；in- 向着与表示点头的词干结合。英语早期先用于法律解释语句，后来扩为含蓄影射。",
+    "split": "拉丁语 innuere 是“点头示意”。换成 innuendō，-nd- 把动作当成一件事来讲，末尾的长音 -ō 在这里回答“用什么方式”，合起来就是“用暗示的方式”。法律文字里用它引出言外所指，后来英语把含沙射影的那句话本身叫作 an innuendo。",
     "history": [
       [
         "拉丁 in- + nuere → innuere",
@@ -245714,7 +245715,7 @@
     "ipa": "/ˈlaɪkwaɪz/",
     "meaning": "同样地；也；我也是",
     "sense": "前面说了一件事，后面的人或事情也一样，就可以用 likewise 把两边接上。它有“照同样方式、同样情况”的意味。",
-    "split": "来自中古英语短语 in like wise，逐渐缩为 likewise。wise 在这里是旧名词“方式”，与形容词 wise“聪明的”不能按现代字面混拆。",
+    "split": "中古英语 in like wise 里的三个词各做一件事。in 是“以”，like 是“相同的”，wise 是“方式”。整串就是“用相同的方式”。后来开头的 in 省掉，后两个词合写成 likewise，就是现在的“同样地”。",
     "history": [
       [
         "英语 like；旧名词 wise",
@@ -256686,7 +256687,7 @@
     "ipa": "/ˈmiːntaɪm/",
     "meaning": "其间；在这段等待或间隔时间里",
     "sense": "晚饭还要半小时才好，这半小时可以先摆桌。in the meantime 就把注意力放到“等另一件事发生之前的这一段”。",
-    "split": "中古英语 mene-time，由 mean“中间的”与 time 组成；mean 这支经法语接拉丁中间义，与“刻薄的”那一义不同。副词用法与 in the meantime 省略介词有关。",
+    "split": "mean 在这里是“中间的”，time 是“一段时间”。两件事之间隔着的那段时间，就是 the meantime。in the meantime 里的 in 管整段时间，“在这期间”。省掉 in the，meantime 自己也能放在句首。",
     "history": [
       [
         "英语 mean〔中间，来自法语／拉丁中间义〕；time",
@@ -417966,7 +417967,7 @@
     "ipa": "英 /ˈsɜːneɪm/；美 /ˈsɜːrneɪm/",
     "meaning": "姓；家族名；别号〔历史义〕",
     "sense": "在个人名字之外，再加一个能指出家族或身份的名字；现代通常说姓氏。",
-    "split": "拉丁 supernomen / supranomen“附加名”→ 法语 surnom / surnoun；英语借入后把后半部分对应为本族 name，属于部分仿译。sur- 接 super。",
+    "split": "古法语 surnom 里，sur 是“在……之上”，nom 是“名字”。可以想象本名上再添一个称呼，用来区分两个同名的人。对应的拉丁语 supernōmen 也是“附加的名字”。进入英语后，后半换成了熟悉的 name，后来 surname 通常指家族沿用的姓。",
     "history": [
       [
         "拉丁 super",
@@ -433065,7 +433066,7 @@
     "ipa": "/təˈdeɪ/",
     "meaning": "今天；当今",
     "sense": "把时间指针放在现在这一天，或现在这个时代。",
-    "split": "古英语 to dæge 是在这一天，to 在这个旧结构里表示在、于，dæge 是 dæg 的格变化形式；不是朝着某一天走去。",
+    "split": "古英语 tō 在这里相当于“在、于”。dæġ 是“日”，跟在这个介词后用与格 dæġe，末尾 -e 就是当时的词尾。tō dæġe 合起来是“在这一天”。旧词尾后来消失，两个词合成了 today。",
     "history": [
       [
         "古英语 to；dæge",

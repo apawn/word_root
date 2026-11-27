@@ -15,7 +15,9 @@ algorithm → algorithmic。
 
 ## 词形与演化规律
 
-al-Khwarizmi → algorismus → algorisme、algorithme → algorithm；+ -ic → algorithmic。
+al-Khwarizmi → algorismus → algorisme、algorithme → algorithm；+ -ic（表示“与……有关的”，让这个词可以用来修饰别的事物） → algorithmic。
+
+al- 是阿拉伯语定冠词。Khwārizm 是地名花剌子模，末尾的 -ī 表示与某地有关。al-Khwārizmī 这个称号可以理解成“那位来自花剌子模的人”。取名时借的是数学家的名字。
 
 algorithm 接数学家 al-Khwarizmi 名称经拉丁、法语的传写变化，词形受希腊 arithmos 数的联想影响；不是英语 rhythm 的派生词。现代复数说一套套算法。
 
@@ -44,6 +46,8 @@ algorithm 接数学家 al-Khwarizmi 名称经拉丁、法语的传写变化，�
 **怎么拆**
 
 接数学家 al-Khwarizmi 的名字，经中世纪拉丁 algorismus、法语相关形式进入英语。由算术计算方法扩展到算法；-th- 拼写受希腊 arithmos 数的联想影响，非原本同源拆分。
+
+al- 是阿拉伯语定冠词。Khwārizm 是地名花剌子模，末尾的 -ī 表示与某地有关。al-Khwārizmī 这个称号可以理解成“那位来自花剌子模的人”。取名时借的是数学家的名字。
 
 **怎么变成今天的意思**
 
@@ -85,7 +89,9 @@ a sorting algorithm；design an algorithm；a recommendation algorithm。
 
 **怎么拆**
 
-algorithm + -s → algorithms，/m/ 后读 /z/。词名经拉丁、法语等传写数学家 al-Khwarizmi 的名称，字形后来又受 arithmos 数的联想影响。
+algorithm（算法） + -s（表示不止一个） → algorithms，/m/ 后读 /z/。词名经拉丁、法语等传写数学家 al-Khwarizmi 的名称，字形后来又受 arithmos 数的联想影响。
+
+al- 是阿拉伯语定冠词。Khwārizm 是地名花剌子模，末尾的 -ī 表示与某地有关。al-Khwārizmī 这个称号可以理解成“那位来自花剌子模的人”。取名时借的是数学家的名字。
 
 **怎么变成今天的意思**
 
@@ -127,7 +133,9 @@ algorithm 是步骤本身，algorithmic 把这种方式放在系统、决策、�
 
 **怎么拆**
 
-algorithm + -ic；与算法相关的性质形容词，重音转到后面的 /rɪðm/ 一带。
+algorithm（算法） + -ic（表示“与……有关的”，让这个词可以用来修饰别的事物）；与算法相关的性质形容词，重音转到后面的 /rɪðm/ 一带。
+
+al- 是阿拉伯语定冠词。Khwārizm 是地名花剌子模，末尾的 -ī 表示与某地有关。al-Khwārizmī 这个称号可以理解成“那位来自花剌子模的人”。取名时借的是数学家的名字。
 
 **怎么变成今天的意思**
 

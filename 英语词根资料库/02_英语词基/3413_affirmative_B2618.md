@@ -87,7 +87,7 @@ affirmative 在问答或语法上与 negative 相对；positive 还可以表示�
 
 **怎么拆**
 
-affirmative + -ly；中古英语已有对应副词。affirmative 的历史经法语、拉丁语肯定、断言材料，现代与 affirm 词族对应。
+affirmative + -ly（把性质用来说明方式、程度或说话的角度）；中古英语已有对应副词。affirmative 的历史经法语、拉丁语肯定、断言材料，现代与 affirm 词族对应。
 
 **怎么变成今天的意思**
 

@@ -2997,7 +2997,7 @@
     "ipa": "英 /prəˈvaɪzəʊ/；美 /prəˈvaɪzoʊ/",
     "meaning": "附带条件；限制性条款",
     "sense": "proviso 像一句“可以，不过有一个条件”，给前面的同意加上一道边界。",
-    "split": "来自拉丁语 prōvīsō“在已作规定的情况下”，是 prōvidēre 的分词形式用法。",
+    "split": "拉丁语 prōvidēre 有“预见、预先安排”的意思。prōvīsō 把已安排妥的事当作前提，词尾 -ō 是这里用的夺格，表示“以此为前提”。文书里常写 prōvīsō quod，quod 相当于 that，引出具体规定。英语取这段话的开头来指附带的条件，with the proviso that 就是“但有一个条件……”。",
     "history": [
       [
         "拉丁语：vidēre（videō）",
@@ -3030,6 +3030,7 @@
       ]
     ],
     "sources": [
+      "https://www.merriam-webster.com/dictionary/proviso",
       "https://en.wiktionary.org/wiki/proviso#English"
     ]
   },

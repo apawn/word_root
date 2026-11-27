@@ -38,7 +38,7 @@ teach + -ing → teaching；动作名词与内容名词分义。
 
 **怎么拆**
 
-teach + -ing，形成活动名词、动词形式；teachings 复数可集合指所教的道理。不是 teacher 的复数。
+teach + -ing（把动作写成进行中的形式，或把活动本身当作一件事来说），形成活动名词、动词形式；teachings 复数可集合指所教的道理。不是 teacher 的复数。
 
 **怎么变成今天的意思**
 

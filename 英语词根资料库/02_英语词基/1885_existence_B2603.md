@@ -14,7 +14,7 @@ existence → coexistence 共同存在；nonexistence 否定存在。
 
 ## 词形与演化规律
 
-exist 词族 → existence；co- + existence → coexistence；non- + existence → nonexistence。
+exist 词族 → existence；co-（共同、一起） + existence → coexistence；non-（非、不属于这类） + existence → nonexistence。
 
 ## 单词速览（按词族由简到繁）
 
@@ -87,7 +87,7 @@ existence 说有没有、怎样存在；experience 说经历了什么，两个�
 
 **怎么拆**
 
-co- + existence；现代也与 coexist 对应，保留 existence 的名词路线。
+co-（共同、一起） + existence（存在）；现代也与 coexist 对应，保留 existence 的名词路线。
 
 **怎么变成今天的意思**
 

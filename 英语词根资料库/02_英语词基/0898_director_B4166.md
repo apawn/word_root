@@ -42,6 +42,8 @@ director → directorate、directorship。
 
 经法语 directeur / directour 以及后期拉丁语 director，来自 dirigere 的 direct- 词干。现代可拆 direct + -or，但并非只在英语里造出。
 
+拉丁语 dī- 在这里带分开、定向的意思，regere 是“引导、使直”。复合后可以看到 -rig-，分词 dīrectus 又保留了 -rect-。这解释了为什么“引导”一族里既有 rig 也有 rect。
+
 **怎么变成今天的意思**
 
 **拉丁语：regere**  
@@ -92,7 +94,9 @@ producer 通常更偏组织资金和制作事务；director 主要负责作品�
 
 **怎么拆**
 
-director + -ate，形成机构、群体等名词。各机构正式中文译名可能是局、司、处，不能只靠后缀确定行政级别。
+director（主管） + -ate，形成机构、群体等名词。各机构正式中文译名可能是局、司、处，不能只靠后缀确定行政级别。
+
+拉丁语 dī- 在这里带分开、定向的意思，regere 是“引导、使直”。复合后可以看到 -rig-，分词 dīrectus 又保留了 -rect-。这解释了为什么“引导”一族里既有 rig 也有 rect。
 
 **怎么变成今天的意思**
 
@@ -139,7 +143,9 @@ director 人，directorate 机构群体；directory 名录是另一个词，不�
 
 **怎么拆**
 
-director + -ship，后缀表示身份、职务、任期；-ship 不是船。
+director（主管） + -ship（把身份、关系或本领说成名词），后缀表示身份、职务、任期；-ship 不是船。
+
+拉丁语 dī- 在这里带分开、定向的意思，regere 是“引导、使直”。复合后可以看到 -rig-，分词 dīrectus 又保留了 -rect-。这解释了为什么“引导”一族里既有 rig 也有 rect。
 
 **怎么变成今天的意思**
 

@@ -43,7 +43,7 @@ process + -or → processor；micro- 微，co- 协同，multi- 多，pre- 之前
 
 **怎么拆**
 
-process + -or，-or 形成执行作用的人、物名称。电脑处理器、食品加工机、加工企业等取不同对象，不是所有 processor 都是 CPU。
+process（处理） + -or，-or 形成执行作用的人、物名称。电脑处理器、食品加工机、加工企业等取不同对象，不是所有 processor 都是 CPU。
 
 **怎么变成今天的意思**
 
@@ -174,7 +174,7 @@ coprocessor 说协助关系，multiprocessor 说多处理器配置；不靠同�
 
 **怎么拆**
 
-pre- + processor；在计算机语境中指执行前置处理的程序或组件，不一定是一块硬件芯片。
+pre-（在……之前、预先） + processor（处理器）；在计算机语境中指执行前置处理的程序或组件，不一定是一块硬件芯片。
 
 **怎么变成今天的意思**
 
@@ -216,7 +216,7 @@ compiler 负责更完整的编译工作；preprocessor 负责前置变换，实�
 
 **怎么拆**
 
-multi- + processor“处理器”；processor 来自 process + -or，整个词是现代计算机复合词。
+multi-（多个、多种） + processor“处理器”；processor 来自 process + -or（做这件事的人或起这种作用的东西），整个词是现代计算机复合词。
 
 **怎么变成今天的意思**
 

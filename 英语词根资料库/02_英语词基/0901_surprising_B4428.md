@@ -198,7 +198,7 @@ surprising 说引起感受的东西；surprised 说经历惊讶的人或状态�
 
 **怎么拆**
 
-surprising + -ly，直接在形容词后接副词尾；surprising 自己是 surprise 去 e + -ing 的形式。
+surprising（出人意料） + -ly（把性质用来说明方式、程度或说话的角度），直接在形容词后接副词尾；surprising 自己是 surprise 去 e + -ing 的形式。
 
 **怎么变成今天的意思**
 

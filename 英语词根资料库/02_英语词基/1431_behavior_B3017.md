@@ -16,7 +16,7 @@ behavior → behavioral、misbehavior；behaviorism、behaviorist 放在一起�
 
 ## 词形与演化规律
 
-behave → behavior；behavior + -al/-ism/-ist；mis- + behavior；英式 behaviour 保留 u。
+behave → behavior；behavior + -al/-ism/-ist；mis-（做错、做得不当） + behavior；英式 behaviour 保留 u。
 
 泛指行为常不可数，数行为类型、模式时可用复数。
 
@@ -136,7 +136,7 @@ observe behaviors 观察具体行为；repeated behaviors 反复出现的行为�
 
 **怎么拆**
 
-behavior＋-al，英语形容词派生，表示与行为有关。
+behavior（行为）＋-al（形容词词尾，表示与前面的事物有关），英语形容词派生，表示与行为有关。
 
 **怎么变成今天的意思**
 
@@ -188,7 +188,7 @@ behavioral 关注表现出的行为；emotional 关注情绪。二者会互相�
 
 **怎么拆**
 
-behavior + -ism，-ism 命名理论取向。英式常拼 behaviourism；不同流派对内部过程的看法不全相同，不缩成所有行为主义都否认人有想法。
+behavior（行为） + -ism（把观念、做法、现象或状态说成名词），-ism 命名理论取向。英式常拼 behaviourism；不同流派对内部过程的看法不全相同，不缩成所有行为主义都否认人有想法。
 
 **怎么变成今天的意思**
 
@@ -230,7 +230,7 @@ behavior 行为，behavioral 与行为有关，behaviorism 特定理论取向；
 
 **怎么拆**
 
-behavior + -ist，和 behaviorism 构成理论、人物的对应。英式也见 behaviourist。
+behavior（行为） + -ist（从事这种活动、研究这门学问或持这种主张的人），和 behaviorism 构成理论、人物的对应。英式也见 behaviourist。
 
 **怎么变成今天的意思**
 
@@ -272,7 +272,7 @@ behaviorist 接特定理论，behavioral 范围更宽；behavioral research 研�
 
 **怎么拆**
 
-mis- + behavior；与 misbehave 同族，behavior 是行为的名词。
+mis-（做错、做得不当） + behavior（行为）；与 misbehave 同族，behavior 是行为的名词。
 
 **怎么变成今天的意思**
 

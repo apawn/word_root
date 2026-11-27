@@ -142,7 +142,7 @@ celebration 可一场活动或庆祝行为，celebrity 名人是同族另一分�
 
 **怎么拆**
 
-celebration + -s，/n/ 后读 /z/。celebration 经法语或拉丁 celebrātiō 借入，与 celebrāre 庆祝、赞颂词族相连；现代可对照 celebrate 与 -ion，但名词有独立来路。
+celebration（庆祝） + -s（表示不止一个），/n/ 后读 /z/。celebration 经法语或拉丁 celebrātiō 借入，与 celebrāre 庆祝、赞颂词族相连；现代可对照 celebrate 与 -ion，但名词有独立来路。
 
 **怎么变成今天的意思**
 
@@ -184,7 +184,7 @@ celebration 可泛说庆祝，celebrations 常把多项安排或整个庆祝场�
 
 **怎么拆**
 
-celebrate + -d，/t/ 后读 /ɪd/。celebrate 接拉丁 celebrare、celebratus，与 celeber 人多、著名等材料相连。
+celebrate（庆祝） + -d（标出动词的过去式或过去分词），/t/ 后读 /ɪd/。celebrate 接拉丁 celebrare、celebratus，与 celeber 人多、著名等材料相连。
 
 **怎么变成今天的意思**
 

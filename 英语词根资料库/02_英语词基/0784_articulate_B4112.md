@@ -95,7 +95,7 @@ article 的 -icle 有拉丁小称背景，和 particle 中的小称材料可以�
 
 **怎么拆**
 
-article + -s，/l/ 后读 /z/。article 经法语接拉丁 articulus 小关节、部分、成员，是 artus 关节的小称；各意义经不同分支发展，并非现代把文章逐字翻成关节。
+article（文章） + -s（表示不止一个），/l/ 后读 /z/。article 经法语接拉丁 articulus 小关节、部分、成员，是 artus 关节的小称；各意义经不同分支发展，并非现代把文章逐字翻成关节。
 
 **怎么变成今天的意思**
 

@@ -14,7 +14,7 @@ employment → unemployment、underemployment，分无工作与已有工作但�
 
 ## 词形与演化规律
 
-employ + -ment → employment；un-/under- + employment。
+employ + -ment（把动作、结果或状态说成名词） → employment；un-/under- + employment。
 
 ## 单词速览（按词族由简到繁）
 
@@ -40,7 +40,7 @@ employ + -ment → employment；un-/under- + employment。
 
 **怎么拆**
 
-employ + -ment，英语名词后缀把雇用、运用这个动作或状态提出来。
+employ + -ment（把动作、结果或状态说成名词），英语名词后缀把雇用、运用这个动作或状态提出来。
 
 **怎么变成今天的意思**
 

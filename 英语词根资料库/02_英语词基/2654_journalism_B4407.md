@@ -14,7 +14,7 @@ journalism → photojournalism。
 
 ## 词形与演化规律
 
-法语 journalisme → journalism；现代对应 journal + -ism；photo- 摄影 + journalism。
+法语 journalisme → journalism；现代对应 journal + -ism（把观念、做法、现象或状态说成名词）；photo- 摄影 + journalism。
 
 ## 单词速览（按词族由简到繁）
 
@@ -39,7 +39,7 @@ journalism → photojournalism。
 
 **怎么拆**
 
-借法语 journalisme，现代对应 journal + -ism；不是 -ism 都表示某种信仰主义，这里是职业活动、行业。
+借法语 journalisme，现代对应 journal + -ism（把观念、做法、现象或状态说成名词）；不是 -ism 都表示某种信仰主义，这里是职业活动、行业。
 
 **怎么变成今天的意思**
 

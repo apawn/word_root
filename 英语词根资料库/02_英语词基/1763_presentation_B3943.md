@@ -15,7 +15,7 @@ presentation → presentational；representation 接拉丁 repraesentātiō，�
 
 ## 词形与演化规律
 
-praesentātiō 等 → presentation；presentation + -al；repraesentātiō 经法语 → representation，现代对应 represent + -ation。
+praesentātiō 等 → presentation；presentation + -al；repraesentātiō 经法语 → representation，现代对应 represent + -ation（把动作或结果说成一件事）。
 
 ## 单词速览（按词族由简到繁）
 
@@ -41,7 +41,7 @@ praesentātiō 等 → presentation；presentation + -al；repraesentātiō 经�
 
 **怎么拆**
 
-经法语 presentation 接拉丁语 praesentātiō 展示、呈上，与 present 动词词族相关；现代可对应 present + -ation 的活动名词关系。
+经法语 presentation 接拉丁语 praesentātiō 展示、呈上，与 present 动词词族相关；现代可对应 present（展示） + -ation 的活动名词关系。
 
 **怎么变成今天的意思**
 
@@ -88,7 +88,7 @@ presentation 是展示、报告及其呈现方式；slides 是幻灯片，二者
 
 **怎么拆**
 
-presentation + -al，关系形容词。presentation 先有拉丁、法语名词历史，现代在英语里继续接性质词尾。
+presentation + -al（形容词词尾，表示与前面的事物有关），关系形容词。presentation 先有拉丁、法语名词历史，现代在英语里继续接性质词尾。
 
 **怎么变成今天的意思**
 

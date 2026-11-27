@@ -38,7 +38,7 @@ a natural progression、an arithmetic progression、a chord progression；具体
 
 **怎么拆**
 
-经古法语 progression 借拉丁 prōgressiō；现代可联系 progress + -ion，但名词有自己的借入路线。
+经古法语 progression 借拉丁 prōgressiō；现代可联系 progress + -ion（把动作或结果说成一件事），但名词有自己的借入路线。
 
 **怎么变成今天的意思**
 

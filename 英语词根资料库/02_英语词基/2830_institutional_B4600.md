@@ -42,7 +42,7 @@ institution + -al；-ly 方式、范围；-ize 使成为；-ization 过程。
 
 **怎么拆**
 
-institution + -al；institution 的机构、制度两类意思都可能保留。
+institution + -al（形容词词尾，表示与前面的事物有关）；institution 的机构、制度两类意思都可能保留。
 
 **怎么变成今天的意思**
 
@@ -94,7 +94,7 @@ individual 是个人层面；institutional 是机构、制度层面。institutio
 
 **怎么拆**
 
-institutional + -ly；-al + -ly 形成 -ally。由机构、制度的性质转为范围、方式副词。
+institutional（机构） + -ly；-al + -ly 形成 -ally。由机构、制度的性质转为范围、方式副词。
 
 **怎么变成今天的意思**
 
@@ -136,7 +136,7 @@ institutionally 关注结构、制度层面，individually 关注个人；说制
 
 **怎么拆**
 
-institutional + -ize；英式也写 institutionalise。几个意思都从 institution 已确立的制度或机构分出来，不是一个意思适合所有场景。
+institutional（机构） + -ize（使成为，或按这种方式处理）；英式也写 institutionalise。几个意思都从 institution 已确立的制度或机构分出来，不是一个意思适合所有场景。
 
 **怎么变成今天的意思**
 
@@ -188,7 +188,7 @@ standardize 侧重统一标准；institutionalize 侧重形成持续制度。谈
 
 **怎么拆**
 
-institutionalize + -ation；也可按 institutional + -ization 分析，是英语内部形成的过程名词。
+institutionalize + -ation（把动作或结果说成一件事）；也可按 institutional（机构） + -ization 分析，是英语内部形成的过程名词。
 
 **怎么变成今天的意思**
 

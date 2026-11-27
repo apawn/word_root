@@ -15,7 +15,7 @@ assessment 评估；reassessment 用新材料再评估，不预设结论一定�
 
 ## 词形与演化规律
 
-assess + -ment → assessment；re- + assessment → reassessment。assess 历史联系法语与拉丁协助判定、估定。
+assess + -ment（把动作、结果或状态说成名词） → assessment；re- + assessment → reassessment。assess 历史联系法语与拉丁协助判定、估定。
 
 assess 远接拉丁坐在旁边协助判断的词族，早期与评定税额、罚额等有关。assessment 的评估、测评等义后来扩展，现代复数 -s。
 
@@ -43,7 +43,7 @@ assessment 像把证据摆在桌上，仔细看过之后给出判断：现在是
 
 **怎么拆**
 
-assess + -ment，表示评估行为或所得结论。
+assess（评估） + -ment（把动作、结果或状态说成名词），表示评估行为或所得结论。
 
 **怎么变成今天的意思**
 
@@ -79,7 +79,7 @@ test 可以只是一次测试；assessment 可综合观察、测试和材料形�
 
 **怎么拆**
 
-assess + -ment → assessment，再加 -s。assess 接法语、拉丁评定词族，较远连 ad- 向 + sedere 坐的旁坐、协助判断材料。
+assess + -ment（把动作、结果或状态说成名词） → assessment，再加 -s。assess 接法语、拉丁评定词族，较远连 ad- 向 + sedere 坐的旁坐、协助判断材料。
 
 **怎么变成今天的意思**
 
@@ -121,7 +121,7 @@ assessments 可以是测评活动，也可以是形成的判断。它不总是�
 
 **怎么拆**
 
-re- 再次 + assessment 评估；assessment 对应 assess + -ment。更远的 assess 经法语接拉丁 assidēre 坐在旁边，联系协助判定、估定税额等历史。
+re- 再次 + assessment 评估；assessment 对应 assess + -ment（把动作、结果或状态说成名词）。更远的 assess 经法语接拉丁 assidēre 坐在旁边，联系协助判定、估定税额等历史。
 
 **怎么变成今天的意思**
 

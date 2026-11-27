@@ -15,7 +15,7 @@ connected → unconnected、connectedness；interconnected 彼此交连。
 
 ## 词形与演化规律
 
-con- + nectere → connect；connect + -ed；un- + connected；connected + -ness；inter- + connected。
+con- + nectere → connect；connect + -ed；un- + connected；connected + -ness（把前面的性质当作一种状态来说）；inter-（在……之间、彼此） + connected。
 
 ## 单词速览（按词族由简到繁）
 
@@ -42,7 +42,7 @@ connected 表示线已经接上了：设备能通，事情有关，人与人之�
 
 **怎么拆**
 
-connect + -ed，既是过去分词，也可作形容词。
+connect + -ed（标出动词的过去式或过去分词），既是过去分词，也可作形容词。
 
 **怎么变成今天的意思**
 
@@ -78,7 +78,7 @@ connected 是连着的；connective 是起连接作用的。connected devices �
 
 **怎么拆**
 
-connected + -ness，把相连的性质、状态名词化。社交、心理语境可说联系感，数学、网络等语境有更具体的定义。
+connected（相连） + -ness（把前面的性质当作一种状态来说），把相连的性质、状态名词化。社交、心理语境可说联系感，数学、网络等语境有更具体的定义。
 
 **怎么变成今天的意思**
 
@@ -125,7 +125,7 @@ interconnected 像拉动网的一角，其他地方也跟着动：问题、行�
 
 **怎么拆**
 
-inter- + connected，也可视为 interconnect 的过去分词形容词。
+inter-（在……之间、彼此） + connected（相连），也可视为 interconnect 的过去分词形容词。
 
 **怎么变成今天的意思**
 

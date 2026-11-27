@@ -45,7 +45,7 @@ friend + -ly → friendly；un- + friendly；friendly 变 friendliness。
 
 **怎么拆**
 
-friend + -ly，接古英语 frēondlīċ、中古英语 frendly 等；这里 -ly 构成形容词。名词 a friendly 又可指友谊赛、热身赛。
+friend + -ly（构成形容词，表示带有这种特点），接古英语 frēondlīċ、中古英语 frendly 等；这里 -ly 构成形容词。名词 a friendly 又可指友谊赛、热身赛。
 
 **怎么变成今天的意思**
 
@@ -87,7 +87,7 @@ friendly 是形容词，不因 -ly 就拿来替代所有副词：She spoke in a 
 
 **怎么拆**
 
-friendly 的 y 变 i + -ness，形成性质名词；中古英语已有相应形式。
+friendly 的 y 变 i + -ness（把前面的性质当作一种状态来说），形成性质名词；中古英语已有相应形式。
 
 **怎么变成今天的意思**
 
@@ -213,7 +213,7 @@ friendliest 常是相处感受的最高评价，不表示这个人已经与所�
 
 **怎么拆**
 
-un- 否定 + friendly，中古英语已有相应形式，较早英语也有相关副词证据。这里 -ly 原在 friendly 内，整体常是形容词。
+un- 否定 + friendly（友好），中古英语已有相应形式，较早英语也有相关副词证据。这里 -ly 原在 friendly 内，整体常是形容词。
 
 **怎么变成今天的意思**
 

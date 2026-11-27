@@ -39,7 +39,7 @@ please 去 e + -ing → pleasing；+ -ly → pleasingly。
 
 **怎么拆**
 
-please + -ing，分词形容能带来愉快或满意的事物。
+please（满意） + -ing，分词形容能带来愉快或满意的事物。
 
 **怎么变成今天的意思**
 
@@ -75,7 +75,7 @@ pleasing 强调带来满意的效果；pleased 强调接收这个效果的人已
 
 **怎么拆**
 
-pleasing + -ly → pleasingly，中古英语已有相应副词形式。-ing 的性质再接方式副词尾，不能只看到 ing 就一律译正在。
+pleasing（令人愉快） + -ly（把性质用来说明方式、程度或说话的角度） → pleasingly，中古英语已有相应副词形式。-ing 的性质再接方式副词尾，不能只看到 ing 就一律译正在。
 
 **怎么变成今天的意思**
 

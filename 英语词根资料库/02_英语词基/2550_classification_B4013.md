@@ -77,7 +77,7 @@ category 是某一个格子；classification 可以是整个分格办法，也�
 
 **怎么拆**
 
-re- + classification；与 reclassify 配套。
+re- + classification（分类）；与 reclassify 配套。
 
 **怎么变成今天的意思**
 
@@ -113,7 +113,7 @@ reclassification 改分类；reorganization 改组织方式，范围更广。
 
 **怎么拆**
 
-de- + classification；与 declassify 配套的名词。
+de- + classification（等级）；与 declassify 配套的名词。
 
 **怎么变成今天的意思**
 

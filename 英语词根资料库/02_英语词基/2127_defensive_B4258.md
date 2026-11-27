@@ -92,7 +92,7 @@ defensible 是“有理由可以辩护”；defensive 是“正在采取防卫�
 
 **怎么拆**
 
-defensive + -ly，把“防御的”变成动作的方式。
+defensive（戒备） + -ly（把性质用来说明方式、程度或说话的角度），把“防御的”变成动作的方式。
 
 **怎么变成今天的意思**
 
@@ -139,7 +139,7 @@ defensively 描述方式；in defense of someone 说明是在维护谁。一个�
 
 **怎么拆**
 
-defensive + -ness，性质名词；defensive 远接 defend 防卫词族。不是 defense 再加一个表示人的 -iveness。
+defensive（防御） + -ness（把前面的性质当作一种状态来说），性质名词；defensive 远接 defend 防卫词族。不是 defense 再加一个表示人的 -iveness。
 
 **怎么变成今天的意思**
 

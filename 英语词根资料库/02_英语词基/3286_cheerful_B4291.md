@@ -40,7 +40,7 @@ cheer + -ful → cheerful；接 -ly → cheerfully，-ness → cheerfulness。-f
 
 **怎么拆**
 
-中古英语已有 chereful 等，现代对应 cheer + -ful。-ful 表有这种性质，不意味着字面装满欢呼声。
+中古英语已有 chereful 等，现代对应 cheer（愉快） + -ful（带有、充满这种特点）。-ful 表有这种性质，不意味着字面装满欢呼声。
 
 **怎么变成今天的意思**
 
@@ -87,7 +87,7 @@ cheerful 可以形容环境效果，happy 更常直接说人高兴、满意。ch
 
 **怎么拆**
 
-cheerful + -ly，中古英语已有相应形式。-ful 结尾接 -ly 形成 -fully，两个 l 分别属于两段。
+cheerful（愉快） + -ly（把性质用来说明方式、程度或说话的角度），中古英语已有相应形式。-ful 结尾接 -ly 形成 -fully，两个 l 分别属于两段。
 
 **怎么变成今天的意思**
 
@@ -134,7 +134,7 @@ cheerfully 形容行为、态度；cheerful 形容人、声音、环境等性质
 
 **怎么拆**
 
-cheerful + -ness，中古英语已有 cherefulnes 等。-ness 将形容词性质转成名词。
+cheerful（愉快） + -ness（把前面的性质当作一种状态来说），中古英语已有 cherefulnes 等。-ness 将形容词性质转成名词。
 
 **怎么变成今天的意思**
 

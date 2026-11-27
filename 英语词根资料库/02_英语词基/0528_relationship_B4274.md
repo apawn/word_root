@@ -4,7 +4,7 @@
 
 ## 核心词根与来源
 
-relationship 是 relation + -ship，后缀形成关系、状态名词。relation 与 relate 有共同拉丁材料，但英语名词、动词并非一条简单的先短后长借入顺序。
+relationship 是 relation + -ship（把身份、关系或本领说成名词），后缀形成关系、状态名词。relation 与 relate 有共同拉丁材料，但英语名词、动词并非一条简单的先短后长借入顺序。
 
 **RELATIONSHIP：先找连接，再看连接的性质**
 
@@ -16,7 +16,7 @@ relationship 是 relation + -ship，后缀形成关系、状态名词。relation
 
 ## 词形与演化规律
 
-relate + -ed → related；relation + -ship → relationship；inter- + relationship → interrelationship。inter- 突出彼此之间，related to 表达有关、相连。
+relate + -ed → related；relation + -ship（把身份、关系或本领说成名词） → relationship；inter-（在……之间、彼此） + relationship → interrelationship。inter- 突出彼此之间，related to 表达有关、相连。
 
 ## 单词速览（按词族由简到繁）
 
@@ -45,6 +45,8 @@ relate + -ed → related；relation + -ship → relationship；inter- + relation
 **怎么拆**
 
 经法语 relater 并联系拉丁 relātus，后者是 referre 带回、报告的分词形式。讲述、关联、心理共鸣在不同阶段发展，现代 relate 不能只按一个中文义使用。
+
+re- 在这里指“回”，ferre 是“带”。把消息带回去可以是报告，把问题带回某个人或某个出处，可以是提请处理或指向出处。这里的 re- 说的是方向。
 
 **怎么变成今天的意思**
 
@@ -88,6 +90,8 @@ relate to 的有关、理解要随主语和对象判断。The figures relate to 
 
 relate + -ed，动词分词再用作形容词。relate 的历史接拉丁 relatus、referre 带回、报告等词族；现代联系、关系义逐步固定，不能按 relation 完整词加 d。
 
+re- 在这里指“回”，ferre 是“带”。把消息带回去可以是报告，把问题带回某个人或某个出处，可以是提请处理或指向出处。这里的 re- 说的是方向。
+
 **怎么变成今天的意思**
 
 **relate 的报告、叙述及相联系词族**  
@@ -130,6 +134,8 @@ relative 可作亲属名词或相对的形容词；related 通常是有关、有
 
 经法语接拉丁 relātiō，来自 referre 的 relātus 词干。现代可认 relate 与 -ion 的对应，但历史 lat- 与 fer- 是不规则词干关系，不按字母随意替换。
 
+re- 在这里指“回”，ferre 是“带”。把消息带回去可以是报告，把问题带回某个人或某个出处，可以是提请处理或指向出处。这里的 re- 说的是方向。
+
 **怎么变成今天的意思**
 
 **拉丁 referre → relātus、relātiō → 法语 relacion → 英语 relation**  
@@ -170,7 +176,9 @@ relation 可具体指一位亲属，relationship 常说联系、相处关系；a
 
 **怎么拆**
 
-relation + -ship，形成关系、相处状态名词。ship 是抽象状态、关系后缀，不是关系之船这一真实词源。
+relation（关系） + -ship（把身份、关系或本领说成名词），形成关系、相处状态名词。ship 是抽象状态、关系后缀，不是关系之船这一真实词源。
+
+re- 在这里指“回”，ferre 是“带”。把消息带回去可以是报告，把问题带回某个人或某个出处，可以是提请处理或指向出处。这里的 re- 说的是方向。
 
 **怎么变成今天的意思**
 
@@ -217,7 +225,7 @@ relationship 可人际，也可事物联系；a relation 可是亲戚本人，a 
 
 **怎么拆**
 
-inter- + relationship。
+inter-（在……之间、彼此） + relationship（关系）。
 
 **怎么变成今天的意思**
 

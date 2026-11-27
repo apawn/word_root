@@ -39,7 +39,7 @@ evolution + -ary → evolutionary；y 改 i 接 -ly → evolutionarily。
 
 **怎么拆**
 
-evolution + -ary 形容词后缀，表示与演化相关。词尾不是 ordinary 普通这个词拆出来，生物和一般演进两类用法跟着名词走。
+evolution（演化） + -ary 形容词后缀，表示与演化相关。词尾不是 ordinary 普通这个词拆出来，生物和一般演进两类用法跟着名词走。
 
 **怎么变成今天的意思**
 

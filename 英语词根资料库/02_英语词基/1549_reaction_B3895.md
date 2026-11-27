@@ -15,7 +15,7 @@ reaction → overreaction；reactionary 以独立法语政治词路径另列。
 
 ## 词形与演化规律
 
-reaction 的反作用、回应历史；over- + reaction；法语 réactionnaire → reactionary。
+reaction 的反作用、回应历史；over-（在上方、越过，也可说超过合适程度） + reaction；法语 réactionnaire → reactionary。
 
 ## 单词速览（按词族由简到繁）
 
@@ -41,7 +41,7 @@ reaction 是外界先给出一个刺激，另一方随后发生的变化或回�
 
 **怎么拆**
 
-现代可对应 re- + action 或 react + -ion；历史还联系拉丁语 reāctiō 和法语 réaction，不能只画成英语 react 的后代。
+现代可对应 re- + action 或 react + -ion（把动作或结果说成一件事）；历史还联系拉丁语 reāctiō 和法语 réaction，不能只画成英语 react 的后代。
 
 **怎么变成今天的意思**
 

@@ -225,7 +225,7 @@ intercellular 是细胞与细胞之间，extracellular 是细胞外。intra-、i
 
 **怎么拆**
 
-multi- + cellular“细胞的”，cellular 接 cell；是现代生物学构词，multi- 本身不说明细胞分工有多复杂。
+multi-（多个、多种） + cellular“细胞的”，cellular 接 cell；是现代生物学构词，multi- 本身不说明细胞分工有多复杂。
 
 **怎么变成今天的意思**
 
@@ -355,7 +355,7 @@ multicellular 是多细胞；unicellular 是单细胞。单细胞并不等于没
 
 **怎么拆**
 
-inter- + cellular“细胞的”。
+inter-（在……之间、彼此） + cellular“细胞的”。
 
 **怎么变成今天的意思**
 

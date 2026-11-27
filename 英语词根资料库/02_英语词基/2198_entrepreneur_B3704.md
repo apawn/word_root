@@ -128,7 +128,7 @@ entrepreneur 是创业的人，entrepreneurship 把创办经营、寻找机会�
 
 **怎么拆**
 
-entrepreneur + -ship，形成身份、实践及相应品质的抽象名词。这里不是一艘船。
+entrepreneur + -ship（把身份、关系或本领说成名词），形成身份、实践及相应品质的抽象名词。这里不是一艘船。
 
 **怎么变成今天的意思**
 
@@ -175,7 +175,7 @@ entrepreneurship 不作一个创业者的人物名词；学创业课程也不自
 
 **怎么拆**
 
-entrepreneur + -ial，形成相关性质形容词，增加 -ial 后尾部读出 /riəl/。
+entrepreneur + -ial（表示“与……有关的”，让这个词可以用来修饰别的事物），形成相关性质形容词，增加 -ial 后尾部读出 /riəl/。
 
 **怎么变成今天的意思**
 

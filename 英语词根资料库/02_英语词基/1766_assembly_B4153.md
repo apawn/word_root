@@ -226,7 +226,7 @@ disassembly 拆装或机器码转换，disassemble 动作；反汇编通常不�
 
 **怎么拆**
 
-re- 再 + assembly，动作、过程名词；reassemble 是相应动词，不能把 assembly 的集会义每次照搬进去。
+re- 再 + assembly（装配），动作、过程名词；reassemble 是相应动词，不能把 assembly 的集会义每次照搬进去。
 
 **怎么变成今天的意思**
 

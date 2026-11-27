@@ -43,7 +43,7 @@ sensation → sensational → sensationally／sensationalism／sensationalist；
 
 **怎么拆**
 
-sensation + -al，表示会引起强烈感受或轰动的。
+sensation（轰动） + -al（形容词词尾，表示与前面的事物有关），表示会引起强烈感受或轰动的。
 
 **怎么变成今天的意思**
 
@@ -79,7 +79,7 @@ sensational 的评价取决于对象；sensitive 则是接收刺激敏锐，不�
 
 **怎么拆**
 
-sensational + -ism，给一种表达倾向或做法命名。
+sensational（轰动） + -ism（把观念、做法、现象或状态说成名词），给一种表达倾向或做法命名。
 
 **怎么变成今天的意思**
 
@@ -115,7 +115,7 @@ sensationalism 是做法，sensationalist 是采用这种做法的人，也能�
 
 **怎么拆**
 
-sensational + -ist，形成从事者或倾向名称。
+sensational（轰动） + -ist（从事这种活动、研究这门学问或持这种主张的人），形成从事者或倾向名称。
 
 **怎么变成今天的意思**
 
@@ -151,7 +151,7 @@ sensational 可以单纯夸精彩；sensationalist 大多指刻意制造轰动�
 
 **怎么拆**
 
-sensation 引发感觉、轰动的事 → sensational + -al，再加 -ly。感觉刺激、引人震动的历史意义，分出了吸引眼球与极出色等评价。
+sensation 引发感觉、轰动的事 → sensational（轰动） + -al，再加 -ly。感觉刺激、引人震动的历史意义，分出了吸引眼球与极出色等评价。
 
 **怎么变成今天的意思**
 

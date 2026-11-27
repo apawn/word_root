@@ -83,7 +83,7 @@ whole 是完整的，wholesome 是给人有益、健康的感觉。a whole cake 
 
 **怎么拆**
 
-现代构词对应 wholesome + -ness → wholesomeness。-ness 把前面的性质作为状态、程度等来谈。
+现代构词对应 wholesome + -ness（把前面的性质当作一种状态来说） → wholesomeness。-ness 把前面的性质作为状态、程度等来谈。
 
 **怎么变成今天的意思**
 

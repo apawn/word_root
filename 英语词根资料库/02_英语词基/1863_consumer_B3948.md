@@ -41,7 +41,7 @@ consume + -er → consumer；consumer + -ism/-ist → consumerism、consumerist�
 
 **怎么拆**
 
-consume + -er；-er 表示做这件事的人或事物。
+consume（消耗） + -er；-er 表示做这件事的人或事物。
 
 **怎么变成今天的意思**
 
@@ -93,7 +93,7 @@ customer 强调与某家商户交易；consumer 强调消费、使用，付款�
 
 **怎么拆**
 
-consumer 消费者 + -ism，观念、主张名词；不同历史用法形成了重消费与消费者保护两支。
+consumer 消费者 + -ism（把观念、做法、现象或状态说成名词），观念、主张名词；不同历史用法形成了重消费与消费者保护两支。
 
 **怎么变成今天的意思**
 
@@ -135,7 +135,7 @@ consumption 消费行为、消耗量，consumerism 消费观念、风气或权�
 
 **怎么拆**
 
-consumer + -ist，与 consumerism 对应，能作人物名词，也能作相关性质形容词；不是词尾有 -ist 就永远只能作职业。
+consumer（消费者） + -ist（从事这种活动、研究这门学问或持这种主张的人），与 consumerism 对应，能作人物名词，也能作相关性质形容词；不是词尾有 -ist 就永远只能作职业。
 
 **怎么变成今天的意思**
 

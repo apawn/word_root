@@ -180,7 +180,7 @@ consultants 是人，consultations 是咨询、会诊等活动，consultancy 可
 
 **怎么拆**
 
-英语 consultant 的 -ant 换成 -ancy，或分析为 consult + -ancy；都是现代英语中的性质、业务名词构成。
+英语 consultant 的 -ant 换成 -ancy，或分析为 consult + -ancy（表示某种状态、性质或倾向）；都是现代英语中的性质、业务名词构成。
 
 **怎么变成今天的意思**
 

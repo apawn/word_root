@@ -93,7 +93,7 @@ history 关注实际过去、相关记录或研究；story 是故事，可以真
 
 **怎么拆**
 
-在来自拉丁语 historicus 的词族基础上加 -al；现代可看成 historic + -al，或 history 对应的 -ical 形容词形式。
+在来自拉丁语 historicus 的词族基础上加 -al；现代可看成 historic + -al（形容词词尾，表示与前面的事物有关），或 history 对应的 -ical 形容词形式。
 
 **继续看词根／词基**：[history](../02_英语词基/0441_history_B3416.md) · [historical](../02_英语词基/1471_historical_B3415.md)
 

@@ -15,7 +15,7 @@
 
 ## 词形与演化规律
 
-traditional + -ly/-ist/-ism；non- + traditional。
+traditional + -ly/-ist/-ism；non-（非、不属于这类） + traditional。
 
 ## 单词速览（按词族由简到繁）
 
@@ -44,6 +44,8 @@ traditional + -ly/-ist/-ism；non- + traditional。
 **怎么拆**
 
 英语 tradition + -al，表示与传统有关；不是 trade“贸易”的派生词。
+
+拉丁语 trāns 是“到另一边”，dare 是“给”。两块缩在一起成了 trādere，即把东西交到别人手里。交付下去的，可以是物件、消息，也可以是习俗。
 
 **怎么变成今天的意思**
 
@@ -96,6 +98,8 @@ conventional 常说大家通常采用的；traditional 更突出传承。traditi
 **怎么拆**
 
 英语 traditional + -ly，给动作或整句话加上“依传统、过去通常如此”的角度。
+
+拉丁语 trāns 是“到另一边”，dare 是“给”。两块缩在一起成了 trādere，即把东西交到别人手里。交付下去的，可以是物件、消息，也可以是习俗。
 
 **怎么变成今天的意思**
 
@@ -194,7 +198,7 @@ traditional 传统的修饰对象，traditionalist 人或相应取向；traditio
 
 **怎么拆**
 
-traditional + -ism，形成立场、取向名词。具体思想流派另有定义，日常可宽泛说对传统的坚持。
+traditional（传统） + -ism（把观念、做法、现象或状态说成名词），形成立场、取向名词。具体思想流派另有定义，日常可宽泛说对传统的坚持。
 
 **怎么变成今天的意思**
 
@@ -241,7 +245,7 @@ traditionalism 取向，tradition 具体传统，traditionalist 持这种取向�
 
 **怎么拆**
 
-non- 非、不属于 + traditional。前缀否定类别，不等于 anti- 必然主动反对传统。
+non- 非、不属于 + traditional（传统）。前缀否定类别，不等于 anti- 必然主动反对传统。
 
 **怎么变成今天的意思**
 

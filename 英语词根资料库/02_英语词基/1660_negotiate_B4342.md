@@ -242,7 +242,7 @@ negotiation 可以整体过程，也能按多轮、具体谈判用复数；不�
 
 **怎么拆**
 
-negotiation + -s，/n/ 后读 /z/。negotiation 借法语 négociation 或拉丁 negotiatio 商务、交易活动；现代与 negotiate 去 e 加 ion 的关系可配套理解，历史不要求英语动词先出现。
+negotiation（谈判） + -s（表示不止一个），/n/ 后读 /z/。negotiation 借法语 négociation 或拉丁 negotiatio 商务、交易活动；现代与 negotiate 去 e 加 ion 的关系可配套理解，历史不要求英语动词先出现。
 
 **怎么变成今天的意思**
 
@@ -383,7 +383,7 @@ negotiator 可以代表其中一方；mediator 常强调居中帮助双方，角
 
 **怎么拆**
 
-negotiator + -s，读 /z/；人物词借拉丁 negotiator 商务人物名，现代可与 negotiate 去 e 加 -or 对应认形，不能把词史只讲成英语现拼。
+negotiator（谈判者） + -s（表示不止一个），读 /z/；人物词借拉丁 negotiator 商务人物名，现代可与 negotiate 去 e 加 -or 对应认形，不能把词史只讲成英语现拼。
 
 **怎么变成今天的意思**
 
@@ -430,7 +430,7 @@ negotiators 代表各方谈条件，mediators 常从中帮助各方沟通；角�
 
 **怎么拆**
 
-negotiate + -s，/t/ 后读 /s/。基础词可能由 negotiation 逆构，或接拉丁相应分词；现代短动词不一定历史先出现。
+negotiate（协商） + -s（主语是 he、she、it 这一类单数时，用这个一般现在时词尾），/t/ 后读 /s/。基础词可能由 negotiation 逆构，或接拉丁相应分词；现代短动词不一定历史先出现。
 
 **怎么变成今天的意思**
 
@@ -477,7 +477,7 @@ negotiate with 后接交涉对象，negotiate a bend 的宾语是要通过的难
 
 **怎么拆**
 
-re- 再次 + negotiate；前缀作用于整个协商动作。
+re- 再次 + negotiate（谈判）；前缀作用于整个协商动作。
 
 **怎么变成今天的意思**
 

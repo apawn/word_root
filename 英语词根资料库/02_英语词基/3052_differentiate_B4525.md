@@ -44,6 +44,8 @@ different 相关词族 → differentiate；-ation 过程，-or 因素、工具�
 
 来自后来的拉丁语 differentiātus，出自 differentiare，根为 differentia“差别”。不是从现代 different 随意加字母。
 
+dis- 表示“分开”，ferre 是“带”。s 遇 f 同化成 f，所以写成 differre。东西被带往不同方向，便彼此有别。这个拉丁词也有推迟义，要随英语分支读。
+
 **怎么变成今天的意思**
 
 ![differentiate 的词源演化](../assets/evolution/differentiate-4d53caf8.svg)
@@ -78,7 +80,9 @@ differ 是本来不同；differentiate 是辨别、造成这种差别，或专�
 
 **怎么拆**
 
-differentiate + -ion，英语动作名词；早期用例有数学背景。
+differentiate（区分） + -ion（把动作或结果说成一件事），英语动作名词；早期用例有数学背景。
+
+dis- 表示“分开”，ferre 是“带”。s 遇 f 同化成 f，所以写成 differre。东西被带往不同方向，便彼此有别。这个拉丁词也有推迟义，要随英语分支读。
 
 **怎么变成今天的意思**
 
@@ -116,6 +120,8 @@ difference 是差别本身；differentiation 是形成、辨明差别的过程�
 
 differentiate 与 -able 形成的形容词，词干使用 differentia-；不能按长动词原样加 -able 再照字母读。
 
+dis- 表示“分开”，ferre 是“带”。s 遇 f 同化成 f，所以写成 differre。东西被带往不同方向，便彼此有别。这个拉丁词也有推迟义，要随英语分支读。
+
 **怎么变成今天的意思**
 
 ![differentiable 的词源演化](../assets/evolution/differentiable-d08c99d3.svg)
@@ -150,7 +156,7 @@ continuous 是不断开；differentiable 还要求相应的局部线性近似或
 
 **怎么拆**
 
-differentiate 去末尾 e + -or，使用 differentiat- 词干，形成使有区别、实施区分的事物、执行者名。专门技术里也有相应工具含义。
+differentiate 去末尾 e + -or（做这件事的人或起这种作用的东西），使用 differentiat- 词干，形成使有区别、实施区分的事物、执行者名。专门技术里也有相应工具含义。
 
 **怎么变成今天的意思**
 

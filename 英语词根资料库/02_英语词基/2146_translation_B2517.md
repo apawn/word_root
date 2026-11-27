@@ -15,7 +15,7 @@ translation → translational；mis- + translation → mistranslation。
 
 ## 词形与演化规律
 
-trāns- + ferre / lātus → trānslātiō → translation；接 -al，或前接 mis-。
+trāns-（越过、穿过，或从一边到另一边） + ferre / lātus → trānslātiō → translation；接 -al，或前接 mis-。
 
 ## 单词速览（按词族由简到繁）
 
@@ -88,7 +88,7 @@ translation 可过程、结果；interpretation 还可解释、口译等，特�
 
 **怎么拆**
 
-translation + -al，形成相关形容词。translation 接拉丁 trānslātiō；trānslāt- 中 lāt- 来自 ferre 带的不规则分词路线，不是晚 late。
+translation（翻译过程） + -al（形容词词尾，表示与前面的事物有关），形成相关形容词。translation 接拉丁 trānslātiō；trānslāt- 中 lāt- 来自 ferre 带的不规则分词路线，不是晚 late。
 
 **怎么变成今天的意思**
 
@@ -135,7 +135,7 @@ translational research；translational motion；translational control。
 
 **怎么拆**
 
-mis- + translation；现代构词表示翻译中的错误。
+mis-（做错、做得不当） + translation（译文）；现代构词表示翻译中的错误。
 
 **怎么变成今天的意思**
 

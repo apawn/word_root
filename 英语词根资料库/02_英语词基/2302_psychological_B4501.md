@@ -41,7 +41,7 @@ psychology → psychological；-ly 副词；neuro- 神经 + psychological。
 
 **怎么拆**
 
-英语 psychology + -ical；延续词首不发音的 p，重音移至 -log-。
+英语 psychology（心理学） + -ical（表示“与……有关的”，让这个词可以用来修饰别的事物）；延续词首不发音的 p，重音移至 -log-。
 
 **怎么变成今天的意思**
 
@@ -93,7 +93,7 @@ physiological 着重身体功能；psychological 着重心理过程，两方面�
 
 **怎么拆**
 
-psychological + -ly，读音中 -cal- 通常压缩为 /k/ 接 /li/。
+psychological（心理） + -ly，读音中 -cal- 通常压缩为 /k/ 接 /li/。
 
 **怎么变成今天的意思**
 
@@ -140,7 +140,7 @@ physically 侧重身体或物理层面；psychologically 侧重感受、认知�
 
 **怎么拆**
 
-neuro- 神经 + psychological 心理学的，也可对应 neuropsychology + -ical。neuro- 联系希腊 neûron，psychological 接 psyche、psychology 一系。
+neuro- 神经 + psychological 心理学的，也可对应 neuropsychology（神经心理学） + -ical（表示“与……有关的”，让这个词可以用来修饰别的事物）。neuro- 联系希腊 neûron，psychological 接 psyche、psychology 一系。
 
 **怎么变成今天的意思**
 

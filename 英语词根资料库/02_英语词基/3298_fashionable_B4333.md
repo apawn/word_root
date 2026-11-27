@@ -14,7 +14,7 @@ fashionable → fashionably；unfashionable 否定流行性质。
 
 ## 词形与演化规律
 
-fashion + -able → fashionable；-able 改 -ably → fashionably；un- 否定。
+fashion + -able（能这样做，或能被这样对待） → fashionable；-able 改 -ably → fashionably；un- 否定。
 
 ## 单词速览（按词族由简到繁）
 
@@ -40,7 +40,7 @@ fashion + -able → fashionable；-able 改 -ably → fashionably；un- 否定�
 
 **怎么拆**
 
-fashion + -able，表示合乎当前风尚的。
+fashion + -able（能这样做，或能被这样对待），表示合乎当前风尚的。
 
 **怎么变成今天的意思**
 
@@ -76,7 +76,7 @@ stylish 强调有风格、好看；fashionable 强调当下流行，两者并不
 
 **怎么拆**
 
-fashionable + -ly；-able 末尾 e 去掉，形成 -ably → fashionably。不是 fashionable 原样再多写一个完整音节。
+fashionable（时髦） + -ly（把性质用来说明方式、程度或说话的角度）；-able 末尾 e 去掉，形成 -ably → fashionably。不是 fashionable 原样再多写一个完整音节。
 
 **怎么变成今天的意思**
 

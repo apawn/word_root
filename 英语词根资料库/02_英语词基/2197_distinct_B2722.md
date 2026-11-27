@@ -93,7 +93,7 @@ distinct 强调分得开或很清楚；distinctive 强调本身有特征、容�
 
 **怎么拆**
 
-distinct + -ly，英语副词。保留 distinct 的“清楚、能分开”核心。
+distinct + -ly（把性质用来说明方式、程度或说话的角度），英语副词。保留 distinct 的“清楚、能分开”核心。
 
 **怎么变成今天的意思**
 
@@ -150,7 +150,7 @@ distinctively 强调独有风格；distinctly 强调清楚或程度明显。dist
 
 **怎么拆**
 
-拉丁 in- + distinctus 形成 indistinctus，借入英语，也有法语 indistinct 中介分析。现代可按否定 in- + distinct 理解。
+拉丁 in- + distinctus 形成 indistinctus，借入英语，也有法语 indistinct 中介分析。现代可按否定 in-（拉丁来源的否定成分，表示“不、非”） + distinct 理解。
 
 **怎么变成今天的意思**
 

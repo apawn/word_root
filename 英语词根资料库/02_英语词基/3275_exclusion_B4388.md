@@ -86,7 +86,7 @@ exception 是从一般规则中提出的例外；exclusion 是明确不纳入的
 
 **怎么拆**
 
-exclusion + -ary → exclusionary；exclusion 追到拉丁 ex- 在外 + claudere 关闭的排除材料，不拆成现代 exclude 直接加 -ary。
+exclusion（排除） + -ary（形成形容词，说明与前面的事物有关） → exclusionary；exclusion 追到拉丁 ex- 在外 + claudere 关闭的排除材料，不拆成现代 exclude 直接加 -ary。
 
 **怎么变成今天的意思**
 

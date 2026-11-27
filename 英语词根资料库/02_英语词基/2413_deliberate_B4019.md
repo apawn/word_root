@@ -130,7 +130,7 @@ deliberately does not always mean slowly：故意忽略可以做得很快。只�
 
 **怎么拆**
 
-经法语 deliberation、拉丁 deliberātiō 传入；现代可对应 deliberate + -ion。名词选择权衡、讨论支线，不是每次表示故意。
+经法语 deliberation、拉丁 deliberātiō 传入；现代可对应 deliberate（慎重） + -ion（把动作或结果说成一件事）。名词选择权衡、讨论支线，不是每次表示故意。
 
 **怎么变成今天的意思**
 

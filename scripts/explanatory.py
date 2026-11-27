@@ -6,6 +6,7 @@ import json
 import re
 import unicodedata
 from pathlib import Path
+from component_glosses import detailed_split, root_details
 
 BASE=Path(__file__).resolve().parents[1]
 CONTENT=BASE/'content/精讲'
@@ -138,12 +139,12 @@ def draw_root(r,lesson):
             svg.append(f'<text class="note" x="{x}" y="{y+len(labels)*34+6+j*26}" text-anchor="middle" font-size="19">{html.escape(line)}</text>')
     svg.append('</svg>');(OUT/'assets'/f'{r["id"]}.svg').write_text('\n'.join(svg))
 
-def word_markdown(w,index,anchor=None,study_links=None):
+def word_markdown(w,index,anchor=None,study_links=None,bases=()):
     if not images_paused():draw_history(w['word'],w['history'])
     evolution=[f'![{w["word"]} 的词源演化](../assets/evolution/{history_filename(w["word"])})'] if word_has_image(w) else ['\n\n↓\n\n'.join(f'**{plain_markdown(label)}**  \n{plain_markdown(meaning)}' for label,meaning in w['history'])]
     lines=[f'<a id="w-{anchor if anchor is not None else index}"></a>','',f'### {index}. {w["word"]} — {w["meaning"]}','',
            f'**音标**：{w["ipa"]}','', '**先抓住这个画面**','',w['sense'],'',
-           '**怎么拆**','',w['split'],'',
+           '**怎么拆**','',detailed_split(w,bases),'',
            *([f'**继续看词根／词基**：'+ ' · '.join(study_links),''] if study_links else []),
            '**怎么变成今天的意思**','',
            *evolution,'',w['explanation'],'',
@@ -152,16 +153,17 @@ def word_markdown(w,index,anchor=None,study_links=None):
     lines += ['**别混淆**','',w['contrast'],'']
     return lines
 
-def render_root(r,lesson,words,navigation=None):
+def render_root(r,lesson,words,navigation=None,base_glosses=None):
     missing=set(r['family'])-words.keys()
     assert not missing,(r['id'],'unwritten words',sorted(missing))
     if not images_paused():draw_root(r,lesson)
+    intro, forms = root_details(r,lesson)
     overview=[f'![{r["root"]} 的意义分支](../assets/{r["id"]}.svg)'] if root_has_image(r,lesson) else [f'**{lesson["core"]}**','',lesson['image'],'']+[f'- **{label}**：{examples}' for label,examples in lesson['branches']]
     lines=[f'# {r["rank"]:04d} · {r["root"]} — {lesson["meaning"]}','',
            '[逐词精讲目录](../00_逐词精讲目录.md) · [总目录](../00_总目录_按常用程度.md)','',
-           '## 核心词根与来源','',lesson['intro'],'',
+           '## 核心词根与来源','',intro,'',
            *overview,'',
-           '## 词形与演化规律','',lesson['forms'],'',
+           '## 词形与演化规律','',forms,'',
            '## 单词速览（按词族由简到繁）','',
            '同一基础词的相关扩展放在一起，先读基础形式，再读扩展；各组之间优先读常用的。具体词源关系见各词讲解。','',
            '| 单词 | 音标 | 核心意思 |','|---|---|---|']
@@ -171,7 +173,7 @@ def render_root(r,lesson,words,navigation=None):
     lines+=['','## 逐词讲解','']
     for i,name in enumerate(r['family'],1):
         study_links=navigation.links(name,r) if navigation and r['group']=='03_词缀与组合形式' else None
-        lines+=word_markdown(words[name],i,r.get('word_anchors',{}).get(name,i),study_links)
+        lines+=word_markdown(words[name],i,r.get('word_anchors',{}).get(name,i),study_links,(base_glosses or {}).get(name,()))
     if lesson.get('contrasts'):lines+=['## 这一组要分清什么','',lesson['contrasts'],'']
     if lesson.get('practice'):lines+=['## 串起来练习','',lesson['practice'],'']
     (OUT/r['file']).write_text('\n'.join(lines))

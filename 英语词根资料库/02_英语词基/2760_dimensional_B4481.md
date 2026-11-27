@@ -41,7 +41,7 @@ dimensio → dimension → dimensional；-ly 方面、方式，multi- 多，inte
 
 **怎么拆**
 
-dimension + -al。
+dimension（尺寸） + -al（形容词词尾，表示与前面的事物有关）。
 
 **怎么变成今天的意思**
 
@@ -177,7 +177,7 @@ multifaceted 也说多方面，常像观察物体的不同侧面；multidimensio
 
 **怎么拆**
 
-inter- + dimensional“维度的”。
+inter-（在……之间、彼此） + dimensional“维度的”。
 
 **怎么变成今天的意思**
 

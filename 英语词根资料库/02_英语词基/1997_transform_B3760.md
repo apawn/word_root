@@ -15,7 +15,7 @@ transform → transformation 转变过程、结果；transformer 转换装置；
 
 ## 词形与演化规律
 
-trāns- + fōrmāre → trānsfōrmāre → transform；transform + -ation/-er；transformātīvus → transformative。
+trāns-（越过、穿过，或从一边到另一边） + fōrmāre → trānsfōrmāre → transform；transform + -ation/-er；transformātīvus → transformative。
 
 ## 单词速览（按词族由简到繁）
 
@@ -78,7 +78,7 @@ change 范围很宽；transform 往往让人感觉改变明显，带来新的状
 
 **怎么拆**
 
-经法语来自拉丁语 trānsfōrmātiō；与 transform 同族，现代可对应 transform + -ation。
+经法语来自拉丁语 trānsfōrmātiō；与 transform 同族，现代可对应 transform（变换） + -ation（把动作或结果说成一件事）。
 
 **怎么变成今天的意思**
 
@@ -114,7 +114,7 @@ formation 是形成；transformation 是已经存在的东西变成另一个状�
 
 **怎么拆**
 
-transform + -er，器物、施事名。电学义是特定装置的名称，现代大写 Transformer 还可作作品、角色或技术专名，需按上下文分。
+transform + -er（指做这件事的人或起这种作用的东西），器物、施事名。电学义是特定装置的名称，现代大写 Transformer 还可作作品、角色或技术专名，需按上下文分。
 
 **怎么变成今天的意思**
 

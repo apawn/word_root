@@ -14,7 +14,7 @@ careless → carelessly、carelessness。
 
 ## 词形与演化规律
 
-care + -less；careless + -ly／-ness。相关古英语材料原来也有无忧义，现代粗心义要按具体语境读。
+care + -less（缺少前面说的东西）；careless + -ly／-ness。相关古英语材料原来也有无忧义，现代粗心义要按具体语境读。
 
 ## 单词速览（按词族由简到繁）
 
@@ -40,7 +40,7 @@ care + -less；careless + -ly／-ness。相关古英语材料原来也有无忧�
 
 **怎么拆**
 
-care + -less，接古英语 carlēas 等，早有无忧、无挂念等义；现代常指缺少注意，容易出错。
+care（在意） + -less（缺少前面说的东西），接古英语 carlēas 等，早有无忧、无挂念等义；现代常指缺少注意，容易出错。
 
 **怎么变成今天的意思**
 
@@ -82,7 +82,7 @@ careless 常批评没留心，carefree 常称无忧无虑；无忧的人也可�
 
 **怎么拆**
 
-careless + -ly → carelessly。careless 里的 -less 是缺少；再接 -ly 把性质变成做事方式，不把 carelessly 拆成 care + lessly。
+careless（粗心） + -ly（把性质用来说明方式、程度或说话的角度） → carelessly。careless 里的 -less 是缺少；再接 -ly 把性质变成做事方式，不把 carelessly 拆成 care + lessly。
 
 **怎么变成今天的意思**
 
@@ -124,7 +124,7 @@ carelessly 缺少注意，accidentally 只是非故意；意外可能发生在�
 
 **怎么拆**
 
-现代对应 careless + -ness；历史上古英语已有 carlēasnes 等形式，早期也能说无忧、安稳，后来缺少小心的义成为常用重心。
+现代对应 careless（粗心） + -ness（把前面的性质当作一种状态来说）；历史上古英语已有 carlēasnes 等形式，早期也能说无忧、安稳，后来缺少小心的义成为常用重心。
 
 **怎么变成今天的意思**
 

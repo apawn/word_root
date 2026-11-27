@@ -80,7 +80,7 @@ intention 是想达到的目的；result 是实际发生的结果。
 
 **怎么拆**
 
-intention + -s，/n/ 后读 /z/。intention 经古法语 entencion 接拉丁 intentio，较早连 intendere 的伸向、指向材料；与 intend、intent 同族但有独立名词借入史。
+intention（意图） + -s（表示不止一个），/n/ 后读 /z/。intention 经古法语 entencion 接拉丁 intentio，较早连 intendere 的伸向、指向材料；与 intend、intent 同族但有独立名词借入史。
 
 **怎么变成今天的意思**
 
@@ -164,7 +164,7 @@ intend 是把心思朝某个目标指去：还没做，也已经有了打算。
 
 **怎么拆**
 
-in-（朝向）+ tendere → intendere，经法语 entendre 传入。
+in-（朝向）+ tendere（拉丁语，伸展、拉紧、朝某处去） → intendere，经法语 entendre 传入。
 
 **怎么变成今天的意思**
 

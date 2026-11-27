@@ -42,7 +42,7 @@ instrumentum → instrument → instrumental；-ist 人，-ly 方式，-ity 性�
 
 **怎么拆**
 
-与中世纪拉丁 īnstrūmentālis 对应，现代可看作 instrument + -al。名词 instrumental 是器乐作品等用法，不把关键作用义只锁在会弹琴。
+与中世纪拉丁 īnstrūmentālis 对应，现代可看作 instrument（仪器） + -al（形容词词尾，表示与前面的事物有关）。名词 instrumental 是器乐作品等用法，不把关键作用义只锁在会弹琴。
 
 **怎么变成今天的意思**
 
@@ -89,7 +89,7 @@ instrument 在音乐里是乐器，instrumentalist 就是演奏乐器的人。�
 
 **怎么拆**
 
-instrumental + -ist。音乐人物义承乐器形容词，哲学义与 instrumentalism 工具主义配套；两种人各看领域。
+instrumental（器乐） + -ist（从事这种活动、研究这门学问或持这种主张的人）。音乐人物义承乐器形容词，哲学义与 instrumentalism 工具主义配套；两种人各看领域。
 
 **怎么变成今天的意思**
 
@@ -131,7 +131,7 @@ instrumentalist 音乐义强调演奏乐器，vocalist 强调用人声；一个�
 
 **怎么拆**
 
-instrumental + -ity，性质名词，-al 在重音变化后读 /æl/；也由性质转指具体起作用的工具、机关。
+instrumental（工具） + -ity（把“怎样的”变成“这种性质、状态或程度”），性质名词，-al 在重音变化后读 /æl/；也由性质转指具体起作用的工具、机关。
 
 **怎么变成今天的意思**
 
@@ -173,7 +173,7 @@ instrumentality 常正式谈手段、机构；不等于日常 instrument 乐器�
 
 **怎么拆**
 
-instrumental + -ly，-al + -ly 形成 -ally；承乐器的与作为手段的两个性质分支。
+instrumental（器乐） + -ly，-al + -ly 形成 -ally；承乐器的与作为手段的两个性质分支。
 
 **怎么变成今天的意思**
 

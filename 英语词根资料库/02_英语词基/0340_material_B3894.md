@@ -146,7 +146,7 @@ material 资料不一定实体材料；形容词重要的也不等于摸得着�
 
 **怎么拆**
 
-material + -s，/l/ 后读 /z/。material 经法语等接晚期拉丁 māteriālis，来自 māteria 木材、材料、物质。现代复数按英语规则形成，材料义扩展到信息、学习素材。
+material（材料） + -s（表示不止一个），/l/ 后读 /z/。material 经法语等接晚期拉丁 māteriālis，来自 māteria 木材、材料、物质。现代复数按英语规则形成，材料义扩展到信息、学习素材。
 
 **怎么变成今天的意思**
 
@@ -188,7 +188,7 @@ material 也可不可数地说一类材料或资料总体；materials 常把不�
 
 **怎么拆**
 
-material + -ly，中古英语已有对应形式。随 material 的重要、物质两路分义，不统一翻成用材料地。
+material + -ly（把性质用来说明方式、程度或说话的角度），中古英语已有对应形式。随 material 的重要、物质两路分义，不统一翻成用材料地。
 
 **怎么变成今天的意思**
 
@@ -235,7 +235,7 @@ materially 在影响语境常近 substantially；physically 说身体上、物�
 
 **怎么拆**
 
-material + -ize，使成物质形态的构词联系，后来通用于实现、出现。现代不是只说把材料加工出来。
+material + -ize（使成为，或按这种方式处理），使成物质形态的构词联系，后来通用于实现、出现。现代不是只说把材料加工出来。
 
 **怎么变成今天的意思**
 
@@ -282,7 +282,7 @@ materialize 常让计划、结果、人物作主语；realize a plan 常是人�
 
 **怎么拆**
 
-material + -ist，后缀称持某立场、倾向的人。接物质概念发展哲学用法，也有日常物质至上称呼。
+material（物质） + -ist（从事这种活动、研究这门学问或持这种主张的人），后缀称持某立场、倾向的人。接物质概念发展哲学用法，也有日常物质至上称呼。
 
 **怎么变成今天的意思**
 
@@ -329,7 +329,7 @@ a philosophical materialist；a committed materialist；call someone a materiali
 
 **怎么拆**
 
-material + -istic，也可结合 materialist 和形容词 -ic 认形。日常评价与哲学含义并存，不靠词尾替人判断价值观。
+material + -istic（具有这种做法、学说或人的特点），也可结合 materialist 和形容词 -ic 认形。日常评价与哲学含义并存，不靠词尾替人判断价值观。
 
 **怎么变成今天的意思**
 
@@ -423,7 +423,7 @@ materiality 重要程度或物质性，materialism 物质主义、唯物论等�
 
 **怎么拆**
 
-经法语及中世纪拉丁 immāteriālis 等借入；im- 是否定 in- 在 m 前的变体，现代可认 im- + material。两义分别否定重要、物质。
+经法语及中世纪拉丁 immāteriālis 等借入；im- 是否定 in- 在 m 前的变体，现代可认 im- + material（物质）。两义分别否定重要、物质。
 
 **怎么变成今天的意思**
 
@@ -465,7 +465,7 @@ immaterial 常是无关紧要，immature 未成熟是另一词。immaterial 不�
 
 **怎么拆**
 
-matter + -s，读 /z/。matter 经法语 matere、matiere 接拉丁 materia，早有材料、木材、内容等义；事情、问题的名词分支发展后，英语形成“要紧”的动词用法。
+matter（事情） + -s（这里既有名词复数用法，也有动词第三人称单数用法），读 /z/。matter 经法语 matere、matiere 接拉丁 materia，早有材料、木材、内容等义；事情、问题的名词分支发展后，英语形成“要紧”的动词用法。
 
 **怎么变成今天的意思**
 

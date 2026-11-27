@@ -45,7 +45,7 @@ Rōmānicē → romanz/romant → romance/romantic；romantic + -ally/-ism/-ize�
 
 **怎么拆**
 
-接 romant/romance 叙事词及法语 romantique、拉丁相应形式，现代可认 romant- + -ic。传奇性质先于今天只谈恋爱的狭义联想。
+接 romant/romance 叙事词及法语 romantique、拉丁相应形式，现代可认 romant- + -ic（表示“与……有关的”，让这个词可以用来修饰别的事物）。传奇性质先于今天只谈恋爱的狭义联想。
 
 **怎么变成今天的意思**
 
@@ -92,7 +92,7 @@ romantic 不总等于爱情：romantic ideas about country life 可能是把乡�
 
 **怎么拆**
 
-romantic + -ally，-ic 形容词常有这一副词形式。常用读音结尾 /kli/，不必把每个写出的字母都添成独立音节。
+romantic（浪漫） + -ally（在许多 -ic 词后与 -al、-ly 的副词构形相连，把性质转成做事的方式或角度），-ic 形容词常有这一副词形式。常用读音结尾 /kli/，不必把每个写出的字母都添成独立音节。
 
 **怎么变成今天的意思**
 
@@ -144,7 +144,7 @@ romantically linked 在报道里可能只是关系传闻表达，不证明事实
 
 **怎么拆**
 
-romantic + -ism，立场、风格、流派名词。词干末 c 在后续音节环境中读 /s/，不保留 romantic 末尾 /k/ 再加一个 /ɪzəm/。
+romantic（浪漫） + -ism（把观念、做法、现象或状态说成名词），立场、风格、流派名词。词干末 c 在后续音节环境中读 /s/，不保留 romantic 末尾 /k/ 再加一个 /ɪzəm/。
 
 **怎么变成今天的意思**
 
@@ -196,7 +196,7 @@ Romanticism 不是任何爱情故事的统称；romanticism 一般情怀与具�
 
 **怎么拆**
 
-romantic + -ize，形成使之具有理想化、传奇情调的动词；英式也常写 romanticise。这里 c 后接 i 的部分读 /s/。
+romantic（浪漫） + -ize（使成为，或按这种方式处理），形成使之具有理想化、传奇情调的动词；英式也常写 romanticise。这里 c 后接 i 的部分读 /s/。
 
 **怎么变成今天的意思**
 
@@ -248,7 +248,7 @@ romanticize 不只是添加恋爱剧情，更多说滤掉难处后的理想化�
 
 **怎么拆**
 
-un- 不 + romantic，否定浪漫、理想化等性质；具体是哪一支由修饰对象决定。
+un- 不 + romantic（浪漫），否定浪漫、理想化等性质；具体是哪一支由修饰对象决定。
 
 **怎么变成今天的意思**
 

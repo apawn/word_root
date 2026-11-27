@@ -40,7 +40,7 @@ conceptual → conceptually、conceptualize。
 
 **怎么拆**
 
-接中世纪拉丁 conceptualis，基于 conceptus 构想、概念；现代可对应 concept + -ual。不是概念少了实物，就一定不真实或没用。
+接中世纪拉丁 conceptualis，基于 conceptus 构想、概念；现代可对应 concept + -ual（形成形容词，说明与前面的事物有关）。不是概念少了实物，就一定不真实或没用。
 
 **怎么变成今天的意思**
 
@@ -82,7 +82,7 @@ conceptual 问如何理解、组织概念，practical 问实际怎样做；一�
 
 **怎么拆**
 
-conceptual + -ly → conceptually；原有 l 接 -ly，因此写两个 l。副词修饰理解、区分或性质判断。
+conceptual（概念上） + -ly → conceptually；原有 l 接 -ly，因此写两个 l。副词修饰理解、区分或性质判断。
 
 **怎么变成今天的意思**
 

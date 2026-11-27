@@ -40,7 +40,7 @@ controversy + -al → controversial；-ly 副词，un- 否定。
 
 **怎么拆**
 
-源自后期拉丁语 contrōversiālis，与 contrōversia 同支；现代对应 controversy + -al。
+源自后期拉丁语 contrōversiālis，与 contrōversia 同支；现代对应 controversy + -al（形容词词尾，表示与前面的事物有关）。
 
 **怎么变成今天的意思**
 
@@ -76,7 +76,7 @@ unpopular 是不受欢迎；controversial 常指不同群体态度分裂，不�
 
 **怎么拆**
 
-controversial + -ly。
+controversial（有争议） + -ly（把性质用来说明方式、程度或说话的角度）。
 
 **怎么变成今天的意思**
 

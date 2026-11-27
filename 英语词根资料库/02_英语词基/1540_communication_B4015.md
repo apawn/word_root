@@ -16,7 +16,7 @@ communication → miscommunication；telecommunication 接远距离技术通信�
 
 ## 词形与演化规律
 
-communicāre、communicātiō → communication；mis- + communication；法语 télécommunication → 英语，tele- 表远。
+communicāre、communicātiō → communication；mis-（做错、做得不当） + communication；法语 télécommunication → 英语，tele- 表远。
 
 telecommunication 借法语 télécommunication，现代行业、设施等常用带 -s 的形式 telecommunications，不能只按复数词尾译成多场谈话。
 
@@ -129,7 +129,7 @@ telecommunication 侧重借技术远距离传递消息；communication 范围更
 
 **怎么拆**
 
-telecommunication + -s；可对应 tele- 远 + communication 通信。词源借法语 télécommunication，communication 远接拉丁使共同、分享消息的材料。
+telecommunication（电信） + -s；可对应 tele- 远 + communication 通信。词源借法语 télécommunication，communication 远接拉丁使共同、分享消息的材料。
 
 **怎么变成今天的意思**
 
@@ -171,7 +171,7 @@ telecommunications networks；telecommunications equipment；work in telecommuni
 
 **怎么拆**
 
-mis- + communication；communication 是信息交流，加 mis- 表示交流出了偏差。
+mis- + communication（沟通）；communication 是信息交流，加 mis- 表示交流出了偏差。
 
 **怎么变成今天的意思**
 

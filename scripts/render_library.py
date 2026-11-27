@@ -15,6 +15,7 @@ from explanatory import load_lessons,render_root,finish as finish_lessons,images
 from lesson_order import make_relations,order_family
 from source_archive import write_source_archive
 from lesson_navigation import LessonNavigation
+from component_glosses import dictionary_notes, english_base_glosses
 
 LANG={'Latin':'拉丁语','Greek':'古希腊语','Latin from Greek':'拉丁语 ← 古希腊语','Latin and Greek':'拉丁语／古希腊语','Greek/Latin':'古希腊语／拉丁语','Latin, Greek':'拉丁语／古希腊语','Greek from Hebrew':'古希腊语 ← 希伯来语',
       'en':'英语','enm':'中古英语','ang':'古英语','la':'拉丁语','la-new':'新拉丁语','la-med':'中世纪拉丁语','grc':'古希腊语','fr':'法语','fro':'古法语','frm':'中古法语','de':'德语','gem-pro':'原始日耳曼语','gmw-pro':'原始西日耳曼语','ine-pro':'原始印欧语','non':'古诺尔斯语','nl':'荷兰语','it':'意大利语','es':'西班牙语','ar':'阿拉伯语','ota':'奥斯曼土耳其语','ja':'日语','zh':'汉语','hi':'印地语','sa':'梵语','fa':'波斯语','he':'希伯来语','pt':'葡萄牙语','itc-pro':'原始意大利语','el':'现代希腊语'}
@@ -215,6 +216,7 @@ def main():
     if (CACHE/'examples-index.json').exists():CORPUS=json.loads((CACHE/'examples-index.json').read_text())
     roots=json.loads((CACHE/'catalog.json').read_text());lex=load_lexicon()
     lessons,lesson_words=load_lessons()
+    base_glosses=english_base_glosses(lesson_words,lex)
     reading_relations=make_relations(lesson_words,lex)
     previous_path=OUT/'data/条目清单.json'
     previous={r['id']:r for r in json.loads(previous_path.read_text())} if previous_path.exists() else {}
@@ -315,6 +317,9 @@ def main():
                 gloss=next(s['glosses'][-1] for s in hd['senses'] if s.get('glosses'))
                 lines += [f'**来源记录 {j}**（{POS.get(hd["pos"],hd["pos"])}；{md(gloss)}）', '',md(history),'']
         if r['id'] in notes:lines += ['## 演化说明', '',notes[r['id']],'']
+        if r['id'] not in lessons:
+            for note in dictionary_notes(r.get('origin',''), r['root']):
+                lines += [note, '']
         lines += ['## 词族图', '',f'![{md(r["root"])} 词族图](../assets/{r["id"]}.svg)', '']
         if record:lines += ['## 单词速览（常用到不常用）', '', '| 单词 | 音标 | 释义 |','|---|---|---|']
         for i,w in enumerate(record,1):
@@ -329,6 +334,9 @@ def main():
             lines += [f'**英文义项**：{" / ".join(md(g) for g in w["glosses"])}','']
             if w['split']:lines += ['**构词拆分**：'+'；'.join(md(x) for x in w['split']),'']
             if w['etym']:lines += ['**词源与演化**：', '',md(w['etym']),'']
+            if r['id'] not in lessons:
+                for note in dictionary_notes(w['etym']+'\n'+'\n'.join(w['split']), w['word'], w['split'], w['zh']):
+                    lines += [note, '']
             if w['example']:
                 label='例句' if re.search(r'[.!?][”"\']?$',w['example']) and len(w['example'].split())>=4 else '用法示例／搭配（非完整句）'
                 lines += [f'**{label}**：','',f'> {md(w["example"])}','']
@@ -339,7 +347,7 @@ def main():
             lines += [f'- {md(w)}' for w in r['unmatched']]
             lines+=['']
         write(r['file'],'\n'.join(lines))
-        if r['id'] in lessons:render_root(r,lessons[r['id']],lesson_words,navigation)
+        if r['id'] in lessons:render_root(r,lessons[r['id']],lesson_words,navigation,base_glosses)
         index.append(r)
         if r['rank']%500==0:print('Rendered',r['rank'],flush=True)
     write_references(references)

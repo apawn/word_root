@@ -124,7 +124,7 @@ inadequate 是准备不足的性质，inadequately prepared 是准备得不够�
 
 **怎么拆**
 
-inadequate + -ly → inadequately，保留末尾 e。方式、程度副词表示没有充分达到相应要求。
+inadequate + -ly（把性质用来说明方式、程度或说话的角度） → inadequately，保留末尾 e。方式、程度副词表示没有充分达到相应要求。
 
 **怎么变成今天的意思**
 

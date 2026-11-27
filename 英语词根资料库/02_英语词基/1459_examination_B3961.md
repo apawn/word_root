@@ -135,7 +135,7 @@ examine 是做仔细检验，examination 把这次检验当一件事；试卷考
 
 **怎么拆**
 
-经法语 examinacion 接拉丁 exāminātiō 的动作名词，现代可对应 examine + -ation，但保留自己的借入链。exam 是它的常见缩短形式。
+经法语 examinacion 接拉丁 exāminātiō 的动作名词，现代可对应 examine（考核） + -ation（把动作或结果说成一件事），但保留自己的借入链。exam 是它的常见缩短形式。
 
 **怎么变成今天的意思**
 
@@ -224,7 +224,7 @@ examining 不只用于考试、检查身体。只要是为了弄清细节而认�
 
 **怎么拆**
 
-examine + -er，去末尾不发音 e，人物后缀；不把 examiner 当作一次考试的另一种名词。
+examine + -er（指做这件事的人或起这种作用的东西），去末尾不发音 e，人物后缀；不把 examiner 当作一次考试的另一种名词。
 
 **怎么变成今天的意思**
 

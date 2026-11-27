@@ -91,7 +91,7 @@ threat 是名词，threaten 是常用动词；表示潜在危险时，不必有�
 
 **怎么拆**
 
-threat + -s，/t/ 后读 /s/。古英语 þrēat 的人群、压力、困扰等旧义，经中古英语发展到现代的危险、恐吓。
+threat（威胁） + -s（表示不止一个），/t/ 后读 /s/。古英语 þrēat 的人群、压力、困扰等旧义，经中古英语发展到现代的危险、恐吓。
 
 **怎么变成今天的意思**
 
@@ -133,7 +133,7 @@ threats 是名词；threatens 是动词 threaten 的三单。threats to somethin
 
 **怎么拆**
 
-承中古英语 thretenen、古英语 þrēatnian，现代对应 threat + 动词 -en。不是在 threat 后加了一个表示多次的音节。
+承中古英语 thretenen、古英语 þrēatnian，现代对应 threat（威胁） + 动词 -en。不是在 threat 后加了一个表示多次的音节。
 
 **怎么变成今天的意思**
 
@@ -175,7 +175,7 @@ threaten to do 的主语可以有意扬言，也可能事情眼看要发生，�
 
 **怎么拆**
 
-threaten + -ed，结尾读 /d/。threaten 与 threat 威胁 + 动词 -en 对应，也承接中古英语 thretenen、古英语 þrēatnian 的旧动词，不能全当现代才新造。
+threaten（威胁） + -ed（标出动词的过去式或过去分词），结尾读 /d/。threaten 与 threat 威胁 + 动词 -en 对应，也承接中古英语 thretenen、古英语 þrēatnian 的旧动词，不能全当现代才新造。
 
 **怎么变成今天的意思**
 
@@ -217,7 +217,7 @@ threatened 不等于损害已经发生。be threatened with something 说明可�
 
 **怎么拆**
 
-threaten + -ing；中古英语已有相应形式。可作进行动作，也可作形容词；threat + -en 是更里层动词结构。
+threaten（威胁） + -ing（把动作写成进行中的形式，或把活动本身当作一件事来说）；中古英语已有相应形式。可作进行动作，也可作形容词；threat + -en 是更里层动词结构。
 
 **怎么变成今天的意思**
 
@@ -264,7 +264,7 @@ threatening 说姿态的性质，threateningly 说怎样靠近、站着或发声
 
 **怎么拆**
 
-threatening + -ly，完整保留 -ing，再把性质变成方式副词。
+threatening + -ly（把性质用来说明方式、程度或说话的角度），完整保留 -ing，再把性质变成方式副词。
 
 **怎么变成今天的意思**
 

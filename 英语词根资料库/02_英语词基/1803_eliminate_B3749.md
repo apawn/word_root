@@ -132,7 +132,7 @@ eliminated from 说从哪个范围中出去；eliminated by 可以说被谁淘�
 
 **怎么拆**
 
-与 eliminate + -ion 的名词结构对应，来源联系拉丁 ēlīminātiō。词尾从动词 -ate 对应到名词 -ation，重音移到 /neɪ/ 这一段。
+与 eliminate（消除） + -ion 的名词结构对应，来源联系拉丁 ēlīminātiō。词尾从动词 -ate 对应到名词 -ation，重音移到 /neɪ/ 这一段。
 
 **怎么变成今天的意思**
 
@@ -181,6 +181,8 @@ elimination 看去掉某项这一过程；selection 看选择留下谁。逐一�
 
 eliminate 去末尾 e，加完整 -ing → eliminating。拉丁 ex- 向外 + limen 门槛 → eliminare 赶出门外，经分词 eliminatus 等形成英语词形。
 
+拉丁语 ex 表示“从……出去”，līmine 是 līmen“门槛”的夺格。把人送出门槛的旧画面，帮助理解后来“排除、剔除”的意思。
+
 **怎么变成今天的意思**
 
 **拉丁 ex limine 门槛之外 → eliminare 逐出**  
@@ -221,7 +223,7 @@ eliminating 侧重把目标项去掉；reducing 只说减少。能减少多少�
 
 **怎么拆**
 
-eliminate + -or，去末尾 e 后形成执行者、器具等名词。与 -er 类似，-or 不保证一定是人。
+eliminate（消除） + -or（做这件事的人或起这种作用的东西），去末尾 e 后形成执行者、器具等名词。与 -er 类似，-or 不保证一定是人。
 
 **怎么变成今天的意思**
 

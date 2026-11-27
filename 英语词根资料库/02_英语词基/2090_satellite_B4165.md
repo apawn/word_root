@@ -132,7 +132,7 @@ satellites 不只说人造设备，月球也是地球的天然卫星。satellite
 
 **怎么拆**
 
-micro- + satellite。航天用小型卫星义，遗传学接 satellite DNA 的命名分支，指短重复单位串联；不是说 DNA 在太空围着细胞运行。
+micro-（微小，在计量单位前专指百万分之一） + satellite（卫星）。航天用小型卫星义，遗传学接 satellite DNA 的命名分支，指短重复单位串联；不是说 DNA 在太空围着细胞运行。
 
 **怎么变成今天的意思**
 

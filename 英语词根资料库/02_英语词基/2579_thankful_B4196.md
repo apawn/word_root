@@ -87,7 +87,7 @@ thankful 与 grateful 都可感激；thankful 常适合庆幸顺利脱险等语�
 
 **怎么拆**
 
-thankful + -ly；古英语 þancfullīċe、中古英语 thankfully 等有相应形式。现代句子副词常表达幸好，不必译成某个人正在感激地做动作。
+thankful（感激） + -ly（把性质用来说明方式、程度或说话的角度）；古英语 þancfullīċe、中古英语 thankfully 等有相应形式。现代句子副词常表达幸好，不必译成某个人正在感激地做动作。
 
 **怎么变成今天的意思**
 
@@ -134,7 +134,7 @@ thankfully 幸好，hopefully 但愿；前者通常庆幸实际情况，后者�
 
 **怎么拆**
 
-thankful + -ness，先 thank + -ful 得感激的，再名词化。不是 thank + fullness 物理装满。
+thankful（感激） + -ness（把前面的性质当作一种状态来说），先 thank + -ful 得感激的，再名词化。不是 thank + fullness 物理装满。
 
 **怎么变成今天的意思**
 

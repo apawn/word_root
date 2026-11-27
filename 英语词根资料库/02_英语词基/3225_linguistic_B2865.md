@@ -41,7 +41,7 @@ linguistic → linguistically；sociolinguistic 再限定社会与语言的关�
 
 **怎么拆**
 
-借近代德语 linguistisch，远接 lingua 语言这一词族；现代可对应 linguist + -ic，但实际有德语借入背景。
+借近代德语 linguistisch，远接 lingua 语言这一词族；现代可对应 linguist + -ic（表示“与……有关的”，让这个词可以用来修饰别的事物），但实际有德语借入背景。
 
 **怎么变成今天的意思**
 
@@ -83,7 +83,7 @@ lingual 在医学里常指舌头；linguistic 通常说语言。cultural 更宽�
 
 **怎么拆**
 
-linguistic + -ally，也可对应较长形式 linguistical + -ly；是英语副词，不是另一种研究者称呼。
+linguistic（语言） + -ally，也可对应较长形式 linguistical + -ly；是英语副词，不是另一种研究者称呼。
 
 **怎么变成今天的意思**
 
@@ -130,7 +130,7 @@ sociolinguistics 是研究领域，sociolinguistic 描述相关问题、因素�
 
 **怎么拆**
 
-socio- + linguistic；与学科名 sociolinguistics 形成名词、形容词对应。不要把末尾 s 都当可有可无的同一词。
+socio-（社会、人群关系） + linguistic（语言）；与学科名 sociolinguistics 形成名词、形容词对应。不要把末尾 s 都当可有可无的同一词。
 
 **怎么变成今天的意思**
 

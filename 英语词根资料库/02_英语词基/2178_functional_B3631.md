@@ -46,7 +46,7 @@ functional 联系 function 的执行、作用一支。functionality 说功能或
 
 **怎么拆**
 
-现代可看作 function + -al；历史解释也包括中世纪拉丁 functionalis，都是“与履行作用有关”。
+现代可看作 function（功能） + -al（形容词词尾，表示与前面的事物有关）；历史解释也包括中世纪拉丁 functionalis，都是“与履行作用有关”。
 
 **怎么变成今天的意思**
 
@@ -93,7 +93,7 @@ functional 说明能发挥作用或侧重实用；decorative 强调装饰。东�
 
 **怎么拆**
 
-functional + -ity；词尾 -al 在接 -ity 后重音移到 /næl/ 附近。
+functional + -ity（把“怎样的”变成“这种性质、状态或程度”）；词尾 -al 在接 -ity 后重音移到 /næl/ 附近。
 
 **怎么变成今天的意思**
 
@@ -249,7 +249,7 @@ functional 是功能方面的形容词；functionalism 是一种理论立场。�
 
 **怎么拆**
 
-functional + -ist；与 functionalism 的主张相对应，既可作名词也可作形容词。
+functional + -ist（从事这种活动、研究这门学问或持这种主张的人）；与 functionalism 的主张相对应，既可作名词也可作形容词。
 
 **怎么变成今天的意思**
 
@@ -301,7 +301,7 @@ functionalist 指理论立场或其支持者；functionary 指机构里的工作
 
 **怎么拆**
 
-multi- + functional“有某种功能的”；也可与 multifunction 联系理解，但不必认定每次都是后者加 -al。
+multi-（多个、多种） + functional“有某种功能的”；也可与 multifunction 联系理解，但不必认定每次都是后者加 -al。
 
 **怎么变成今天的意思**
 
@@ -348,7 +348,7 @@ functional 常说能正常发挥作用或偏实用；multifunctional 再增加�
 
 **怎么拆**
 
-non-“不、非” + functional。
+non-“不、非” + functional（实用）。
 
 **怎么变成今天的意思**
 

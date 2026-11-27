@@ -93,7 +93,7 @@ develop 不总是 improve 改善：a problem developed 是问题出现，未必�
 
 **怎么拆**
 
-现代可认作 develop + -ment，-ment 形成过程或结果名词；历史与法语 développement 对应。develop 接法语展开、解开包裹的词，包裹部分更远来源不确定，不硬拆成拉丁语的帆或面纱。
+现代可认作 develop + -ment（把动作、结果或状态说成名词），-ment 形成过程或结果名词；历史与法语 développement 对应。develop 接法语展开、解开包裹的词，包裹部分更远来源不确定，不硬拆成拉丁语的帆或面纱。
 
 **怎么变成今天的意思**
 
@@ -135,7 +135,7 @@ development 是发展、变化或开发，improvement 明说改善。a worrying 
 
 **怎么拆**
 
-development + -s，/t/ 后读 /s/。develop 接法语展开、解开包裹的词，更远的包裹部分来源不确定；ment 名词也与法语相应形式有联系。
+development（开发） + -s（表示不止一个），/t/ 后读 /s/。develop 接法语展开、解开包裹的词，更远的包裹部分来源不确定；ment 名词也与法语相应形式有联系。
 
 **怎么变成今天的意思**
 
@@ -177,7 +177,7 @@ development 不可数时常说发展过程；developments 复数常说一件件�
 
 **怎么拆**
 
-development + -al，-al 表与……有关，重音落在 -mental 中的 men。不是单独把 mental 心理的加到 develop 后面。
+development（发展） + -al（形容词词尾，表示与前面的事物有关），-al 表与……有关，重音落在 -mental 中的 men。不是单独把 mental 心理的加到 develop 后面。
 
 **怎么变成今天的意思**
 
@@ -271,7 +271,7 @@ development 可以首次开发，redevelopment 特别强调已有基础上的重
 
 **怎么拆**
 
-under- 不足、未达到充分程度 + development；这里 under- 不是空间上的在下面。
+under- 不足、未达到充分程度 + development（发展）；这里 under- 不是空间上的在下面。
 
 **怎么变成今天的意思**
 

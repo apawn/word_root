@@ -82,7 +82,7 @@ inevitable 说结果的性质，inevitably 把避不开、早料到的感觉放�
 
 **怎么拆**
 
-inevitable + -ly，末尾 -ble 变成 -bly。不是在原拼写后直接堆出 inevitablely。
+inevitable（不可避免） + -ly（把性质用来说明方式、程度或说话的角度），末尾 -ble 变成 -bly。不是在原拼写后直接堆出 inevitablely。
 
 **怎么变成今天的意思**
 
@@ -129,7 +129,7 @@ inevitably 有时是叙述者说不出所料，不必每次都在宣布普遍自
 
 **怎么拆**
 
-inevitable + -ity，-able 对应 -ability，重音移到 /bɪl/。从性质形容词形成抽象名词。
+inevitable（不可避免） + -ity（把“怎样的”变成“这种性质、状态或程度”），-able 对应 -ability，重音移到 /bɪl/。从性质形容词形成抽象名词。
 
 **怎么变成今天的意思**
 

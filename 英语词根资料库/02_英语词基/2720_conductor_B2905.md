@@ -45,7 +45,7 @@ conductor 是带着某个东西走的一方：指挥带领乐队，列车员协�
 
 **怎么拆**
 
-经法语 conductour 等形式来自拉丁语 conductor。现代可看成 conduct + -or，表示执行引导或传导的一方。
+经法语 conductour 等形式来自拉丁语 conductor。现代可看成 conduct + -or（做这件事的人或起这种作用的东西），表示执行引导或传导的一方。
 
 **怎么变成今天的意思**
 
@@ -81,7 +81,7 @@ conductor 让热或电容易通过；insulator 阻碍它们传递。音乐里的
 
 **怎么拆**
 
-conductor + -s。现代对应 conduct + -or，历史另有法语 conductour、拉丁 conductor 的整词借入路线。
+conductor（指挥） + -s（表示不止一个）。现代对应 conduct + -or，历史另有法语 conductour、拉丁 conductor 的整词借入路线。
 
 **怎么变成今天的意思**
 
@@ -170,7 +170,7 @@ conductor 容易导电，insulator 阻碍导电；semiconductor 的价值在于�
 
 **怎么拆**
 
-英语 super- + conductor；有来源把这一术语联系到荷兰语 suprageleider 的仿译。英语构词透明，但不把术语历史硬归成完全孤立的造词。
+英语 super-（在……上面、超过） + conductor（导体）；有来源把这一术语联系到荷兰语 suprageleider 的仿译。英语构词透明，但不把术语历史硬归成完全孤立的造词。
 
 **怎么变成今天的意思**
 

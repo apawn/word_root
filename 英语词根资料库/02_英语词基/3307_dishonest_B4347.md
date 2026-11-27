@@ -87,7 +87,7 @@ incorrect 可能只是弄错；dishonest 带有不诚实的判断。不能只因
 
 **怎么拆**
 
-历史经古法语 deshonesté，接 honestas 词族；现代可看作 dis- + honesty，或与 dishonest 的名词形式对应。
+历史经古法语 deshonesté，接 honestas 词族；现代可看作 dis- + honesty（诚实），或与 dishonest 的名词形式对应。
 
 **怎么变成今天的意思**
 
@@ -139,7 +139,7 @@ dishonesty 关注诚信问题，inaccuracy 关注不准确；二者可能同时�
 
 **怎么拆**
 
-dishonest + -ly；从不诚实的性质变为动作的方式。
+dishonest（不诚实） + -ly（把性质用来说明方式、程度或说话的角度）；从不诚实的性质变为动作的方式。
 
 **怎么变成今天的意思**
 

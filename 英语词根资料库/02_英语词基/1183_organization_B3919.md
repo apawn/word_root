@@ -42,7 +42,7 @@ re-/dis- + organization；与 reorganize、disorganize 的名词对应；organiz
 
 **怎么拆**
 
-中世纪拉丁 organizatio，经法语 organisation 等路线借入；现代可对应 organize + -ation。
+中世纪拉丁 organizatio，经法语 organisation 等路线借入；现代可对应 organize + -ation（把动作或结果说成一件事）。
 
 **怎么变成今天的意思**
 
@@ -89,7 +89,7 @@ organization 可以是成形的机构，也可以是安排过程。organism 是�
 
 **怎么拆**
 
-organization + -al，表示与组织或组织工作有关。
+organization（组织） + -al（形容词词尾，表示与前面的事物有关），表示与组织或组织工作有关。
 
 **怎么变成今天的意思**
 

@@ -105,7 +105,7 @@ experience 是经历或其积累，experiment 是为检验想法而设计的实�
 
 **怎么拆**
 
-experience + -s，/s/ 后增加 /ɪz/。名词经古法语接拉丁 experientia，与 experīrī 尝试、经历相连；英语动词又形成经历、感受到的用法。
+experience（经历） + -s（这里既有名词复数用法，也有动词第三人称单数用法），/s/ 后增加 /ɪz/。名词经古法语接拉丁 experientia，与 experīrī 尝试、经历相连；英语动词又形成经历、感受到的用法。
 
 **怎么变成今天的意思**
 
@@ -231,7 +231,7 @@ expert 既可作人，也可作修饰语。an expert 是一位专家；expert he
 
 **怎么拆**
 
-expert + -s，/t/ 后读 /s/。拉丁 experīrī 尝试、检验的分词 expertus，表示经过试验、凭经历知道的，经法语 expert、espert 借入，英语又把形容词用作人名词。
+expert（专家） + -s（表示不止一个），/t/ 后读 /s/。拉丁 experīrī 尝试、检验的分词 expertus，表示经过试验、凭经历知道的，经法语 expert、espert 借入，英语又把形容词用作人名词。
 
 **怎么变成今天的意思**
 
@@ -362,7 +362,7 @@ experiment 实验，experience 经历、经验同族但不同词；experiment wi
 
 **怎么拆**
 
-experiment + -al，形成关系性质形容词，历史已有经验、实验等用法。不是所有 experimental 都表示失败、不靠谱。
+experiment（实验） + -al（形容词词尾，表示与前面的事物有关），形成关系性质形容词，历史已有经验、实验等用法。不是所有 experimental 都表示失败、不靠谱。
 
 **怎么变成今天的意思**
 
@@ -404,7 +404,7 @@ experimental 可以实验所得或试验性的；experienced 是有经验的，�
 
 **怎么拆**
 
-experiment + -s，/t/ 后读 /s/。法语 experiment 接拉丁 experimentum，源于 experīrī 尝试、检验；英语名词后又形成动词，与 experience 共享较早的尝试词族。
+experiment（实验） + -s（这里既有名词复数用法，也有动词第三人称单数用法），/t/ 后读 /s/。法语 experiment 接拉丁 experimentum，源于 experīrī 尝试、检验；英语名词后又形成动词，与 experience 共享较早的尝试词族。
 
 **怎么变成今天的意思**
 
@@ -488,7 +488,7 @@ an experiment 可一次实验，experimentation 常不可数说实践过程；�
 
 **怎么拆**
 
-experiment + -er，形成执行试验的人物名词。-er 的角色在这里是做实验，不是一定作为实验对象。
+experiment（实验） + -er（指做这件事的人或起这种作用的东西），形成执行试验的人物名词。-er 的角色在这里是做实验，不是一定作为实验对象。
 
 **怎么变成今天的意思**
 

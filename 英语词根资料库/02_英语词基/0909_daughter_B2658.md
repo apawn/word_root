@@ -87,7 +87,7 @@ daughter 女儿，girl 女孩看年龄或日常称呼；成年女性依然可以
 
 **怎么拆**
 
-daughter + -s，词尾 /z/。继承古英语 dohtor，经中古英语 doughter 等延续；现代 gh 不发音，不把它读成 /ɡ/ 或 /f/。
+daughter（女儿） + -s（表示不止一个），词尾 /z/。继承古英语 dohtor，经中古英语 doughter 等延续；现代 gh 不发音，不把它读成 /ɡ/ 或 /f/。
 
 **怎么变成今天的意思**
 

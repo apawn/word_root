@@ -15,7 +15,7 @@ adjustment → readjustment，re- 加入再一次、重新适应的过程。
 
 ## 词形与演化规律
 
-adjust + -ment → adjustment；re- + adjustment → readjustment。
+adjust + -ment（把动作、结果或状态说成名词） → adjustment；re- + adjustment → readjustment。
 
 adjustment 可借法语对应词，也可按 adjust + -ment 理解，现代加 -s 数一项项调整。adjust 近源联系靠近、配合的材料，词形又受 just 公平的民间分析影响。
 
@@ -43,7 +43,7 @@ adjustment 可借法语对应词，也可按 adjust + -ment 理解，现代加 -
 
 **怎么拆**
 
-有法语 ajustement 借入与英语 adjust + -ment 两种分析；两路都属于 adjust 这一族。
+有法语 ajustement 借入与英语 adjust（调整） + -ment 两种分析；两路都属于 adjust 这一族。
 
 **怎么变成今天的意思**
 
@@ -100,7 +100,7 @@ change 是泛指变化；adjustment 强调为适合条件而调节。
 
 **怎么拆**
 
-adjust + -ment → adjustment，再加 -s。adjustment 或借法语相应名词，或在英语内形成；adjust 近源联系靠近、配合，词形还受 just 的分析影响。
+adjust + -ment（把动作、结果或状态说成名词） → adjustment，再加 -s。adjustment 或借法语相应名词，或在英语内形成；adjust 近源联系靠近、配合，词形还受 just 的分析影响。
 
 **怎么变成今天的意思**
 
@@ -142,7 +142,7 @@ adjustments 不一定要全部重做，常是在现有基础上修到合适；�
 
 **怎么拆**
 
-re- 再 + adjustment，后者为 adjust + -ment。前缀加在整个调整名词前，也与 readjust 动词形成对应。
+re- 再 + adjustment（调整），后者为 adjust + -ment（把动作、结果或状态说成名词）。前缀加在整个调整名词前，也与 readjust 动词形成对应。
 
 **怎么变成今天的意思**
 

@@ -39,7 +39,7 @@ regain consciousness、lose consciousness；environmental consciousness 可说�
 
 **怎么拆**
 
-英语 conscious + -ness；从形容状态转为状态或能力的名词。
+英语 conscious + -ness（把前面的性质当作一种状态来说）；从形容状态转为状态或能力的名词。
 
 **怎么变成今天的意思**
 
@@ -86,7 +86,7 @@ conscience 是良心；consciousness 是意识或觉察。一个人很清醒，�
 
 **怎么拆**
 
-可分析为 unconscious + -ness，也与 un- + consciousness 的构形相合。
+可分析为 unconscious（失去知觉） + -ness（把前面的性质当作一种状态来说），也与 un- + consciousness 的构形相合。
 
 **怎么变成今天的意思**
 

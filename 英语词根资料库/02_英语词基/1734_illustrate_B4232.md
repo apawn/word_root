@@ -99,7 +99,7 @@ illustrate 强调让抽象内容具体可懂；并不每次都等于画插画，
 
 **怎么拆**
 
-illustrate + -d，/t/ 后读 /ɪd/。illustrate 有由 illustration 等回构并受拉丁 illustratus 影响的历史，较早 illustrare 照亮、使清楚，in- 同化为 il-。
+illustrate + -d（标出动词的过去式或过去分词），/t/ 后读 /ɪd/。illustrate 有由 illustration 等回构并受拉丁 illustratus 影响的历史，较早 illustrare 照亮、使清楚，in- 同化为 il-。
 
 **怎么变成今天的意思**
 
@@ -267,7 +267,7 @@ illustrate a book 是给书配图，illustrator 就是画这些图的人。人�
 
 **怎么拆**
 
-现代可拆 illustrate 去 e + -or；历史也有晚期拉丁语 illustrator 照亮、启发者的对应形式。英语从使人明白者发展到绘制插图者。
+现代可拆 illustrate 去 e + -or（做这件事的人或起这种作用的东西）；历史也有晚期拉丁语 illustrator 照亮、启发者的对应形式。英语从使人明白者发展到绘制插图者。
 
 **怎么变成今天的意思**
 
@@ -356,7 +356,7 @@ illustrative examples 是拿来帮你看懂的例子，illustrative figures 是�
 
 **怎么拆**
 
-对应 illustrate + -ive，使用 illustrat- 词干，去末尾 e 加 -ive → illustrative。形成具有说明、展示作用的形容词。
+对应 illustrate + -ive（有这种作用、倾向或性质），使用 illustrat- 词干，去末尾 e 加 -ive → illustrative。形成具有说明、展示作用的形容词。
 
 **怎么变成今天的意思**
 

@@ -18,7 +18,7 @@ standard 已精讲，standardize 与 standardise 放一起，接 nonstandard，�
 
 standard + -ize/-ise；non-/sub- + standard。
 
-standardize 在英语中由 standard + -ize 形成，现代去 e 加完整 -ed，/z/ 后读 /d/；使方法、格式按共同标准一致。
+standardize 在英语中由 standard + -ize（使成为，或按这种方式处理） 形成，现代去 e 加完整 -ed，/z/ 后读 /d/；使方法、格式按共同标准一致。
 
 ## 单词速览（按词族由简到繁）
 
@@ -89,7 +89,7 @@ standard 是衡量规范或普通规格，standing 常是地位、长期有效�
 
 **怎么拆**
 
-standard + -ize，形成使符合标准的动词。standardise 是同义拼写；-ize 常见于美式，也用于部分英式规范。
+standard（标准） + -ize（使成为，或按这种方式处理），形成使符合标准的动词。standardise 是同义拼写；-ize 常见于美式，也用于部分英式规范。
 
 **怎么变成今天的意思**
 
@@ -173,7 +173,7 @@ standardized 说明遵循共同标准，不自动说明标准最好，也不要�
 
 **怎么拆**
 
-standard + -ise，与 standardize 同族同义；-ise 广见于英式用法，但不是所有英式文本都只用这一种。
+standard（标准） + -ise（使成为，或按这种方式处理），与 standardize 同族同义；-ise 广见于英式用法，但不是所有英式文本都只用这一种。
 
 **怎么变成今天的意思**
 
@@ -267,7 +267,7 @@ ordinary 是普通但可能合格；substandard 明确说未达到该有的水�
 
 **怎么拆**
 
-non- 非、不属于 + standard，否定的是标准归属，不自动评价东西没用或质量差。
+non- 非、不属于 + standard（标准），否定的是标准归属，不自动评价东西没用或质量差。
 
 **怎么变成今天的意思**
 

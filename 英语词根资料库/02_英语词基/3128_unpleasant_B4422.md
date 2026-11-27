@@ -76,7 +76,7 @@ unpleasant 评价体验让人不舒服；dangerous 说有危险，二者不必�
 
 **怎么拆**
 
-unpleasant + -ness → unpleasantness，性质名词又可具体指令人不快的事情。-ness 不要求永远只能说不可数的抽象性质。
+unpleasant + -ness（把前面的性质当作一种状态来说） → unpleasantness，性质名词又可具体指令人不快的事情。-ness 不要求永远只能说不可数的抽象性质。
 
 **怎么变成今天的意思**
 
@@ -118,7 +118,7 @@ unpleasantness 比完整说 quarrel 口角可更委婉，未必每次严重到�
 
 **怎么拆**
 
-unpleasant + -ly。
+unpleasant（令人不快） + -ly（把性质用来说明方式、程度或说话的角度）。
 
 **怎么变成今天的意思**
 

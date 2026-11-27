@@ -82,7 +82,7 @@ constitution 是基本组织或基本法；institution 是机构或制度。the 
 
 **怎么拆**
 
-英语 constitution + -al；名词 a constitutional 是 constitutional walk / exercise 的省略，不是另一部宪法。
+英语 constitution（宪法） + -al（形容词词尾，表示与前面的事物有关）；名词 a constitutional 是 constitutional walk / exercise 的省略，不是另一部宪法。
 
 **怎么变成今天的意思**
 
@@ -134,7 +134,7 @@ constitution 既能是国家的基本构成，也能是人的身体、性格构�
 
 **怎么拆**
 
-constitutional + -ly。由宪法支线得到按宪法、宪制上；由体质、天性支线得到天生、生理构成上的。
+constitutional（宪法） + -ly。由宪法支线得到按宪法、宪制上；由体质、天性支线得到天生、生理构成上的。
 
 **怎么变成今天的意思**
 
@@ -186,7 +186,7 @@ constitutionally unable to sit still 可夸张说天生闲不住，不是在说�
 
 **怎么拆**
 
-constitutional + -ity，性质名词，重音移到后面的 /næl/ 附近。现代主要谈宪法符合性，不随意扩展成身体健康程度。
+constitutional（宪法） + -ity（把“怎样的”变成“这种性质、状态或程度”），性质名词，重音移到后面的 /næl/ 附近。现代主要谈宪法符合性，不随意扩展成身体健康程度。
 
 **怎么变成今天的意思**
 
@@ -238,7 +238,7 @@ constitution 宪法和 constitutionality 合宪性不同。质疑合宪性是在
 
 **怎么拆**
 
-constitutional + -ism，制度原则、思想取向的名词。与 constitution 基本制度有关，但不能把任何存在宪法的状态都直接等同其较强的规范含义。
+constitutional（宪法） + -ism（把观念、做法、现象或状态说成名词），制度原则、思想取向的名词。与 constitution 基本制度有关，但不能把任何存在宪法的状态都直接等同其较强的规范含义。
 
 **怎么变成今天的意思**
 
@@ -290,7 +290,7 @@ constitutionalism 不只表示把宪法写下来；宪法成文与否，也不�
 
 **怎么拆**
 
-constitutional + -ist，持某种立场或具相关专长的人；也可作定语，描述相应运动、立场。
+constitutional（宪法） + -ist（从事这种活动、研究这门学问或持这种主张的人），持某种立场或具相关专长的人；也可作定语，描述相应运动、立场。
 
 **怎么变成今天的意思**
 

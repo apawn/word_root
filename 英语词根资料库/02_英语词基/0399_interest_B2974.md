@@ -144,7 +144,7 @@ interesting 引人关注，funny 常说好笑或奇怪；有趣的历史讲座�
 
 **怎么拆**
 
-interesting + -ly，副词；常作整句评论，指出信息有趣、出乎意料或值得注意。
+interesting（有趣） + -ly（把性质用来说明方式、程度或说话的角度），副词；常作整句评论，指出信息有趣、出乎意料或值得注意。
 
 **怎么变成今天的意思**
 
@@ -238,7 +238,7 @@ uninteresting 形容事物不吸引人；uninterested 说人没兴趣。不要�
 
 **怎么拆**
 
-interest + -ed，过去分词形容词化。既接引起兴趣的动词义，也保留牵涉利益的意思。
+interest + -ed（标出动词的过去式或过去分词），过去分词形容词化。既接引起兴趣的动词义，也保留牵涉利益的意思。
 
 **怎么变成今天的意思**
 
@@ -332,7 +332,7 @@ uninterested 常是没兴趣，disinterested 在正式常用义中是不偏不�
 
 **怎么拆**
 
-interest + -s，/t/ 后读 /s/。interest 经法语接拉丁 interesse，字面 inter- 在之间与 esse 存在，实际早有相关、有影响、重要等义；权益、补偿及后来兴趣、利息等分支不能硬串成唯一简单直线。
+interest（兴趣） + -s，/t/ 后读 /s/。interest 经法语接拉丁 interesse，字面 inter- 在之间与 esse 存在，实际早有相关、有影响、重要等义；权益、补偿及后来兴趣、利息等分支不能硬串成唯一简单直线。
 
 **怎么变成今天的意思**
 
@@ -374,7 +374,7 @@ in the interests of safety；someone’s personal interests。
 
 **怎么拆**
 
-dis- 否定、解除 + interest。interest 本来就有权益与兴趣两面，否定后也出现不偏私、缺乏兴趣等用法。
+dis- 否定、解除 + interest（兴趣）。interest 本来就有权益与兴趣两面，否定后也出现不偏私、缺乏兴趣等用法。
 
 **怎么变成今天的意思**
 

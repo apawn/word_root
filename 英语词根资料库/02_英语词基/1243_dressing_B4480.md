@@ -47,6 +47,8 @@ dress + -ing → dressing；hair 头发 + dressing → hairdressing。
 
 古法语 dresser / drecier 来自通俗拉丁语 *directiare“使直、摆正”，远源是 directus。英语名词从动词发展；连衣裙义比一般衣着义更专门。
 
+拉丁语 dī- 在这里带分开、定向的意思，regere 是“引导、使直”。复合后可以看到 -rig-，分词 dīrectus 又保留了 -rect-。这解释了为什么“引导”一族里既有 rig 也有 rect。
+
 **怎么变成今天的意思**
 
 **拉丁语：regere**  
@@ -107,6 +109,8 @@ wear 强调穿着的状态；dress 强调穿衣、装扮动作或穿衣风格。
 **怎么拆**
 
 dress + -ing；名词沿 dress“准备、处理、装扮”的不同意思发展，不是先有连衣裙再变成沙拉酱。
+
+拉丁语 dī- 在这里带分开、定向的意思，regere 是“引导、使直”。复合后可以看到 -rig-，分词 dīrectus 又保留了 -rect-。这解释了为什么“引导”一族里既有 rig 也有 rect。
 
 **怎么变成今天的意思**
 
@@ -210,7 +214,7 @@ hairdresser 是人，hairdressing 是活动、行业；a hairdressing student �
 
 **怎么拆**
 
-dress + -es，/s/ 后增加 /ɪz/ 音节。dress 经法语 dresser、drecier 接使直、摆正的拉丁词族，发展穿衣义；名词后来专指连衣裙。
+dress（穿衣） + -es（这里既有名词复数用法，也有动词第三人称单数用法），/s/ 后增加 /ɪz/ 音节。dress 经法语 dresser、drecier 接使直、摆正的拉丁词族，发展穿衣义；名词后来专指连衣裙。
 
 **怎么变成今天的意思**
 

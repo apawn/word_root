@@ -133,7 +133,7 @@ loan 泛指贷款；mortgage 常涉及以房产等财产作担保。the mortgage
 
 **怎么拆**
 
-mortgage 去 e + -ee。-ee 的受领对象是 mortgage 所指的抵押安排、担保权益，不能只记所有 -ee 都是收钱的人。
+mortgage 去 e + -ee（常指动作涉及、接受或经历它的人）。-ee 的受领对象是 mortgage 所指的抵押安排、担保权益，不能只记所有 -ee 都是收钱的人。
 
 **怎么变成今天的意思**
 

@@ -78,7 +78,7 @@ intentionally 像在行动旁加一句：“我是有意这样安排的。”
 
 **怎么拆**
 
-intentional + -ly。
+intentional（有意） + -ly（把性质用来说明方式、程度或说话的角度）。
 
 **怎么变成今天的意思**
 
@@ -114,7 +114,7 @@ intently 是专注地；intentionally 是有意地，认真看不等于故意安
 
 **怎么拆**
 
-intentional + -ity，-al + -ity 形成 -ality 名词结尾。哲学用法还承中世纪拉丁 intentio 一族的概念历史，联系心灵朝某对象指去。
+intentional（有意） + -ity（把“怎样的”变成“这种性质、状态或程度”），-al + -ity 形成 -ality 名词结尾。哲学用法还承中世纪拉丁 intentio 一族的概念历史，联系心灵朝某对象指去。
 
 **怎么变成今天的意思**
 
@@ -156,7 +156,7 @@ unintentional 像手滑碰倒杯子：事情发生了，但不是原本想做的
 
 **怎么拆**
 
-un-（不）+ intentional。
+un-（不）+ intentional（故意）。
 
 **怎么变成今天的意思**
 

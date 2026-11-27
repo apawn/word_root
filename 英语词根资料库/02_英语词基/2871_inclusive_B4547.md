@@ -14,7 +14,7 @@ inclusive → inclusiveness、inclusivity。
 
 ## 词形与演化规律
 
-include → inclusive；+ -ness 保留 e；去 e + -ity → inclusivity。
+include → inclusive；+ -ness 保留 e；去 e + -ity（把“怎样的”变成“这种性质、状态或程度”） → inclusivity。
 
 ## 单词速览（按词族由简到繁）
 
@@ -91,7 +91,7 @@ exclusive of tax 是不含税；inclusive of tax 是含税。exclusive club 限�
 
 **怎么拆**
 
-inclusive + -ness，保留末尾 e。由包容、涵盖的形容词形成性质名词。
+inclusive + -ness（把前面的性质当作一种状态来说），保留末尾 e。由包容、涵盖的形容词形成性质名词。
 
 **怎么变成今天的意思**
 
@@ -133,7 +133,7 @@ social inclusiveness；the inclusiveness of the event。
 
 **怎么拆**
 
-inclusive 去末尾 e + -ity，按 exclusivity 等词形模式发展。重音落在 /sɪv/ 一带，与 inclusiveness 不同。
+inclusive 去末尾 e + -ity（把“怎样的”变成“这种性质、状态或程度”），按 exclusivity 等词形模式发展。重音落在 /sɪv/ 一带，与 inclusiveness 不同。
 
 **怎么变成今天的意思**
 

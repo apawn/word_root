@@ -41,7 +41,7 @@ navigation 是弄清“我在哪里、接下来往哪里走”，最初在海上
 
 **怎么拆**
 
-现代可对应 navigate + -ion；历史经法语来自拉丁语 nāvigātiō，英语名词并非必须从英语动词派生。
+现代可对应 navigate（导航） + -ion（把动作或结果说成一件事）；历史经法语来自拉丁语 nāvigātiō，英语名词并非必须从英语动词派生。
 
 **怎么变成今天的意思**
 
@@ -77,7 +77,7 @@ navigation 关注位置与路线；transportation 关注把人或物送到目的
 
 **怎么拆**
 
-navigation + -al；navigation 本身经法语或拉丁 navigatio 借入，接 navigare。
+navigation（导航） + -al（形容词词尾，表示与前面的事物有关）；navigation 本身经法语或拉丁 navigatio 借入，接 navigare。
 
 **怎么变成今天的意思**
 
@@ -129,7 +129,7 @@ navigable 说对象能让人通行；navigational 说它与导航活动有关。
 
 **怎么拆**
 
-circumnavigate + -ion，-ate 对应名词 -ation；英语名词从环航动词派生。
+circumnavigate + -ion（把动作或结果说成一件事），-ate 对应名词 -ation；英语名词从环航动词派生。
 
 **怎么变成今天的意思**
 

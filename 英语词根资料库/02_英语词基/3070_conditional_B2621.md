@@ -42,7 +42,7 @@ condition + -al → conditional；-ly 方式；un- 否定条件性；-ity 抽象
 
 **怎么拆**
 
-经法语 conditionnel / condicionel 传入，现代可按 condition + -al 理解。
+经法语 conditionnel / condicionel 传入，现代可按 condition（条件） + -al 理解。
 
 **怎么变成今天的意思**
 
@@ -78,7 +78,7 @@ conditional 是有条件；conditioned 更常是已经受训练、处理或环�
 
 **怎么拆**
 
-conditional + -ly → conditionally，原词末 l 再接 -ly，拼写 ll。副词把以条件为前提的性质放进批准、接受、成立等动作。
+conditional（有条件） + -ly（把性质用来说明方式、程度或说话的角度） → conditionally，原词末 l 再接 -ly，拼写 ll。副词把以条件为前提的性质放进批准、接受、成立等动作。
 
 **怎么变成今天的意思**
 
@@ -120,7 +120,7 @@ conditionally 与 unconditionally 相反；前者需看附带条件，而不是�
 
 **怎么拆**
 
-conditional + -ity，把“有条件的”变成抽象名词。
+conditional + -ity（把“怎样的”变成“这种性质、状态或程度”），把“有条件的”变成抽象名词。
 
 **怎么变成今天的意思**
 

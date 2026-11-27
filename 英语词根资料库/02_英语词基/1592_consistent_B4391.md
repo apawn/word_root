@@ -88,7 +88,7 @@ constant 常说一直不变或不断发生；consistent 允许数值有波动，
 
 **怎么拆**
 
-consistent + -ly；把“一致、稳定”变成动作或表现的方式。
+consistent（一致） + -ly（把性质用来说明方式、程度或说话的角度）；把“一致、稳定”变成动作或表现的方式。
 
 **怎么变成今天的意思**
 
@@ -140,7 +140,7 @@ constantly 常强调不断发生；consistently 更强调各次之间的稳定�
 
 **怎么拆**
 
-in- “不” + consistent；这里的 in- 是否定，不是 insist 中“在某点上”的 in-。
+in- “不” + consistent（一致）；这里的 in- 是否定，不是 insist 中“在某点上”的 in-。
 
 **怎么变成今天的意思**
 

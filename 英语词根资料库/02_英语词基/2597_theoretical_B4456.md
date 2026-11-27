@@ -86,7 +86,7 @@ theoretical 常从原理和模型出发；empirical 常从观察和实验数据�
 
 **怎么拆**
 
-theoretical + -ly，说明判断或讨论采取理论的角度。
+theoretical（理论） + -ly，说明判断或讨论采取理论的角度。
 
 **怎么变成今天的意思**
 

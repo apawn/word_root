@@ -128,7 +128,7 @@ ambassador 是大使这个人，embassy 是相应机构、人员或馆舍。emba
 
 **怎么拆**
 
-ambassador + -ial，形成相关形容词。重音转移到 /dɔː/，不是在 ambassador 原读音后随便附上一个词尾。
+ambassador（大使） + -ial（表示“与……有关的”，让这个词可以用来修饰别的事物），形成相关形容词。重音转移到 /dɔː/，不是在 ambassador 原读音后随便附上一个词尾。
 
 **怎么变成今天的意思**
 
@@ -175,7 +175,7 @@ ambassadorial 比 diplomatic 外交的范围窄；一般外交工作、措辞不
 
 **怎么拆**
 
-ambassador + -ship，-ship 在这里表身份、职位、任职状态，与 friendship 等后缀同类，和独立名词 ship 船不同。
+ambassador（大使） + -ship，-ship 在这里表身份、职位、任职状态，与 friendship 等后缀同类，和独立名词 ship 船不同。
 
 **怎么变成今天的意思**
 

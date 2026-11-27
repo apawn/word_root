@@ -41,7 +41,7 @@ classical music、classical physics、neoclassical architecture 的分类标准�
 
 **怎么拆**
 
-以拉丁语 classicus 的词干形成 -al 形容词；现代可联系 classic + -al。不同词典对英语早期造词细节有不同处理，不必假设现代 classic 一定先出现。
+以拉丁语 classicus 的词干形成 -al 形容词；现代可联系 classic + -al（形容词词尾，表示与前面的事物有关）。不同词典对英语早期造词细节有不同处理，不必假设现代 classic 一定先出现。
 
 **怎么变成今天的意思**
 
@@ -77,7 +77,7 @@ a classic song 是一首经典歌曲，可能是摇滚；classical music 才是�
 
 **怎么拆**
 
-classical + -ly。
+classical（古典） + -ly。
 
 **怎么变成今天的意思**
 
@@ -113,7 +113,7 @@ classically trained 说明训练背景；naturally talented 说明天赋，二�
 
 **怎么拆**
 
-neo-“新的、复兴的” + classical。
+neo-“新的、复兴的” + classical（古典）。
 
 **怎么变成今天的意思**
 

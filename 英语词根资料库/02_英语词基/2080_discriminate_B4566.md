@@ -89,7 +89,7 @@ discriminate between 可中性说辨别能力；against 常标不利对待。只
 
 **怎么拆**
 
-借拉丁 discrīminātiō 等动作名词，现代对应 discriminate + -ion。不是凡 discrimination 都指社会歧视。
+借拉丁 discrīminātiō 等动作名词，现代对应 discriminate（辨别） + -ion（把动作或结果说成一件事）。不是凡 discrimination 都指社会歧视。
 
 **怎么变成今天的意思**
 
@@ -141,7 +141,7 @@ discrimination 社会议题里常负面，技术里的区分义可中性。descr
 
 **怎么拆**
 
-对应 discriminate + -ory，表示相关性质。更广的与区分有关的技术用法存在，日常社会语境通常说歧视性的。
+对应 discriminate（歧视） + -ory，表示相关性质。更广的与区分有关的技术用法存在，日常社会语境通常说歧视性的。
 
 **怎么变成今天的意思**
 

@@ -193,7 +193,7 @@ relevance 与 relevancy 是近义名词变体；relevancy 不是“更高一级�
 
 **怎么拆**
 
-否定 in- 在 r 前同化成 ir- + relevant。
+否定 in- 在 r 前同化成 ir- + relevant（切题）。
 
 **怎么变成今天的意思**
 

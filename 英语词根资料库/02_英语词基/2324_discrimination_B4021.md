@@ -39,7 +39,7 @@ discriminate 的相应名词 discrimination；non- 否定相应歧视行为、�
 
 **怎么拆**
 
-借拉丁 discrīminātiō 等动作名词，现代对应 discriminate + -ion。不是凡 discrimination 都指社会歧视。
+借拉丁 discrīminātiō 等动作名词，现代对应 discriminate（辨别） + -ion（把动作或结果说成一件事）。不是凡 discrimination 都指社会歧视。
 
 **怎么变成今天的意思**
 

@@ -80,7 +80,7 @@ capacity 与 capability 都谈能力，但 capacity 更常涉及数量、潜力�
 
 **怎么拆**
 
-从 capacity 容量词族的 capacit- + -or 构成器件名，名字强调储电能力。与 capacitance 同族，不表示 capacitor 是一个会装东西的人。
+从 capacity 容量词族的 capacit- + -or（做这件事的人或起这种作用的东西） 构成器件名，名字强调储电能力。与 capacitance 同族，不表示 capacitor 是一个会装东西的人。
 
 **怎么变成今天的意思**
 
@@ -127,7 +127,7 @@ capacitor 是器件，capacitance 是电容量；电池和电容器都可与储�
 
 **怎么拆**
 
-由 capacity 相关词干 capacit- + -ance，专化为电学储电能力。-ance 形成性质名词，不说 capacity 原样加 ance。
+由 capacity 相关词干 capacit- + -ance（把动作、性质或状态说成名词），专化为电学储电能力。-ance 形成性质名词，不说 capacity 原样加 ance。
 
 **怎么变成今天的意思**
 
@@ -174,7 +174,7 @@ capacitance 是量，capacitor 是物件；电容量不等于此刻电荷量，�
 
 **怎么拆**
 
-capacity 词族的 capacit- + -ive，形成电容性质相关的形容词。
+capacity 词族的 capacit- + -ive（有这种作用、倾向或性质），形成电容性质相关的形容词。
 
 **怎么变成今天的意思**
 

@@ -129,7 +129,7 @@ communication 是把信息传过去、让双方知道；communications 可以把
 
 **怎么拆**
 
-communication + -s，/n/ 后读 /z/。名词经法语与拉丁 commūnicātiōn- 借入，与共享、使共同知道的词族相连；英语名词借入早于 communicate，不能只画成英语动词加后缀。
+communication（沟通） + -s（表示不止一个），/n/ 后读 /z/。名词经法语与拉丁 commūnicātiōn- 借入，与共享、使共同知道的词族相连；英语名词借入早于 communicate，不能只画成英语动词加后缀。
 
 **怎么变成今天的意思**
 
@@ -218,7 +218,7 @@ communicating rooms 房间内部可互通，adjacent rooms 只说相邻，不保
 
 **怎么拆**
 
-communicate + -or，并有拉丁语 commūnicātor 等人物词作背景。词尾 -or 表参与、执行传达者，不限定职业。
+communicate（沟通） + -or，并有拉丁语 commūnicātor 等人物词作背景。词尾 -or 表参与、执行传达者，不限定职业。
 
 **怎么变成今天的意思**
 

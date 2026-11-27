@@ -14,7 +14,7 @@ encephalopathy 是脑病、脑功能障碍相关名称；前部说对象是脑�
 
 ## 词形与演化规律
 
-en- 在里面 + 头相关材料 → 希腊 enkephalos 脑；encephalo- + -pathy → encephalopathy。先有脑这个整体词义，再进入新复合。
+en- 在里面 + 头相关材料 → 希腊 enkephalos 脑；encephalo- + -pathy（与疾病、病变或某种疗法有关） → encephalopathy。先有脑这个整体词义，再进入新复合。
 
 ## 单词速览（按词族由简到繁）
 

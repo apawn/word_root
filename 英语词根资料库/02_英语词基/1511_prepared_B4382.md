@@ -15,7 +15,7 @@ prepared 来自 prepare 的过去分词，形容词化后表示准备好的。pr
 
 ## 词形与演化规律
 
-prepared for a task、prepared to do；prepared + -ness → preparedness；un- 表示否定。be prepared to 也可表示愿意承受或采取某种行动。
+prepared for a task、prepared to do；prepared + -ness（把前面的性质当作一种状态来说） → preparedness；un- 表示否定。be prepared to 也可表示愿意承受或采取某种行动。
 
 ## 单词速览（按词族由简到繁）
 
@@ -41,7 +41,7 @@ prepared 像出门前把该带的东西都放好；也可表示心里已接受�
 
 **怎么拆**
 
-prepare + -ed，过去分词进一步作形容词。
+prepare（准备） + -ed（标出动词的过去式或过去分词），过去分词进一步作形容词。
 
 **怎么变成今天的意思**
 
@@ -77,7 +77,7 @@ preparedness 像把手电、计划、分工都放到位之后的那份底气：�
 
 **怎么拆**
 
-prepared + -ness，是英语中从“备好的”形成表示状态的名词。
+prepared + -ness（把前面的性质当作一种状态来说），是英语中从“备好的”形成表示状态的名词。
 
 **怎么变成今天的意思**
 

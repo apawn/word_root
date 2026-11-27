@@ -92,7 +92,7 @@ geometric 与 geometrical 通常可互换；arithmetic progression 是等差数�
 
 **怎么拆**
 
-现代能拆 geometric + -al；历史上 geometrical 更早，接拉丁 geometricus 加 -al，因此不能把现代拆法当作唯一历史顺序。
+现代能拆 geometric（几何） + -al（形容词词尾，表示与前面的事物有关）；历史上 geometrical 更早，接拉丁 geometricus 加 -al，因此不能把现代拆法当作唯一历史顺序。
 
 **怎么变成今天的意思**
 
@@ -139,7 +139,7 @@ geometrical 与 geometric 多数情况下意思相同，后者更常用；不要
 
 **怎么拆**
 
-geometrical + -ly；也可按 geometric + -ally 分析，-ically 常读 /ɪkli/。
+geometrical + -ly；也可按 geometric（几何） + -ally 分析，-ically 常读 /ɪkli/。
 
 **怎么变成今天的意思**
 

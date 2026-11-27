@@ -14,7 +14,7 @@ unwilling 在 willing 前加否定。unwillingness 是不情愿，unwillingly �
 
 ## 词形与演化规律
 
-unwilling to do；unwilling + -ness、-ly。unwilling 与 unable 的后半不同，不能只看都以 un- 开头。
+unwilling to do；unwilling + -ness（把前面的性质当作一种状态来说）、-ly。unwilling 与 unable 的后半不同，不能只看都以 un- 开头。
 
 ## 单词速览（按词族由简到繁）
 
@@ -40,7 +40,7 @@ unwilling to do；unwilling + -ness、-ly。unwilling 与 unable 的后半不同
 
 **怎么拆**
 
-现代可拆否定 un- 加 willing。历史可接古英语 unwillende、中古英语 unwilland 后词尾变化，也有重新由 un-＋willing 构成的分析，不必假定只有一个新造时刻。
+现代可拆否定 un- 加 willing。历史可接古英语 unwillende、中古英语 unwilland 后词尾变化，也有重新由 un-＋willing（愿意） 构成的分析，不必假定只有一个新造时刻。
 
 **怎么变成今天的意思**
 

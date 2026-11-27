@@ -40,7 +40,7 @@ government 可数时常指某一届或某个政府，不可数用法可谈治理
 
 **怎么拆**
 
-现代容易看成 govern + -ment；实际借自古法语 governement，后者来自 governer。拉丁 gubernare 是更上游来源，不能把历史画成英语 govern 先造出法语名词。
+现代容易看成 govern（治理） + -ment（把动作、结果或状态说成名词）；实际借自古法语 governement，后者来自 governer。拉丁 gubernare 是更上游来源，不能把历史画成英语 govern 先造出法语名词。
 
 **怎么变成今天的意思**
 
@@ -82,7 +82,7 @@ state 常指延续存在的国家及其制度，a government 可以随选举、�
 
 **怎么拆**
 
-英语 government + -al。government 本身从法语名词借入；governmental 才是在英语里以该名词为基础形成的形容词。
+英语 government（政府） + -al（形容词词尾，表示与前面的事物有关）。government 本身从法语名词借入；governmental 才是在英语里以该名词为基础形成的形容词。
 
 **怎么变成今天的意思**
 

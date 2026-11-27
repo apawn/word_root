@@ -111,7 +111,7 @@ cause 更偏造成结果的原因；reason 可以说事发原因，也可以说�
 
 **怎么拆**
 
-reason + -s，词尾 /z/。名词、动词沿相关法语路线接拉丁 ratio 计算、理解、理由，与 reri 思考、核算同族；现代两种词性同形。
+reason（原因） + -s（这里既有名词复数用法，也有动词第三人称单数用法），词尾 /z/。名词、动词沿相关法语路线接拉丁 ratio 计算、理解、理由，与 reri 思考、核算同族；现代两种词性同形。
 
 **怎么变成今天的意思**
 
@@ -195,7 +195,7 @@ rational 不自动等于 morally right 道德上正确：推理可服务于不�
 
 **怎么拆**
 
-联系法语 rationalité、拉丁 ratiōnālitās，现代对应 rational + -ity；重音移到 -nal-，元音也变化。更里层 ratiō 联系计算、推理、道理。
+联系法语 rationalité、拉丁 ratiōnālitās，现代对应 rational（理性） + -ity（把“怎样的”变成“这种性质、状态或程度”）；重音移到 -nal-，元音也变化。更里层 ratiō 联系计算、推理、道理。
 
 **怎么变成今天的意思**
 
@@ -242,7 +242,7 @@ rationality 不等于没有感情；也不单指算数快。哲学、经济学�
 
 **怎么拆**
 
-rational + -ly，性质变方式副词；保留 rational 的词干和重音。
+rational（理性） + -ly（把性质用来说明方式、程度或说话的角度），性质变方式副词；保留 rational 的词干和重音。
 
 **怎么变成今天的意思**
 
@@ -289,7 +289,7 @@ rationally 是副词，a rational explanation 仍要用形容词；有情绪也�
 
 **怎么拆**
 
-接法语 rationalisation，现代对应 rationalize + -ation，或 rational + -ization。英式常见 rationalisation。
+接法语 rationalisation，现代对应 rationalize + -ation（把动作或结果说成一件事），或 rational（合理） + -ization（把变化或处理写成过程、结果的名称）。英式常见 rationalisation。
 
 **怎么变成今天的意思**
 
@@ -336,7 +336,7 @@ rationalization 是借口时，不保证理由真实；效率调整时也不一�
 
 **怎么拆**
 
-rational + -ism，形成学说、思想立场名词。哲学认识论与较宽的文化用法有重合，也有不同关注点。
+rational（理性） + -ism（把观念、做法、现象或状态说成名词），形成学说、思想立场名词。哲学认识论与较宽的文化用法有重合，也有不同关注点。
 
 **怎么变成今天的意思**
 
@@ -383,7 +383,7 @@ rationalism 是立场、学说，rationalist 是支持、实践相应立场的�
 
 **怎么拆**
 
-联系法语 rationaliste，现代对应 rational + -ist。人物后缀与 -ism 的思想名词相配，但两者不是同一词性。
+联系法语 rationaliste，现代对应 rational（理性） + -ist（从事这种活动、研究这门学问或持这种主张的人）。人物后缀与 -ism 的思想名词相配，但两者不是同一词性。
 
 **怎么变成今天的意思**
 
@@ -430,7 +430,7 @@ a rationalist philosopher；rationalist arguments。
 
 **怎么拆**
 
-reason + -ing。reason 经法语 raison 等接拉丁 ratio 计算、理解、理由，名词、动词各有较早发展；ing 把推理过程作为一件事来谈。
+reason（推理） + -ing（把动作写成进行中的形式，或把活动本身当作一件事来说）。reason 经法语 raison 等接拉丁 ratio 计算、理解、理由，名词、动词各有较早发展；ing 把推理过程作为一件事来谈。
 
 **怎么变成今天的意思**
 
@@ -514,7 +514,7 @@ A to B 的先后决定比值：2 比 3 与 3 比 2 不同。ratio 比较两个�
 
 **怎么拆**
 
-ratio + -s → ratios，o 后直接加 -s。借拉丁 ratio 计算、推算、比例，来自 reri 计算、思考的词族；英语数学意义后来固定。
+ratio + -s（表示不止一个） → ratios，o 后直接加 -s。借拉丁 ratio 计算、推算、比例，来自 reri 计算、思考的词族；英语数学意义后来固定。
 
 **怎么变成今天的意思**
 

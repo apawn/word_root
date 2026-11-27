@@ -146,7 +146,7 @@ authoritative 通常可赞许可靠、有威信；authoritarian 往往批评限�
 
 **怎么拆**
 
-authority 权威的词族 → authoritarian 威权的 + -ism；中间还有 -arian 人物、立场材料。不是 authority 这个词本身就自动表示专制。
+authority 权威的词族 → authoritarian 威权的 + -ism（把观念、做法、现象或状态说成名词）；中间还有 -arian 人物、立场材料。不是 authority 这个词本身就自动表示专制。
 
 **怎么变成今天的意思**
 

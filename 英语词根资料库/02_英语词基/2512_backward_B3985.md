@@ -14,7 +14,7 @@ backward → backwards、backwardness。
 
 ## 词形与演化规律
 
-back + -ward → backward；副词 -s → backwards；-ness 状态名词。
+back + -ward（朝某个方向） → backward；副词 -s → backwards；-ness 状态名词。
 
 ## 单词速览（按词族由简到繁）
 
@@ -40,7 +40,7 @@ back + -ward → backward；副词 -s → backwards；-ness 状态名词。
 
 **怎么拆**
 
-back + -ward，-ward 表方向，中古英语已有相应形式。发展落后的比喻不能用来推断一个地区所有方面都低下。
+back + -ward（朝某个方向），-ward 表方向，中古英语已有相应形式。发展落后的比喻不能用来推断一个地区所有方面都低下。
 
 **怎么变成今天的意思**
 
@@ -87,7 +87,7 @@ backward 形容词可修饰名词；backwards 通常作副词。backward 的发�
 
 **怎么拆**
 
-backward + 副词后缀 -s，承中古英语相应形式。这里 -s 不表示多个向后，也不表示第三人称动词。
+back 是“后方”，-ward 把它变成方向“朝后”，加上旧副词词尾 -s 就有了 backwards。She walked backwards 里这个词回答“怎么走”，可以想象她脸朝着你，脚步却往后退。
 
 **怎么变成今天的意思**
 
@@ -129,7 +129,7 @@ backward、backwards 都可作副词，英式用 backwards 很常见；作普通
 
 **怎么拆**
 
-backward + -ness，性质形容词变状态名词。backward 在此不只说身体向后走，还包含相对发展、行动意愿等性质。
+backward + -ness（把前面的性质当作一种状态来说），性质形容词变状态名词。backward 在此不只说身体向后走，还包含相对发展、行动意愿等性质。
 
 **怎么变成今天的意思**
 

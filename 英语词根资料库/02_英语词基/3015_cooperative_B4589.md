@@ -41,7 +41,7 @@ co- 共同，operate 工作；词有古典和法语等历史形式。cooperative
 
 **怎么拆**
 
-可按 co- + operative 理解；另一来源分析接后期拉丁 cooperāt- 加 -ive。名词由形容词转用，表示合作经营的组织。
+可按 co-（共同、一起） + operative 理解；另一来源分析接后期拉丁 cooperāt- 加 -ive。名词由形容词转用，表示合作经营的组织。
 
 **怎么变成今天的意思**
 
@@ -93,7 +93,7 @@ cooperative 描述配合态度或合作性质；a cooperative 另有具体组织
 
 **怎么拆**
 
-cooperative + -ly；修饰工作的方式或组织的经营方式。
+cooperative（合作） + -ly（把性质用来说明方式、程度或说话的角度）；修饰工作的方式或组织的经营方式。
 
 **怎么变成今天的意思**
 
@@ -150,7 +150,7 @@ collectively 强调作为一个整体；cooperatively 更强调成员互相配�
 
 **怎么拆**
 
-un-“不” + cooperative；否定的是合作态度或表现，不是工作能力。
+un-“不” + cooperative（合作）；否定的是合作态度或表现，不是工作能力。
 
 **怎么变成今天的意思**
 

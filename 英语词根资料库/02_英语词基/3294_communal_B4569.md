@@ -82,7 +82,7 @@ communal 通常强调某群体共用，public 更宽；宿舍住户的 communal 
 
 **怎么拆**
 
-communal + -ly → communally；原有 l 再接 -ly 写两个 l，读音仍按自然副词处理。
+communal（共用） + -ly（把性质用来说明方式、程度或说话的角度） → communally；原有 l 再接 -ly 写两个 l，读音仍按自然副词处理。
 
 **怎么变成今天的意思**
 

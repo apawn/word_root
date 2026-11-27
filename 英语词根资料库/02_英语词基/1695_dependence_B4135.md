@@ -193,7 +193,7 @@ freedom 范围很广，可指行动自由；independence 尤其强调不依赖�
 
 **怎么拆**
 
-inter- + dependence，在英语中构成相互依赖的名词。
+inter-（在……之间、彼此） + dependence（依赖），在英语中构成相互依赖的名词。
 
 **怎么变成今天的意思**
 

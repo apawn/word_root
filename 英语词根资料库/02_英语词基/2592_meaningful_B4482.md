@@ -40,7 +40,7 @@ meaning + -ful → meaningful；-ly 方式，-ness 性质。
 
 **怎么拆**
 
-meaning + -ful，表示有意义、充满所指内容。后缀只有一个 l，不写成 meaningfull。
+meaning（意义） + -ful（带有、充满这种特点），表示有意义、充满所指内容。后缀只有一个 l，不写成 meaningfull。
 
 **怎么变成今天的意思**
 
@@ -129,7 +129,7 @@ meaningfully 不都译得很庄严；一个眼神也能携带暗示。与 meanin
 
 **怎么拆**
 
-meaningful + -ness，形成性质、程度名词。里面 meaning + -ful 先给出有意义，-ness 再把性质变成讨论对象。
+meaningful（有意义） + -ness（把前面的性质当作一种状态来说），形成性质、程度名词。里面 meaning + -ful 先给出有意义，-ness 再把性质变成讨论对象。
 
 **怎么变成今天的意思**
 

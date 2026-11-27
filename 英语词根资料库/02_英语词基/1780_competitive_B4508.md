@@ -90,7 +90,7 @@ competent 是有能力把事做好；competitive 是涉及竞争、能与人比�
 
 **怎么拆**
 
-英语 competitive + -ness，将形容词变成性质名词。
+英语 competitive（好胜） + -ness（把前面的性质当作一种状态来说），将形容词变成性质名词。
 
 **怎么变成今天的意思**
 
@@ -142,7 +142,7 @@ competition 是竞争活动或环境；competitiveness 是参与者具有的竞�
 
 **怎么拆**
 
-英语 competitive + -ly，形成副词。
+英语 competitive（有竞争力） + -ly（把性质用来说明方式、程度或说话的角度），形成副词。
 
 **怎么变成今天的意思**
 

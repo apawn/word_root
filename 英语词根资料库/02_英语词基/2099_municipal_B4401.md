@@ -143,7 +143,7 @@ municipality 可指辖区，也可指当局；city 常指城市。二者在具�
 
 **怎么拆**
 
-municipality 的 y 变 i，加 -es → municipalities。经法语 municipalité，联系 municipal 市政的 + -ity；远接拉丁 municipium、municeps，共同承担地方义务的成员词族。
+municipality 的 y 变 i，加 -es → municipalities。经法语 municipalité，联系 municipal 市政的 + -ity（把“怎样的”变成“这种性质、状态或程度”）；远接拉丁 municipium、municeps，共同承担地方义务的成员词族。
 
 **怎么变成今天的意思**
 
@@ -185,7 +185,7 @@ municipally owned 就是地方政府拥有的。这个副词经常告诉你：�
 
 **怎么拆**
 
-municipal + -ly，形容词以 l 结尾，再加 -ly，拼写有 ll；常见读法中末尾音节可压缩。
+municipal（市政） + -ly（构成形容词，表示带有这种特点），形容词以 l 结尾，再加 -ly，拼写有 ll；常见读法中末尾音节可压缩。
 
 **怎么变成今天的意思**
 

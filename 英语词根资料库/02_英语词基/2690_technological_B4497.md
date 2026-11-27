@@ -41,7 +41,7 @@ technological change、technologically advanced；bio- 说明生物领域，不�
 
 **怎么拆**
 
-technology 的对应形容词，-logy 在这种派生中对应 -logical；可分析为 technolog- + -ical。
+technology 的对应形容词，-logy 在这种派生中对应 -logical；可分析为 technolog- + -ical（表示“与……有关的”，让这个词可以用来修饰别的事物）。
 
 **怎么变成今天的意思**
 
@@ -88,7 +88,7 @@ technical details 是专业操作细节；technological development 是技术的
 
 **怎么拆**
 
-technological + -ly，形容词变副词；自然语流中 -ically 常读 /ɪkli/。
+technological（技术） + -ly（把性质用来说明方式、程度或说话的角度），形容词变副词；自然语流中 -ically 常读 /ɪkli/。
 
 **怎么变成今天的意思**
 
@@ -135,7 +135,7 @@ technically 也能说技术上，但还可表示严格按规则；technologicall
 
 **怎么拆**
 
-bio- + technological，也与 biotechnology 的 -ical 形容词形式对应。
+bio-（生命、生物） + technological（技术），也与 biotechnology 的 -ical 形容词形式对应。
 
 **怎么变成今天的意思**
 

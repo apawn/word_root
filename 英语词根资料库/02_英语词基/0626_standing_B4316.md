@@ -184,7 +184,7 @@ outstanding performance；outstanding ability；outstanding questions；an outst
 
 **怎么拆**
 
-up- + standing，先有站起、立着的材料，后常说品格正直。直立像做人不歪的联想有助记忆，但不能替代各用法的实际历史。
+up- + standing（站立），先有站起、立着的材料，后常说品格正直。直立像做人不歪的联想有助记忆，但不能替代各用法的实际历史。
 
 **怎么变成今天的意思**
 

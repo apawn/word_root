@@ -135,7 +135,7 @@ unsatisfied 更容易突出“还没满足”，dissatisfied 更容易突出“�
 
 **怎么拆**
 
-un-“不、未”+ satisfied；强调满足这一结果没有实现。
+un-“不、未”+ satisfied（满意）；强调满足这一结果没有实现。
 
 **怎么变成今天的意思**
 

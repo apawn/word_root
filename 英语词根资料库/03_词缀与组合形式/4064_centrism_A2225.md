@@ -14,7 +14,7 @@ ethnocentrism 是民族中心主义：以自己群体的习惯、价值来衡量
 
 ## 词形与演化规律
 
-ethno- 群体、民族 + -centric → ethnocentric；相应观点名 ethnocentrism。词形关系不等于每次都按同一英语造词顺序。
+ethno- 群体、民族 + -centric（以……为中心） → ethnocentric；相应观点名 ethnocentrism。词形关系不等于每次都按同一英语造词顺序。
 
 ## 单词速览（按词族由简到繁）
 
@@ -83,7 +83,7 @@ ethnic 只是族群相关；ethnocentric 带对观察立场的批评，两者不
 
 **怎么拆**
 
-ethno- + -centrism，表示以某族群文化为中心的立场；可与 ethnocentric 对照，但 -ism 是态度、体系的名词后缀。
+ethno-（民族、文化群体） + -centrism（以……为中心的看法），表示以某族群文化为中心的立场；可与 ethnocentric 对照，但 -ism 是态度、体系的名词后缀。
 
 **继续看词根／词基**：[ethn-](../01_古典词根/2016_ethn_C0391.md)
 

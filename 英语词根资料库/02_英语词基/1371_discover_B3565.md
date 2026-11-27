@@ -18,7 +18,7 @@ discover → discovery、discoverer、discoverable；rediscover 重新进入视�
 
 ## 词形与演化规律
 
-法语 descovrir 等 → discover；discovery 有名词历史；discoverer 借入与派生；discover + -able；re- + discover。
+法语 descovrir 等 → discover；discovery 有名词历史；discoverer 借入与派生；discover + -able（能这样做，或能被这样对待）；re- + discover。
 
 discover 接法语、拉丁解除覆盖的材料，现代主要说发现原先不知道的事。加 -ing 保留原词，不双写 r；不是发明此前不存在之物。
 
@@ -186,7 +186,7 @@ discoveries 不必都是全人类第一次知道的事。具体是谁发现、�
 
 **怎么拆**
 
-discover + -ing → discovering，不双写 r。经法语 descovrir 接拉丁 dis- 解除、反向 + cooperire 覆盖，较早表示揭露、揭开。
+discover（发现） + -ing（把动作写成进行中的形式，或把活动本身当作一件事来说） → discovering，不双写 r。经法语 descovrir 接拉丁 dis- 解除、反向 + cooperire 覆盖，较早表示揭露、揭开。
 
 **怎么变成今天的意思**
 
@@ -228,7 +228,7 @@ discovering 常指原本存在而未被自己知道；inventing 是创造、发�
 
 **怎么拆**
 
-discover + -s → discovers，末尾 /z/。经法语 descovrir 接拉丁 dis- 反向 + cooperire 覆盖 → discooperire 揭开；现代可用 dis- + cover 对照记忆。
+discover（发现） + -s（主语是 he、she、it 这一类单数时，用这个一般现在时词尾） → discovers，末尾 /z/。经法语 descovrir 接拉丁 dis- 反向 + cooperire 覆盖 → discooperire 揭开；现代可用 dis- + cover 对照记忆。
 
 **怎么变成今天的意思**
 
@@ -270,7 +270,7 @@ discovers 关注发现原已存在的事物、事实，invents 关注创造新�
 
 **怎么拆**
 
-现代对应 discover + -er；中古英语 discoverour 等既有法语 descouvreur 的借入，也有英语派生因素，不能只画成现代新加一个后缀。
+现代对应 discover（发现） + -er（指做这件事的人或起这种作用的东西）；中古英语 discoverour 等既有法语 descouvreur 的借入，也有英语派生因素，不能只画成现代新加一个后缀。
 
 **怎么变成今天的意思**
 
@@ -312,7 +312,7 @@ discoverer 发现已有事物，inventor 发明新装置、方法等；谁算最
 
 **怎么拆**
 
-discover + -able，形成可被发现的形容词。词基结尾 r 直接接后缀，不需要删一个并不存在的 e。
+discover（发现） + -able（能这样做，或能被这样对待），形成可被发现的形容词。词基结尾 r 直接接后缀，不需要删一个并不存在的 e。
 
 **怎么变成今天的意思**
 

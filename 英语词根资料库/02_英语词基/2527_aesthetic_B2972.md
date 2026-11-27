@@ -83,7 +83,7 @@ beautiful 是漂亮、美的；aesthetic 常说审美这一角度或风格。ane
 
 **怎么拆**
 
-aesthetic + -ics，形成学科名称；现代复数形式也可指某物的审美特点。
+aesthetic（审美） + -ics（用来给一门学科或一类活动命名），形成学科名称；现代复数形式也可指某物的审美特点。
 
 **怎么变成今天的意思**
 
@@ -130,7 +130,7 @@ aesthetic 作名词常指某一种风格；aesthetics 可以是研究美的学�
 
 **怎么拆**
 
-aesthetic + -ally；-ically 常读 /ɪkli/，不需逐个拼写字母分音。
+aesthetic（审美） + -ally；-ically 常读 /ɪkli/，不需逐个拼写字母分音。
 
 **怎么变成今天的意思**
 

@@ -40,7 +40,7 @@ engineer + -ing；bio-/geo- + engineering；-ing 可名词化领域，不必译�
 
 **怎么拆**
 
-engineer + -ing，把工程师的工作、专业领域作为名词。也可在句中是 engineer 动词的进行形式。
+engineer（设计） + -ing，把工程师的工作、专业领域作为名词。也可在句中是 engineer 动词的进行形式。
 
 **怎么变成今天的意思**
 

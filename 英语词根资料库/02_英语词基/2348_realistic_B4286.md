@@ -15,7 +15,7 @@ realistic → realistically；unrealistic 否定；photorealistic 强调照片�
 
 ## 词形与演化规律
 
-realist + -ic → realistic；-ally 副词，un- 否定；photo- 照片相关。
+realist + -ic（表示“与……有关的”，让这个词可以用来修饰别的事物） → realistic；-ally 副词，un- 否定；photo- 照片相关。
 
 ## 单词速览（按词族由简到繁）
 
@@ -42,7 +42,7 @@ realist + -ic → realistic；-ally 副词，un- 否定；photo- 照片相关。
 
 **怎么拆**
 
-realist + -ic，联系 real 实际、真实这一词族。现代常从实际条件和如实表现两条线理解。
+realist + -ic（表示“与……有关的”，让这个词可以用来修饰别的事物），联系 real 实际、真实这一词族。现代常从实际条件和如实表现两条线理解。
 
 **怎么变成今天的意思**
 
@@ -84,7 +84,7 @@ Realistically 放句首，像提醒大家先把现实条件算进来；描写画
 
 **怎么拆**
 
-realistic + -ally。-ic 结尾形容词常用 -ally 形成副词，实际读音通常不把每个字母逐个展开。
+realistic（切合实际） + -ally（在许多 -ic 词后与 -al、-ly 的副词构形相连，把性质转成做事的方式或角度）。-ic 结尾形容词常用 -ally 形成副词，实际读音通常不把每个字母逐个展开。
 
 **怎么变成今天的意思**
 
@@ -131,7 +131,7 @@ realistically 常评估可行性或表现方式；really 常是确实、很。We
 
 **怎么拆**
 
-un- 不 + realistic，否定切合实际、逼真等性质。
+un- 不 + realistic（逼真），否定切合实际、逼真等性质。
 
 **怎么变成今天的意思**
 

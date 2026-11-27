@@ -39,7 +39,7 @@ idem → identitās、identicus → identic + -al；-ly 形成方式副词。
 
 **怎么拆**
 
-identic + -al，历史联系中古拉丁 identicus、晚期拉丁 identitās，最终联系 idem 相同。不要按英文 identity 去掉任意字母当作全部借入历史。
+identic + -al（形容词词尾，表示与前面的事物有关），历史联系中古拉丁 identicus、晚期拉丁 identitās，最终联系 idem 相同。不要按英文 identity 去掉任意字母当作全部借入历史。
 
 **怎么变成今天的意思**
 
@@ -81,7 +81,7 @@ similar 是相似，identical 通常要求相关方面一致；同卵双胞胎�
 
 **怎么拆**
 
-identical + -ly，形容词变副词；书写为 identically，保留原词 -al 再加 -ly。
+identical（完全一样） + -ly（把性质用来说明方式、程度或说话的角度），形容词变副词；书写为 identically，保留原词 -al 再加 -ly。
 
 **怎么变成今天的意思**
 

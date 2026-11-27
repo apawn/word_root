@@ -39,7 +39,7 @@ process + -ed → processed；un- + processed → unprocessed。
 
 **怎么拆**
 
-process + -ed，过去式、过去分词并可作形容词；-ed 接在这里常读 /t/，不是额外完整的 /ɪd/ 音节。
+process（处理） + -ed（标出动词的过去式或过去分词），过去式、过去分词并可作形容词；-ed 接在这里常读 /t/，不是额外完整的 /ɪd/ 音节。
 
 **怎么变成今天的意思**
 

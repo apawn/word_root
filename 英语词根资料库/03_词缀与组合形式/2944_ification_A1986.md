@@ -93,7 +93,7 @@ unity 是统一或团结的状态；unification 更强调达到该状态的过�
 
 **怎么拆**
 
-gentry 较高社会阶层 + -ification，对应 gentrify。社会学家 Ruth Glass 在 1964 年以此命名伦敦相关街区变化，借旧阶层词描述新一轮居民、空间重组。
+gentry 较高社会阶层 + -ification（把变化或处理写成过程、结果的名称），对应 gentrify。社会学家 Ruth Glass 在 1964 年以此命名伦敦相关街区变化，借旧阶层词描述新一轮居民、空间重组。
 
 **怎么变成今天的意思**
 
@@ -330,7 +330,7 @@ stratum 是其中一层；stratification 是形成层次的过程或整体格局
 
 **怎么拆**
 
-借法语 acidification；现代与 acidify 对应，可理解 acid + -ification。
+借法语 acidification；现代与 acidify 对应，可理解 acid + -ification（把变化或处理写成过程、结果的名称）。
 
 **继续看词根／词基**：[acid-](../01_古典词根/1809_acid_C0011.md)
 
@@ -521,7 +521,7 @@ falsification 表示行为或结果；falsifiability 表示理论是否容许出
 
 **怎么拆**
 
-gam(e) + -ification，表示使具有某种特征的过程、做法；可与 gamify“游戏化”对应，不把后半当无意义的长字串。
+gam(e) + -ification（把变化或处理写成过程、结果的名称），表示使具有某种特征的过程、做法；可与 gamify“游戏化”对应，不把后半当无意义的长字串。
 
 **继续看词根／词基**：[game](../02_英语词基/0164_game_B3191.md)
 
@@ -570,7 +570,7 @@ gamification 是把游戏机制用于非游戏任务，game design 是设计游�
 
 **怎么拆**
 
-desert 荒漠 + -ification，对应 desertify 使荒漠化。专业定义特别指干旱、半干旱及干旱亚湿润地区的土地退化，因素包括气候变动、人类活动等。
+desert 荒漠 + -ification（把变化或处理写成过程、结果的名称），对应 desertify 使荒漠化。专业定义特别指干旱、半干旱及干旱亚湿润地区的土地退化，因素包括气候变动、人类活动等。
 
 **继续看词根／词基**：[ser-](../01_古典词根/0508_ser_C1320.md)
 
@@ -619,7 +619,7 @@ desertification 不只是现有沙漠自然向外扩张；drought 干旱说水�
 
 **怎么拆**
 
-gas + -ification，后部表示使成为的过程，关联动词 gasify。技术义已固定，不能只按变成气就把所有蒸发都这样叫。
+gas（气体） + -ification（把变化或处理写成过程、结果的名称），后部表示使成为的过程，关联动词 gasify。技术义已固定，不能只按变成气就把所有蒸发都这样叫。
 
 **继续看词根／词基**：[gas](../02_英语词基/1027_gas_B2516.md)
 
@@ -722,7 +722,7 @@ commercialization 可指开发商业用途；commodification 更突出把对象�
 
 **怎么拆**
 
-与法语 solidification 相接，也对应 solidify 的动作名词；现代可分析 solid + -ification，或看 -ify 对应 -ification 的派生关系，不说保留 y 直接加 -ation。
+与法语 solidification 相接，也对应 solidify 的动作名词；现代可分析 solid + -ification（把变化或处理写成过程、结果的名称），或看 -ify 对应 -ification 的派生关系，不说保留 y 直接加 -ation。
 
 **继续看词根／词基**：[solid](../02_英语词基/0884_solid_B3077.md)
 

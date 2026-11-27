@@ -81,7 +81,7 @@ satisfaction 是感觉或达到要求的状态；satisfy 是造成这个结果�
 
 **怎么拆**
 
-dis- + satisfaction；与 dissatisfied 配套，但现代构词直接以名词 satisfaction 为基础。
+dis- + satisfaction（满意）；与 dissatisfied 配套，但现代构词直接以名词 satisfaction 为基础。
 
 **怎么变成今天的意思**
 

@@ -834,7 +834,7 @@
     "ipa": "英 /əˈlɑːm/；美 /əˈlɑːrm/",
     "meaning": "警报；闹钟；惊慌；使担忧",
     "sense": "原来是提醒大家危险来了，后来既指发出提醒的声音、设备，也指人心里被惊动的担忧。",
-    "split": "借法语 alarme，接意大利语 all’arme 到武器那里、拿起武器的呼喊，arma 是武器。现代不是 all + arm 的英语临时组合。",
+    "split": "英语 alarm 经法语 alarme 追到旧意大利语的呼喊 all’arme!。从一句叫人戒备的话，到警报本身，再到听见警报时的惊慌，就串起了几个常见意思。",
     "history": [
       [
         "意大利 all’arme → 法语 alarme",
@@ -859,7 +859,8 @@
       ]
     ],
     "sources": [
-      "https://en.wiktionary.org/wiki/alarm#English"
+      "https://en.wiktionary.org/wiki/alarm#English",
+      "https://www.treccani.it/vocabolario/arma/"
     ]
   },
   {

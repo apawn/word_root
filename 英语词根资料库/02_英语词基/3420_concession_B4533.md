@@ -91,7 +91,7 @@ compromise 常是双方协调后达成的安排；concession 可以只是一方�
 
 **怎么拆**
 
-concession + -ary；concession 从让步、给予等词族材料，发展出针对特定人的优惠。
+concession + -ary（形成形容词，说明与前面的事物有关）；concession 从让步、给予等词族材料，发展出针对特定人的优惠。
 
 **怎么变成今天的意思**
 

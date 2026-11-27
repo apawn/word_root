@@ -87,7 +87,7 @@ outdoor 放在名词前：outdoor activities；outdoors 修饰动作：play outd
 
 **怎么拆**
 
-outdoors + -y → outdoorsy，保留 s 并读 /z/。outdoors 的 s 有旧副词词尾、短语发展背景，不当成门 doors 的普通复数来解释整词。
+outdoors + -y（带有这种东西或显出这种性质） → outdoorsy，保留 s 并读 /z/。outdoors 的 s 有旧副词词尾、短语发展背景，不当成门 doors 的普通复数来解释整词。
 
 **怎么变成今天的意思**
 

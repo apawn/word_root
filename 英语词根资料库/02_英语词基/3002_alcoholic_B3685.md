@@ -14,7 +14,7 @@ alcoholic → nonalcoholic，饮料、成因与人物名词分别识别。
 
 ## 词形与演化规律
 
-alcohol + -ic → alcoholic；non- + alcoholic → nonalcoholic。
+alcohol + -ic（表示“与……有关的”，让这个词可以用来修饰别的事物） → alcoholic；non-（非、不属于这类） + alcoholic → nonalcoholic。
 
 ## 单词速览（按词族由简到繁）
 
@@ -39,7 +39,9 @@ alcohol + -ic → alcoholic；non- + alcoholic → nonalcoholic。
 
 **怎么拆**
 
-alcohol + -ic 相关的形容词；后来也有指人的名词用法。形容词、人物名词形成时间和语境有别，不把 drink 的含酒精义直接等同人的诊断。
+alcohol（酒精） + -ic 相关的形容词；后来也有指人的名词用法。形容词、人物名词形成时间和语境有别，不把 drink 的含酒精义直接等同人的诊断。
+
+阿拉伯语 al- 相当于 the，kuḥl 是涂在眼周的细粉。细粉经过精制，欧洲炼金术语又把这个名称用于提炼出的精华，后来才有大家熟悉的酒精义。
 
 **怎么变成今天的意思**
 

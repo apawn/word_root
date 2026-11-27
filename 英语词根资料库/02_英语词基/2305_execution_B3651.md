@@ -93,7 +93,7 @@ execution 可能只是执行计划，但 executioner 已固定得窄：通常是
 
 **怎么拆**
 
-execution + -er。execution 更早联系拉丁 exsequī 跟随到底、执行等来源；本人物词接执行死刑这一义。
+execution（执行） + -er（指做这件事的人或起这种作用的东西）。execution 更早联系拉丁 exsequī 跟随到底、执行等来源；本人物词接执行死刑这一义。
 
 **怎么变成今天的意思**
 

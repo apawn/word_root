@@ -40,7 +40,7 @@ historical + -ly；a- + historical，或 ahistoric + -al。
 
 **怎么拆**
 
-在来自拉丁语 historicus 的词族基础上加 -al；现代可看成 historic + -al，或 history 对应的 -ical 形容词形式。
+在来自拉丁语 historicus 的词族基础上加 -al；现代可看成 historic + -al（形容词词尾，表示与前面的事物有关），或 history 对应的 -ical 形容词形式。
 
 **怎么变成今天的意思**
 
@@ -92,7 +92,7 @@ historical 常说与历史有关；historic 常说历史上重要。历史小说
 
 **怎么拆**
 
-historical + -ly，形成副词；-ically 的常见读音不必把每个字母各读成一拍。
+historical（历史） + -ly（把性质用来说明方式、程度或说话的角度），形成副词；-ically 的常见读音不必把每个字母各读成一拍。
 
 **怎么变成今天的意思**
 
@@ -144,7 +144,7 @@ historically 通常说明历史角度、过去情况；不等于 historic 所带
 
 **怎么拆**
 
-a- 否定 + historical，或经 ahistoric + -al 分析。a- 是不、无，不是冠词 a 放错位置。
+a- 否定 + historical（历史），或经 ahistoric + -al 分析。a- 是不、无，不是冠词 a 放错位置。
 
 **怎么变成今天的意思**
 

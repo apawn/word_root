@@ -129,7 +129,7 @@ straightforward 不一定 rude 无礼；清楚坦率仍可礼貌。straightforwa
 
 **怎么拆**
 
-straight + -en，使变得、变得，形成动词。现代字母 gh 不发音，读 /ˈstreɪtən/。
+straight + -en（让事物变得怎样，或自己变得怎样），使变得、变得，形成动词。现代字母 gh 不发音，读 /ˈstreɪtən/。
 
 **怎么变成今天的意思**
 

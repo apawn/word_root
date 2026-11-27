@@ -16,7 +16,7 @@ essential → essentially；nonessential 已有精讲，作否定对照。哲学
 
 ## 词形与演化规律
 
-拉丁语 essentia → essentiālis；essential + -ly；non- + essential。
+拉丁语 essentia → essentiālis；essential + -ly；non-（非、不属于这类） + essential。
 
 essence、essential 接拉丁 essentia、essentialis；这是阅读顺序，essential 在英语记录中较早，不能倒写成英语 essence 先造出了它。
 
@@ -132,7 +132,7 @@ essential 不可缺少，比 merely useful 仅仅有用更强；important 重要
 
 **怎么拆**
 
-essential + -ly，形成本质、主要方面的副词；保留两个 l。不是只要 essential 表必需，就把 essentially 一律译成必须地。
+essential（本质） + -ly（把性质用来说明方式、程度或说话的角度），形成本质、主要方面的副词；保留两个 l。不是只要 essential 表必需，就把 essentially 一律译成必须地。
 
 **怎么变成今天的意思**
 

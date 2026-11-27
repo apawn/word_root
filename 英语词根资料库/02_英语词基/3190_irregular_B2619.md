@@ -93,7 +93,7 @@ incorrect 是错误；irregular 可以完全正确，只是不按最常见规则
 
 **怎么拆**
 
-irregular + -ly。
+irregular（不规则） + -ly（把性质用来说明方式、程度或说话的角度）。
 
 **怎么变成今天的意思**
 
@@ -145,7 +145,7 @@ rarely 说次数少；irregularly 说规律不稳定，不一定很少。
 
 **怎么拆**
 
-中世纪拉丁语 irregularitas，经法语 irrégularité 借入；现代可联系 irregular + -ity。
+中世纪拉丁语 irregularitas，经法语 irrégularité 借入；现代可联系 irregular（不规则） + -ity（把“怎样的”变成“这种性质、状态或程度”）。
 
 **怎么变成今天的意思**
 

@@ -84,7 +84,7 @@ territorial 可是中性的地理分类，也可说维护地盘的态度；不�
 
 **怎么拆**
 
-territorial + -ly。
+territorial（领土） + -ly。
 
 **怎么变成今天的意思**
 
@@ -131,7 +131,7 @@ geographically 是按地理看；territorially 往往还带辖区、控制或维
 
 **怎么拆**
 
-territorial + -ity，表示相关性质或行为模式。
+territorial（领地性） + -ity（把“怎样的”变成“这种性质、状态或程度”），表示相关性质或行为模式。
 
 **怎么变成今天的意思**
 

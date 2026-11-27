@@ -15,7 +15,7 @@ establishment → reestablishment；前者可指建立、机构或权势集团�
 
 ## 词形与演化规律
 
-establish + -ment → establishment；re- + establishment → reestablishment。
+establish + -ment（把动作、结果或状态说成名词） → establishment；re- + establishment → reestablishment。
 
 机构、经营场所可以数为 establishments；the Establishment 常指掌权的社会圈层、既有权势体系，不能把所有复数都译成建制派。
 
@@ -79,7 +79,7 @@ establishment 有三个常见层次：建立过程、具体机构、既有权势
 
 **怎么拆**
 
-establish + -ment → establishment，再加 -s。establish 经古法语 establir 接拉丁 stabilire 使稳固，-ment 把建立的动作或结果名词化。
+establish + -ment（把动作、结果或状态说成名词） → establishment，再加 -s。establish 经古法语 establir 接拉丁 stabilire 使稳固，-ment 把建立的动作或结果名词化。
 
 **怎么变成今天的意思**
 

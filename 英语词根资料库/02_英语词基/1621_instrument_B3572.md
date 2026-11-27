@@ -16,7 +16,7 @@ instrument → instrumental 与器乐有关、发挥关键作用 → instrumenta
 
 ## 词形与演化规律
 
-īnstruere → īnstrūmentum → instrument；instrumentālis/instrument + -al → instrumental；instrument + -ation。
+īnstruere → īnstrūmentum → instrument；instrumentālis/instrument + -al → instrumental；instrument + -ation（把动作或结果说成一件事）。
 
 拉丁 instrumentum 经法语借入，乐器、仪器和手段各有现代用途。
 
@@ -87,7 +87,7 @@ instrument 乐器只是常用一支，tool 工具更宽；a legal instrument 是
 
 **怎么拆**
 
-instrument + -s，/t/ 后读 /s/。经法语接拉丁 īnstrūmentum 配备、工具，来自 īnstruere 装配、备好与名词材料 mentum；整体早已在拉丁语形成。
+instrument（乐器） + -s（表示不止一个），/t/ 后读 /s/。经法语接拉丁 īnstrūmentum 配备、工具，来自 īnstruere 装配、备好与名词材料 mentum；整体早已在拉丁语形成。
 
 **怎么变成今天的意思**
 
@@ -129,7 +129,7 @@ instrument 要看领域才能选中文：乐器、仪器、手段都常见。仪
 
 **怎么拆**
 
-与中世纪拉丁 īnstrūmentālis 对应，现代可看作 instrument + -al。名词 instrumental 是器乐作品等用法，不把关键作用义只锁在会弹琴。
+与中世纪拉丁 īnstrūmentālis 对应，现代可看作 instrument（仪器） + -al（形容词词尾，表示与前面的事物有关）。名词 instrumental 是器乐作品等用法，不把关键作用义只锁在会弹琴。
 
 **怎么变成今天的意思**
 
@@ -176,7 +176,7 @@ He was instrumental in the decision 说他影响重大，不是他在决定时�
 
 **怎么拆**
 
-instrument + -ation，动作、系统相关名词；后段重音在 /teɪ/。不同专业把配置的对象选为测量器具、演奏乐器等。
+instrument（乐器） + -ation（把动作或结果说成一件事），动作、系统相关名词；后段重音在 /teɪ/。不同专业把配置的对象选为测量器具、演奏乐器等。
 
 **怎么变成今天的意思**
 

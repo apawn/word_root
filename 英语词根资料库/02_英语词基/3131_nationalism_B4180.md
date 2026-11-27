@@ -38,7 +38,7 @@ nationalism 是围绕民族或国家认同组织起来的一套情感和政治�
 
 **怎么拆**
 
-与法语 nationalisme 相连，现代对应 national + -ism。
+与法语 nationalisme 相连，现代对应 national（国家） + -ism（把观念、做法、现象或状态说成名词）。
 
 **怎么变成今天的意思**
 

@@ -6,6 +6,8 @@
 
 relation 经法语接拉丁 relātiō，与 referre、relātus 历史相关。现代分清名词与形容词，比把所有中文关系都同词替换更有用。
 
+re- 在这里指“回”，ferre 是“带”。把消息带回去可以是报告，把问题带回某个人或某个出处，可以是提请处理或指向出处。这里的 re- 说的是方向。
+
 **RELATION：怎样联系，或因什么关系连在一起**
 
 relation 可说联系，也可指亲戚本人；relationship 常说相处、关联状态；relational 是关系方面的形容词。
@@ -50,6 +52,8 @@ relation → relationship、relational；-ship 说关系状态，-al 说相关�
 
 经法语接拉丁 relātiō，来自 referre 的 relātus 词干。现代可认 relate 与 -ion 的对应，但历史 lat- 与 fer- 是不规则词干关系，不按字母随意替换。
 
+re- 在这里指“回”，ferre 是“带”。把消息带回去可以是报告，把问题带回某个人或某个出处，可以是提请处理或指向出处。这里的 re- 说的是方向。
+
 **怎么变成今天的意思**
 
 **拉丁 referre → relātus、relātiō → 法语 relacion → 英语 relation**  
@@ -90,7 +94,9 @@ relation 可具体指一位亲属，relationship 常说联系、相处关系；a
 
 **怎么拆**
 
-relation + -ship，形成关系、相处状态名词。ship 是抽象状态、关系后缀，不是关系之船这一真实词源。
+relation（关系） + -ship（把身份、关系或本领说成名词），形成关系、相处状态名词。ship 是抽象状态、关系后缀，不是关系之船这一真实词源。
+
+re- 在这里指“回”，ferre 是“带”。把消息带回去可以是报告，把问题带回某个人或某个出处，可以是提请处理或指向出处。这里的 re- 说的是方向。
 
 **怎么变成今天的意思**
 
@@ -139,6 +145,8 @@ relationship 可人际，也可事物联系；a relation 可是亲戚本人，a 
 
 relation + -ship → relationship，再加 -s，/p/ 后读 /s/。relation 经法语接拉丁 relātiō，与 referre、relātus 同族；-ship 是状态、关系后缀。
 
+re- 在这里指“回”，ferre 是“带”。把消息带回去可以是报告，把问题带回某个人或某个出处，可以是提请处理或指向出处。这里的 re- 说的是方向。
+
 **怎么变成今天的意思**
 
 **拉丁关系词族 → 法语 → 英语 relation**  
@@ -179,7 +187,9 @@ relationships 既有人的相处，也有客观关联。in a relationship 在特
 
 **怎么拆**
 
-relation + -s，/n/ 后读 /z/。法语 relation 接拉丁 relātiō，来自 referre 的 relātus 词干；现代可对照 relate 与 -ion，但名词有自己的借入历史。
+relation（关系） + -s（表示不止一个），/n/ 后读 /z/。法语 relation 接拉丁 relātiō，来自 referre 的 relātus 词干；现代可对照 relate 与 -ion，但名词有自己的借入历史。
+
+re- 在这里指“回”，ferre 是“带”。把消息带回去可以是报告，把问题带回某个人或某个出处，可以是提请处理或指向出处。这里的 re- 说的是方向。
 
 **怎么变成今天的意思**
 
@@ -221,7 +231,9 @@ relations 在 between、with 等结构里常说往来关系；my relations 常�
 
 **怎么拆**
 
-relation + -al 相关形容词。relational database 的 relation 取数学关系的专门含义，常以表来表示，不是把数据库当人际关系网。
+relation（关系） + -al 相关形容词。relational database 的 relation 取数学关系的专门含义，常以表来表示，不是把数据库当人际关系网。
+
+re- 在这里指“回”，ferre 是“带”。把消息带回去可以是报告，把问题带回某个人或某个出处，可以是提请处理或指向出处。这里的 re- 说的是方向。
 
 **怎么变成今天的意思**
 

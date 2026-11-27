@@ -263,7 +263,7 @@ strong 描述强，strength 是力量，strengthen 是使更强。strengthened �
 
 **怎么拆**
 
-strength + -s → strengths，/θ/ 后读 /s/。strength 与 strong 同族，承古英语 strengþu 等名词，含古老 -th 性质名词材料及元音变化。
+strength（强度） + -s（表示不止一个） → strengths，/θ/ 后读 /s/。strength 与 strong 同族，承古英语 strengþu 等名词，含古老 -th 性质名词材料及元音变化。
 
 **怎么变成今天的意思**
 

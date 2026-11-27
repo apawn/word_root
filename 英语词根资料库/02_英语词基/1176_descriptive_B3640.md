@@ -6,6 +6,8 @@
 
 拉丁 descriptivus 与 describere 描写词族相连，后进入英语。describe、description、descriptive 共享动作、结果、性质的历史关系。
 
+dē- 在这里带“记下”的意味，scrībere 是“写”。把事物的样子用文字记下来，就是描述。分词词干 scrīpt- 出现在 description 中。
+
 **DESCRIPTIVE：把是什么样说明白**
 
 一段文字告诉你颜色、声音、形状，是 descriptive writing；研究描述人实际怎样使用语言，也可叫 descriptive。
@@ -40,7 +42,9 @@ describe 是把你看到或经历的东西，用话语递给没在现场的人�
 
 **怎么拆**
 
-拉丁语 dē- + scrībere 形成 dēscrībere“写下、描画”，经法语进入英语；这里 de- 不能机械理解成否定。
+拉丁语 dē- + scrībere（拉丁语，写下） 形成 dēscrībere“写下、描画”，经法语进入英语；这里 de- 不能机械理解成否定。
+
+dē- 在这里带“记下”的意味，scrībere 是“写”。把事物的样子用文字记下来，就是描述。分词词干 scrīpt- 出现在 description 中。
 
 **怎么变成今天的意思**
 
@@ -78,6 +82,8 @@ description 像用文字画的一幅画：别人没见过那个人或东西，�
 
 经法语来自拉丁语 dēscrīptiō，是 dēscrībere“描写”的动作名词。script- 与 scrib- 是拉丁词形的对应。
 
+dē- 在这里带“记下”的意味，scrībere 是“写”。把事物的样子用文字记下来，就是描述。分词词干 scrīpt- 出现在 description 中。
+
 **怎么变成今天的意思**
 
 ![description 的词源演化](../assets/evolution/description-c9046f7a.svg)
@@ -113,6 +119,8 @@ description 描述是什么样；explanation 解释为什么或怎么回事。de
 **怎么拆**
 
 与拉丁 describere 描写及 descript- 变化词干相联，再接 -ive；现代把 describe、description、descriptive 一起看，不把剩下的 descript 当作必须单背的常用动词。
+
+dē- 在这里带“记下”的意味，scrībere 是“写”。把事物的样子用文字记下来，就是描述。分词词干 scrīpt- 出现在 description 中。
 
 **怎么变成今天的意思**
 

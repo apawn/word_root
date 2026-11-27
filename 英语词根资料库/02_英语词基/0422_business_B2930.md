@@ -48,7 +48,7 @@ business 有 busy、-ness 的历史材料，但 showbiz 现代先按娱乐业整
 
 **怎么拆**
 
-接古英语 bisiġnes、中古英语 businesse 等，历史对应 busy + -ness。后来商业、事务义独立发展，读音压缩；现代普通忙碌另写 busyness。
+接古英语 bisiġnes、中古英语 businesse 等，历史对应 busy + -ness（把前面的性质当作一种状态来说）。后来商业、事务义独立发展，读音压缩；现代普通忙碌另写 busyness。
 
 **怎么变成今天的意思**
 
@@ -220,7 +220,7 @@ businesswoman 是商业身份，working woman 是有工作、在职女性更泛�
 
 **怎么拆**
 
-business + -like，-like 表像某种做事方式。强调专业、务实态度，不一定真在公司里做商业交易。
+business + -like（像前面所说的东西），-like 表像某种做事方式。强调专业、务实态度，不一定真在公司里做商业交易。
 
 **怎么变成今天的意思**
 

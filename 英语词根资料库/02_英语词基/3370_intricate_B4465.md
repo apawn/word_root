@@ -83,7 +83,7 @@ intricate 更让人看到细部交织，complicated 可以泛说难处理；intr
 
 **怎么拆**
 
-intricate + -ly。intricate 来自拉丁 intricatus，联系 intricare 使纠缠，旧材料有 in- 与 tricae 障碍、纠结；现代副词常描写精细结构或紧密联系。
+intricate + -ly（把性质用来说明方式、程度或说话的角度）。intricate 来自拉丁 intricatus，联系 intricare 使纠缠，旧材料有 in- 与 tricae 障碍、纠结；现代副词常描写精细结构或紧密联系。
 
 **怎么变成今天的意思**
 
@@ -125,7 +125,7 @@ complicated 强调复杂；intricately 往往让人想到很多细部、层次�
 
 **怎么拆**
 
-intricate 的词干 + -acy，来自其纠缠、复杂的形容词材料，远接拉丁 intricare 缠住。换掉形容词尾形成名词，不是英语 trick 直接套一个 in- 就得到。
+intricate 的词干 + -acy（把状态、资格或地位说成名词），来自其纠缠、复杂的形容词材料，远接拉丁 intricare 缠住。换掉形容词尾形成名词，不是英语 trick 直接套一个 in- 就得到。
 
 **怎么变成今天的意思**
 

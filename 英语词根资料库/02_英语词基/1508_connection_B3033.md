@@ -42,7 +42,7 @@ connection 是接上之后形成的那条线或关系：网络连通、两件事
 
 **怎么拆**
 
-来自拉丁语 connexiō，经中古英语传入；现代 connection 的拼写使 connect + -ion 的关系更明显。
+来自拉丁语 connexiō，经中古英语传入；现代 connection 的拼写使 connect（连接） + -ion 的关系更明显。
 
 **怎么变成今天的意思**
 
@@ -78,7 +78,7 @@ interconnection 把网络里的连接关系本身拿出来看：哪些部分相�
 
 **怎么拆**
 
-inter- + connection，是“各部分之间的连接”。
+inter-（在……之间、彼此） + connection，是“各部分之间的连接”。
 
 **怎么变成今天的意思**
 

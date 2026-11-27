@@ -15,7 +15,7 @@ regional 来自 region 的区域一支及相关形容词形式。regionally 是�
 
 ## 词形与演化规律
 
-regional + -ly → regionally；regional + -ism → regionalism。region 的范围可以是行政、地理或其他划分，需看对象。
+regional + -ly → regionally；regional + -ism（把观念、做法、现象或状态说成名词） → regionalism。region 的范围可以是行政、地理或其他划分，需看对象。
 
 ## 单词速览（按词族由简到繁）
 
@@ -41,7 +41,7 @@ regional + -ly → regionally；regional + -ism → regionalism。region 的范�
 
 **怎么拆**
 
-来自后期拉丁语 regionalis，也经法语 régional；现代看起来是 region + -al，但历史有独立借入。
+来自后期拉丁语 regionalis，也经法语 régional；现代看起来是 region + -al（形容词词尾，表示与前面的事物有关），但历史有独立借入。
 
 **怎么变成今天的意思**
 
@@ -88,7 +88,7 @@ local 常聚焦身边或更小范围；regional 通常覆盖一片地区，尺�
 
 **怎么拆**
 
-regional + -ly。
+regional（地区） + -ly。
 
 **怎么变成今天的意思**
 
@@ -140,7 +140,7 @@ nationally 看全国；regionally 看区域，并不保证范围很小。
 
 **怎么拆**
 
-regional + -ism。
+regional + -ism（把观念、做法、现象或状态说成名词）。
 
 **怎么变成今天的意思**
 

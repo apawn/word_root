@@ -14,7 +14,7 @@ suitable → suitably；unsuitable 否定适合关系。
 
 ## 词形与演化规律
 
-suit + -able → suitable；suitable → suitably；un- + suitable。
+suit + -able（能这样做，或能被这样对待） → suitable；suitable → suitably；un- + suitable。
 
 ## 单词速览（按词族由简到繁）
 
@@ -40,7 +40,7 @@ suit + -able → suitable；suitable → suitably；un- + suitable。
 
 **怎么拆**
 
-suit 动词适合 + -able，形成关系形容词。这里重点是适配某个用途，不是衣服能被穿上的单一意思。
+suit 动词适合 + -able（能这样做，或能被这样对待），形成关系形容词。这里重点是适配某个用途，不是衣服能被穿上的单一意思。
 
 **怎么变成今天的意思**
 
@@ -87,7 +87,7 @@ suitable 合用途，available 当前可用；一个候选人合适但可能没�
 
 **怎么拆**
 
-suitable + -ly，-able 形容词的副词形式变为 -ably。不是 suit + ably 能干地两个词。
+suitable（合适） + -ly（把性质用来说明方式、程度或说话的角度），-able 形容词的副词形式变为 -ably。不是 suit + ably 能干地两个词。
 
 **怎么变成今天的意思**
 
@@ -134,7 +134,7 @@ suitably impressed 不能机械译适当地被印下；impressed 在这里是留
 
 **怎么拆**
 
-un- 不 + suitable 适合的；suitable 对应 suit + -able。否定的是与当前用途相合的关系，不一定否定东西本身的价值。
+un- 不 + suitable 适合的；suitable 对应 suit + -able（能这样做，或能被这样对待）。否定的是与当前用途相合的关系，不一定否定东西本身的价值。
 
 **怎么变成今天的意思**
 

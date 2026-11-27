@@ -40,7 +40,7 @@ satisfy → satisfying；un- 否定；satisfying + -ly。
 
 **怎么拆**
 
-satisfy + -ing；现在分词可描述正在满足某种要求，形容词则描述事物带来的满足感。
+satisfy（满足） + -ing；现在分词可描述正在满足某种要求，形容词则描述事物带来的满足感。
 
 **怎么变成今天的意思**
 
@@ -92,7 +92,7 @@ satisfactory 常表示达到可接受标准；satisfying 更突出亲身体验�
 
 **怎么拆**
 
-satisfying + -ly → satisfyingly，保留 -ing。副词描述动作、声音、结果的方式或程度，让人感到满足。
+satisfying（令人满足） + -ly（把性质用来说明方式、程度或说话的角度） → satisfyingly，保留 -ing。副词描述动作、声音、结果的方式或程度，让人感到满足。
 
 **怎么变成今天的意思**
 

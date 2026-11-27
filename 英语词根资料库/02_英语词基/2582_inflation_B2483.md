@@ -93,7 +93,7 @@ the rate of inflation；rising inflation；adjust for inflation；grade inflatio
 
 **怎么拆**
 
-英语 inflation + -ary，形成表示“相关性质”的形容词；这里的结尾不是 ordinary 中的独立单词。
+英语 inflation（通货膨胀） + -ary（形成形容词，说明与前面的事物有关），形成表示“相关性质”的形容词；这里的结尾不是 ordinary 中的独立单词。
 
 **怎么变成今天的意思**
 

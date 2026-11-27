@@ -14,7 +14,7 @@
 
 ## 词形与演化规律
 
-中古 knowen + -leche 等 → knowledge；knowledge + -able；fore- + knowledge。
+中古 knowen + -leche 等 → knowledge；knowledge + -able（能这样做，或能被这样对待）；fore-（在前、提前） + knowledge。
 
 ## 单词速览（按词族由简到繁）
 
@@ -87,7 +87,7 @@ knowledge 通常不可数；一条知识可按语境说 a fact 或 a piece of in
 
 **怎么拆**
 
-knowledge + -able；这里后缀形成具有相关知识的形容词，不表示“可以被知识”。后缀不能只背一个机械译法。
+knowledge（知识） + -able（能这样做，或能被这样对待）；这里后缀形成具有相关知识的形容词，不表示“可以被知识”。后缀不能只背一个机械译法。
 
 **怎么变成今天的意思**
 

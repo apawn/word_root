@@ -41,7 +41,7 @@ comparable → comparably；incomparable 另带否定、赞叹用法。
 
 **怎么拆**
 
-经法语来自拉丁 comparabilis；现代可联系 compare + -able，但历史上是借来的形容词。
+经法语来自拉丁 comparabilis；现代可联系 compare + -able（能这样做，或能被这样对待），但历史上是借来的形容词。
 
 **怎么变成今天的意思**
 
@@ -88,7 +88,7 @@ comparable 是可以比或差不多，comparative 是比较性的。两者只差
 
 **怎么拆**
 
-comparable + -ly，-able 接 -ly 时变为 -ably；底层 comparable 历史借法语、拉丁 comparabilis，现代与 compare 词族相连。
+comparable + -ly（把性质用来说明方式、程度或说话的角度），-able 接 -ly 时变为 -ably；底层 comparable 历史借法语、拉丁 comparabilis，现代与 compare 词族相连。
 
 **怎么变成今天的意思**
 

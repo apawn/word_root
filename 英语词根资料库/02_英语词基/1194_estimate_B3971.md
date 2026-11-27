@@ -137,7 +137,7 @@ estimated 强调估算结果，数值未必精确。名词 estimate 末尾常弱
 
 **怎么拆**
 
-estimate + -s，/t/ 后读 /s/。底词接拉丁 aestimāre 估价、评价及 aestimātus 分词材料；英语名词、动词有各自发展，名词尾 /mət/，动词尾 /meɪt/。
+estimate（估计） + -s（这里既有名词复数用法，也有动词第三人称单数用法），/t/ 后读 /s/。底词接拉丁 aestimāre 估价、评价及 aestimātus 分词材料；英语名词、动词有各自发展，名词尾 /mət/，动词尾 /meɪt/。
 
 **怎么变成今天的意思**
 
@@ -226,7 +226,7 @@ estimate 常直接指一个估算值或报价；estimation 更常用于过程和
 
 **怎么拆**
 
-接拉丁 aestimātor 等人物名词，也可按 estimate + -or 理解，去掉末尾 e。统计义把估算角色交给由样本构成的规则或统计量。
+接拉丁 aestimātor 等人物名词，也可按 estimate（估计） + -or 理解，去掉末尾 e。统计义把估算角色交给由样本构成的规则或统计量。
 
 **怎么变成今天的意思**
 
@@ -273,7 +273,7 @@ a cost estimator；an online estimator；an unbiased estimator。
 
 **怎么拆**
 
-经古法语 estimable、拉丁 aestimābilis，接 aestimāre 评价、估值。可联系 esteem + -able 的尊重义；并非把现代 estimate 去 e 就一定得到这个常用义。
+经古法语 estimable、拉丁 aestimābilis，接 aestimāre 评价、估值。可联系 esteem（尊重） + -able 的尊重义；并非把现代 estimate 去 e 就一定得到这个常用义。
 
 **怎么变成今天的意思**
 

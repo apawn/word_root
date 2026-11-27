@@ -41,6 +41,8 @@
 
 From triskaideka- (“thirteen”) + -phobia.
 
+triskaideka- + -phobia（对……的恐惧或强烈排斥）
+
 <a id="w-2"></a>
 
 ### 2. triskaidecagon

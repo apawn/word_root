@@ -39,7 +39,7 @@ ideological differences、ideologically opposed；词本身不自动规定哪一
 
 **怎么拆**
 
-ideology + -ical；主重音移到 -log-，描述与思想体系有关的特点。
+ideology（意识形态） + -ical（表示“与……有关的”，让这个词可以用来修饰别的事物）；主重音移到 -log-，描述与思想体系有关的特点。
 
 **怎么变成今天的意思**
 
@@ -91,7 +91,7 @@ practical 常看事情怎么做得成；ideological 常看背后的信念，但�
 
 **怎么拆**
 
-英语 ideological + -ly；其词族来自法语 idéologie，由表示观念的 idéo- 与表示研究的 -logie 构成，后来常指一套思想信念。
+英语 ideological（意识形态） + -ly；其词族来自法语 idéologie，由表示观念的 idéo- 与表示研究的 -logie 构成，后来常指一套思想信念。
 
 **怎么变成今天的意思**
 

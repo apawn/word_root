@@ -41,7 +41,7 @@ sentiment → sentimental → sentimentality／unsentimental；不同搭配可�
 
 **怎么拆**
 
-sentiment + -al。
+sentiment（感情） + -al（形容词词尾，表示与前面的事物有关）。
 
 **怎么变成今天的意思**
 
@@ -77,7 +77,7 @@ emotional 广泛说有情绪或情绪强烈；sentimental 常偏温情、怀旧�
 
 **怎么拆**
 
-sentimental + -ity，将性质转成名词。
+sentimental（感伤） + -ity（把“怎样的”变成“这种性质、状态或程度”），将性质转成名词。
 
 **怎么变成今天的意思**
 
@@ -113,7 +113,7 @@ emotion 是感情本身；sentimentality 常暗示处理得过甜、过满或不
 
 **怎么拆**
 
-un-（不）+ sentimental。
+un-（不）+ sentimental（感情用事）。
 
 **怎么变成今天的意思**
 

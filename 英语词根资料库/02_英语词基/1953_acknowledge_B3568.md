@@ -137,7 +137,7 @@ acknowledged a message 只说明对收到消息作了确认，不保证同意其
 
 **怎么拆**
 
-acknowledge + -ing，去末尾 e。可作动词形式，也能修饰 nod、smile 等，表示那个动作传达了认出、回应或承认。
+acknowledge（承认） + -ing，去末尾 e。可作动词形式，也能修饰 nod、smile 等，表示那个动作传达了认出、回应或承认。
 
 **怎么变成今天的意思**
 
@@ -179,7 +179,7 @@ acknowledging receipt 只确认收到了，不必同意内容；点头 acknowled
 
 **怎么拆**
 
-acknowledge + -ment 构成名词，结尾 e 可按拼写习惯保留或省去；两种常用拼写不是两个不同来源的词。
+acknowledge（承认） + -ment（把动作、结果或状态说成名词） 构成名词，结尾 e 可按拼写习惯保留或省去；两种常用拼写不是两个不同来源的词。
 
 **怎么变成今天的意思**
 

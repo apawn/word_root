@@ -87,7 +87,7 @@ combination 可组合结果也可行为；锁的 combination 常数字顺序也�
 
 **怎么拆**
 
-combination + -s → combinations。可与 combine、-ation 的动作或结果名词对应学习；历史经法语接晚期拉丁 combinatio，远含 com- 一起 + bini 两个两个。
+combination（组合） + -s（表示不止一个） → combinations。可与 combine、-ation 的动作或结果名词对应学习；历史经法语接晚期拉丁 combinatio，远含 com- 一起 + bini 两个两个。
 
 **怎么变成今天的意思**
 
@@ -171,7 +171,7 @@ combo 较口语，combination 更一般、正式；游戏连招通常强调有�
 
 **怎么拆**
 
-re- + combination，也与 recombine 的动作名词相对应。保留前缀和名词的分层，不把 re- 误认成 combination 内部的原生字母。
+re- + combination（组合），也与 recombine 的动作名词相对应。保留前缀和名词的分层，不把 re- 误认成 combination 内部的原生字母。
 
 **怎么变成今天的意思**
 

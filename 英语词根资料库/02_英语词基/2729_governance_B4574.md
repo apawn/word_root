@@ -38,7 +38,7 @@ corporate governance、data governance、governance structure；不能把所有�
 
 **怎么拆**
 
-借自古法语 governance，来自 governer“治理”；中古英语为 governaunce。现代可认 govern + -ance，但这个名词有独立的法语借入历史。
+借自古法语 governance，来自 governer“治理”；中古英语为 governaunce。现代可认 govern（治理） + -ance（把动作、性质或状态说成名词），但这个名词有独立的法语借入历史。
 
 **怎么变成今天的意思**
 

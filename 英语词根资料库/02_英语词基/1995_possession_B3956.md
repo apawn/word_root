@@ -85,7 +85,7 @@ possession 可强调实际持有或控制；ownership 强调所有权。借来�
 
 **怎么拆**
 
-possession + -s → possessions，/n/ 后读 /z/。possession 接法语、拉丁 possessio，远连 possidere 持有，通常分析为有支配力与坐、占据的材料。
+possession + -s（表示不止一个） → possessions，/n/ 后读 /z/。possession 接法语、拉丁 possessio，远连 possidere 持有，通常分析为有支配力与坐、占据的材料。
 
 **怎么变成今天的意思**
 
@@ -127,7 +127,7 @@ repossession 把收回房屋、车辆的整个过程当作一个事件来讲。
 
 **怎么拆**
 
-re- + possession，也与动词 repossess 对应；现代可看作重新取得占有的名词。
+re- + possession（占有），也与动词 repossess 对应；现代可看作重新取得占有的名词。
 
 **怎么变成今天的意思**
 
@@ -163,7 +163,7 @@ dispossession 说的是“原本属于自己生活的一块地方或财物，被
 
 **怎么拆**
 
-与 dispossess 相应的英语名词；也可从现代形式看作 dis- + possession。
+与 dispossess 相应的英语名词；也可从现代形式看作 dis- + possession（占有）。
 
 **怎么变成今天的意思**
 

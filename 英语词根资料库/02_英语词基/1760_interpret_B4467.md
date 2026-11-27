@@ -102,7 +102,7 @@ interpret 不保证理解正确；I interpreted it as approval 只是说我这�
 
 **怎么拆**
 
-经法语接拉丁 interpretātiō，动作名词。现代对应 interpret + -ation；历史有自己的借入路线，不必把所有义写成英语临时加尾巴。
+经法语接拉丁 interpretātiō，动作名词。现代对应 interpret（解释） + -ation（把动作或结果说成一件事）；历史有自己的借入路线，不必把所有义写成英语临时加尾巴。
 
 **怎么变成今天的意思**
 
@@ -154,7 +154,7 @@ interpretation 是对意思的理解、呈现，不等于 objective fact 客观�
 
 **怎么拆**
 
-interpretation + -s，/n/ 后读 /z/。法语相关形式接拉丁 interpretātiō，来自 interpretārī 解释，与 interpres 解释者、传话者相关；更早构成不强拆，现代可对照 interpret + -ation。
+interpretation + -s（表示不止一个），/n/ 后读 /z/。法语相关形式接拉丁 interpretātiō，来自 interpretārī 解释，与 interpres 解释者、传话者相关；更早构成不强拆，现代可对照 interpret + -ation（把动作或结果说成一件事）。
 
 **怎么变成今天的意思**
 
@@ -238,7 +238,7 @@ interpreted something as… 是作出理解，不保证那就是原意。译为�
 
 **怎么拆**
 
-接法语、晚期拉丁相应人物词，现代对应 interpret + -er。不是所有 -er 都说明只在英语里首次新造，计算机义是后来的角色转用。
+接法语、晚期拉丁相应人物词，现代对应 interpret（解释） + -er（指做这件事的人或起这种作用的东西）。不是所有 -er 都说明只在英语里首次新造，计算机义是后来的角色转用。
 
 **怎么变成今天的意思**
 
@@ -295,7 +295,7 @@ interpreter 不只口头说话者，手语也在内；计算机解释器的内�
 
 **怎么拆**
 
-interpret + -ing，直接加 ing，不双写 t。interpret 经法语接拉丁 interpretari，来自 interpres 中间传达者；后半更远来源有不同分析。
+interpret（解释） + -ing（把动作写成进行中的形式，或把活动本身当作一件事来说），直接加 ing，不双写 t。interpret 经法语接拉丁 interpretari，来自 interpres 中间传达者；后半更远来源有不同分析。
 
 **怎么变成今天的意思**
 
@@ -337,7 +337,7 @@ interpreting 在语言职业语境常指口译；translation 常指笔译或广�
 
 **怎么拆**
 
-mis- + interpret“解读、解释”。
+mis-（做错、做得不当） + interpret“解读、解释”。
 
 **怎么变成今天的意思**
 
@@ -384,7 +384,7 @@ mistranslate 特指翻译出错；misinterpret 范围更广，即使没有跨语
 
 **怎么拆**
 
-re- 再次 + interpret。可以重新研究同一批资料，也可以用新风格演旧作品，不等于把它错解。
+re- 再次 + interpret（解读）。可以重新研究同一批资料，也可以用新风格演旧作品，不等于把它错解。
 
 **怎么变成今天的意思**
 

@@ -16,7 +16,7 @@ conservative → conservatism、conservatively；neoconservative 接特定政治
 
 ## 词形与演化规律
 
-conservāre、conservātīvus 经法语 → conservative；conservative 对应 conservatism；conservative + -ly；neo- + conservative。
+conservāre、conservātīvus 经法语 → conservative；conservative 对应 conservatism；conservative + -ly；neo-（新出现的，或用新形式恢复的） + conservative。
 
 法语 conservatif 接拉丁 conservare，性质词转为人物称呼，再加 s。
 
@@ -119,7 +119,7 @@ conservation 是保护；conservative 是保守或审慎。环保工作者不因
 
 **怎么拆**
 
-conservative + -s，/v/ 后读 /z/。conservative 经法语 conservatif 接拉丁 conservare 保持，性质词再转称持这种态度、立场的人。
+conservative（保守） + -s（表示不止一个），/v/ 后读 /z/。conservative 经法语 conservatif 接拉丁 conservare 保持，性质词再转称持这种态度、立场的人。
 
 **怎么变成今天的意思**
 
@@ -161,7 +161,7 @@ conservatives 作为普通名词可说一类立场；大写 Conservatives 可能
 
 **怎么拆**
 
-通常对应 conservative + -ism，词形调整为 conservatism，历史也有其他相近构词分析。较早 conservāre 是保存、守护，不是 conserve 果酱才生出政治。
+通常对应 conservative（保守） + -ism（把观念、做法、现象或状态说成名词），词形调整为 conservatism，历史也有其他相近构词分析。较早 conservāre 是保存、守护，不是 conserve 果酱才生出政治。
 
 **怎么变成今天的意思**
 
@@ -208,7 +208,7 @@ conservatism 政治含义因历史传统不同，不自动等于每个国家某�
 
 **怎么拆**
 
-conservative + -ly，副词修饰做事、估算、穿着等方式，接的是整个形容词而非只接 con-。
+conservative（保守） + -ly（把性质用来说明方式、程度或说话的角度），副词修饰做事、估算、穿着等方式，接的是整个形容词而非只接 con-。
 
 **怎么变成今天的意思**
 

@@ -92,7 +92,7 @@ enthusiastic 是人的态度或表现；exciting 是事物让人兴奋。说自�
 
 **怎么拆**
 
-enthusiastic + -ally；-ically 通常压缩读成 /ɪkli/，不要因为拼写长就每个字母都另读一拍。
+enthusiastic（热情） + -ally（在许多 -ic 词后与 -al、-ly 的副词构形相连，把性质转成做事的方式或角度）；-ically 通常压缩读成 /ɪkli/，不要因为拼写长就每个字母都另读一拍。
 
 **怎么变成今天的意思**
 

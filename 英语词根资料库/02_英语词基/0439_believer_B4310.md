@@ -129,7 +129,7 @@ belief 名词、believe 动词；believe someone 可相信某人的话，belief 
 
 **怎么拆**
 
-un- 不、无 + belief，已有中古英语对应形式。un- 和 dis- 都可否定，常用语境却分出不同倾向，不能只因中文都叫不信就忽略。
+un- 不、无 + belief（信仰），已有中古英语对应形式。un- 和 dis- 都可否定，常用语境却分出不同倾向，不能只因中文都叫不信就忽略。
 
 **怎么变成今天的意思**
 
@@ -223,7 +223,7 @@ believer 是持信念者，supporter 是支持者更广，可能提供资源、�
 
 **怎么拆**
 
-现代对应 un- 不 + believer；历史上可能有较早 wanbeliever 等否定形式参与改造。believer 是 believe + -er，称相信、信奉的人。
+现代对应 un- 不 + believer（信徒）；历史上可能有较早 wanbeliever 等否定形式参与改造。believer 是 believe + -er（指做这件事的人或起这种作用的东西），称相信、信奉的人。
 
 **怎么变成今天的意思**
 

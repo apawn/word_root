@@ -40,7 +40,7 @@ cephal- 先给出头；希腊 en- 加上“在里面”，enkephalos 就把视�
 
 **怎么拆**
 
-encephal- 脑 + -itis；前者接希腊 enkephalos 脑，字面与 en 在内、kephale 头有关。
+encephal- 脑 + -itis（某部位的炎症）；前者接希腊 enkephalos 脑，字面与 en 在内、kephale 头有关。
 
 **怎么变成今天的意思**
 

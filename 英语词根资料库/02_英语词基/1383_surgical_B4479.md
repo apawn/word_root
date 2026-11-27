@@ -151,7 +151,7 @@ physician 常指内科医生或一般医师；surgeon 突出外科专业。
 
 **怎么拆**
 
-与 surgery、surgeon 同族，现代可认 surg- + -ical；更早经法语、拉丁 chirurgical 一族，上接希腊手 + 工作。
+与 surgery、surgeon 同族，现代可认 surg- + -ical（表示“与……有关的”，让这个词可以用来修饰别的事物）；更早经法语、拉丁 chirurgical 一族，上接希腊手 + 工作。
 
 **怎么变成今天的意思**
 
@@ -198,7 +198,7 @@ medical 医疗的范围更广，surgical 更具体关联外科、手术；精确
 
 **怎么拆**
 
-surgical + -ly，-ical + -ly 写成 -ically，常用读音中末部为 /ɪkli/。
+surgical（手术） + -ly，-ical（表示“与……有关的”，让这个词可以用来修饰别的事物） + -ly 写成 -ically，常用读音中末部为 /ɪkli/。
 
 **怎么变成今天的意思**
 

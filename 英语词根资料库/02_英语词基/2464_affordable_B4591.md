@@ -14,7 +14,7 @@ affordable → affordably；unaffordable 负担不起。
 
 ## 词形与演化规律
 
-afford + -able → affordable；-ably 副词，un- 否定。
+afford + -able（能这样做，或能被这样对待） → affordable；-ably 副词，un- 否定。
 
 ## 单词速览（按词族由简到繁）
 
@@ -40,7 +40,7 @@ afford + -able → affordable；-ably 副词，un- 否定。
 
 **怎么拆**
 
-afford + -able，表示能够承担花费的。词义随 afford 负担得起分支，不是这个房子能够主动提供什么。
+afford（负担得起） + -able（能这样做，或能被这样对待），表示能够承担花费的。词义随 afford 负担得起分支，不是这个房子能够主动提供什么。
 
 **怎么变成今天的意思**
 
@@ -87,7 +87,7 @@ affordable 相对支付能力，cheap 价格低；对高收入者 affordable 的
 
 **怎么拆**
 
-affordable + -ly，-able 结尾相应变为 -ably。由能负担的性质形成方式副词。
+affordable（负担得起） + -ly，-able 结尾相应变为 -ably。由能负担的性质形成方式副词。
 
 **怎么变成今天的意思**
 
@@ -129,7 +129,7 @@ affordably 是方式，affordable 是性质。广告中的 affordably 仍须结�
 
 **怎么拆**
 
-un- 不 + affordable，后半由 afford + -able 构成。否定能负担的性质。
+un- 不 + affordable，后半由 afford + -able（能这样做，或能被这样对待） 构成。否定能负担的性质。
 
 **怎么变成今天的意思**
 

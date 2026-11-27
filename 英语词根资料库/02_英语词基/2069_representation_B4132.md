@@ -87,7 +87,7 @@ representation 可画面、符号或代表关系，presentation 可一次展示�
 
 **怎么拆**
 
-representation + -s → representations。经法语、拉丁 repraesentatio 展示，来自 repraesentare 使在眼前；re- 在这里可能加强，praesentare 是呈现，-ation 对应行为或结果名词。
+representation（表现） + -s（表示不止一个） → representations。经法语、拉丁 repraesentatio 展示，来自 repraesentare 使在眼前；re- 在这里可能加强，praesentare 是呈现，-ation 对应行为或结果名词。
 
 **怎么变成今天的意思**
 
@@ -129,7 +129,7 @@ representations 会选择、组织对象的某些特点；地图、模型都可�
 
 **怎么拆**
 
-representation + -al，把再现、表征这一名词变成相关性质。representation 经法语接拉丁 repraesentātiō、repraesentāre 呈现，不是把演示再做一次的简单拼字。
+representation（表征） + -al，把再现、表征这一名词变成相关性质。representation 经法语接拉丁 repraesentātiō、repraesentāre 呈现，不是把演示再做一次的简单拼字。
 
 **怎么变成今天的意思**
 
@@ -171,7 +171,7 @@ representational 不等于 representative 有代表性的。一幅人物画可�
 
 **怎么拆**
 
-可分析为 mis- + representation，也可联系 misrepresent + -ation；不必强行把名词当成一定晚于动词的产物。
+可分析为 mis-（做错、做得不当） + representation，也可联系 misrepresent（歪曲） + -ation（把动作或结果说成一件事）；不必强行把名词当成一定晚于动词的产物。
 
 **怎么变成今天的意思**
 

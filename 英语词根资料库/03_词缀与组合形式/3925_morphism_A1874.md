@@ -40,7 +40,7 @@ di- 二 + -morphism → dimorphism；iso- 相同 + -morphism → isomorphism。�
 
 **怎么拆**
 
-iso- 相同 + morph- 形态 + -ism；英语借入路线接法语 isomorphisme、德语 Isomorphismus，早期用于晶体研究。
+iso- 相同 + morph- 形态 + -ism（把观念、做法、现象或状态说成名词）；英语借入路线接法语 isomorphisme、德语 Isomorphismus，早期用于晶体研究。
 
 **继续看词根／词基**：[morph-](../01_古典词根/2665_morph_C0767.md) · [is-, iso-](../01_古典词根/3323_is_C0614.md)
 
@@ -89,7 +89,7 @@ similarity 是一般相似；isomorphism 在数学中是严格结构关系，光
 
 **怎么拆**
 
-di- 两种 + morph- 形态 + -ism，历史联系希腊 dimorphos 两种形态的，近代成为生物、材料等学科术语。
+di- 两种 + morph- 形态 + -ism（把观念、做法、现象或状态说成名词），历史联系希腊 dimorphos 两种形态的，近代成为生物、材料等学科术语。
 
 **继续看词根／词基**：[morph-](../01_古典词根/2665_morph_C0767.md)
 

@@ -39,7 +39,7 @@ a confrontation with、a confrontational tone；名词说事件或关系，形�
 
 **怎么拆**
 
-接中古拉丁 confrontatio/confrontation-“对质”，来自 confrontari“使面对面”。现代与 confront + -ation 可对应，但这个名词有独立的拉丁借入历史。
+接中古拉丁 confrontatio/confrontation-“对质”，来自 confrontari“使面对面”。现代与 confront（面对） + -ation 可对应，但这个名词有独立的拉丁借入历史。
 
 **怎么变成今天的意思**
 
@@ -86,7 +86,7 @@ disagreement 可以只是意见不同；confrontation 通常意味着分歧已�
 
 **怎么拆**
 
-英语 confrontation + -al，20 世纪形成的形容词。前面整个名词是构词基础，不是 con- 另加一个叫 frontational 的词。
+英语 confrontation（对抗） + -al（形容词词尾，表示与前面的事物有关），20 世纪形成的形容词。前面整个名词是构词基础，不是 con- 另加一个叫 frontational 的词。
 
 **怎么变成今天的意思**
 

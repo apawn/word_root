@@ -106,7 +106,7 @@ consider doing 不通常说 consider to do 来表示考虑去做；be considered
 
 **怎么拆**
 
-consider + -ed，词尾读 /d/。consider 经法语接拉丁 considerare 察看、思量；更深与星辰词的联系有争论，不能把观星故事当成确证。
+consider（考虑） + -ed（标出动词的过去式或过去分词），词尾读 /d/。consider 经法语接拉丁 considerare 察看、思量；更深与星辰词的联系有争论，不能把观星故事当成确证。
 
 **怎么变成今天的意思**
 
@@ -148,7 +148,7 @@ considered doing 是考虑过做某事；was considered to be ... 是被认为�
 
 **怎么拆**
 
-consider + -ing，直接加。consider 经法语接拉丁 cōnsīderāre 仔细察看、思量，更远与星辰 sidus 相连的解释有讨论，不把观星故事当成确定词源。
+consider（考虑） + -ing，直接加。consider 经法语接拉丁 cōnsīderāre 仔细察看、思量，更远与星辰 sidus 相连的解释有讨论，不把观星故事当成确定词源。
 
 **怎么变成今天的意思**
 
@@ -236,7 +236,7 @@ an important consideration 一个重要因素；out of consideration for somebod
 
 **怎么拆**
 
-consideration + -s → considerations。经法语 consideracion 或拉丁 consideratio 仔细观察、思量，来自 considerare 细看、考虑。
+consideration（考虑） + -s（表示不止一个） → considerations。经法语 consideracion 或拉丁 consideratio 仔细观察、思量，来自 considerare 细看、考虑。
 
 **怎么变成今天的意思**
 
@@ -278,7 +278,7 @@ consideration 还可说体谅、考虑过程，常作为整体。considerations 
 
 **怎么拆**
 
-consider + -able，早有值得考虑、重视义，现代最常见固定为数量、程度相当大。不要机械只翻成能被考虑。
+consider + -able（能这样做，或能被这样对待），早有值得考虑、重视义，现代最常见固定为数量、程度相当大。不要机械只翻成能被考虑。
 
 **怎么变成今天的意思**
 
@@ -325,7 +325,7 @@ considerable 可观，considerate 体贴是另一个常见词；拼写近不等�
 
 **怎么拆**
 
-consider + -s，英式元音后、美式 /r/ 后读 /z/。consider 经法语接拉丁 considerare 仔细察看、思量；更深与星辰有关的分析仍有讨论。
+consider（考虑） + -s（主语是 he、she、it 这一类单数时，用这个一般现在时词尾），英式元音后、美式 /r/ 后读 /z/。consider 经法语接拉丁 considerare 仔细察看、思量；更深与星辰有关的分析仍有讨论。
 
 **怎么变成今天的意思**
 

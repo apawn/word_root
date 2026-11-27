@@ -88,7 +88,7 @@ subconscious 常说不在显明意识中的心理活动；不能用它代替 unc
 
 **怎么拆**
 
-英语 un- + consciously，也可按 unconscious + -ly 理解；主要否定行为中的自觉意识。
+英语 un- + consciously（自觉地），也可按 unconscious（无意识） + -ly 理解；主要否定行为中的自觉意识。
 
 **怎么变成今天的意思**
 
@@ -135,7 +135,7 @@ accidentally 强调并非有意造成的结果；unconsciously 强调自己没�
 
 **怎么拆**
 
-可分析为 unconscious + -ness，也与 un- + consciousness 的构形相合。
+可分析为 unconscious（失去知觉） + -ness（把前面的性质当作一种状态来说），也与 un- + consciousness 的构形相合。
 
 **怎么变成今天的意思**
 

@@ -252,7 +252,7 @@
     "ipa": "英 /ˈdʒɜːni/；美 /ˈdʒɜːrni/",
     "meaning": "旅程、行程；历程；旅行",
     "sense": "从起点到目的地的一段路，也可借来说学习、康复、人生逐步走过的过程；强调走这段路的经历。",
-    "split": "经法语 journée 等接拉丁一天相关词，早有一天工作、一天行程。后来旅程不再限制一天，现代也可作较正式旅行动词。",
+    "split": "古法语 jor 是“一天”，jornée 可以指“一天的工夫”，也可以指“一天能走的路程”。英语借入后把重点放在路程上，走几天也能叫 a journey。“一天的活儿”那个旧意思，还能在 journeyman 里看见。",
     "history": [
       [
         "拉丁 diēs、diurnus 等 → 古法语 jornee、journée → journey",
@@ -289,7 +289,7 @@
     "ipa": "英 /ˈdʒɜːnimən/；美 /ˈdʒɜːrnimən/",
     "meaning": "出师受雇的熟练工；熟练但不突出的人；辗转效力的职业球员〔语境义〕",
     "sense": "传统手艺里已过学徒阶段，能独立干活、为别人受雇做工的人；不是只要到处旅行就叫 journeyman。",
-    "split": "中古英语 journey 的一天工作、工日义 + man 人，保留计工、受雇的历史背景。后来可形容水平稳但不突出，体育里也可指辗转多队的球员。",
+    "split": "中古英语里 journey 还可以指“一天的活儿”，man 指干活的人。想象木匠已经出师，别人按天付他工钱，这就是早期的 journeyman。现代也用它说一个人手艺过关、靠这门本事吃饭。",
     "history": [
       [
         "拉丁 diēs、diurnus 等 → 古法语 jornee、journée → journey",
@@ -318,6 +318,7 @@
       ]
     ],
     "sources": [
+      "https://www.merriam-webster.com/dictionary/journeyman",
       "https://en.wiktionary.org/wiki/journeyman#English",
       "https://www.etymonline.com/word/journeyman"
     ]

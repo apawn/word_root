@@ -15,7 +15,7 @@ political 联系 politic 与 -al，远源经过希腊城市、公民和治理词
 
 ## 词形与演化规律
 
-political → politically；geo- + political → geopolitical；a- + political → apolitical。geopolitical 是整体的地缘政治概念，不只是地图好看。
+political → politically；geo-（地球、大地） + political → geopolitical；a- + political → apolitical。geopolitical 是整体的地缘政治概念，不只是地图好看。
 
 ## 单词速览（按词族由简到繁）
 
@@ -42,7 +42,7 @@ political → politically；geo- + political → geopolitical；a- + political �
 
 **怎么拆**
 
-英语 politic + -al。politic 早先已有“政治的”意思，后来这一常用义主要由 political 承担。
+英语 politic（政治） + -al（形容词词尾，表示与前面的事物有关）。politic 早先已有“政治的”意思，后来这一常用义主要由 political 承担。
 
 **怎么变成今天的意思**
 
@@ -78,7 +78,7 @@ political 是政治相关；politic 多说做法明智、懂得分寸；polite �
 
 **怎么拆**
 
-political + -ly；-ically 通常压缩读成 /ɪkli/ 或 /əkli/，不必一字母一音地读。
+political（政治） + -ly；-ically 通常压缩读成 /ɪkli/ 或 /əkli/，不必一字母一音地读。
 
 **怎么变成今天的意思**
 
@@ -114,7 +114,7 @@ politically 限定政治方面；personally 限定个人方面。一个人可私
 
 **怎么拆**
 
-geo- + political，是 geopolitics 对应的形容词。不要机械写成 geopolitics + -al，实际词形是 political 这套形容词结构。
+geo-（地球、大地） + political（政治），是 geopolitics 对应的形容词。不要机械写成 geopolitics + -al，实际词形是 political 这套形容词结构。
 
 **怎么变成今天的意思**
 
@@ -150,7 +150,7 @@ geographical 只说地理方面；geopolitical 必须还牵涉权力或国家关
 
 **怎么拆**
 
-a-“无、不” + political。这里的 a- 来自希腊语否定组合形式，不是英语不定冠词。
+a-“无、不” + political（政治）。这里的 a- 来自希腊语否定组合形式，不是英语不定冠词。
 
 **怎么变成今天的意思**
 

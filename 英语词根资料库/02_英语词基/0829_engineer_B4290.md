@@ -124,7 +124,7 @@ engineer 不只修发动机的人；engineering 工程范围远宽于 engine。�
 
 **怎么拆**
 
-engineer + -ing，把工程师的工作、专业领域作为名词。也可在句中是 engineer 动词的进行形式。
+engineer（设计） + -ing，把工程师的工作、专业领域作为名词。也可在句中是 engineer 动词的进行形式。
 
 **怎么变成今天的意思**
 

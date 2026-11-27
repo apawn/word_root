@@ -41,7 +41,7 @@ economical car、economical use、economically viable；副词的具体中文仍
 
 **怎么拆**
 
-economic 词基 + -al，属于家计、资源管理这条历史线；现代主要保留节俭、少浪费的意义。
+economic 词基 + -al（形容词词尾，表示与前面的事物有关），属于家计、资源管理这条历史线；现代主要保留节俭、少浪费的意义。
 
 **怎么变成今天的意思**
 
@@ -88,7 +88,7 @@ cheap 常说价格低；economical 考虑使用中是否节省。便宜买来却
 
 **怎么拆**
 
-economical + -ly；现代同时充当 economic 和 economical 两类意思的副词。不能只用一个中文“经济地”应付所有语境。
+economical（节约） + -ly；现代同时充当 economic 和 economical 两类意思的副词。不能只用一个中文“经济地”应付所有语境。
 
 **怎么变成今天的意思**
 
@@ -140,7 +140,7 @@ economic 与 economical 常区分经济相关和节约；到了 economically，�
 
 **怎么拆**
 
-un-“不” + economical；否定节省、有效利用资源这一性质。
+un-“不” + economical（节约）；否定节省、有效利用资源这一性质。
 
 **怎么变成今天的意思**
 

@@ -14,7 +14,7 @@ ruthless → ruthlessly、ruthlessness，性质、做法与抽象名词。
 
 ## 词形与演化规律
 
-reuthe 怜悯 + -less → ruthless；-ly 方式；-ness 性质。
+reuthe 怜悯 + -less（缺少前面说的东西） → ruthless；-ly 方式；-ness 性质。
 
 ## 单词速览（按词族由简到繁）
 
@@ -82,7 +82,7 @@ determined 下决心不必缺同情，ruthless 常强调不顾怜悯；修稿语
 
 **怎么拆**
 
-ruthless + -ly → ruthlessly，原词 -less 保留，后接方式副词 -ly。词尾不是一个独立的 lessly 小词。
+ruthless（冷酷无情） + -ly（把性质用来说明方式、程度或说话的角度） → ruthlessly，原词 -less 保留，后接方式副词 -ly。词尾不是一个独立的 lessly 小词。
 
 **怎么变成今天的意思**
 
@@ -124,7 +124,7 @@ ruthless 描写一个人或做法，ruthlessness 把那种为了目标不手软�
 
 **怎么拆**
 
-ruthless + -ness → ruthlessness，两层词尾：-less 先否定怜悯，-ness 再把性质名词化。
+ruthless（冷酷无情） + -ness（把前面的性质当作一种状态来说） → ruthlessness，两层词尾：-less 先否定怜悯，-ness 再把性质名词化。
 
 **怎么变成今天的意思**
 

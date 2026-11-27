@@ -39,7 +39,7 @@ capitalist 可作名词和形容词，capitalistic 为形容词。capital 的头
 
 **怎么拆**
 
-英语与法语 capitaliste 相联系；可按 capital + -ist 理解。历史上“拥有并运用资本的人”的称呼早于常用制度名 capitalism。
+英语与法语 capitaliste 相联系；可按 capital（资本） + -ist 理解。历史上“拥有并运用资本的人”的称呼早于常用制度名 capitalism。
 
 **怎么变成今天的意思**
 
@@ -86,7 +86,7 @@ capital 是资本；capitalist 可指人，也可修饰经济制度。
 
 **怎么拆**
 
-capitalist + -ic；资料也提到德语 kapitalistisch 的可能影响。英语构形不表示它由 capitalism 直接换尾而来。
+capitalist（资本主义） + -ic（表示“与……有关的”，让这个词可以用来修饰别的事物）；资料也提到德语 kapitalistisch 的可能影响。英语构形不表示它由 capitalism 直接换尾而来。
 
 **怎么变成今天的意思**
 

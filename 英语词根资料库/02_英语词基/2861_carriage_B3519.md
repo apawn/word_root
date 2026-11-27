@@ -126,7 +126,7 @@ carriageway 与 lane 不同：同一 carriageway 可包含多条 lanes，dual ca
 
 **怎么拆**
 
-联系 miscarry 与名词结尾 -age；也可按 mis- + carriage 分析表面结构。这里 carriage 不能只理解成马车。
+联系 miscarry 与名词结尾 -age；也可按 mis-（做错、做得不当） + carriage 分析表面结构。这里 carriage 不能只理解成马车。
 
 **怎么变成今天的意思**
 

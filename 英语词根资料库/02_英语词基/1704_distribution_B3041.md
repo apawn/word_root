@@ -87,7 +87,7 @@ delivery 侧重送达；distribution 常涵盖向多处配置或供应的整体�
 
 **怎么拆**
 
-distribution 分布、分配 + -al，关系形容词；distribution 更早接拉丁分配词族，不是 distributional 必然表示分配不均。
+distribution 分布、分配 + -al（形容词词尾，表示与前面的事物有关），关系形容词；distribution 更早接拉丁分配词族，不是 distributional 必然表示分配不均。
 
 **怎么变成今天的意思**
 
@@ -129,7 +129,7 @@ distributional 只说与分布相关，unequal distribution 才明确不均；�
 
 **怎么拆**
 
-re- + distribution；也与 redistribute 的动作对应。
+re- + distribution（分配）；也与 redistribute 的动作对应。
 
 **怎么变成今天的意思**
 

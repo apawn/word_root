@@ -84,7 +84,7 @@ definite 确定、明确，definitive 常最终权威、定论性的；拼写相
 
 **怎么拆**
 
-definite + -ly，保持 definite 的拼写。日常加强肯定语气，也可单独回答 Definitely!。
+definite（明确） + -ly（把性质用来说明方式、程度或说话的角度），保持 definite 的拼写。日常加强肯定语气，也可单独回答 Definitely!。
 
 **怎么变成今天的意思**
 
@@ -131,7 +131,7 @@ definitely 肯定与 defiantly 反抗地不是同词；避免拼成 definately�
 
 **怎么拆**
 
-接晚期拉丁 indēfīnītus，现代可分析 in- 不 + definite。它否定确定界限，不等于每次都是无限、永远。
+接晚期拉丁 indēfīnītus，现代可分析 in- 不 + definite（确定）。它否定确定界限，不等于每次都是无限、永远。
 
 **怎么变成今天的意思**
 

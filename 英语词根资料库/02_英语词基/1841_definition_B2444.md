@@ -77,7 +77,7 @@ definition 说明一个概念到底指什么；example 给出它的一个实例�
 
 **怎么拆**
 
-definition + -al，组成相关性质形容词，保留 definition 的 -tion 部分；不能简单丢成 define + -al。
+definition（定义） + -al（形容词词尾，表示与前面的事物有关），组成相关性质形容词，保留 definition 的 -tion 部分；不能简单丢成 define + -al。
 
 **怎么变成今天的意思**
 

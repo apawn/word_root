@@ -91,7 +91,7 @@ frequent visits；frequent delays；a frequent visitor；frequent a café。
 
 **怎么拆**
 
-形容词 frequent + -ly，副词重音保持在前；不是从后重音动词再表示常去的某个人。
+形容词 frequent（频繁） + -ly（把性质用来说明方式、程度或说话的角度），副词重音保持在前；不是从后重音动词再表示常去的某个人。
 
 **怎么变成今天的意思**
 

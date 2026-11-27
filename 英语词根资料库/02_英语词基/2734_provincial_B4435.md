@@ -82,7 +82,7 @@ provincial 是地方的，-ly 把它变成做事的层面、方式。provinciall
 
 **怎么拆**
 
-provincial + -ly；词尾 -al + -ly 合成 -ally，常读 /əli/。承 provincial 的中性地域义，也能承带评价的狭隘义。
+provincial（省级） + -ly；词尾 -al + -ly 合成 -ally，常读 /əli/。承 provincial 的中性地域义，也能承带评价的狭隘义。
 
 **怎么变成今天的意思**
 
@@ -124,7 +124,7 @@ provincially 交代层面或方式，provincial 可直接修饰 government、tow
 
 **怎么拆**
 
-inter- + provincial“省的”；这里不是 provincial“眼界狭窄”的评价义。
+inter-（在……之间、彼此） + provincial“省的”；这里不是 provincial“眼界狭窄”的评价义。
 
 **怎么变成今天的意思**
 

@@ -14,7 +14,7 @@ sustainable → sustainably；unsustainable 不能持续维持。
 
 ## 词形与演化规律
 
-sustain + -able → sustainable；-ably 副词，un- 否定。
+sustain + -able（能这样做，或能被这样对待） → sustainable；-ably 副词，un- 否定。
 
 ## 单词速览（按词族由简到繁）
 
@@ -40,7 +40,7 @@ sustainable 像一种生活或生产方式，今天能运转，明天也不至�
 
 **怎么拆**
 
-sustain + -able。
+sustain（维持） + -able（能这样做，或能被这样对待）。
 
 **怎么变成今天的意思**
 
@@ -76,7 +76,7 @@ renewable 是资源可再生；sustainable 是整体做法能否长期维持，�
 
 **怎么拆**
 
-sustainable + -ly，常见 -able 形容词形成 -ably 副词。承接能够持续维持的性质，不只是把一个环保标签贴到动作上。
+sustainable（可持续） + -ly（把性质用来说明方式、程度或说话的角度），常见 -able 形容词形成 -ably 副词。承接能够持续维持的性质，不只是把一个环保标签贴到动作上。
 
 **怎么变成今天的意思**
 
@@ -118,7 +118,7 @@ unsustainable 像支出一直大于收入，暂时还能撑一阵，但按同样
 
 **怎么拆**
 
-un-（不）+ sustainable。
+un-（不）+ sustainable（可持续）。
 
 **怎么变成今天的意思**
 

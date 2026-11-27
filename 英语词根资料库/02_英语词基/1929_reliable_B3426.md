@@ -15,7 +15,7 @@ reliable → reliability 可靠性 → reliably 可靠地；unreliable 否定可
 
 ## 词形与演化规律
 
-rely + -able，y 改 i → reliable；reliable → reliability/reliably；un- + reliable。
+rely + -able（能这样做，或能被这样对待），y 改 i → reliable；reliable → reliability/reliably；un- + reliable。
 
 ## 单词速览（按词族由简到繁）
 
@@ -42,7 +42,7 @@ reliable 描述在需要的时候表现稳定、能够让人放心依靠的对�
 
 **怎么拆**
 
-rely + -able；y 在派生中变 i。这里 -able 表示“可以被依靠的”，不是简单给 rely 加“能够”就译成“能够依靠别人的”。
+rely（信赖） + -able；y 在派生中变 i。这里 -able 表示“可以被依靠的”，不是简单给 rely 加“能够”就译成“能够依靠别人的”。
 
 **怎么变成今天的意思**
 
@@ -78,7 +78,7 @@ reliability 把“可靠”变成可以讨论、比较或衡量的性质。工�
 
 **怎么拆**
 
-reliable + -ity，-able 在这类名词中对应 -ability。不要把它误读成 rely + ability“依赖的能力”；重点是被评价对象的可靠程度。
+reliable（可靠） + -ity（把“怎样的”变成“这种性质、状态或程度”），-able 在这类名词中对应 -ability。不要把它误读成 rely + ability“依赖的能力”；重点是被评价对象的可靠程度。
 
 **怎么变成今天的意思**
 
@@ -156,7 +156,7 @@ unreliable 指你不能放心依靠某人或某物，因为其表现、信息或
 
 **怎么拆**
 
-un-（否定）+ reliable。否定的是“可依赖”这一性质，属于英语内部派生。
+un-（否定）+ reliable（可靠）。否定的是“可依赖”这一性质，属于英语内部派生。
 
 **怎么变成今天的意思**
 

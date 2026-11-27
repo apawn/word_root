@@ -89,7 +89,7 @@ inactivity 像一台很久没开机的机器，或一天几乎没怎么活动的
 
 **怎么拆**
 
-in-（不）+ activity，也可从 inactive 对应到 -ity 名词。
+in-（不）+ activity（活动），也可从 inactive 对应到 -ity 名词。
 
 **怎么变成今天的意思**
 
@@ -125,7 +125,7 @@ inactivation 像把能发挥作用的东西变成不起作用，研究中常关�
 
 **怎么拆**
 
-in-（不）+ activation，或 inactive + -ation。
+in-（不）+ activation，或 inactive + -ation（把动作或结果说成一件事）。
 
 **怎么变成今天的意思**
 
@@ -161,7 +161,7 @@ deactivation 更常见于设备、账号等停用；inactivation 在生物化学
 
 **怎么拆**
 
-可分析为 inactive + -ate，或否定前缀 in- + activate；两种分析都指向使不活跃、使失去作用。
+可分析为 inactive（不起作用） + -ate，或否定前缀 in-（拉丁来源的否定成分，表示“不、非”） + activate；两种分析都指向使不活跃、使失去作用。
 
 **怎么变成今天的意思**
 

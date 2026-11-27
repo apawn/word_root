@@ -57,6 +57,8 @@ From Ancient Greek ἕλμινς (hélmins, “intestinal worm”).
 
 From ant- + helminth + -ic; for some speakers, the prefix's t- and helminth's initial h- have become /θ/ while the final th of helminth has become t by dissimilation.
 
+ant- + helminth + -ic（表示“与……有关的”，让这个词可以用来修饰别的事物）
+
 **例句**：
 
 > Research is progressing well on finding native plants with anthelmintic properties.
@@ -79,6 +81,8 @@ From ant- + helminth + -ic; for some speakers, the prefix's t- and helminth's in
 
 From helminth + -ic.
 
+helminth + -ic（表示“与……有关的”，让这个词可以用来修饰别的事物）
+
 <a id="w-4"></a>
 
 ### 4. helminthoid
@@ -94,6 +98,8 @@ From helminth + -ic.
 **词源与演化**：
 
 From helminth + -oid.
+
+helminth + -oid（形状或特性像……）
 
 ## 其他候选词
 

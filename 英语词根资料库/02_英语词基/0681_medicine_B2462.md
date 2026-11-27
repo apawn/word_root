@@ -138,7 +138,7 @@ medical 医疗相关，medicinal 药用；a medical student 是医学生，medic
 
 **怎么拆**
 
-medical + -ly，形容词转副词；弱读时中间音节可压缩，-cally 这一段不是每个字母都单独读。
+medical（医疗） + -ly（把性质用来说明方式、程度或说话的角度），形容词转副词；弱读时中间音节可压缩，-cally 这一段不是每个字母都单独读。
 
 **怎么变成今天的意思**
 
@@ -447,7 +447,7 @@ medication 可以统说所用药物；需要分别谈几种药时，就说 medic
 
 **怎么拆**
 
-medication + -s → medications。历史经法语、拉丁 medicatio 治疗的动作名词，接 medicare、medicari 医治词族；英语名词记录早于 medicate，不能倒过来当作唯一形成过程。
+medication（药物） + -s（表示不止一个） → medications。历史经法语、拉丁 medicatio 治疗的动作名词，接 medicare、medicari 医治词族；英语名词记录早于 medicate，不能倒过来当作唯一形成过程。
 
 **怎么变成今天的意思**
 

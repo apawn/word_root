@@ -14,7 +14,7 @@ evolution → evolutionary；拉丁 volūt- 是滚转动词的词干形式，不
 
 ## 词形与演化规律
 
-ex- + volvere → ēvolvere → ēvolūtiō → evolution；evolution + -ary → evolutionary。
+ex- + volvere（拉丁语，滚动、翻转） → ēvolvere → ēvolūtiō → evolution；evolution + -ary → evolutionary。
 
 ## 单词速览（按词族由简到繁）
 
@@ -39,7 +39,7 @@ ex- + volvere → ēvolvere → ēvolūtiō → evolution；evolution + -ary →
 
 **怎么拆**
 
-借拉丁 ēvolūtiō 展开，来自 ēvolvere 的分词词干 ēvolūt-，后者是 ex- + volvere。evolution 和 evolve 是相关借词，英语中名词的记录反而更早，不能按词的长短判断历史先后。
+借拉丁 ēvolūtiō 展开，来自 ēvolvere 的分词词干 ēvolūt-，后者是 ex- + volvere（拉丁语，滚动、翻转）。evolution 和 evolve 是相关借词，英语中名词的记录反而更早，不能按词的长短判断历史先后。
 
 **怎么变成今天的意思**
 
@@ -86,7 +86,7 @@ evolution 常是逐步历史变化，revolution 常说剧变、革命；生物�
 
 **怎么拆**
 
-evolution + -ary 形容词后缀，表示与演化相关。词尾不是 ordinary 普通这个词拆出来，生物和一般演进两类用法跟着名词走。
+evolution（演化） + -ary 形容词后缀，表示与演化相关。词尾不是 ordinary 普通这个词拆出来，生物和一般演进两类用法跟着名词走。
 
 **怎么变成今天的意思**
 

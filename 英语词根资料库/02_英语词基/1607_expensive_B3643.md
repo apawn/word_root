@@ -41,7 +41,7 @@ expensive → expensively；in- + expensive → inexpensive。inexpensive 表示
 
 **怎么拆**
 
-英语 expense + -ive；早期也说花钱多、挥霍，后来“成本高、价格高”成为常见意思。-ive 把费用概念转为形容词，不是“正在花钱”的进行时。
+英语 expense + -ive（有这种作用、倾向或性质）；早期也说花钱多、挥霍，后来“成本高、价格高”成为常见意思。-ive 把费用概念转为形容词，不是“正在花钱”的进行时。
 
 **怎么变成今天的意思**
 
@@ -93,7 +93,7 @@ valuable 是价值大，expensive 是价格或成本高；东西贵，不保证�
 
 **怎么拆**
 
-英语 expensive + -ly。副词可以描写动作的高花费，也可以修饰 dressed、furnished 等分词。
+英语 expensive（昂贵） + -ly（把性质用来说明方式、程度或说话的角度）。副词可以描写动作的高花费，也可以修饰 dressed、furnished 等分词。
 
 **怎么变成今天的意思**
 

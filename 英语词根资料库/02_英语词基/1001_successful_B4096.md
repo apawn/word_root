@@ -41,7 +41,9 @@ success + -ful → successful，后缀只有一个 l；successful + -ly → succ
 
 **怎么拆**
 
-success + -ful；-ful 在这里表示具有成功结果。
+success（成功） + -ful；-ful 在这里表示具有成功结果。
+
+sub- 在这个词里有“紧跟在后、接上”的意味，cēdere 是“走”。b 在 c 前同化，写成 succēdere。一个人跟上来接替前人，就能理解“继任”这条意思。
 
 **怎么变成今天的意思**
 
@@ -93,7 +95,9 @@ successive 是接连发生的；successful 才是成功的，拼写相近而重�
 
 **怎么拆**
 
-successful + -ly。
+successful（成功） + -ly（把性质用来说明方式、程度或说话的角度）。
+
+sub- 在这个词里有“紧跟在后、接上”的意味，cēdere 是“走”。b 在 c 前同化，写成 succēdere。一个人跟上来接替前人，就能理解“继任”这条意思。
 
 **怎么变成今天的意思**
 
@@ -145,7 +149,9 @@ easily 是不费力；successfully 是办成了，艰难完成也可以成功。
 
 **怎么拆**
 
-un-“不” + successful。
+un-“不” + successful（成功）。
+
+sub- 在这个词里有“紧跟在后、接上”的意味，cēdere 是“走”。b 在 c 前同化，写成 succēdere。一个人跟上来接替前人，就能理解“继任”这条意思。
 
 **怎么变成今天的意思**
 

@@ -41,7 +41,7 @@ physiology → physiological → physiologically；这是词族学习对应，�
 
 **怎么拆**
 
-希腊 phúsis“自然” + -logia，早期是自然论述，经拉丁、法语进入英语后逐渐集中于生命功能。
+希腊 phúsis“自然” + -logia（希腊来源的名词成分，与论述、研究有关），早期是自然论述，经拉丁、法语进入英语后逐渐集中于生命功能。
 
 **怎么变成今天的意思**
 
@@ -88,7 +88,7 @@ anatomy 着重身体怎样构成；physiology 着重这些部分怎样工作，�
 
 **怎么拆**
 
-现代可按 physiology + -ical 理解；另有拉丁 physiologicus + -al 的来源分析，与 physio- + -logical 的分析并行。
+现代可按 physiology + -ical 理解；另有拉丁 physiologicus + -al 的来源分析，与 physio-（自然机能、生理） + -logical 的分析并行。
 
 **怎么变成今天的意思**
 
@@ -130,7 +130,7 @@ physical 可以宽泛地指身体或物理性质；physiological 更集中于生
 
 **怎么拆**
 
-physiological + -ly。physiological 属于 physiology 生理学词族，相关历史材料追到希腊语 physis 自然、-logia 论述；学科义后来集中于生命功能。
+physiological（生理） + -ly。physiological 属于 physiology 生理学词族，相关历史材料追到希腊语 physis 自然、-logia 论述；学科义后来集中于生命功能。
 
 **怎么变成今天的意思**
 

@@ -40,7 +40,7 @@ treatment 把“怎样对待”变成可讨论的一整套做法：病人接受�
 
 **怎么拆**
 
-treat + -ment；-ment 形成动作、过程或结果名词，也可与法语 traitement 对照。
+treat（对待） + -ment；-ment 形成动作、过程或结果名词，也可与法语 traitement 对照。
 
 **怎么变成今天的意思**
 
@@ -76,7 +76,7 @@ treatment 可以指治疗过程；medicine 可以指药物或医学。一次治�
 
 **怎么拆**
 
-pre- + treatment；treatment 既可表示治疗，也可表示材料处理，不能一律译成医疗。
+pre-（在……之前、预先） + treatment（治疗）；treatment 既可表示治疗，也可表示材料处理，不能一律译成医疗。
 
 **怎么变成今天的意思**
 

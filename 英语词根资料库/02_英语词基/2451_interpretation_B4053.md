@@ -40,7 +40,7 @@ interpretation 继承法语、拉丁相关名词；re- 再，mis- 错。
 
 **怎么拆**
 
-经法语接拉丁 interpretātiō，动作名词。现代对应 interpret + -ation；历史有自己的借入路线，不必把所有义写成英语临时加尾巴。
+经法语接拉丁 interpretātiō，动作名词。现代对应 interpret（解释） + -ation（把动作或结果说成一件事）；历史有自己的借入路线，不必把所有义写成英语临时加尾巴。
 
 **怎么变成今天的意思**
 
@@ -92,7 +92,7 @@ interpretation 是对意思的理解、呈现，不等于 objective fact 客观�
 
 **怎么拆**
 
-mis- + interpretation；也可按 misinterpret + -ation 理解结构。
+mis-（做错、做得不当） + interpretation（解读）；也可按 misinterpret（误解） + -ation 理解结构。
 
 **怎么变成今天的意思**
 
@@ -139,7 +139,7 @@ misreading 可以偏重读错或看错；misinterpretation 更突出意义解释
 
 **怎么拆**
 
-re- 再、重新 + interpretation。后半是已有的解释、诠释名词，-ation 命名相应行为或结果。
+re- 再、重新 + interpretation（解释）。后半是已有的解释、诠释名词，-ation 命名相应行为或结果。
 
 **怎么变成今天的意思**
 

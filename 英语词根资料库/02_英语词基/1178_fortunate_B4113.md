@@ -127,7 +127,7 @@ fortunate lucky 大量场合相近，fortunate 稍正式；wealthy 是富有，�
 
 **怎么拆**
 
-fortunate + -ly，常作整句评价副词。不是说幸运的人做得很幸运，而是说整个结果值得庆幸。
+fortunate（幸运） + -ly（把性质用来说明方式、程度或说话的角度），常作整句评价副词。不是说幸运的人做得很幸运，而是说整个结果值得庆幸。
 
 **怎么变成今天的意思**
 
@@ -221,7 +221,7 @@ unfortunate 可以委婉批评措辞，不一定本人非常倒霉；unlucky 更
 
 **怎么拆**
 
-unfortunate + -ly，把不利、令人遗憾的性质转为整句评价。也可对照 unfortunately 与 fortunately 的否定关系。
+unfortunate（不幸） + -ly，把不利、令人遗憾的性质转为整句评价。也可对照 unfortunately 与 fortunately 的否定关系。
 
 **怎么变成今天的意思**
 

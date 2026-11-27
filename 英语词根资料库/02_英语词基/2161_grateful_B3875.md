@@ -83,7 +83,7 @@ grateful 感谢已有的好意；gratified 对某种结果感到满意，未必�
 
 **怎么拆**
 
-grateful + -ly；英语副词形式，保留 grate 来自 gratus 的感激支线。
+grateful（感激） + -ly（把性质用来说明方式、程度或说话的角度）；英语副词形式，保留 grate 来自 gratus 的感激支线。
 
 **怎么变成今天的意思**
 
@@ -125,7 +125,7 @@ graciously accept 侧重接受得体；gratefully accept 侧重内心感谢，�
 
 **怎么拆**
 
-grateful + -ness。grateful 接旧形容词 grate、拉丁 gratus，不是 grate 刨碎，也不拼 greatfulness。
+grateful（感激） + -ness（把前面的性质当作一种状态来说）。grateful 接旧形容词 grate、拉丁 gratus，不是 grate 刨碎，也不拼 greatfulness。
 
 **怎么变成今天的意思**
 
@@ -172,7 +172,7 @@ grateful 形容词，gratefully 副词，gratefulness 名词。gratitude 往往�
 
 **怎么拆**
 
-un- 不 + grateful；英语否定构词，不是 Latin unus“一”的 un-。
+un- 不 + grateful（感激）；英语否定构词，不是 Latin unus“一”的 un-。
 
 **怎么变成今天的意思**
 

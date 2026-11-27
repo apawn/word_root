@@ -42,7 +42,7 @@ environment + -al；environmental + -ly/-ist/-ism。
 
 **怎么拆**
 
-environment + -al，形容词后缀，主重音转到 ment 音节。环境本身与环境相关的性质分开。
+environment（环境） + -al（形容词词尾，表示与前面的事物有关），形容词后缀，主重音转到 ment 音节。环境本身与环境相关的性质分开。
 
 **怎么变成今天的意思**
 
@@ -89,7 +89,7 @@ environmental 环境相关不自动是环保有益；environmental damage 正是
 
 **怎么拆**
 
-environmental + -ly，副词修饰友好、可持续、有害等性质，说明从环境影响方面看。
+environmental（环境） + -ly（把性质用来说明方式、程度或说话的角度），副词修饰友好、可持续、有害等性质，说明从环境影响方面看。
 
 **怎么变成今天的意思**
 
@@ -136,7 +136,7 @@ environmentally 限定环境维度，不自动保证所有方面都更好；frie
 
 **怎么拆**
 
-environmental + -ist，人物后缀命名关心、倡导环境保护的人；也可作修饰立场的词。
+environmental（环境） + -ist（从事这种活动、研究这门学问或持这种主张的人），人物后缀命名关心、倡导环境保护的人；也可作修饰立场的词。
 
 **怎么变成今天的意思**
 
@@ -183,7 +183,7 @@ environmentalist 侧重倡导、关心环境，environmental scientist 环境科
 
 **怎么拆**
 
-environmental + -ism，-ism 命名理念、取向或运动。不是环境本身的另一个长名字。
+environmental（环境） + -ism，-ism 命名理念、取向或运动。不是环境本身的另一个长名字。
 
 **怎么变成今天的意思**
 

@@ -52,7 +52,7 @@ personal → personally、impersonal、personality；personal → personalize �
 
 **怎么拆**
 
-现代对应 person + -al；历史经法语 personel、拉丁 persōnālis 一路进入英语，不只是在现代 person 后新加尾巴。
+现代对应 person（个人） + -al（形容词词尾，表示与前面的事物有关）；历史经法语 personel、拉丁 persōnālis 一路进入英语，不只是在现代 person 后新加尾巴。
 
 **怎么变成今天的意思**
 
@@ -94,7 +94,7 @@ personal 个人的，personnel /ˌpɜːsəˈnel/ 是人员；拼写接近且历�
 
 **怎么拆**
 
-personal + -ly 成副词；中古英语已有对应形式。personal 经法语接拉丁语 persōnālis 与个人有关的。
+personal（个人） + -ly 成副词；中古英语已有对应形式。personal 经法语接拉丁语 persōnālis 与个人有关的。
 
 **怎么变成今天的意思**
 
@@ -141,7 +141,7 @@ personally 亲自或就个人而言；in person 强调本人到场。I personall
 
 **怎么拆**
 
-认形可用 personal + -ity；历史由法语、中世纪拉丁语相应名词进入英语，较早说作为人的性质，后来发展为独特性格，再可指有名、有鲜明形象的人。
+认形可用 personal + -ity（把“怎样的”变成“这种性质、状态或程度”）；历史由法语、中世纪拉丁语相应名词进入英语，较早说作为人的性质，后来发展为独特性格，再可指有名、有鲜明形象的人。
 
 **怎么变成今天的意思**
 
@@ -183,7 +183,7 @@ person 人，personal 个人的，personality 性格或知名人物。personalit
 
 **怎么拆**
 
-personality 接法语 personalité、中世纪拉丁 personalitas，较早表示作为人的性质；现代可对应 personal + -ity。复数把末尾 y 改 i，加 -es，尾读 /tiz/。
+personality 接法语 personalité、中世纪拉丁 personalitas，较早表示作为人的性质；现代可对应 personal + -ity（把“怎样的”变成“这种性质、状态或程度”）。复数把末尾 y 改 i，加 -es，尾读 /tiz/。
 
 **怎么变成今天的意思**
 
@@ -225,7 +225,7 @@ personalities 不只是好性格，也不只等于 famous people。看上下文�
 
 **怎么拆**
 
-personal + -ize 使成为，形成动词；英式也常写 personalise。它也可把一般问题变成针对个人的事情。
+personal（个人） + -ize 使成为，形成动词；英式也常写 personalise。它也可把一般问题变成针对个人的事情。
 
 **怎么变成今天的意思**
 
@@ -319,7 +319,7 @@ personalization 定制过程，personality 个性、性格。礼物加了名字�
 
 **怎么拆**
 
-inter- + personal，从一个人的层面转到人与人的关系。
+inter-（在……之间、彼此） + personal，从一个人的层面转到人与人的关系。
 
 **怎么变成今天的意思**
 
@@ -361,7 +361,7 @@ intrapersonal 关注一个人内部的心理过程；interpersonal 关注人与�
 
 **怎么拆**
 
-现代可认作 im- 不 + personal；历史接法语 impersonnel、拉丁语 impersōnālis。im- 是否定 in- 在 p 前的形式，不是表示进入的 in-。
+现代可认作 im- 不 + personal（个人）；历史接法语 impersonnel、拉丁语 impersōnālis。im- 是否定 in- 在 p 前的形式，不是表示进入的 in-。
 
 **怎么变成今天的意思**
 
@@ -403,7 +403,7 @@ impersonal 不针对具体的人，interpersonal 人与人之间的；impersonal
 
 **怎么拆**
 
-现代英语 trans- + personal“个人的”。构词表超出个人范围，在心理学等讨论中发展专门用法。
+现代英语 trans-（越过、穿过，或从一边到另一边） + personal“个人的”。构词表超出个人范围，在心理学等讨论中发展专门用法。
 
 **怎么变成今天的意思**
 

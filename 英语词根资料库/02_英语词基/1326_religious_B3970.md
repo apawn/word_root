@@ -15,7 +15,7 @@ religious music 涉及宗教；religiously check the door 却可能只说每次�
 
 ## 词形与演化规律
 
-religious + -ly → religiously；non- + religious → nonreligious；inter- + religious → interreligious；religiosity 为相应抽象性质名词。
+religious + -ly → religiously；non-（非、不属于这类） + religious → nonreligious；inter-（在……之间、彼此） + religious → interreligious；religiosity 为相应抽象性质名词。
 
 ## 单词速览（按词族由简到繁）
 
@@ -79,7 +79,7 @@ religious 不一定表示个人虔信：religious studies 也可以是学术研�
 
 **怎么拆**
 
-religious + -ly；religious 经法语接拉丁 religiosus，原有宗教、虔敬、认真履行等性质。副词既可保留宗教义，也可把严格坚持引到日常习惯。
+religious + -ly（把性质用来说明方式、程度或说话的角度）；religious 经法语接拉丁 religiosus，原有宗教、虔敬、认真履行等性质。副词既可保留宗教义，也可把严格坚持引到日常习惯。
 
 **怎么变成今天的意思**
 
@@ -163,7 +163,7 @@ religiosity 不等于某一种 religion 宗教；也不必处处贬义，研究�
 
 **怎么拆**
 
-inter- + religious“宗教的”。
+inter-（在……之间、彼此） + religious“宗教的”。
 
 **怎么变成今天的意思**
 

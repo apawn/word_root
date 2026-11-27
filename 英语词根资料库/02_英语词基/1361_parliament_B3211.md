@@ -14,7 +14,7 @@ parliament → parliamentary → parliamentarian，机构、性质和人物相�
 
 ## 词形与演化规律
 
-法语 parler + -ment；parliament + -ary/-arian，派生重音不同。
+法语 parler + -ment（把动作、结果或状态说成名词）；parliament + -ary/-arian，派生重音不同。
 
 ## 单词速览（按词族由简到繁）
 
@@ -82,7 +82,7 @@ parliament 机构，government 政府，不能一律视作同一个组织；cong
 
 **怎么拆**
 
-parliament + -ary，形成关系形容词。重音转到 /men/ 附近，不能完全按基础词的重音照搬。
+parliament（议会） + -ary（形成形容词，说明与前面的事物有关），形成关系形容词。重音转到 /men/ 附近，不能完全按基础词的重音照搬。
 
 **怎么变成今天的意思**
 
@@ -129,7 +129,7 @@ parliamentary 议会相关，parliamentarian 人物或相关形容词；a parlia
 
 **怎么拆**
 
-parliament + -arian，形成相关人物名称。议员与议事程序专家两种常见语境，不能只背其中一个。
+parliament（议会） + -arian，形成相关人物名称。议员与议事程序专家两种常见语境，不能只背其中一个。
 
 **怎么变成今天的意思**
 

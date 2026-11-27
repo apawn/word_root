@@ -129,7 +129,7 @@ commenced 不必表示举行盛大仪式；普通工程、课程等也可用，�
 
 **怎么拆**
 
-借法语 commencement，现代可对应 commence + -ment。毕业典礼义接大学开始取得学位相关身份、权利的旧用法；“人生新篇章”可帮助记忆，但不是足够的完整词源。
+借法语 commencement，现代可对应 commence（开始） + -ment（把动作、结果或状态说成名词）。毕业典礼义接大学开始取得学位相关身份、权利的旧用法；“人生新篇章”可帮助记忆，但不是足够的完整词源。
 
 **怎么变成今天的意思**
 
@@ -176,7 +176,7 @@ graduation 可说毕业这件事，commencement 常特别说典礼；不同学�
 
 **怎么拆**
 
-借法语 recommencer 等，相当于 re- 再次 + commence。不是 commence 加 -re，也不表示推荐 recommend。
+借法语 recommencer 等，相当于 re- 再次 + commence（开始）。不是 commence 加 -re，也不表示推荐 recommend。
 
 **怎么变成今天的意思**
 

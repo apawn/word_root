@@ -84,7 +84,7 @@ early 可以只是时间早，甚至是好事；premature 强调正常进程或�
 
 **怎么拆**
 
-premature + -ly → prematurely，保留 e。pre- 接在成熟材料前，-ly 把过早的性质用于动作发生方式。
+premature（过早） + -ly（把性质用来说明方式、程度或说话的角度） → prematurely，保留 e。pre- 接在成熟材料前，-ly 把过早的性质用于动作发生方式。
 
 **怎么变成今天的意思**
 

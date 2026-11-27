@@ -17,6 +17,8 @@ attractive → attractively、attractiveness；unattractive 缺少吸引力。
 
 attrahere、attract- → attractive；+ -ly/-ness；un- + attractive。
 
+ad- 在 t 前同化成 at-，表示“朝向”，trahere 是“拉”。把东西拉向自己，就是吸引。分词 attractus 留下英语 attract 的大致形状。
+
 ## 单词速览（按词族由简到繁）
 
 同一基础词的相关扩展放在一起，先读基础形式，再读扩展；各组之间优先读常用的。具体词源关系见各词讲解。
@@ -42,7 +44,9 @@ attractive 让人愿意靠近、选择或多看一眼。人可以好看，价格
 
 **怎么拆**
 
-经法语 attractif，来自拉丁语 attractīvus；现代对照 attract + -ive。
+经法语 attractif，来自拉丁语 attractīvus；现代对照 attract（吸引） + -ive（有这种作用、倾向或性质）。
+
+ad- 在 t 前同化成 at-，表示“朝向”，trahere 是“拉”。把东西拉向自己，就是吸引。分词 attractus 留下英语 attract 的大致形状。
 
 **怎么变成今天的意思**
 
@@ -78,7 +82,9 @@ attractiveness 问“为什么人愿意选它、它有多吸引人”。它可�
 
 **怎么拆**
 
-attractive + -ness，表示“有吸引力”这种性质。
+attractive + -ness（把前面的性质当作一种状态来说），表示“有吸引力”这种性质。
+
+ad- 在 t 前同化成 at-，表示“朝向”，trahere 是“拉”。把东西拉向自己，就是吸引。分词 attractus 留下英语 attract 的大致形状。
 
 **怎么变成今天的意思**
 
@@ -114,7 +120,9 @@ attractiveness 评价吸引人的程度；attraction 还可以数具体的景点
 
 **怎么拆**
 
-attractive + -ly，修饰布置、设计、定价等动作。吸引可以靠外观、条件或好处，不只人的长相。
+attractive（有吸引力） + -ly（把性质用来说明方式、程度或说话的角度），修饰布置、设计、定价等动作。吸引可以靠外观、条件或好处，不只人的长相。
+
+ad- 在 t 前同化成 at-，表示“朝向”，trahere 是“拉”。把东西拉向自己，就是吸引。分词 attractus 留下英语 attract 的大致形状。
 
 **怎么变成今天的意思**
 
@@ -157,6 +165,8 @@ attractively priced 表示价格吸引目标顾客，不必是全场最低；att
 **怎么拆**
 
 un- 不 + attractive 有吸引力的，否定的是吸引性质，不是 undo 那种把动作反过来。
+
+ad- 在 t 前同化成 at-，表示“朝向”，trahere 是“拉”。把东西拉向自己，就是吸引。分词 attractus 留下英语 attract 的大致形状。
 
 **怎么变成今天的意思**
 

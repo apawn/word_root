@@ -134,7 +134,7 @@ a donation 是一次捐赠；generosity 是背后的慷慨品质，不能简单�
 
 **怎么拆**
 
-generous + -ly。generous 经法语接拉丁 generōsus，旧时联系出身、高贵，再发展宽宏、大方等评价；现代副词随 generous 的常用义扩展。
+generous（慷慨） + -ly（把性质用来说明方式、程度或说话的角度）。generous 经法语接拉丁 generōsus，旧时联系出身、高贵，再发展宽宏、大方等评价；现代副词随 generous 的常用义扩展。
 
 **怎么变成今天的意思**
 

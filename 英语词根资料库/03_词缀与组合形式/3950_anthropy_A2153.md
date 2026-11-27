@@ -89,7 +89,7 @@ introvert 是内向的人；misanthrope 带对人类的反感。hermit 是隐居
 
 **怎么拆**
 
-misanthrope + -ic，去词尾 e 形成形容词。
+misanthrope + -ic（表示“与……有关的”，让这个词可以用来修饰别的事物），去词尾 e 形成形容词。
 
 **继续看词根／词基**：[mis-](../01_古典词根/1105_mis_C0748.md) · [anthrop-](../01_古典词根/2758_anthrop_C0061.md)
 
@@ -138,7 +138,7 @@ pessimistic 是对结果不乐观；misanthropic 是对人类或人性抱反感�
 
 **怎么拆**
 
-mis- + anthrop- + 名词结尾；历史已有希腊 misanthrōpia，不是只能从英语 misanthrope 直接改尾巴解释。
+mis-（做错、做得不当） + anthrop- + 名词结尾；历史已有希腊 misanthrōpia，不是只能从英语 misanthrope 直接改尾巴解释。
 
 **继续看词根／词基**：[mis-](../01_古典词根/1105_mis_C0748.md) · [anthrop-](../01_古典词根/2758_anthrop_C0061.md)
 

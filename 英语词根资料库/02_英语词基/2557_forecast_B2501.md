@@ -87,7 +87,7 @@ forecast 常有数据、趋势或经验依据；promise 承诺表达保证或承
 
 **怎么拆**
 
-forecast + -ing，中古英语已有相应形式。fore- 预先，cast 在旧组合里取筹划、考虑等义，不仅是字面把球扔向前。
+forecast（预测） + -ing，中古英语已有相应形式。fore- 预先，cast 在旧组合里取筹划、考虑等义，不仅是字面把球扔向前。
 
 **怎么变成今天的意思**
 
@@ -129,7 +129,7 @@ forecasting 是预测工作，forecaster 是负责做这件事的人；软件在
 
 **怎么拆**
 
-forecast + -er，人物、工具后缀。前项 forecast 已经是整体动词，不把 forecaster 只理解成站在前面扔东西的人。
+forecast（预测） + -er（指做这件事的人或起这种作用的东西），人物、工具后缀。前项 forecast 已经是整体动词，不把 forecaster 只理解成站在前面扔东西的人。
 
 **怎么变成今天的意思**
 

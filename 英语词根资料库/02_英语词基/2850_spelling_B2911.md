@@ -14,7 +14,7 @@ spelling → misspelling。
 
 ## 词形与演化规律
 
-spell + -ing → spelling；mis- + spelling → misspelling。
+spell + -ing → spelling；mis-（做错、做得不当） + spelling → misspelling。
 
 ## 单词速览（按词族由简到繁）
 
@@ -81,7 +81,7 @@ spelling 字母写法，pronunciation 读音；会读不保证会拼，同音词
 
 **怎么拆**
 
-mis- + spelling；也可联系 misspell + -ing。双 s 仍是两个成分相接。
+mis-（做错、做得不当） + spelling（拼写）；也可联系 misspell + -ing。双 s 仍是两个成分相接。
 
 **怎么变成今天的意思**
 

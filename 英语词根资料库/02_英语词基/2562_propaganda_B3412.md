@@ -42,6 +42,8 @@ propagāre 传播 → 机构相关名称 propaganda → 广义宣传；-ist 人�
 
 英语最初借教会机构名称中的 Propaganda，来自拉丁 de Propaganda Fide“传播信仰”；这里的 propaganda 修饰 fide，不能一律拆成“应传播的东西们”。
 
+拉丁语 dē 是“关于”，fidē 是 fidēs“信仰”跟在介词后的形式，propagandā 是“应予传播的”，随 fidē 一起变形。按中文语序读就是“关于传播信仰这件事”。
+
 **怎么变成今天的意思**
 
 **拉丁 pangere**  
@@ -92,7 +94,9 @@ political propaganda；a piece of propaganda；spread propaganda。
 
 **怎么拆**
 
-英语 propaganda + -ist，把宣传活动或材料转为从事它的人。
+英语 propaganda + -ist（从事这种活动、研究这门学问或持这种主张的人），把宣传活动或材料转为从事它的人。
+
+拉丁语 dē 是“关于”，fidē 是 fidēs“信仰”跟在介词后的形式，propagandā 是“应予传播的”，随 fidē 一起变形。按中文语序读就是“关于传播信仰这件事”。
 
 **怎么变成今天的意思**
 
@@ -149,7 +153,7 @@ journalist 的角色是报道新闻；propagandist 强调推进某个立场。�
 
 **怎么拆**
 
-propagandist + -ic，或 propaganda 的相应词干 + -istic。更里层 propaganda 联系拉丁传播词与早期传播信仰机构的名称。
+propagandist + -ic（表示“与……有关的”，让这个词可以用来修饰别的事物），或 propaganda 的相应词干 + -istic（具有这种做法、学说或人的特点）。更里层 propaganda 联系拉丁传播词与早期传播信仰机构的名称。
 
 **怎么变成今天的意思**
 

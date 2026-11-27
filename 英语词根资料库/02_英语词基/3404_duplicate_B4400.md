@@ -86,7 +86,7 @@ copy 最宽泛；duplicate 常强调与已有对象相同，尤其在系统里�
 
 **怎么拆**
 
-duplicate + -ive，去末尾 e。duplicate 接拉丁 duplicare 使成双；-ive 在这里形成性质词，常用于重复工作、流程。
+duplicate（复制） + -ive，去末尾 e。duplicate 接拉丁 duplicare 使成双；-ive 在这里形成性质词，常用于重复工作、流程。
 
 **怎么变成今天的意思**
 

@@ -135,7 +135,7 @@ assembled 可及物说把东西装好，也可不及物说人自己聚集。a fu
 
 **怎么拆**
 
-assemble + -er → assembler，末 e 与 -er 接成一个 e。普通人物名进入计算机工具名，-er 因而不只指人。
+assemble + -er（指做这件事的人或起这种作用的东西） → assembler，末 e 与 -er 接成一个 e。普通人物名进入计算机工具名，-er 因而不只指人。
 
 **怎么变成今天的意思**
 
@@ -229,7 +229,7 @@ dismantle 也可拆除大型结构或抽象制度；disassemble 常突出把可�
 
 **怎么拆**
 
-re-“重新” + assemble。
+re-“重新” + assemble（集合）。
 
 **怎么变成今天的意思**
 

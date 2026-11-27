@@ -83,7 +83,7 @@ satisfying 强调事情带来的满足感，satisfactory 强调质量是否符�
 
 **怎么拆**
 
-satisfactory + -ly，词尾 y 改 i；副词修饰完成、运行、解释等动作。
+satisfactory（令人满意） + -ly（把性质用来说明方式、程度或说话的角度），词尾 y 改 i；副词修饰完成、运行、解释等动作。
 
 **怎么变成今天的意思**
 
@@ -125,7 +125,7 @@ satisfied 描述人满意；satisfactorily 通常评价动作或过程的质量�
 
 **怎么拆**
 
-un-“不”+ satisfactory；否定的是结果或质量能够满足要求。
+un-“不”+ satisfactory（令人满意）；否定的是结果或质量能够满足要求。
 
 **怎么变成今天的意思**
 

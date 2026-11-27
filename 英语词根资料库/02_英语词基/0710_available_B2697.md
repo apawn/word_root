@@ -15,7 +15,7 @@ available 联系 avail 的有用、起作用一支，形成能供利用的意思
 
 ## 词形与演化规律
 
-available + -ity → availability；un- + available → unavailable。可用不等于免费，也不等于当前一定适合某个人。
+available + -ity（把“怎样的”变成“这种性质、状态或程度”） → availability；un- + available → unavailable。可用不等于免费，也不等于当前一定适合某个人。
 
 ## 单词速览（按词族由简到繁）
 
@@ -41,7 +41,7 @@ available + -ity → availability；un- + available → unavailable。可用不�
 
 **怎么拆**
 
-avail + -able；从“能起作用、有益”发展到“可供使用、可以取得”。
+avail + -able（能这样做，或能被这样对待）；从“能起作用、有益”发展到“可供使用、可以取得”。
 
 **怎么变成今天的意思**
 
@@ -113,7 +113,7 @@ availability 看有得用的情况；affordability 看价格是否负担得起�
 
 **怎么拆**
 
-un-“不” + available。
+un-“不” + available（有空）。
 
 **怎么变成今天的意思**
 

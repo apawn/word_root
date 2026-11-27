@@ -40,7 +40,7 @@ in- 否定；incomplete form、incompletely described、the incompleteness of th
 
 **怎么拆**
 
-后期拉丁语 incomplētus，in-“不” + complētus“完整的”，进入中古英语；现代可直观分析为 in- + complete。
+后期拉丁语 incomplētus，in-“不” + complētus“完整的”，进入中古英语；现代可直观分析为 in- + complete（完整）。
 
 **怎么变成今天的意思**
 
@@ -76,7 +76,7 @@ incorrect 是有错；incomplete 是有缺，两者可以分别出现。
 
 **怎么拆**
 
-incomplete + -ness。
+incomplete（不完整） + -ness（把前面的性质当作一种状态来说）。
 
 **怎么变成今天的意思**
 
@@ -112,7 +112,7 @@ inaccuracy 是失准；incompleteness 是不全。缺页不一定意味着剩下
 
 **怎么拆**
 
-incomplete + -ly。
+incomplete + -ly（把性质用来说明方式、程度或说话的角度）。
 
 **怎么变成今天的意思**
 

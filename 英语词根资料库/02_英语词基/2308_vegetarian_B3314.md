@@ -15,7 +15,7 @@ vegetarian → vegetarianism；同一核心，前者指人或性质，后者指�
 
 ## 词形与演化规律
 
-vegetable 部分词干 + -arian → vegetarian；+ -ism → vegetarianism。
+vegetable 部分词干 + -arian → vegetarian；+ -ism（把观念、做法、现象或状态说成名词） → vegetarianism。
 
 vegetarian 的植物词基与 vegetable、vegetation、vegetate 都接拉丁 vegetare 使有活力、生长词族。先认植物，再分植物总称与闲散度日的比喻；vegetate 与 vegetation 的直接形成关系有不同可能。
 
@@ -139,7 +139,7 @@ vegetarian 可以是一个人，vegetarianism 则把不吃肉鱼的这种饮食�
 
 **怎么拆**
 
-vegetarian + -ism → vegetarianism，十九世纪素食社团发展帮助推广相关词。vegetarian 源于 vegetable 的构词变化，不另编成单独从拉丁健康一词造出。
+vegetarian（素食） + -ism（把观念、做法、现象或状态说成名词） → vegetarianism，十九世纪素食社团发展帮助推广相关词。vegetarian 源于 vegetable 的构词变化，不另编成单独从拉丁健康一词造出。
 
 **怎么变成今天的意思**
 

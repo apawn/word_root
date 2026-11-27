@@ -83,7 +83,7 @@ abolition 是废除本身；abolitionism 是废除某种制度、尤其奴隶制
 
 **怎么拆**
 
-abolition 废除 + -ist，前面已有 -tion 名词层；不是直接拿 abolish 不变再加 -ist。具体废除什么，要看历史或政策语境。
+abolition 废除 + -ist（从事这种活动、研究这门学问或持这种主张的人），前面已有 -tion 名词层；不是直接拿 abolish 不变再加 -ist。具体废除什么，要看历史或政策语境。
 
 **怎么变成今天的意思**
 
@@ -125,7 +125,7 @@ abolition 是废除这件事，abolitionist 是主张废除的人，abolitionism
 
 **怎么拆**
 
-abolition + -ism，十八世纪末已有废奴相关用法。中间已经有 abolition 的 -tion 名词层，不能漏成 abo + litionism。
+abolition（废除） + -ism（把观念、做法、现象或状态说成名词），十八世纪末已有废奴相关用法。中间已经有 abolition 的 -tion 名词层，不能漏成 abo + litionism。
 
 **怎么变成今天的意思**
 

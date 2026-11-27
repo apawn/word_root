@@ -39,7 +39,7 @@ social 词族 → socialism、socialist；-ic 或 -istic 形成相关性质表�
 
 **怎么拆**
 
-social + -ist，与近代 socialism 同一政治词族；-ist 表示持某种立场的人。
+social（社会） + -ist，与近代 socialism 同一政治词族；-ist 表示持某种立场的人。
 
 **怎么变成今天的意思**
 
@@ -75,7 +75,7 @@ socialist 是思想立场；socialite 是社交名流；sociologist 是社会学
 
 **怎么拆**
 
-可按 socialist + -ic 理解，也可对应 socialism 的词干 + -istic；两种分析都联系同一词族的理念、人物、性质。
+可按 socialist（社会主义） + -ic 理解，也可对应 socialism 的词干 + -istic（具有这种做法、学说或人的特点）；两种分析都联系同一词族的理念、人物、性质。
 
 **怎么变成今天的意思**
 

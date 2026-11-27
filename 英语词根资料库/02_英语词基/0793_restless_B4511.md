@@ -15,7 +15,7 @@ restless person 坐立不安；restlessness 是这种不安定；move restlessly
 
 ## 词形与演化规律
 
-rest + -less → restless；restless + -ness → restlessness；restless + -ly → restlessly。-less 否定安宁，-ness 说状态，-ly 说方式。
+rest + -less（缺少前面说的东西） → restless；restless + -ness（把前面的性质当作一种状态来说） → restlessness；restless + -ly → restlessly。-less 否定安宁，-ness 说状态，-ly 说方式。
 
 ## 单词速览（按词族由简到繁）
 
@@ -88,7 +88,7 @@ the rest 后动词随所指对象：the rest of the water is，the rest of the p
 
 **怎么拆**
 
-rest 休息、安静 + -less，没有……的，旧有无法休息、不安的相关用法，后来也常说渴望活动、改变。
+rest 休息、安静 + -less（缺少前面说的东西），没有……的，旧有无法休息、不安的相关用法，后来也常说渴望活动、改变。
 
 **怎么变成今天的意思**
 
@@ -135,7 +135,7 @@ restless 静不下，不等于 simply energetic 精力旺盛；前者常带不�
 
 **怎么拆**
 
-restless + -ness，形成状态名词；不等于没有休息时间这一事实本身。
+restless（不安） + -ness（把前面的性质当作一种状态来说），形成状态名词；不等于没有休息时间这一事实本身。
 
 **怎么变成今天的意思**
 
@@ -182,7 +182,7 @@ restlessness 是不安、躁动状态，unrest 常说群体、社会层面的不
 
 **怎么拆**
 
-restless + -ly；restless 对应 rest 休息、安宁 + -less 缺少，副词再说明动作带这种不安定的方式。
+restless（不安） + -ly（把性质用来说明方式、程度或说话的角度）；restless 对应 rest 休息、安宁 + -less 缺少，副词再说明动作带这种不安定的方式。
 
 **怎么变成今天的意思**
 

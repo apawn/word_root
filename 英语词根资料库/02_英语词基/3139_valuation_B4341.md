@@ -113,7 +113,7 @@ devaluation 常强调有意下调；depreciation 可指市场贬值或资产随�
 
 **怎么拆**
 
-re-“重新” + valuation。
+re-“重新” + valuation（估价）。
 
 **怎么变成今天的意思**
 

@@ -173,7 +173,7 @@ show identification 常说出示证件，不只是口头报名字；识别、证
 
 **怎么拆**
 
-mis- + identification；后者表示辨认、确认身份或类别。
+mis-（做错、做得不当） + identification（识别）；后者表示辨认、确认身份或类别。
 
 **怎么变成今天的意思**
 

@@ -39,7 +39,7 @@ involve → involved；un- + involved → uninvolved。
 
 **怎么拆**
 
-involve + -ed，动词的过去式、过去分词也发展为形容词。不是 in- 表否定。
+involve + -ed（标出动词的过去式或过去分词），动词的过去式、过去分词也发展为形容词。不是 in- 表否定。
 
 **怎么变成今天的意思**
 

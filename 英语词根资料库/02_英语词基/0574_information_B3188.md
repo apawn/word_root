@@ -79,7 +79,7 @@ data 是记录的数据；information 强调能告诉我们情况的内容。普
 
 **怎么拆**
 
-information + -al，形成与信息相关的形容词；不是把 information 误看成动词后再加时态。
+information（信息） + -al（形容词词尾，表示与前面的事物有关），形成与信息相关的形容词；不是把 information 误看成动词后再加时态。
 
 **怎么变成今天的意思**
 
@@ -173,7 +173,7 @@ information 是信息，informatics 是研究领域；词尾 s 属于 -ics 学�
 
 **怎么拆**
 
-mis- + information，错误的信息。
+mis-（做错、做得不当） + information（信息），错误的信息。
 
 **怎么变成今天的意思**
 
@@ -209,7 +209,7 @@ disinformation 通常突出故意欺骗；misinformation 本身不一定故意�
 
 **怎么拆**
 
-dis- + information；现代主要义强调有意误导，不能只按 dis- 机械理解成“没有信息”。
+dis- + information（信息）；现代主要义强调有意误导，不能只按 dis- 机械理解成“没有信息”。
 
 **怎么变成今天的意思**
 

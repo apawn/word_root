@@ -16,7 +16,7 @@ violence 与 nonviolence 对看；前者是暴力、猛烈，后者是否定暴�
 
 ## 词形与演化规律
 
-拉丁 violentia → 法语 violence → 英语 violence；non- + violence → nonviolence。
+拉丁 violentia → 法语 violence → 英语 violence；non-（非、不属于这类） + violence → nonviolence。
 
 violence 的 violentia、violentus 与 violate 的 violare 通常认为有关，更远形态联系仍带推测。补入既有 violate 作词族学习基点，现代去 e 加完整 -ing。
 

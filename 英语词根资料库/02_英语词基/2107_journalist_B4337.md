@@ -15,7 +15,7 @@ journalist → journalistic；journo 是口语缩称；photojournalist 用摄影
 
 ## 词形与演化规律
 
-journal + -ist → journalist；journalist 与 -ic → journalistic；journ- + -o → journo；photo- + journalist。
+journal + -ist（从事这种活动、研究这门学问或持这种主张的人） → journalist；journalist 与 -ic → journalistic；journ- + -o → journo；photo-（光） + journalist。
 
 ## 单词速览（按词族由简到繁）
 
@@ -42,7 +42,7 @@ journal + -ist → journalist；journalist 与 -ic → journalistic；journ- + -
 
 **怎么拆**
 
-journal + -ist，形成与法语同族职业词相关。这里接刊物、公共报道的 journal 支线，不接私人日记才是唯一工作。
+journal + -ist（从事这种活动、研究这门学问或持这种主张的人），形成与法语同族职业词相关。这里接刊物、公共报道的 journal 支线，不接私人日记才是唯一工作。
 
 **怎么变成今天的意思**
 
@@ -89,7 +89,7 @@ journalist 范围可涵盖多种新闻工作，reporter 更直接强调采访报
 
 **怎么拆**
 
-journal + -istic，也可从 journalist + -ic 认形，表示职业、活动相关。不是自动夸文章有权威，而是说明所属范围或风格。
+journal + -istic（具有这种做法、学说或人的特点），也可从 journalist + -ic 认形，表示职业、活动相关。不是自动夸文章有权威，而是说明所属范围或风格。
 
 **怎么变成今天的意思**
 

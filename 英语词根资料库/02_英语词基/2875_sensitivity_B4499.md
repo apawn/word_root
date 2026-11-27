@@ -41,7 +41,7 @@ sensitivity to；hyper- 过度，in- 否定。医学、测量和人际用法各�
 
 **怎么拆**
 
-sensitive + -ity，变成性质名词，重音随词尾变化。
+sensitive（敏感） + -ity（把“怎样的”变成“这种性质、状态或程度”），变成性质名词，重音随词尾变化。
 
 **怎么变成今天的意思**
 
@@ -124,7 +124,7 @@ sensitivity 是敏感性，hypersensitivity 强调过度或异常。不能把免
 
 **怎么拆**
 
-in-（不）+ sensitivity，也可从 insensitive 对应的名词形式理解。
+in-（不）+ sensitivity（体贴），也可从 insensitive 对应的名词形式理解。
 
 **怎么变成今天的意思**
 

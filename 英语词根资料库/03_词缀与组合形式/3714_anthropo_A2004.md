@@ -15,7 +15,7 @@ anthropogenic 是人类活动造成的，anthropomorphic 是赋予非人事物�
 
 ## 词形与演化规律
 
-anthropo- + -genic → anthropogenic；anthropo- + morph- 形态 + -ic → anthropomorphic。
+anthropo-（人、人类） + -genic（可表示产生某物、由某物导致或与其起源有关） → anthropogenic；anthropo- + morph- 形态 + -ic（表示“与……有关的”，让这个词可以用来修饰别的事物） → anthropomorphic。
 
 ## 单词速览（按词族由简到繁）
 
@@ -82,7 +82,7 @@ anthropogenic 交代来源，artificial 常强调人工制造、与天然对比�
 
 **怎么拆**
 
-现代可分析 anthropo- 人 + -morphic 形态；历史接较早 anthropomorphous 的词干 + -ic，远源经拉丁语接希腊 anthrōpomorphos。
+现代可分析 anthropo- 人 + -morphic 形态；历史接较早 anthropomorphous 的词干 + -ic（表示“与……有关的”，让这个词可以用来修饰别的事物），远源经拉丁语接希腊 anthrōpomorphos。
 
 **继续看词根／词基**：[morph-](../01_古典词根/2665_morph_C0767.md) · [anthrop-](../01_古典词根/2758_anthrop_C0061.md)
 

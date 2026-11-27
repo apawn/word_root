@@ -77,7 +77,7 @@ finish 可只是活动结束；accomplish 更突出取得预期结果，常带�
 
 **怎么拆**
 
-accomplish + -ed；既是过去分词，也发展为形容词。历史上 accomplish 还有通过教育使人完善、熟练的用法。
+accomplish（完成） + -ed；既是过去分词，也发展为形容词。历史上 accomplish 还有通过教育使人完善、熟练的用法。
 
 **怎么变成今天的意思**
 
@@ -113,7 +113,7 @@ talented 强调有天分；accomplished 强调已经展现出成熟的技艺。
 
 **怎么拆**
 
-accomplish + -ment；英语词源也联系法语 accomplissement，不能排除借入或法语影响。
+accomplish（完成） + -ment（把动作、结果或状态说成名词）；英语词源也联系法语 accomplissement，不能排除借入或法语影响。
 
 **怎么变成今天的意思**
 

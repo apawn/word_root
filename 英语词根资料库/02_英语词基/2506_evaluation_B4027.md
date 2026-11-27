@@ -75,7 +75,7 @@ assessment 和 evaluation 常重叠；evaluation 尤其常用于判断价值、�
 
 **怎么拆**
 
-re- 再、重新 + evaluation；里面 evaluate 联系 value 价值，-ation 把评估动作名词化。连续两个 e 分属 re- 和 evaluation。
+re- 再、重新 + evaluation（评估）；里面 evaluate 联系 value 价值，-ation 把评估动作名词化。连续两个 e 分属 re- 和 evaluation。
 
 **怎么变成今天的意思**
 

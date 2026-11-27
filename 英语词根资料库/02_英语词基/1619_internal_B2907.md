@@ -84,7 +84,7 @@ internal 对 external 内部与外部；international 国际的含 inter- 国家
 
 **怎么拆**
 
-internal + -ly，副词接身体、组织、心中等不同内部范围，不把每次内部都当一个器官。
+internal（内部） + -ly（把性质用来说明方式、程度或说话的角度），副词接身体、组织、心中等不同内部范围，不把每次内部都当一个器官。
 
 **怎么变成今天的意思**
 
@@ -131,7 +131,7 @@ internally 在内部，internationally 在国际上；两词很长也不能只�
 
 **怎么拆**
 
-internal + -ize，使进入内部、成为内在的一部分。英式也见 internalise；具体是学习规则还是把情绪往心里吞，要看对象。
+internal + -ize（使成为，或按这种方式处理），使进入内部、成为内在的一部分。英式也见 internalise；具体是学习规则还是把情绪往心里吞，要看对象。
 
 **怎么变成今天的意思**
 
@@ -173,7 +173,7 @@ internalize 常不止 memorize 记住，还涉及变成习惯、理解；interna
 
 **怎么拆**
 
-internal + -ization，或对应 internalize 的动作名词，形成过程、结果名称。不要把内化直接理解成把一件实物搬进内脏。
+internal + -ization（把变化或处理写成过程、结果的名称），或对应 internalize 的动作名词，形成过程、结果名称。不要把内化直接理解成把一件实物搬进内脏。
 
 **怎么变成今天的意思**
 

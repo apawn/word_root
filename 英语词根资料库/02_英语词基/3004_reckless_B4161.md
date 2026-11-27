@@ -14,7 +14,7 @@ reckless → recklessly、recklessness，从性质到动作方式，再到整体
 
 ## 词形与演化规律
 
-reck + -less → reckless；-ly 方式；-ness 性质，-less + -ness 两层后缀。
+reck + -less（缺少前面说的东西） → reckless；-ly 方式；-ness 性质，-less + -ness 两层后缀。
 
 ## 单词速览（按词族由简到繁）
 
@@ -82,7 +82,7 @@ reckless 是做法的性质，recklessly 把这种不顾危险的劲头放进具
 
 **怎么拆**
 
-承古英语、英语中古阶段的对应副词，现代可拆 reckless + -ly。方式副词承接不顾后果的负面评价。
+承古英语、英语中古阶段的对应副词，现代可拆 reckless（鲁莽） + -ly（把性质用来说明方式、程度或说话的角度）。方式副词承接不顾后果的负面评价。
 
 **怎么变成今天的意思**
 
@@ -124,7 +124,7 @@ quickly 只说快，recklessly 评价考虑后果不足；快不一定鲁莽，�
 
 **怎么拆**
 
-承古英语 recelasnes、中古英语相应名词，现代对应 reckless + -ness。-less 与 -ness 各有作用：先是否定顾虑，再把整个性质名词化。
+承古英语 recelasnes、中古英语相应名词，现代对应 reckless（鲁莽） + -ness（把前面的性质当作一种状态来说）。-less 与 -ness 各有作用：先是否定顾虑，再把整个性质名词化。
 
 **怎么变成今天的意思**
 

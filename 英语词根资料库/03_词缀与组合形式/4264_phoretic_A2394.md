@@ -41,3 +41,5 @@ From the adjective phoretic.
 **词源与演化**：
 
 From electro- + -phoretic.
+
+electro-（电、电的作用） + -phoretic

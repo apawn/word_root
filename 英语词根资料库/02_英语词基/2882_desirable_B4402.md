@@ -14,7 +14,7 @@ desirable → desirability；undesirable 是不合意的。
 
 ## 词形与演化规律
 
-desire 去 e + -able → desirable；-able 对应 -ability；un- 否定。
+desire 去 e + -able（能这样做，或能被这样对待） → desirable；-able 对应 -ability；un- 否定。
 
 ## 单词速览（按词族由简到繁）
 
@@ -40,7 +40,7 @@ desire 去 e + -able → desirable；-able 对应 -ability；un- 否定。
 
 **怎么拆**
 
-借古法语 desirable，现代对应 desire 去 e + -able。历史上不只是先有现代英语 desire，再当场加尾巴。
+借古法语 desirable，现代对应 desire 去 e + -able（能这样做，或能被这样对待）。历史上不只是先有现代英语 desire，再当场加尾巴。
 
 **怎么变成今天的意思**
 
@@ -82,7 +82,7 @@ desirable 可取、受欢迎，desired 实际被希望、指定要的；人想�
 
 **怎么拆**
 
-desirable + -ity，词尾 -able 在相应名词里变为 -ability；不是保留整个 -able 后再机械接 ity。
+desirable（可取） + -ity（把“怎样的”变成“这种性质、状态或程度”），词尾 -able 在相应名词里变为 -ability；不是保留整个 -able 后再机械接 ity。
 
 **怎么变成今天的意思**
 
@@ -124,7 +124,7 @@ desirability 想要、可取的程度，availability 能否获得；很想要也
 
 **怎么拆**
 
-un- 否定 + desirable 合意、值得追求的。原词来自 desire 去 e + -able。
+un- 否定 + desirable 合意、值得追求的。原词来自 desire 去 e + -able（能这样做，或能被这样对待）。
 
 **怎么变成今天的意思**
 

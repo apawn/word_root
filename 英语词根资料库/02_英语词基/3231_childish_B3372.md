@@ -14,7 +14,7 @@ childish → childishly、childishness，性质、方式和行为。
 
 ## 词形与演化规律
 
-child + -ish → childish；-ly 方式；-ness 性质、行为。
+child + -ish（有点像、带有那种特点，也用来表示归属） → childish；-ly 方式；-ness 性质、行为。
 
 ## 单词速览（按词族由简到繁）
 
@@ -40,7 +40,7 @@ child + -ish → childish；-ly 方式；-ness 性质、行为。
 
 **怎么拆**
 
-child + -ish，古英语已有 ċildisċ。-ish 表带某种特征；现代说成年人的 childish behaviour 通常带不成熟的批评。
+child + -ish（有点像、带有那种特点，也用来表示归属），古英语已有 ċildisċ。-ish 表带某种特征；现代说成年人的 childish behaviour 通常带不成熟的批评。
 
 **怎么变成今天的意思**
 
@@ -87,7 +87,7 @@ childish 描写做法幼稚，childishness 则把那种不成熟的劲头单独�
 
 **怎么拆**
 
-childish + -ness → childishness，中古英语已有相应名词。先由 child 加 -ish 成性质，再由 -ness 成名词。
+childish（孩子气） + -ness（把前面的性质当作一种状态来说） → childishness，中古英语已有相应名词。先由 child 加 -ish 成性质，再由 -ness 成名词。
 
 **怎么变成今天的意思**
 
@@ -129,7 +129,7 @@ childishness 评价性质，childhood 是人生阶段；儿童也可以成熟处
 
 **怎么拆**
 
-childish + -ly → childishly，保留 sh。现代常接不成熟评价，也可随描写语境保留较中性的孩子气。
+childish（孩子气） + -ly（把性质用来说明方式、程度或说话的角度） → childishly，保留 sh。现代常接不成熟评价，也可随描写语境保留较中性的孩子气。
 
 **怎么变成今天的意思**
 

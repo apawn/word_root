@@ -38,7 +38,7 @@ statute 对应 statutory 的关系形容词，历史接拉丁 statu- 等法令�
 
 **怎么拆**
 
-statute + -ory；去末尾不发音的 e 后接后缀。不是 statue“雕像”的形容词。
+statute（成文法规） + -ory；去末尾不发音的 e 后接后缀。不是 statue“雕像”的形容词。
 
 **怎么变成今天的意思**
 

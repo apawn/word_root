@@ -49,6 +49,8 @@ direction + -al/-less；mis-/re- + direction。
 
 古法语 direccion 与拉丁语 directio 的借入，来自 dirigere；现代可与 direct 配套理解，但名词有自己的历史路线。
 
+拉丁语 dī- 在这里带分开、定向的意思，regere 是“引导、使直”。复合后可以看到 -rig-，分词 dīrectus 又保留了 -rect-。这解释了为什么“引导”一族里既有 rig 也有 rect。
+
 **怎么变成今天的意思**
 
 **拉丁语：regere**  
@@ -99,7 +101,9 @@ instruction 常是一条要求或指令；directions 常给出完成事情的步
 
 **怎么拆**
 
-direction + -s，/n/ 后读 /z/。direction 经法语 direccion 和拉丁 directio 的借入路线接 dirigere 引导、使直；名词有自己的历史。
+direction（方向） + -s（表示不止一个），/n/ 后读 /z/。direction 经法语 direccion 和拉丁 directio 的借入路线接 dirigere 引导、使直；名词有自己的历史。
+
+拉丁语 dī- 在这里带分开、定向的意思，regere 是“引导、使直”。复合后可以看到 -rig-，分词 dīrectus 又保留了 -rect-。这解释了为什么“引导”一族里既有 rig 也有 rect。
 
 **怎么变成今天的意思**
 
@@ -141,7 +145,9 @@ directions 是怎么走、怎么做的指示；an address 是目的地地址。�
 
 **怎么拆**
 
-direction + -al。
+direction（方向） + -al（形容词词尾，表示与前面的事物有关）。
+
+拉丁语 dī- 在这里带分开、定向的意思，regere 是“引导、使直”。复合后可以看到 -rig-，分词 dīrectus 又保留了 -rect-。这解释了为什么“引导”一族里既有 rig 也有 rect。
 
 **怎么变成今天的意思**
 
@@ -198,7 +204,7 @@ direct 表示直接或引导；directional 说明方向特性。
 
 **怎么拆**
 
-direction + -less，否定方向、目标或指引。不是说一个物体在空间完全不存在任何朝向。
+direction（方向） + -less（缺少前面说的东西），否定方向、目标或指引。不是说一个物体在空间完全不存在任何朝向。
 
 **怎么变成今天的意思**
 
@@ -240,7 +246,9 @@ directionless 没方向、目标，lost 可迷路、失去方向感；暂时不�
 
 **怎么拆**
 
-mis- + direction，表示方向或引导出了错。
+mis-（做错、做得不当） + direction，表示方向或引导出了错。
+
+拉丁语 dī- 在这里带分开、定向的意思，regere 是“引导、使直”。复合后可以看到 -rig-，分词 dīrectus 又保留了 -rect-。这解释了为什么“引导”一族里既有 rig 也有 rect。
 
 **怎么变成今天的意思**
 
@@ -298,6 +306,8 @@ distraction 只需吸引走注意力；misdirection 更强调把注意力导到�
 **怎么拆**
 
 re- + direction；现代也与 redirect 对应。不要误读成 red + direction。
+
+拉丁语 dī- 在这里带分开、定向的意思，regere 是“引导、使直”。复合后可以看到 -rig-，分词 dīrectus 又保留了 -rect-。这解释了为什么“引导”一族里既有 rig 也有 rect。
 
 **怎么变成今天的意思**
 

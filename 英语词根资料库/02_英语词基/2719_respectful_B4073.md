@@ -41,7 +41,7 @@ respectful 描述你的态度：认真听别人说话，不随意踩过别人的
 
 **怎么拆**
 
-respect + -ful，把“尊重”变成表现出这种态度的形容词。
+respect（尊重） + -ful（带有、充满这种特点），把“尊重”变成表现出这种态度的形容词。
 
 **怎么变成今天的意思**
 
@@ -77,7 +77,7 @@ respectful 是态度，respectable 是值得尊重或体面；respective 是各�
 
 **怎么拆**
 
-respectful + -ly，形成方式副词；-ful 自身一个 l，接 -ly 后拼成 -fully。
+respectful（恭敬） + -ly（把性质用来说明方式、程度或说话的角度），形成方式副词；-ful 自身一个 l，接 -ly 后拼成 -fully。
 
 **怎么变成今天的意思**
 
@@ -119,7 +119,7 @@ respectfully 不等于 respectively 分别地；一个说尊重的方式，一�
 
 **怎么拆**
 
-dis- 否定、缺乏 + respectful；也能与 disrespect 不尊重 + -ful 的词族关系一起理解。
+dis- 否定、缺乏 + respectful（尊重人）；也能与 disrespect 不尊重 + -ful 的词族关系一起理解。
 
 **怎么变成今天的意思**
 

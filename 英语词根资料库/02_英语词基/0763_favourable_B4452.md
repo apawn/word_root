@@ -187,7 +187,7 @@ favorite 最喜欢的，favorable 有利、赞同的；a favorite review 你最�
 
 **怎么拆**
 
-favorite + -s，/t/ 后读 /s/。favorite 经法语、意大利语受偏爱词族传入，和 favor 好感、支持同族；英式通常写 favourites。
+favorite + -s（表示不止一个），/t/ 后读 /s/。favorite 经法语、意大利语受偏爱词族传入，和 favor 好感、支持同族；英式通常写 favourites。
 
 **怎么变成今天的意思**
 
@@ -229,7 +229,7 @@ favorites 可以指自己最喜欢的，也可指大家预测会获胜的热门�
 
 **怎么拆**
 
-接法语 favorable、拉丁 favorabilis，与 favor 赞同、善意等材料相连。现代可对照 favor + -able；与 favourable 同词，不是 -able 每次都机械译成能够被偏爱。
+接法语 favorable、拉丁 favorabilis，与 favor 赞同、善意等材料相连。现代可对照 favor + -able（能这样做，或能被这样对待）；与 favourable 同词，不是 -able 每次都机械译成能够被偏爱。
 
 **怎么变成今天的意思**
 
@@ -439,7 +439,7 @@ unfavorable 不总等于 impossible 不可能；它说条件、评价偏不利�
 
 **怎么拆**
 
-un- 不 + favourable，和 unfavorable 是同词的拼写对应；否定的是有利、赞成等性质，不是给 u 单独赋一个否定义。
+un- 不 + favourable（赞成），和 unfavorable 是同词的拼写对应；否定的是有利、赞成等性质，不是给 u 单独赋一个否定义。
 
 **怎么变成今天的意思**
 
@@ -481,7 +481,7 @@ unfavourable 与 unfair 不公平不同；结果对某人不利，并不自动�
 
 **怎么拆**
 
-favor + -ed → favored，-ed 读 /d/；英式常见 favoured。favor 经法语 favor、favorer 等远接拉丁 favor、favere 善意、支持的词族。
+favor（偏爱） + -ed → favored，-ed 读 /d/；英式常见 favoured。favor 经法语 favor、favorer 等远接拉丁 favor、favere 善意、支持的词族。
 
 **怎么变成今天的意思**
 
@@ -523,7 +523,7 @@ favored 常说得到偏爱或优势的一方；favorable、favourable 常说有�
 
 **怎么拆**
 
-favor + -s → favors，-s 读 /z/；英式常见 favours。名词经法语 favor 接拉丁 favor 善意、偏向；动词还接法语 favorer 的相关词形。
+favor + -s（这里既有名词复数用法，也有动词第三人称单数用法） → favors，-s 读 /z/；英式常见 favours。名词经法语 favor 接拉丁 favor 善意、偏向；动词还接法语 favorer 的相关词形。
 
 **怎么变成今天的意思**
 

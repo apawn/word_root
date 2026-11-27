@@ -15,7 +15,7 @@ secondary → secondarily；postsecondary 接在中等教育之后。
 
 ## 词形与演化规律
 
-secundus → secundārius → secondary；secondary → secondarily；post- + secondary → postsecondary。
+secundus → secundārius → secondary；secondary → secondarily；post-（在……之后） + secondary → postsecondary。
 
 ## 单词速览（按词族由简到繁）
 

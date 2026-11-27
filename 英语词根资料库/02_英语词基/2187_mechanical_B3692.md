@@ -15,7 +15,7 @@ mechanical → mechanically；bio-/electro- 指生物力学、机电结合。
 
 ## 词形与演化规律
 
-mechanic 旧器械相关形容词 + -al → mechanical；接 -ly；bio-/electro- + mechanical。
+mechanic 旧器械相关形容词 + -al（形容词词尾，表示与前面的事物有关） → mechanical；接 -ly；bio-/electro- + mechanical。
 
 ## 单词速览（按词族由简到繁）
 
@@ -42,7 +42,7 @@ mechanic 旧器械相关形容词 + -al → mechanical；接 -ly；bio-/electro-
 
 **怎么拆**
 
-中古英语 mechanic + -al；接的是与器械、手艺相关的形容词支线，不是先有现代汽车修理工再变形。
+中古英语 mechanic + -al（形容词词尾，表示与前面的事物有关）；接的是与器械、手艺相关的形容词支线，不是先有现代汽车修理工再变形。
 
 **怎么变成今天的意思**
 
@@ -89,7 +89,7 @@ mechanical 常说机器部件和物理运动；mechanistic 常说用机制解释
 
 **怎么拆**
 
-mechanical + -ly，拼写为 mechanically，常用读音不逐个展开全部字母。
+mechanical（机械） + -ly，拼写为 mechanically，常用读音不逐个展开全部字母。
 
 **怎么变成今天的意思**
 

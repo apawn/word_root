@@ -14,7 +14,7 @@ survival → survivalist；survivor 幸存者另按经历理解。
 
 ## 词形与演化规律
 
-survive → survival；survival + -ist。
+survive → survival；survival + -ist（从事这种活动、研究这门学问或持这种主张的人）。
 
 ## 单词速览（按词族由简到繁）
 
@@ -39,7 +39,7 @@ survive → survival；survival + -ist。
 
 **怎么拆**
 
-英语 survive + -al，行为、结果名词。不是直接借一个拉丁 survival。
+英语 survive（生存） + -al（把做一件事或它的结果说成名词），行为、结果名词。不是直接借一个拉丁 survival。
 
 **怎么变成今天的意思**
 
@@ -91,7 +91,7 @@ survivor 是幸存者；survival 是幸存、生存这件事。
 
 **怎么拆**
 
-survival 生存 + -ist，从事者、相应主张者。不是 survivor 幸存者再加几个字母：survivor 侧重已经活过某次经历的人。
+survival 生存 + -ist（从事这种活动、研究这门学问或持这种主张的人），从事者、相应主张者。不是 survivor 幸存者再加几个字母：survivor 侧重已经活过某次经历的人。
 
 **怎么变成今天的意思**
 

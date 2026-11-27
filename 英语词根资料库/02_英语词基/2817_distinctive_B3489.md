@@ -87,7 +87,7 @@ unique 严格说独一无二；distinctive 只要求足够有特点。distinct �
 
 **怎么拆**
 
-distinctive + -ly，英语副词；不是 distinct + -ly 的另一种拼法。
+distinctive（有特色） + -ly（把性质用来说明方式、程度或说话的角度），英语副词；不是 distinct + -ly 的另一种拼法。
 
 **怎么变成今天的意思**
 
@@ -139,7 +139,7 @@ distinctly 意为清楚或明显；distinctively 意为有可识别的特色。�
 
 **怎么拆**
 
-distinctive + -ness，英语性质名词；不是“区别这件事”，而是具有特色的程度或性质。
+distinctive + -ness（把前面的性质当作一种状态来说），英语性质名词；不是“区别这件事”，而是具有特色的程度或性质。
 
 **怎么变成今天的意思**
 

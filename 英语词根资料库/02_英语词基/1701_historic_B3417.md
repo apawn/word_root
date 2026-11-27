@@ -15,7 +15,7 @@ historic → historically、prehistoric；historicity 问真实性及历史形�
 
 ## 词形与演化规律
 
-希腊、拉丁历史词族经法语英语 → historic；historic + -ally；pre- + historic；historicité 等 → historicity。
+希腊、拉丁历史词族经法语英语 → historic；historic + -ally；pre-（在……之前、预先） + historic；historicité 等 → historicity。
 
 ## 单词速览（按词族由简到繁）
 
@@ -89,7 +89,7 @@ historic 常带重要、值得铭记的评价；historical 通常只说与过去
 
 **怎么拆**
 
-historical + -ly，形成副词；-ically 的常见读音不必把每个字母各读成一拍。
+historical（历史） + -ly（把性质用来说明方式、程度或说话的角度），形成副词；-ically 的常见读音不必把每个字母各读成一拍。
 
 **怎么变成今天的意思**
 
@@ -141,7 +141,7 @@ historically 通常说明历史角度、过去情况；不等于 historic 所带
 
 **怎么拆**
 
-可能经法语 historicité，或由拉丁 historicus 接 -ity 等形成；现代可对照 historic + -ity。不是 historic 意义重大这一义机械变成重大程度。
+可能经法语 historicité，或由拉丁 historicus 接 -ity 等形成；现代可对照 historic + -ity（把“怎样的”变成“这种性质、状态或程度”）。不是 historic 意义重大这一义机械变成重大程度。
 
 **怎么变成今天的意思**
 
@@ -183,7 +183,7 @@ historicity 常问是否有史实依据，不等于 historical importance 历史
 
 **怎么拆**
 
-英语 pre- + historic；historic 最终联系希腊语 historia“调查、记述”。这里的“历史以前”以书面记录为分界。
+英语 pre-（在……之前、预先） + historic；historic 最终联系希腊语 historia“调查、记述”。这里的“历史以前”以书面记录为分界。
 
 **怎么变成今天的意思**
 

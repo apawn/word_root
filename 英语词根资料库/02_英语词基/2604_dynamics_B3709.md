@@ -43,7 +43,7 @@ dynamics 联系希腊 dynamis 力量的科学命名。thermodynamics 谈热与�
 
 **怎么拆**
 
-学科词采用 dynam- + -ics，并参照法语 dynamique。英语 dynamics 的记录早于常见形容词 dynamic 的记录，因此不能把两者真实历史简化为给现代形容词加 s。
+学科词采用 dynam- + -ics（用来给一门学科或一类活动命名），并参照法语 dynamique。英语 dynamics 的记录早于常见形容词 dynamic 的记录，因此不能把两者真实历史简化为给现代形容词加 s。
 
 **怎么变成今天的意思**
 
@@ -94,7 +94,7 @@ a dynamic 可指某一种互动模式；dynamics 常看整套作用关系。音�
 
 **怎么拆**
 
-接较早的 thermodynamic，以学科词尾 -ics 形成 thermodynamics；构件可看作 thermo- + dynamics。名称虽有 -s，作学科通常用单数动词。
+接较早的 thermodynamic，以学科词尾 -ics 形成 thermodynamics；构件可看作 thermo-（热、温度） + dynamics。名称虽有 -s，作学科通常用单数动词。
 
 **怎么变成今天的意思**
 

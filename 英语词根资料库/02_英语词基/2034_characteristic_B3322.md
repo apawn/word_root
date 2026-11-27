@@ -44,7 +44,7 @@ character 与 istic 的构成对应希腊模型，英语名词、形容词很早
 
 **怎么拆**
 
-与希腊 kharakteristikos 等形式相连，可表面分析 character + -istic；不是一律只指小说角色的性质。character 更早有刻痕、独特标记的背景。
+与希腊 kharakteristikos 等形式相连，可表面分析 character + -istic（具有这种做法、学说或人的特点）；不是一律只指小说角色的性质。character 更早有刻痕、独特标记的背景。
 
 **怎么变成今天的意思**
 
@@ -86,7 +86,7 @@ characteristic 常说典型、能体现特征，不保证这个特点全世界�
 
 **怎么拆**
 
-characteristic + -s，/k/ 后读 /s/。character + -istic 的构成以希腊 kharaktēristikos 等为模型，较早 character 接刻痕、独特标记的词史；英语名词、形容词很早都存在。
+characteristic（特征） + -s（表示不止一个），/k/ 后读 /s/。character + -istic 的构成以希腊 kharaktēristikos 等为模型，较早 character 接刻痕、独特标记的词史；英语名词、形容词很早都存在。
 
 **怎么变成今天的意思**
 
@@ -128,7 +128,7 @@ characteristic 作形容词是特有的，characteristics 是特点名词复数�
 
 **怎么拆**
 
-characteristic + -ally，形成方式、典型表现副词；-ically 常压缩读 /ɪkli/。
+characteristic（典型） + -ally（在许多 -ic 词后与 -al、-ly 的副词构形相连，把性质转成做事的方式或角度），形成方式、典型表现副词；-ically 常压缩读 /ɪkli/。
 
 **怎么变成今天的意思**
 

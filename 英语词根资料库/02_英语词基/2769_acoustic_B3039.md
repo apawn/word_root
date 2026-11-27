@@ -83,7 +83,7 @@ an acoustic guitar；acoustic treatment；acoustic properties。
 
 **怎么拆**
 
-acoustic + -s；学科名的 -s 类似 physics 等。空间声音特性义通常按复数性质使用。
+acoustic（声音） + -s；学科名的 -s 类似 physics 等。空间声音特性义通常按复数性质使用。
 
 **怎么变成今天的意思**
 
@@ -130,7 +130,7 @@ acoustics is ...〔学科〕；the acoustics are ...〔场所效果〕。
 
 **怎么拆**
 
-acoustic + -al，形成扩展形容词；与 acoustic 在听觉、声学性质上常同义。
+acoustic + -al（形容词词尾，表示与前面的事物有关），形成扩展形容词；与 acoustic 在听觉、声学性质上常同义。
 
 **怎么变成今天的意思**
 
@@ -177,7 +177,7 @@ acoustical design；acoustical engineering。
 
 **怎么拆**
 
-acoustic + -ally，或 acoustical + -ly；-ically 通常读 /ɪkli/，形成角度、方式副词。
+acoustic（声音） + -ally，或 acoustical（声学） + -ly；-ically 通常读 /ɪkli/，形成角度、方式副词。
 
 **怎么变成今天的意思**
 

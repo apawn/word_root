@@ -42,7 +42,7 @@ technical + -ly/-ity；geo- + technical，geo- 表地球、岩土等领域背景
 
 **怎么拆**
 
-英语 technic + -al，technic 来自拉丁语 technicus、希腊语 tekhnikos；部分形成也受拉丁化希腊词直接影响。
+英语 technic + -al（形容词词尾，表示与前面的事物有关），technic 来自拉丁语 technicus、希腊语 tekhnikos；部分形成也受拉丁化希腊词直接影响。
 
 **怎么变成今天的意思**
 
@@ -89,7 +89,7 @@ technological 更突出技术体系、技术发展；technical 还可涉及音�
 
 **怎么拆**
 
-technical + -ly；形容词词尾 -al 与副词 -ly 组合，形成 -ally。
+technical（技术） + -ly；形容词词尾 -al 与副词 -ly 组合，形成 -ally。
 
 **怎么变成今天的意思**
 
@@ -141,7 +141,7 @@ technologically 常说借助何种技术或技术发展程度；technically 也�
 
 **怎么拆**
 
-technical + -ity，重音转到 /kæl/。后缀可把性质变名词，也可命名具体细节；复数 technicalities 常谈一堆专业、程序问题。
+technical（技术） + -ity（把“怎样的”变成“这种性质、状态或程度”），重音转到 /kæl/。后缀可把性质变名词，也可命名具体细节；复数 technicalities 常谈一堆专业、程序问题。
 
 **怎么变成今天的意思**
 

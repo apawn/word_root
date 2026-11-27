@@ -77,7 +77,7 @@ obstructionist 不只是偶尔说“不”，而是被描述为不断拖延、�
 
 **怎么拆**
 
-obstruction + -ist，形成施行某种做法的人，也可转作形容词。
+obstruction（阻挠） + -ist（从事这种活动、研究这门学问或持这种主张的人），形成施行某种做法的人，也可转作形容词。
 
 **怎么变成今天的意思**
 
@@ -113,7 +113,7 @@ opponent 只是反对者；obstructionist 进一步强调使用阻挠手段，�
 
 **怎么拆**
 
-obstruction 阻挠 + -ism，形成做法、倾向名称。obstruction 远接拉丁 obstruere 堵住、筑起阻挡，与 ob-、struere 建造材料相连。
+obstruction 阻挠 + -ism（把观念、做法、现象或状态说成名词），形成做法、倾向名称。obstruction 远接拉丁 obstruere 堵住、筑起阻挡，与 ob-、struere 建造材料相连。
 
 **怎么变成今天的意思**
 

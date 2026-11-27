@@ -92,7 +92,7 @@ know 可以是知道事实，understand 更强调领会意义、原因或处境�
 
 **怎么拆**
 
-understand + -ing；古英语有 understanding 等理解名词与相应分词，中古英语延续。不能因为表面有 under、stand 就编成站在下面所以体谅。
+understand（理解） + -ing；古英语有 understanding 等理解名词与相应分词，中古英语延续。不能因为表面有 under、stand 就编成站在下面所以体谅。
 
 **怎么变成今天的意思**
 
@@ -181,7 +181,7 @@ understood 可作过去式，也可在被动、完成结构里作分词；unders
 
 **怎么拆**
 
-understand + -s，/d/ 后读 /z/。understand 接古英语 understandan，可辨 under- 与 stand 的历史组合；怎样从这个组合发展出理解，具体解释有争议。
+understand（理解） + -s（主语是 he、she、it 这一类单数时，用这个一般现在时词尾），/d/ 后读 /z/。understand 接古英语 understandan，可辨 under- 与 stand 的历史组合；怎样从这个组合发展出理解，具体解释有争议。
 
 **怎么变成今天的意思**
 
@@ -223,7 +223,7 @@ understands 通常不用来表达正在站在下方；现代整词的意思已�
 
 **怎么拆**
 
-understand + -able，中古英语有 understondable 等形式；able 说能够被理解，不表示已经有人表示同意。
+understand（理解） + -able（能这样做，或能被这样对待），中古英语有 understondable 等形式；able 说能够被理解，不表示已经有人表示同意。
 
 **怎么变成今天的意思**
 
@@ -270,7 +270,7 @@ understandable 事情能理解，understanding 人善解人意；an understandab
 
 **怎么拆**
 
-understandable + -ly，词尾 -able 在副词中变为 -ably；不是在 understand 后直接随意加 ably。
+understandable + -ly（把性质用来说明方式、程度或说话的角度），词尾 -able 在副词中变为 -ably；不是在 understand 后直接随意加 ably。
 
 **怎么变成今天的意思**
 
@@ -364,7 +364,7 @@ not understand 是不理解，misunderstand 是理解成了错误的意思。两
 
 **怎么拆**
 
-misunderstand + -ing，表示误解这件事或其结果。
+misunderstand（误解） + -ing，表示误解这件事或其结果。
 
 **怎么变成今天的意思**
 

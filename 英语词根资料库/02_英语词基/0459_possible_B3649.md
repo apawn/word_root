@@ -77,7 +77,7 @@ possibly 像在判断旁边放一个小问号：“有这个可能，但我还�
 
 **怎么拆**
 
-possible + -ly；词尾 -ble 变成 -bly。
+possible（可能） + -ly；词尾 -ble 变成 -bly。
 
 **怎么变成今天的意思**
 
@@ -113,7 +113,7 @@ impossible 像一扇完全关上的门；口语中也会夸张地说“这人真
 
 **怎么拆**
 
-经古法语来自拉丁 impossibilis：否定 in- 在 p 前同化成 im-，加 possibilis；现代清楚对应 im- + possible。
+经古法语来自拉丁 impossibilis：否定 in- 在 p 前同化成 im-，加 possibilis；现代清楚对应 im- + possible（可能）。
 
 **怎么变成今天的意思**
 

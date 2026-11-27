@@ -82,7 +82,7 @@ stubborn 常嫌人不听劝，也能赞顽强坚持；persistent 强调持续，
 
 **怎么拆**
 
-stubborn + -ly → stubbornly，形容词转副词，没有另一个表示躺下的 ly。
+stubborn（固执） + -ly（把性质用来说明方式、程度或说话的角度） → stubbornly，形容词转副词，没有另一个表示躺下的 ly。
 
 **怎么变成今天的意思**
 
@@ -124,7 +124,7 @@ stubborn 描写这个人很倔，stubbornness 把那股“就是不改”的劲�
 
 **怎么拆**
 
-stubborn + -ness → stubbornness，原词末 n 与后缀首 n 接在一起，拼写 nn。名词化的是性质，不是人数。
+stubborn（固执） + -ness（把前面的性质当作一种状态来说） → stubbornness，原词末 n 与后缀首 n 接在一起，拼写 nn。名词化的是性质，不是人数。
 
 **怎么变成今天的意思**
 
